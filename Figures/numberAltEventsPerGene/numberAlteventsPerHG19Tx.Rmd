@@ -1,0 +1,295 @@
+Finding multiple sites of AS per gene
+========================================================
+
+Christian Roy
+2014-03-11 
+
+Purpose - to find the genes with multiple sites of AS
+
+1. Those with >1000 nt between 5´ ends of cassette exons
+2. The number of events, per gene, per transcript, per AS type
+
+### Work prior to R analysis
+
+### Obtaining alternative events per RefSeq gene ###
+
+This document will describe work necessary to obtain a number of alternatively splicing events per UCSC-supplied RefSeq gene
+
+performed on 2014-03-11 
+
+### Obtain UCSC annotations
+
++ Go to the UCSC table browser
++ Download Mammal;Human;hg19;Genes and gene Predictions; RefSeq genes; refGene; genome-wode; BED-browser extensible data; gzip compressed
+    + `hg19.RefSeqGenes.2014-03-11.bed.gz`
+    + Select `Whole Gene` on next page, no header
++ Download Mammal;Human;hg19;Genes and gene Predictions; UCSC Alt events; knownAlt; genome-wode; BED-browser extensible data; gzip compressed
+    + `hg19.altEvents.2014-03-11.bed.gz`
+    + Select `Whole Gene` on next page, no header
++ Also download `hg19.RefGene.2014-03-11.allFields.csv.gz` to get gene names
+    
+### Intersect RefGene with altevents ###
+
+    bedtools intersect \
+        -s -split -wo \
+        -a hg19.altEvents.2014-03-11.bed.gz \
+        -b hg19.RefSeqGenes.2014-03-11.bed.gz |\
+         sort -k 10 > hg19.altEvents_and_Refgene_intersections.NM_sorted.csv
+
+Bring everything into R.
+
+```{r Initilize the enviroment}
+library(sigalphTools)
+```
+
+
+```{r Import Data}
+altEvents.dt <- fread("/Users/royc/Dropbox/Thesis/Figures/01-Introduction/numberAltEventsPerGene/hg19.altEvents_and_Refgene_intersections.NM_sorted.csv",sep="\t",sep2=",")
+
+altEvents.header <- c("altChr",
+                      "altStart",
+                      "altStop",
+                      "altType",
+                      "altVal",
+                      "altStrand",
+                      "refSeqChr",
+                      "refSeqStart",
+                      "refSeqStop",
+                      "refSeqID",
+                      "refSeqVal",
+                      "refSeqStrand",
+                      "refSeqCDSStart",
+                      "refSeqCDSStop",
+                      "refSeqVal2",
+                      "refSeqExonNum",
+                      "refSeqExonSizes",
+                      "refSeqExonStarts",
+                      "alt_RefSeq_overlap_nt")
+
+# Define column names of a data.table object
+setnames(altEvents.dt,colnames(altEvents.dt),altEvents.header)
+
+refSeq.all.dt <- fread("/Users/royc/Dropbox/Thesis/Figures/01-Introduction/numberAltEventsPerGene/hg19.RefGene.2014-03-11.allFields.csv",sep="\t",sep2=",")
+
+colnames(refSeq.all.dt)
+
+refSeq.all.df <- refSeq.all.dt %.%
+  select(name,name2) %.%
+  mutate(refSeqID=name) %.%
+  mutate(geneName=name2) %.% 
+  select(refSeqID,geneName) %.%
+  as.data.frame()
+
+altEvents.df <- as.data.frame(altEvents.dt)
+# Merge to get gene names
+altEvents.df1 <- merge(altEvents.df,refSeq.all.df,by="refSeqID")
+summary(altEvents.df1)
+# Cleanup
+rm (altEvents.df,altEvents.dt,refSeq.all.df,refSeq.all.dt,altEvents.header)
+```
+
+Now lets apply some extra columns to the data
+
+```{r Bed Record Arithmatic and filtering}
+# Use dplyr() 
+altEvents.df1 <- altEvents.df1 %.%
+  # First make a fractional coverage of the alternative event by an exon
+  ## This is based off the `bedtools intersect` reported value
+  mutate(alt_RefSeq_overlap_frac=alt_RefSeq_overlap_nt/(altStop-altStart)) %.%
+  # Now filter for those records where the alt event was complete within an exon
+  filter(alt_RefSeq_overlap_frac==1) 
+  # And filter for cassette exons only!
+ 
+altEvents.df2 <- filter(altEvents.df1,altType=="cassetteExon")
+```
+
+```{r Function Definitions}
+# Define some functions to create transcript Exon start coordinates
+## Takes the csv column from Bed12 and makes a list item
+  makeExonGenoStarts <- function(aCharacterList,aValue) {
+    aNumericList <- as.numeric(
+                        unlist(
+                          strsplit(
+                            aCharacterList,",")
+                          )
+                        )+aValue
+    return(aNumericList)
+    }
+
+# Define some functions to create transcript Exon sizes
+## Takes the csv column from Bed12 and makes a list item
+## Corrects orientiation based on strand!!
+makeExonSizeListStranded <- 
+  function(aCharacterList,Strand) {
+    aNumericList <- as.numeric(
+                        unlist(
+                          strsplit(
+                            aCharacterList,",")
+                          )
+                        )
+    if(Strand=="-"){
+      aNumericList <- rev(aNumericList)
+    } else {
+      aNumericList <- aNumericList }
+    return(aNumericList)
+    }
+```
+
+# Now we will loop through every transcript and apply some arithmatic
+## First we need to create some empty variables
+```{r Looping through data to apply arithmatic and functions}
+exonGenoStarts <- list()
+exonSizesStranded <- list()
+altExonNumber <- list()
+TSS_to_5prime_AS_exon <- 0
+TSS_to_3prime_AS_exon <- 0
+
+# Now we loop through the data for EVERY transcript (variable = `i`)
+for (i in seq(1:nrow(altEvents.df2))) {
+  
+  # Lets start by making a list of all the Genomic Exon Start positions
+  exonGenoStarts[[i]] <- makeExonGenoStarts(altEvents.df2$refSeqExonStarts[i],
+                                            altEvents.df2$refSeqStart[i])
+  # Lets do the same for the Exon Sizes, but correct orrientation based on strand
+  ## This means ALL exons[1] are the FIRST in the transcript, 5´ -> 3´ transcription
+  exonSizesStranded[[i]] <- makeExonSizeListStranded(altEvents.df2$refSeqExonSizes[i],
+                                                altEvents.df2$refSeqStrand[i])
+  
+  # Now lets find out WHICH of the exons corresponds to the alternative one
+  altExonTest <- list()
+  for (j in seq(1:length(exonGenoStarts[[i]]))) {
+      if(exonGenoStarts[[i]][[j]]==altEvents.df2$altStart[i]){
+        altExonTest[[j]] <- 1 # Gets a 1 if it is alternative
+      } else {
+        altExonTest[[j]] <- 0 # Gets a 0 if not
+      }
+    }  
+  altExonNumber[[i]] <- unlist(altExonTest) # Make a list of these values  
+  # Lets correct the orientation of these exons for transciption too, that way
+  ## We can make a length from the beginning of the Tx to the Ased exon.
+  if (altEvents.df2$refSeqStrand[i]=="-"){
+    altExonNumber[[i]] <- rev(altExonNumber[[i]])
+    } else {
+    altExonNumber[[i]] <- altExonNumber[[i]]
+    }
+  
+  # Now we need to make a length from the 5' Tx end to the exon
+  for (k in seq(1:length(exonGenoStarts[[i]]))) {
+    if (altExonNumber[[i]][k] == 1) {
+      TSS_to_5prime_AS_exon[i] <- 
+                      sum(exonSizesStranded[[i]][1:k])
+      TSS_to_3prime_AS_exon[i] <- TSS_to_5prime_AS_exon[i] + 
+                                  exonSizesStranded[[i]][k]
+      } 
+    }  
+}
+rm(i,j,k,altExonTest)
+```
+
+# Here is a list of variables to check - each should be a vector whose
+## Length is equal to the number of records in the `altEvents.df2` data frame
+
+```{r Fun part}
+# Make a copy of the data
+
+altEvents.df3 <- altEvents.df2
+
+library(plyr)
+
+txSize <- unlist(lapply(exonSizesStranded,function(x){unlist(sum(x))}))
+
+
+altEvents.df3$TSS_to_5prime_AS_exon <- TSS_to_5prime_AS_exon
+altEvents.df3$TSS_to_3prime_AS_exon <- TSS_to_3prime_AS_exon
+altEvents.df3$txSize <- txSize
+save.image("Dropbox/Thesis/Figures/01-Introduction/numberAltEventsPerGene/numberASEvents.rda")
+
+# Cleanup
+rm(exonGenoStarts,
+  exonSizesStranded,
+  altExonNumber,
+  TSS_to_5prime_AS_exon,
+  TSS_to_3prime_AS_exon,
+  txSize)
+
+colnames(altEvents.df3)
+
+# We can print out per Transcript
+
+PerTx <-
+  altEvents.df3 %.%
+  filter(TSS_to_5prime_AS_exon!="NA") %.% # Filter for NA| Source???
+  group_by(geneName) %.%
+  group_by(refSeqID) %.%  # Group by Transcript
+  # Arrange by distance of 5´ end of transcript to the 5´ end of Cassette exon
+  arrange(TSS_to_5prime_AS_exon) %.% 
+  # Find the distances between cassette exon 5´ ends
+  mutate(MaxDist = lead(TSS_to_5prime_AS_exon) - TSS_to_5prime_AS_exon) %.% 
+  mutate(NumAltCasExonsPerTx=n()) %.%
+  select(geneName,txSize,refSeqID,NumAltCasExonsPerTx,MaxDist) %.% 
+  # Filter for those genes having >1000 nt between these 3´ and 5´ ends
+  filter(MaxDist > 1000) %.%
+  arrange(desc(MaxDist)) %.%
+  as.data.frame()
+
+# We can print out per gene
+PerGene <-
+  PerTx %.%
+  group_by(geneName) %.%
+  select(geneName,refSeqID,txSize,NumAltCasExonsPerTx,MaxDist) %.%
+  arrange(desc(MaxDist)) %.%  
+  filter(MaxDist==max(MaxDist)) %.%
+  filter(NumAltCasExonsPerTx==max(NumAltCasExonsPerTx)) %.%
+  unique() %.%
+  #head(n=) %.%
+  as.data.frame() %.%
+  mutate(MaxDist=comma(MaxDist),txSize=comma(txSize))
+a <- kable(PerGene)
+write.table(a,"/Users/royc/Dropbox/Thesis/Figures/02-Research\ Chapters/Chapter1-SeqZip/genesWithBigDistancesBetweenASExons.md",quote=FALSE,row.names=FALSE)
+```
+
+# We can also use dplyr to ask more basic questions about number of events per
+# transcript/ per gene
+
+```{r}
+TxWithTwoOrMoreAltTypes <- 
+altEvents.df1 %.%
+  filter(alt_RefSeq_overlap_frac==1) %.% 
+  group_by(altType) %.% 
+  group_by(geneName) %.%   
+  group_by(refSeqID) %.%
+  summarize(numFeatures=n()) %.%
+  filter(numFeatures>2) %.%
+  as.data.table() %.% # Here I have Transcripts per Gene with >2 events per event type
+  group_by(geneName) %.%
+  summarize(TranscriptsWithAltType=n()) %.% # Here I have Number of transcripts per gene with >2 events per gene
+  group_by(altType) %.%
+  summarize(NumberOfTranscripts=sum(TranscriptsWithAltType)) 
+```
+
+### Graph showing number of AS types per gene
+```{r ASEventTypes}
+ASPerGene <- altEvents.df1 %.%
+  select(geneName,altType,altChr,altStart,altStop) %.% unique()
+
+
+ASTypeCounts <- ASPerGene %.%
+        group_by(altType) %.%
+        summarize(NumEvents=n()) %.%
+        arrange(desc(NumEvents)) %.%
+        as.data.frame()
+
+ASTypeCounts$altType <- factor(ASTypeCounts$altType,ASTypeCounts$altType)
+
+ASEventTypesPlot <- ggplot(ASTypeCounts,
+       aes(altType,NumEvents)
+       ) + geom_bar(stat="identity") +
+  scale_y_continuous(labels=comma) +
+  labs(#title="Number of `hg19` Alternative Event types per gene\n RefSeq on 2014-03-24",
+      x="Alternative Splicing Type",
+      y="Number of Events per Gene") +
+  theme_bw()
+ASEventTypesPlot 
+ggsave(filename="Figures/01-Introduction/ASEventTypesPlot.pdf",plot=ASEventTypesPlot,
+       width=6,height=2,scale=2)
+```

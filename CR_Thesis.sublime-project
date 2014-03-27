@@ -1,0 +1,39 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.idv",
+				"*.ig",
+				"*-project",
+				"*-workspace",
+				"*css",
+				"*dvi",
+				"*lof",
+				"*log",
+				"*bbl",
+				"*aux",
+				"*4tc",
+				"*4ct",
+				"*lot",
+				"*blg",
+				"*out",
+				"*tmp",
+				"*toc",
+				"*xref",
+				"*latexmk",
+				"*lg",
+				"*synctex.gz",
+				"*sty",
+				".*"
+			],
+			"folder_exclude_patterns":
+			[
+				"ZZ_Master*"
+			],
+			"path": "/Users/royc/Dropbox/Thesis"
+		}
+	],
+	"spell_check": true
+}

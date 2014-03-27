@@ -1,0 +1,454 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Roach et~al.(1995)Roach, Boysen, Wang, Hood, and Wang]{Roach1995}
+JC~Jared~C Roach, Cecilie Boysen, K~Wang, Leroy Hood, and I~K A~I Wang.
+\newblock {Pairwise End Sequencing: A unified approach to genomic mapping and
+  sequencing}.
+\newblock \emph{Genomics}, 353:\penalty0 345--353, 1995.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/088875439580219C}.
+
+\bibitem[Shingleton et~al.(2003)Shingleton, Sisk, and Stern]{Shingleton2003}
+AW~Shingleton, GC~Sisk, and DL~Stern.
+\newblock {Diapause in the pea aphid (Acyrthosiphon pisum) is a slowing but not
+  a cessation of development}.
+\newblock \emph{BMC developmental biology}, 12:\penalty0 1--12, 2003.
+\newblock URL \url{http://www.biomedcentral.com/1471-213X/3/7}.
+
+\bibitem[Purandare et~al.(2014)Purandare, Tenhumberg, and
+  Brisson]{Purandare2014b}
+Swapna~R. Purandare, Brigitte Tenhumberg, and Jennifer~a. Brisson.
+\newblock {Comparison of the wing polyphenic response of pea aphids (
+  Acyrthosiphon pisum ) to crowding and predator cues}.
+\newblock \emph{Ecological Entomology}, 39\penalty0 (2):\penalty0 263--266,
+  April 2014.
+\newblock ISSN 03076946.
+\newblock \doi{10.1111/een.12080}.
+\newblock URL \url{http://doi.wiley.com/10.1111/een.12080}.
+
+\bibitem[Watson and Crick(1953)]{Watson1953a}
+James D.~JD Watson and FHC Crick.
+\newblock {Molecular structure of nucleic acids}.
+\newblock \emph{Nature}, 4356\penalty0 (171):\penalty0 737--738, 1953.
+\newblock URL \url{http://www.nature.com/physics/looking-back/crick/
+  www.nature.com+171737a0.pdf}.
+
+\bibitem[Watson et~al.(2012)Watson, Gann, and Witkowski]{Watson2012a}
+James~D. Watson, Alexander Gann, and Jan Witkowski.
+\newblock \emph{{The Annotated and Illustrated Double Helix}}.
+\newblock Simon \& Schuster, 2012.
+\newblock ISBN 1476715491.
+\newblock URL
+  \url{http://www.amazon.com/The-Annotated-Illustrated-Double-Helix/dp/1476715491}.
+
+\bibitem[Sanger and Coulson(1975)]{Sanger1975a}
+F~Sanger and A~R Coulson.
+\newblock {A rapid method for determining sequences in DNA by primed synthesis
+  with DNA polymerase.}
+\newblock \emph{Journal of molecular biology}, 94\penalty0 (3):\penalty0
+  441--8, May 1975.
+\newblock ISSN 0022-2836.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/1100841}.
+
+\bibitem[Sanger et~al.(1977)Sanger, Nicklen, and Coulson]{Sanger1977b}
+F~Sanger, S~Nicklen, and A~R Coulson.
+\newblock {DNA sequencing with chain-terminating inhibitors.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 74\penalty0 (12):\penalty0 5463--7, December 1977.
+\newblock ISSN 0027-8424.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=431765\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Maxam and Gilbert(1992)]{Maxam1977a}
+A~M Maxam and W~Gilbert.
+\newblock {A new method for sequencing DNA. 1977.}
+\newblock \emph{Biotechnology (Reading, Mass.)}, 24\penalty0 (2):\penalty0
+  99--103, January 1992.
+\newblock ISSN 0740-7378.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/1422074}.
+
+\bibitem[Bell et~al.(1980)Bell, Pictet, Rutter, Cordell, Tischer, and
+  Goodman]{Cordell1980a}
+GI~I Bell, RL~L Pictet, WJ~J Rutter, Barbara Cordell, Edmund Tischer, and
+  Howard~M. Goodman.
+\newblock {Sequence of the human insulin gene.}
+\newblock \emph{Nature}, 284\penalty0 (5751):\penalty0 26--32, March 1980.
+\newblock ISSN 0028-0836.
+\newblock URL \url{http://www2.biglobe.ne.jp/~ashida/bioinfo/data/insdata.pdf
+  http://www.ncbi.nlm.nih.gov/pubmed/6243748}.
+
+\bibitem[Sanger et~al.(1978)Sanger, Coulson, Friedmann, Air, Barrell, Brown,
+  Fiddes, Hutchison, Slocombe, and Smith]{Sanger1978a}
+F~Sanger, A~R Coulson, T~Friedmann, G~M Air, B~G Barrell, N~L Brown, J~C
+  Fiddes, C~A Hutchison, P~M Slocombe, and M~Smith.
+\newblock {The nucleotide sequence of bacteriophage phiX174.}
+\newblock \emph{Journal of molecular biology}, 125\penalty0 (2):\penalty0
+  225--46, October 1978.
+\newblock ISSN 0022-2836.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/731693}.
+
+\bibitem[Benson et~al.(2011)Benson, Karsch-Mizrachi, Lipman, Ostell, and
+  Sayers]{Benson2011a}
+Dennis~a Benson, Ilene Karsch-Mizrachi, David~J Lipman, James Ostell, and
+  Eric~W Sayers.
+\newblock {GenBank.}
+\newblock \emph{Nucleic acids research}, 39\penalty0 (Database issue):\penalty0
+  D32--7, January 2011.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkq1079}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3013681\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Lander(2011)]{Lander2011a}
+Eric~S Lander.
+\newblock {Initial impact of the sequencing of the human genome.}
+\newblock \emph{Nature}, 470\penalty0 (7333):\penalty0 187--97, February 2011.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature09792}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/21307931}.
+
+\bibitem[Venter et~al.(2001)Venter, Adams, Myers, Li, Mural, Sutton, Smith,
+  Yandell, Evans, Holt, Gocayne, Amanatides, Ballew, Huson, Wortman, Zhang,
+  Kodira, Zheng, Chen, Skupski, Subramanian, Thomas, Zhang, {Gabor Miklos},
+  Nelson, Broder, Clark, Nadeau, McKusick, Zinder, Levine, Roberts, Simon,
+  Slayman, Hunkapiller, Bolanos, Delcher, Dew, Fasulo, Flanigan, Florea,
+  Halpern, Hannenhalli, Kravitz, Levy, Mobarry, Reinert, Remington,
+  Abu-Threideh, Beasley, Biddick, Bonazzi, Brandon, Cargill,
+  Chandramouliswaran, Charlab, Chaturvedi, Deng, {Di Francesco}, Dunn, Eilbeck,
+  Evangelista, Gabrielian, Gan, Ge, Gong, Gu, Guan, Heiman, Higgins, Ji, Ke,
+  Ketchum, Lai, Lei, Li, Li, Liang, Lin, Lu, Merkulov, Milshina, Moore, Naik,
+  Narayan, Neelam, Nusskern, Rusch, Salzberg, Shao, Shue, Sun, Wang, Wang,
+  Wang, Wang, Wei, Wides, Xiao, Yan, Yao, Ye, Zhan, Zhang, Zhang, Zhao, Zheng,
+  Zhong, Zhong, Zhu, Zhao, Gilbert, Baumhueter, Spier, Carter, Cravchik,
+  Woodage, Ali, An, Awe, Baldwin, Baden, Barnstead, Barrow, Beeson, Busam,
+  Carver, Center, Cheng, Curry, Danaher, Davenport, Desilets, Dietz, Dodson,
+  Doup, Ferriera, Garg, Gluecksmann, Hart, Haynes, Haynes, Heiner, Hladun,
+  Hostin, Houck, Howland, Ibegwam, Johnson, Kalush, Kline, Koduru, Love, Mann,
+  May, McCawley, McIntosh, McMullen, Moy, Moy, Murphy, Nelson, Pfannkoch,
+  Pratts, Puri, Qureshi, Reardon, Rodriguez, Rogers, Romblad, Ruhfel, Scott,
+  Sitter, Smallwood, Stewart, Strong, Suh, Thomas, Tint, Tse, Vech, Wang,
+  Wetter, Williams, Williams, Windsor, Winn-Deen, Wolfe, Zaveri, Zaveri, Abril,
+  Guig\'{o}, Campbell, Sjolander, Karlak, Kejariwal, Mi, Lazareva, Hatton,
+  Narechania, Diemer, Muruganujan, Guo, Sato, Bafna, Istrail, Lippert,
+  Schwartz, Walenz, Yooseph, Allen, Basu, Baxendale, Blick, Caminha,
+  Carnes-Stine, Caulk, Chiang, Coyne, Dahlke, Mays, Dombroski, Donnelly, Ely,
+  Esparham, Fosler, Gire, Glanowski, Glasser, Glodek, Gorokhov, Graham,
+  Gropman, Harris, Heil, Henderson, Hoover, Jennings, Jordan, Jordan, Kasha,
+  Kagan, Kraft, Levitsky, Lewis, Liu, Lopez, Ma, Majoros, McDaniel, Murphy,
+  Newman, Nguyen, Nguyen, Nodell, Pan, Peck, Peterson, Rowe, Sanders, Scott,
+  Simpson, Smith, Sprague, Stockwell, Turner, Venter, Wang, Wen, Wu, Wu, Xia,
+  Zandieh, and Zhu]{Venter2001}
+J~C Venter, M~D Adams, E~W Myers, P~W Li, R~J Mural, G~G Sutton, H~O Smith,
+  M~Yandell, C~a Evans, R~a Holt, J~D Gocayne, P~Amanatides, R~M Ballew, D~H
+  Huson, J~R Wortman, Q~Zhang, C~D Kodira, X~H Zheng, L~Chen, M~Skupski,
+  G~Subramanian, P~D Thomas, J~Zhang, G~L {Gabor Miklos}, C~Nelson, S~Broder,
+  a~G Clark, J~Nadeau, V~a McKusick, N~Zinder, a~J Levine, R~J Roberts,
+  M~Simon, C~Slayman, M~Hunkapiller, R~Bolanos, A~Delcher, I~Dew, D~Fasulo,
+  M~Flanigan, L~Florea, A~Halpern, S~Hannenhalli, S~Kravitz, S~Levy, C~Mobarry,
+  K~Reinert, K~Remington, J~Abu-Threideh, E~Beasley, K~Biddick, V~Bonazzi,
+  R~Brandon, M~Cargill, I~Chandramouliswaran, R~Charlab, K~Chaturvedi, Z~Deng,
+  V~{Di Francesco}, P~Dunn, K~Eilbeck, C~Evangelista, a~E Gabrielian, W~Gan,
+  W~Ge, F~Gong, Z~Gu, P~Guan, T~J Heiman, M~E Higgins, R~R Ji, Z~Ke, K~a
+  Ketchum, Z~Lai, Y~Lei, Z~Li, J~Li, Y~Liang, X~Lin, F~Lu, G~V Merkulov,
+  N~Milshina, H~M Moore, a~K Naik, V~a Narayan, B~Neelam, D~Nusskern, D~B
+  Rusch, S~Salzberg, W~Shao, B~Shue, J~Sun, Z~Wang, A~Wang, X~Wang, J~Wang,
+  M~Wei, R~Wides, C~Xiao, C~Yan, A~Yao, J~Ye, M~Zhan, W~Zhang, H~Zhang, Q~Zhao,
+  L~Zheng, F~Zhong, W~Zhong, S~Zhu, S~Zhao, D~Gilbert, S~Baumhueter, G~Spier,
+  C~Carter, A~Cravchik, T~Woodage, F~Ali, H~An, A~Awe, D~Baldwin, H~Baden,
+  M~Barnstead, I~Barrow, K~Beeson, D~Busam, A~Carver, A~Center, M~L Cheng,
+  L~Curry, S~Danaher, L~Davenport, R~Desilets, S~Dietz, K~Dodson, L~Doup,
+  S~Ferriera, N~Garg, A~Gluecksmann, B~Hart, J~Haynes, C~Haynes, C~Heiner,
+  S~Hladun, D~Hostin, J~Houck, T~Howland, C~Ibegwam, J~Johnson, F~Kalush,
+  L~Kline, S~Koduru, A~Love, F~Mann, D~May, S~McCawley, T~McIntosh, I~McMullen,
+  M~Moy, L~Moy, B~Murphy, K~Nelson, C~Pfannkoch, E~Pratts, V~Puri, H~Qureshi,
+  M~Reardon, R~Rodriguez, Y~H Rogers, D~Romblad, B~Ruhfel, R~Scott, C~Sitter,
+  M~Smallwood, E~Stewart, R~Strong, E~Suh, R~Thomas, N~N Tint, S~Tse, C~Vech,
+  G~Wang, J~Wetter, S~Williams, M~Williams, S~Windsor, E~Winn-Deen, K~Wolfe,
+  J~Zaveri, K~Zaveri, J~F Abril, R~Guig\'{o}, M~J Campbell, K~V Sjolander,
+  B~Karlak, A~Kejariwal, H~Mi, B~Lazareva, T~Hatton, A~Narechania, K~Diemer,
+  A~Muruganujan, N~Guo, S~Sato, V~Bafna, S~Istrail, R~Lippert, R~Schwartz,
+  B~Walenz, S~Yooseph, D~Allen, A~Basu, J~Baxendale, L~Blick, M~Caminha,
+  J~Carnes-Stine, P~Caulk, Y~H Chiang, M~Coyne, C~Dahlke, A~Mays, M~Dombroski,
+  M~Donnelly, D~Ely, S~Esparham, C~Fosler, H~Gire, S~Glanowski, K~Glasser,
+  A~Glodek, M~Gorokhov, K~Graham, B~Gropman, M~Harris, J~Heil, S~Henderson,
+  J~Hoover, D~Jennings, C~Jordan, J~Jordan, J~Kasha, L~Kagan, C~Kraft,
+  A~Levitsky, M~Lewis, X~Liu, J~Lopez, D~Ma, W~Majoros, J~McDaniel, S~Murphy,
+  M~Newman, T~Nguyen, N~Nguyen, M~Nodell, S~Pan, J~Peck, M~Peterson, W~Rowe,
+  R~Sanders, J~Scott, M~Simpson, T~Smith, A~Sprague, T~Stockwell, R~Turner,
+  E~Venter, M~Wang, M~Wen, D~Wu, M~Wu, A~Xia, A~Zandieh, and X~Zhu.
+\newblock {The sequence of the human genome.}
+\newblock \emph{Science (New York, N.Y.)}, 291\penalty0 (5507):\penalty0
+  1304--51, February 2001.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.1058040}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11181995}.
+
+\bibitem[Venter(2007)]{Venter2008a}
+JC~Venter.
+\newblock \emph{{A life decoded: my genome, my life}}.
+\newblock Penguin (Non-Classics), 2007.
+\newblock ISBN 0143114182.
+\newblock URL \url{http://www.amazon.com/Life-Decoded-My-Genome/dp/B002HREL9K
+  http://books.google.com/books?hl=en\&lr=\&id=jx9JsHry1PgC\&oi=fnd\&pg=PA1\&dq=A+Life+Decoded:+My+Genome:+My+Life\&ots=Hqq64xIjzP\&sig=VyT45kqGEI0bLqNBO8p\_J86sbT8}.
+
+\bibitem[Staden(1979)]{Staden1979}
+R~Staden.
+\newblock {A strategy of DNA sequencing employing computer programs}.
+\newblock \emph{Nucleic Acids Research}, 6\penalty0 (7):\penalty0 2601--2610,
+  1979.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC327874/
+  http://nar.oxfordjournals.org/content/6/7/2601.short}.
+
+\bibitem[Consortium(2004)]{Hattori2005a}
+International Human Genome~Sequencing Consortium.
+\newblock {Finishing the euchromatic sequence of the human genome}.
+\newblock \emph{Nature}, 50\penalty0 (2):\penalty0 162--8, February 2004.
+\newblock ISSN 0039-9450.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/15704464
+  http://www.nature.com/nature/journal/v431/n7011/abs/nature03001.html}.
+
+\bibitem[Brenner et~al.(2000)Brenner, Johnson, Bridgham, Golda, Lloyd, Johnson,
+  Luo, McCurdy, Foy, Ewan, Roth, George, Eletr, Albrecht, Vermaas, Williams,
+  Moon, Burcham, Pallas, DuBridge, Kirchner, Fearon, Mao, and
+  Corcoran]{Brenner2000a}
+S~Brenner, M~Johnson, J~Bridgham, G~Golda, D~H Lloyd, D~Johnson, S~Luo,
+  S~McCurdy, M~Foy, M~Ewan, R~Roth, D~George, S~Eletr, G~Albrecht, E~Vermaas,
+  S~R Williams, K~Moon, T~Burcham, M~Pallas, R~B DuBridge, J~Kirchner,
+  K~Fearon, J~Mao, and K~Corcoran.
+\newblock {Gene expression analysis by massively parallel signature sequencing
+  (MPSS) on microbead arrays.}
+\newblock \emph{Nature biotechnology}, 18\penalty0 (6):\penalty0 630--4, June
+  2000.
+\newblock ISSN 1087-0156.
+\newblock \doi{10.1038/76469}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/10835600}.
+
+\bibitem[Ronaghi et~al.(1998)Ronaghi, Uhl\'{e}n, and Nyr\'{e}n]{Ronaghi1998a}
+M~Ronaghi, M~Uhl\'{e}n, and P~Nyr\'{e}n.
+\newblock {A sequencing method based on real-time pyrophosphate.}
+\newblock \emph{Science}, 281:\penalty0 363, 365, 1998.
+
+\bibitem[Shendure et~al.(2005)Shendure, Porreca, Reppas, Lin, McCutcheon,
+  Rosenbaum, Wang, Zhang, Mitra, and Church]{Shendure2005}
+Jay Shendure, Gregory~J. Porreca, Nikos~B. Reppas, Xiaoxia Lin, John~P.
+  McCutcheon, Abraham~M. Rosenbaum, Michael~D. Wang, Kun Zhang, Robi~D. Mitra,
+  and George~M. Church.
+\newblock {Accurate Multiplex Polony Sequencing of an Evolved Bacterial
+  Genome}.
+\newblock \emph{Science}, 309\penalty0 (5741):\penalty0 1728--1732, September
+  2005.
+\newblock \doi{10.1126/science.1117389}.
+\newblock URL
+  \url{http://www.sciencemag.org.ezproxy.umassmed.edu/cgi/content/abstract/309/5741/1728}.
+
+\bibitem[Nakano et~al.(2003)Nakano, Komatsu, Matsuura, Takashima, Katsura, and
+  Mizuno]{Nakano2003a}
+Michihiko Nakano, Jun Komatsu, Shun-ichi Matsuura, Kazunori Takashima, Shinji
+  Katsura, and Akira Mizuno.
+\newblock {Single-molecule PCR using water-in-oil emulsion}.
+\newblock \emph{Journal of Biotechnology}, 102\penalty0 (2):\penalty0 117--124,
+  April 2003.
+\newblock ISSN 0168-1656.
+\newblock \doi{http://dx.doi.org/10.1016/S0168-1656(03)00023-3}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0168165603000233}.
+
+\bibitem[Bentley et~al.(2008)Bentley, Balasubramanian, Swerdlow, Smith, Milton,
+  Brown, Hall, Evers, Barnes, Bignell, Boutell, Bryant, Carter, {Keira
+  Cheetham}, Cox, Ellis, Flatbush, Gormley, Humphray, Irving, Karbelashvili,
+  Kirk, Li, Liu, Maisinger, Murray, Obradovic, Ost, Parkinson, Pratt,
+  Rasolonjatovo, Reed, Rigatti, Rodighiero, Ross, Sabot, Sankar, Scally,
+  Schroth, Smith, Smith, Spiridou, Torrance, Tzonev, Vermaas, Walter, Wu,
+  Zhang, Alam, Anastasi, Aniebo, Bailey, Bancarz, Banerjee, Barbour, Baybayan,
+  Benoit, Benson, Bevis, Black, Boodhun, Brennan, Bridgham, Brown, Brown,
+  Buermann, Bundu, Burrows, Carter, Castillo, {Chiara E Catenazzi}, Chang,
+  {Neil Cooley}, Crake, Dada, Diakoumakos, Dominguez-Fernandez, Earnshaw,
+  Egbujor, Elmore, Etchin, Ewan, Fedurco, Fraser, {Fuentes Fajardo}, {Scott
+  Furey}, George, Gietzen, Goddard, Golda, Granieri, Green, Gustafson, Hansen,
+  Harnish, Haudenschild, Heyer, Hims, Ho, Horgan, Hoschler, Hurwitz, Ivanov,
+  Johnson, James, {Huw Jones}, Kang, Kerelska, Kersey, Khrebtukova, Kindwall,
+  Kingsbury, Kokko-Gonzales, Kumar, Laurent, Lawley, Lee, Lee, Liao, Loch, Lok,
+  Luo, Mammen, Martin, McCauley, McNitt, Mehta, Moon, Mullens, Newington, Ning,
+  {Ling Ng}, Novo, O'Neill, Osborne, Osnowski, Ostadan, Paraschos, Pickering,
+  Pike, Pike, {Chris Pinkard}, Pliskin, Podhasky, Quijano, Raczy, Rae,
+  Rawlings, {Chiva Rodriguez}, Roe, Rogers, {Rogert Bacigalupo}, Romanov,
+  Romieu, Roth, Rourke, Ruediger, Rusman, Sanches-Kuiper, Schenker, Seoane,
+  Shaw, Shiver, Short, Sizto, Sluis, Smith, {Ernest Sohna Sohna}, Spence,
+  Stevens, Sutton, Szajkowski, Tregidgo, Turcatti, Vandevondele, Verhovsky,
+  Virk, Wakelin, Walcott, Wang, Worsley, Yan, Yau, Zuerlein, Rogers, Mullikin,
+  Hurles, McCooke, West, Oaks, Lundberg, Klenerman, Durbin, and
+  Smith]{Bentley2008}
+David~R Bentley, Shankar Balasubramanian, Harold~P Swerdlow, Geoffrey~P Smith,
+  John Milton, Clive~G Brown, Kevin~P Hall, Dirk~J Evers, Colin~L Barnes,
+  Helen~R Bignell, Jonathan~M Boutell, Jason Bryant, Richard~J Carter, R~{Keira
+  Cheetham}, Anthony~J Cox, Darren~J Ellis, Michael~R Flatbush, Niall~a
+  Gormley, Sean~J Humphray, Leslie~J Irving, Mirian~S Karbelashvili, Scott~M
+  Kirk, Heng Li, Xiaohai Liu, Klaus~S Maisinger, Lisa~J Murray, Bojan
+  Obradovic, Tobias Ost, Michael~L Parkinson, Mark~R Pratt, Isabelle M~J
+  Rasolonjatovo, Mark~T Reed, Roberto Rigatti, Chiara Rodighiero, Mark~T Ross,
+  Andrea Sabot, Subramanian~V Sankar, Aylwyn Scally, Gary~P Schroth, Mark~E
+  Smith, Vincent~P Smith, Anastassia Spiridou, Peta~E Torrance, Svilen~S
+  Tzonev, Eric~H Vermaas, Klaudia Walter, Xiaolin Wu, Lu~Zhang, Mohammed~D
+  Alam, Carole Anastasi, Ify~C Aniebo, David M~D Bailey, Iain~R Bancarz, Saibal
+  Banerjee, Selena~G Barbour, Primo~a Baybayan, Vincent~a Benoit, Kevin~F
+  Benson, Claire Bevis, Phillip~J Black, Asha Boodhun, Joe~S Brennan, John~a
+  Bridgham, Rob~C Brown, Andrew~a Brown, Dale~H Buermann, Abass~a Bundu,
+  James~C Burrows, Nigel~P Carter, Nestor Castillo, Maria {Chiara E Catenazzi},
+  Simon Chang, R~{Neil Cooley}, Natasha~R Crake, Olubunmi~O Dada,
+  Konstantinos~D Diakoumakos, Belen Dominguez-Fernandez, David~J Earnshaw,
+  Ugonna~C Egbujor, David~W Elmore, Sergey~S Etchin, Mark~R Ewan, Milan
+  Fedurco, Louise~J Fraser, Karin~V {Fuentes Fajardo}, W~{Scott Furey}, David
+  George, Kimberley~J Gietzen, Colin~P Goddard, George~S Golda, Philip~a
+  Granieri, David~E Green, David~L Gustafson, Nancy~F Hansen, Kevin Harnish,
+  Christian~D Haudenschild, Narinder~I Heyer, Matthew~M Hims, Johnny~T Ho,
+  Adrian~M Horgan, Katya Hoschler, Steve Hurwitz, Denis~V Ivanov, Maria~Q
+  Johnson, Terena James, T~a {Huw Jones}, Gyoung-Dong Kang, Tzvetana~H
+  Kerelska, Alan~D Kersey, Irina Khrebtukova, Alex~P Kindwall, Zoya Kingsbury,
+  Paula~I Kokko-Gonzales, Anil Kumar, Marc~a Laurent, Cynthia~T Lawley, Sarah~E
+  Lee, Xavier Lee, Arnold~K Liao, Jennifer~a Loch, Mitch Lok, Shujun Luo,
+  Radhika~M Mammen, John~W Martin, Patrick~G McCauley, Paul McNitt, Parul
+  Mehta, Keith~W Moon, Joe~W Mullens, Taksina Newington, Zemin Ning, Bee {Ling
+  Ng}, Sonia~M Novo, Michael~J O'Neill, Mark~a Osborne, Andrew Osnowski, Omead
+  Ostadan, Lambros~L Paraschos, Lea Pickering, Andrew~C Pike, Alger~C Pike,
+  D~{Chris Pinkard}, Daniel~P Pliskin, Joe Podhasky, Victor~J Quijano, Come
+  Raczy, Vicki~H Rae, Stephen~R Rawlings, Ana {Chiva Rodriguez}, Phyllida~M
+  Roe, John Rogers, Maria~C {Rogert Bacigalupo}, Nikolai Romanov, Anthony
+  Romieu, Rithy~K Roth, Natalie~J Rourke, Silke~T Ruediger, Eli Rusman,
+  Raquel~M Sanches-Kuiper, Martin~R Schenker, Josefina~M Seoane, Richard~J
+  Shaw, Mitch~K Shiver, Steven~W Short, Ning~L Sizto, Johannes~P Sluis,
+  Melanie~a Smith, Jean {Ernest Sohna Sohna}, Eric~J Spence, Kim Stevens, Neil
+  Sutton, Lukasz Szajkowski, Carolyn~L Tregidgo, Gerardo Turcatti, Stephanie
+  Vandevondele, Yuli Verhovsky, Selene~M Virk, Suzanne Wakelin, Gregory~C
+  Walcott, Jingwen Wang, Graham~J Worsley, Juying Yan, Ling Yau, Mike Zuerlein,
+  Jane Rogers, James~C Mullikin, Matthew~E Hurles, Nick~J McCooke, John~S West,
+  Frank~L Oaks, Peter~L Lundberg, David Klenerman, Richard Durbin, and
+  Anthony~J Smith.
+\newblock {Accurate whole human genome sequencing using reversible terminator
+  chemistry.}
+\newblock \emph{Nature}, 456\penalty0 (7218):\penalty0 53--9, November 2008.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature07517}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2581791\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Velculescu et~al.(1995)Velculescu, Zhang, Vogelstein, and
+  Kinzler]{Velculescu1995a}
+V~E Velculescu, L~Zhang, B~Vogelstein, and K~W Kinzler.
+\newblock {Serial analysis of gene expression.}
+\newblock \emph{Science (New York, N.Y.)}, 270\penalty0 (5235):\penalty0
+  484--7, October 1995.
+\newblock ISSN 0036-8075.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/7570003}.
+
+\bibitem[Shendure and Ji(2008)]{Shendure2008}
+Jay Shendure and Hanlee Ji.
+\newblock {Next-generation DNA sequencing.}
+\newblock \emph{Nature Biotechnology}, 26\penalty0 (10):\penalty0 1135--1145,
+  2008.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18846087}.
+
+\bibitem[Marioni et~al.(2008)Marioni, Mason, Mane, Stephens, and
+  Gilad]{Marioni2008}
+John~C Marioni, Christopher~E Mason, Shrikant~M Mane, Matthew Stephens, and
+  Yoav Gilad.
+\newblock {RNA-seq: an assessment of technical reproducibility and comparison
+  with gene expression arrays}.
+\newblock \emph{Genome Research}, 18\penalty0 (9):\penalty0 1509--17, September
+  2008.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.079558.108}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18550803
+  http://genome.cshlp.org/content/18/9/1509.full.pdf}.
+
+\bibitem[Mortazavi et~al.(2008)Mortazavi, Williams, McCue, Schaeffer, and
+  Wold]{Mortazavi2008}
+Ali Mortazavi, Brian~A Williams, Kenneth McCue, Lorian Schaeffer, and Barbara
+  Wold.
+\newblock {Mapping and quantifying mammalian transcriptomes by RNA-Seq}.
+\newblock \emph{Nat Meth}, 5\penalty0 (7):\penalty0 621--628, July 2008.
+\newblock ISSN 1548-7091.
+\newblock \doi{10.1038/NMETH.1226}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18516045
+  http://dx.doi.org/10.1038/nmeth.1226}.
+
+\bibitem[Nagalakshmi et~al.(2008)Nagalakshmi, Wang, Waern, Shou, Raha,
+  Gerstein, and Snyder]{Nagalakshmi2008}
+Ugrappa Nagalakshmi, Zhong Wang, Karl Waern, Chong Shou, Debasish Raha, Mark
+  Gerstein, and Michael Snyder.
+\newblock {The transcriptional landscape of the yeast genome defined by RNA
+  sequencing.}
+\newblock \emph{Science (New York, N.Y.)}, 320\penalty0 (5881):\penalty0
+  1344--9, June 2008.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.1158441}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18451266
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2951732\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Lister et~al.(2008)Lister, O'Malley, Tonti-Filippini, Gregory, Berry,
+  Millar, and Ecker]{Lister2008}
+Ryan Lister, Ronan~C O'Malley, Julian Tonti-Filippini, Brian~D Gregory,
+  Charles~C Berry, A~Harvey Millar, and Joseph~R Ecker.
+\newblock {Highly integrated single-base resolution maps of the epigenome in
+  Arabidopsis.}
+\newblock \emph{Cell}, 133\penalty0 (3):\penalty0 523--36, May 2008.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2008.03.029}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18423832
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2723732\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Barrett et~al.(2013)Barrett, Wilhite, Ledoux, Evangelista, Kim,
+  Tomashevsky, Marshall, Phillippy, Sherman, Holko, Yefanov, Lee, Zhang,
+  Robertson, Serova, Davis, and Soboleva]{Barrett2013}
+Tanya Barrett, Stephen~E Wilhite, Pierre Ledoux, Carlos Evangelista, Irene~F
+  Kim, Maxim Tomashevsky, Kimberly~a Marshall, Katherine~H Phillippy, Patti~M
+  Sherman, Michelle Holko, Andrey Yefanov, Hyeseung Lee, Naigong Zhang,
+  Cynthia~L Robertson, Nadezhda Serova, Sean Davis, and Alexandra Soboleva.
+\newblock {NCBI GEO: archive for functional genomics data sets--update.}
+\newblock \emph{Nucleic acids research}, 41\penalty0 (Database issue):\penalty0
+  D991--5, January 2013.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gks1193}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3531084\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Blencowe et~al.(2009)Blencowe, Ahmad, and Lee]{Blencowe2009}
+Benjamin~J Blencowe, Sidrah Ahmad, and Leo~J Lee.
+\newblock {Current-generation high-throughput sequencing: deepening insights
+  into mammalian transcriptomes.}
+\newblock \emph{Genes \& development}, 23\penalty0 (12):\penalty0 1379--86,
+  June 2009.
+\newblock ISSN 1549-5477.
+\newblock \doi{10.1101/gad.1788009}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19528315}.
+
+\bibitem[Li et~al.(2011)Li, Wang, Li, Bruzel, Richards, Toung, and
+  Cheung]{Li2011}
+Mingyao Li, Isabel~X Wang, Yun Li, Alan Bruzel, Allison~L Richards, Jonathan~M
+  Toung, and Vivian~G Cheung.
+\newblock {Widespread RNA and DNA sequence differences in the human
+  transcriptome.}
+\newblock \emph{Science (New York, N.Y.)}, 333\penalty0 (6038):\penalty0 53--8,
+  July 2011.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.1207018}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3204392\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Trapnell et~al.(2010)Trapnell, Williams, Pertea, Mortazavi, Kwan, van
+  Baren, Salzberg, Wold, and Pachter]{Trapnell2010}
+Cole Trapnell, Brian~A Williams, Geo Pertea, Ali Mortazavi, Gordon Kwan,
+  Marijke~J van Baren, Steven~L Salzberg, Barbara~J Wold, and Lior Pachter.
+\newblock {Transcript assembly and quantification by RNA-Seq reveals
+  unannotated transcripts and isoform switching during cell differentiation}.
+\newblock \emph{Nat Biotech}, 28\penalty0 (5):\penalty0 511--515, May 2010.
+\newblock ISSN 1087-0156.
+\newblock \doi{10.1038/nbt.1621}.
+\newblock URL \url{http://dx.doi.org/10.1038/nbt.1621
+  http://www.nature.com/nbt/journal/v28/n5/pdf/nbt.1621.pdf}.
+
+\end{thebibliography}

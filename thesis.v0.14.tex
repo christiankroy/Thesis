@@ -26,29 +26,16 @@
 \usepackage{flexisym} % Lets me use prime symbols
 % For Referencing
 \usepackage[square, comma, sort&compress]{natbib} 
+	\setlength{\bibsep}{0.0pt} % Reduce size of bibliography
 	% Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
 % Colors hyperlinks in blue - change to black if annoying	
-\hypersetup{urlcolor=blue, colorlinks=true} 
+\hypersetup{urlcolor=blue, colorlinks=true}  
 
 \title{\ttitle} % Defines the thesis title - don't touch this
 
 %----------------------------------------------------------------------------------------
 % Macro Definitions
 %----------------------------------------------------------------------------------------
-% Inserting Figures (Width <= 5.75"; Height <= 8")
-\newcommand\InsertFigure[4]{
-	% 1 = File Name
-	% 2 = Figure Title (As put in TOC)
-	% 3 = Figure Caption
-	% 4 = Figure Hyperlink Label
-	\begin{figure}[htbp]
-		\centering 
-		\includegraphics{Figures/#1}
-		\rule{35em}{0.5pt}
-		\caption[#2]{#2\\[0.25cm] #3}
-		\label{#4}
-	\end{figure}
-}
 
 %----------------------------------------------------------------------------------------
 \begin{document}
@@ -274,7 +261,6 @@ $\mu$       	  & Micro. A value of 1x10\textsuperscript{-6} standard units 			\\
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 \clearpage % Start a new page
 
-
 %----------------------------------------------------------------------------------------
 %	Preface
 %----------------------------------------------------------------------------------------
@@ -285,7 +271,6 @@ The work reported in this dissertation has been published in the following artic
 Chapter III has been published previously as Li, X. Z. Z., Roy, C. K. K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B. W. W., … Zamore, P. D. D. (2013). An Ancient Transcription Factor Initiates the Burst of piRNA Production during Early Meiosis in Mouse Testes. Molecular Cell, 50(1), 1–15. doi:10.1016/j.molcel.2013.02.016
 
 Some contents of Chapter I are included in an accepted for publication: 
-
 
 \clearpage
 
@@ -332,7 +317,8 @@ Some contents of Chapter I are included in an accepted for publication:
 % Change the page header to say "Bibliography"
 \lhead{\emph{Bibliography}} 
 % Use the "unsrtnat" BibTeX style for formatting the Bibliography
-\bibliographystyle{unsrtnat} 
+%\bibliographystyle{unsrtnat}
+\bibliographystyle{plainnat}
 % The references are stored in the file named "Bibliography_2.bib"
 \bibliography{Bibliography_2} 
 

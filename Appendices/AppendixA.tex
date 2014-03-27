@@ -1,9 +1,59 @@
 % Appendix A
 
-\chapter{Appendix Title Here} % Main appendix title
+\chapter{Appendix - Misc Information} % Main appendix title
 
 \label{AppendixA} % For referencing this appendix elsewhere, use \ref{AppendixA}
 
 \lhead{Appendix A. \emph{Appendix Title Here}} % This is for the header on each page - perhaps a shortened title
 
-Write your Appendix content here.
+%----------------------------------------------------------------------------------------
+\section{Equations}\label{sec:Equations}
+%----------------------------------------------------------------------------------------
+
+\subsection{Determining [RNA] from $^{32}$P-$\alpha$-UTP used during vitro transcription}
+
+{\tiny{
+\begin{eqnarray*}
+\mu \mbox{M} = \left( \frac{\mbox{pmol}}{\mu\mbox{L}}\right)
+      = \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)
+      \times \left( \frac{\mbox{mol UTP in original reaction}}{\mbox{Reaction Volume }} \right) \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
+\end{eqnarray*}
+}
+}
+%Or you can write the above equation as 
+
+%\begin{eqnarray*}
+%\mu \mbox{M}  =  \left( \frac{\mbox{pmol}}{\mu\mbox{L}}\right)
+     %& = & \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)\\
+%      && \times \left( \frac{\mbox{mol UTP in original reaction}}{\mbox{Reaction Volume}} \right)\\
+ %     && \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
+%\end{eqnarray*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ \\
+\ \\
+
+\subsection{Determining [RNA] based on A$_{260}$}
+
+
+$$
+\mbox{[RNA in M]} = \left( \frac{\mbox{A}_{260} \times \mbox{Dilution Factor}}
+                           {10,313 < \mbox{note 1}> \times \mbox{ nucleotides in message}} \right) 
+$$
+note 1: This value represents an average RNA extinction ($\epsilon$) coefficient value \\
+
+\subsection{Normalize oxidized small RNA libraries size to time-matched unoxidized library}
+
+NB: this equation assumes calibration against a specific time-point ,
+in this case data obtained from '6wk' tests.
+
+\begin{eqnarray*}
+     \mbox{unox }\tau \mbox{ norm}_1 & = & \left(         
+                        \frac{\left( \frac{\displaystyle\sum \mbox{miRNA reads } \tau}{\displaystyle \sum \mbox{miRNA reads 6wk} } \right) \times \mbox{ depth 6wk} }{1,000,000}              
+                                          \right)\\
+\mbox{ox }\tau \mbox{ norm}_1 & = &   \mbox{unox }\tau \mbox{ norm}_1 \times
+                                 \left(
+                                  \frac{\displaystyle \sum \mbox{oxidized shared } \ge \mbox{23 nt reads}}{\displaystyle \sum \mbox{unoxidized shared } \ge \mbox{23 nt reads}}
+                                 \right)                                         
+\end{eqnarray*}
+

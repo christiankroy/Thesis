@@ -1,51 +1,51 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.v0.14.aux
-The style file: unsrtnat.bst
-Illegal, another \bibdata command---line 111 of file thesis.v0.14.aux
- : \bibdata
- :         {Bibliography_2}
-I'm skipping whatever remains of this command
+The style file: plainnat.bst
 Database file #1: Bibliography_2.bib
-You've used 31 entries,
-            2481 wiz_defined-function locations,
-            854 strings with 21773 characters,
-and the built_in function-call counts, 27225 in all, are:
-= -- 1269
-> -- 3835
-< -- 8
-+ -- 1312
-- -- 1250
-* -- 3356
-:= -- 5384
-add.period$ -- 163
-call.type$ -- 31
-change.case$ -- 60
-chr.to.int$ -- 31
-cite$ -- 31
-duplicate$ -- 589
-empty$ -- 1139
-format.name$ -- 1289
-if$ -- 4916
-int.to.chr$ -- 1
-int.to.str$ -- 32
-missing$ -- 33
-newline$ -- 233
-num.names$ -- 93
-pop$ -- 157
+Warning--I didn't find a database entry for "Burnette2005"
+Warning--I didn't find a database entry for "Nandrakumar2006"
+Warning--empty publisher in Calarco2007
+Warning--empty journal in Riley2013
+You've used 123 entries,
+            2773 wiz_defined-function locations,
+            1681 strings with 54943 characters,
+and the built_in function-call counts, 108498 in all, are:
+= -- 9020
+> -- 11352
+< -- 43
++ -- 3793
+- -- 3669
+* -- 11310
+:= -- 17956
+add.period$ -- 656
+call.type$ -- 123
+change.case$ -- 1590
+chr.to.int$ -- 122
+cite$ -- 248
+duplicate$ -- 2612
+empty$ -- 4944
+format.name$ -- 3838
+if$ -- 21307
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 124
+newline$ -- 909
+num.names$ -- 492
+pop$ -- 2701
 preamble$ -- 1
-purify$ -- 31
+purify$ -- 1469
 quote$ -- 0
-skip$ -- 298
+skip$ -- 2742
 stack$ -- 0
-substring$ -- 720
-swap$ -- 85
-text.length$ -- 0
+substring$ -- 3062
+swap$ -- 282
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 211
-warning$ -- 0
-while$ -- 119
+type$ -- 1343
+warning$ -- 2
+while$ -- 603
 width$ -- 0
-write$ -- 548
-(There was 1 error message)
+write$ -- 2174
+(There were 4 warnings)

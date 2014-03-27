@@ -1,14 +1,8 @@
 # Fdb version 3
-["bibtex Chapter1-Introduction"] 1395770203 "Chapter1-Introduction.aux" "Chapter1-Introduction.bbl" "Chapter1-Introduction" 1395882065
+["pdflatex"] 1395950904 "Chapter1-Introduction.tex" "Chapter1-Introduction.pdf" "Chapter1-Introduction" 1395950906
   "Chapter1-Introduction.aux" 1395758226 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Chapter1-Introduction.bcf" 0 -1 0 ""
-  (generated)
-  "Chapter1-Introduction.blg"
-  "Chapter1-Introduction.bbl"
-["pdflatex"] 1395882064 "Chapter1-Introduction.tex" "Chapter1-Introduction.pdf" "Chapter1-Introduction" 1395882065
-  "Chapter1-Introduction.aux" 1395758226 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Chapter1-Introduction.bbl" 1395770203 0 d41d8cd98f00b204e9800998ecf8427e "bibtex Chapter1-Introduction"
-  "Chapter1-Introduction.tex" 1395882062 17541 9e091380624f83670329921a575c448a ""
+  "Chapter1-Introduction.tex" 1395950903 58838 4d819490fe4c399b43d455b85b834710 ""
+  "Tables/FlyGenesWith1000sofTx.tex" 0 -1 0 ""
   (generated)
   "Chapter1-Introduction.log"
   "Chapter1-Introduction.pdf"

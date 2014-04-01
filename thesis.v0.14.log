@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  27 MAR 2014 16:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  1 APR 2014 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,12 +651,16 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \c@dummy=\count127
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count128
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count128
+\c@float@type=\count129
 \float@exts=\toks31
 \float@box=\box31
 \@float@everytoks=\toks32
@@ -696,7 +700,7 @@ Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count129
+\et@xins=\count130
 )
 Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
 
@@ -714,18 +718,18 @@ Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
 Package: l3int 2013/08/02 v4583 L3 Integers
-\c_max_int=\count130
-\l_tmpa_int=\count131
-\l_tmpb_int=\count132
-\g_tmpa_int=\count133
-\g_tmpb_int=\count134
+\c_max_int=\count131
+\l_tmpa_int=\count132
+\l_tmpb_int=\count133
+\g_tmpa_int=\count134
+\g_tmpb_int=\count135
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
 Package: l3quark 2013/12/14 v4623 L3 Quarks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
 Package: l3prg 2014/01/04 v4642 L3 Control structures
-\g__prg_map_int=\count135
+\g__prg_map_int=\count136
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
 Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
@@ -741,11 +745,11 @@ Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
 Package: l3file 2013/10/13 v4596 L3 File and I/O operations
-\l_iow_line_count_int=\count136
-\l__iow_target_count_int=\count137
-\l__iow_current_line_int=\count138
-\l__iow_current_word_int=\count139
-\l__iow_current_indentation_int=\count140
+\l_iow_line_count_int=\count137
+\l__iow_target_count_int=\count138
+\l__iow_current_line_int=\count139
+\l__iow_current_word_int=\count140
+\l__iow_current_indentation_int=\count141
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
 Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
@@ -770,20 +774,20 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
 Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count141
-\l_keys_choice_int=\count142
+\g__keyval_level_int=\count142
+\l_keys_choice_int=\count143
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
 Package: l3fp 2014/01/04 v4642 L3 Floating points
-\c__fp_leading_shift_int=\count143
-\c__fp_middle_shift_int=\count144
-\c__fp_trailing_shift_int=\count145
-\c__fp_big_leading_shift_int=\count146
-\c__fp_big_middle_shift_int=\count147
-\c__fp_big_trailing_shift_int=\count148
-\c__fp_Bigg_leading_shift_int=\count149
-\c__fp_Bigg_middle_shift_int=\count150
-\c__fp_Bigg_trailing_shift_int=\count151
+\c__fp_leading_shift_int=\count144
+\c__fp_middle_shift_int=\count145
+\c__fp_trailing_shift_int=\count146
+\c__fp_big_leading_shift_int=\count147
+\c__fp_big_middle_shift_int=\count148
+\c__fp_big_trailing_shift_int=\count149
+\c__fp_Bigg_leading_shift_int=\count150
+\c__fp_Bigg_middle_shift_int=\count151
+\c__fp_Bigg_trailing_shift_int=\count152
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
 Package: l3box 2013/07/28 v4581 L3 Experimental boxes
@@ -820,8 +824,8 @@ Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
 Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count152
-\g__cctab_stack_int=\count153
+\g__cctab_allocate_int=\count153
+\g__cctab_stack_int=\count154
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
 Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
@@ -880,15 +884,55 @@ LaTeX Info: Redefining \scriptstyle on input line 85.
 LaTeX Info: Redefining \scriptscriptstyle on input line 87.
 LaTeX Info: Redefining \genfrac on input line 121.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+
+
+! LaTeX Error: Command \degree already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \newcommand\degree{}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip69
 \bibsep=\skip70
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count154
+\c@NAT@ctr=\count155
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 32.
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks35
+\SOUL@lasttoken=\toks36
+\SOUL@cmds=\toks37
+\SOUL@buffer=\toks38
+\SOUL@token=\toks39
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen183
+\SOUL@uldp=\dimen184
+\SOUL@ulht=\dimen185
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
 
 LaTeX Warning: Unused global option(s):
     [letter].
@@ -896,23 +940,23 @@ LaTeX Warning: Unused global option(s):
 (./thesis.v0.14.aux)
 \openout1 = `thesis.v0.14.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 76.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -926,82 +970,85 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count155
-\scratchdimen=\dimen183
+\scratchcounter=\count156
+\scratchdimen=\dimen186
 \scratchbox=\box49
-\nofMPsegments=\count156
-\nofMParguments=\count157
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count158
-\MPscratchDim=\dimen184
-\MPnumerator=\count159
-\makeMPintoPDFobject=\count160
-\everyMPtoPDFconversion=\toks36
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen187
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks41
 )
-\c@lstlisting=\count161
+\c@lstlisting=\count162
 \AtBeginShipoutBox=\box50
- (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
-)
-Package hyperref Info: Link coloring ON on input line 41.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring ON on input line 76.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count162
+\c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
 
 (./thesis.v0.14.out) (./thesis.v0.14.out)
 \@outlinefile=\write3
 \openout3 = `thesis.v0.14.out'.
 
- [1
+LaTeX Info: Redefining \celsius on input line 76.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 76.
 
 
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 76.
+Package gensymb Info: Using \Omega for \ohm on input line 76.
+
+Package gensymb Warning: Not defining \micro.
+
+[1
+
+
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1
 
 ]
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <24.88> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 122.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 157.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 122.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 157.
 [3
 
 ]
 ------------------------------------------------------------------------------
  Acknowledgements
 ------------------------------------------------------------------------------
-[4
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 197.
 
-]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 162.
-
- (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsphv.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 162.
- [5]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 197.
+ [4
+
+] [5]
 ------------------------------------------------------------------------------
  Table of Contents
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 173.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 208.
 (./thesis.v0.14.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 14.
 
@@ -1014,17 +1061,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 26.
  [6
 
 
-]
-Overfull \hbox (11.76357pt too wide) in paragraph at lines 32--32
- [][] [][][]\T1/phv/m/n/12 Normalize ox-i-dized small RNA li-braries size to ti
-me-matched 
- []
-
-)
+])
 \tf@toc=\write4
 \openout4 = `thesis.v0.14.toc'.
 
@@ -1055,7 +1096,7 @@ me-matched
  Abreviations
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 185.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 220.
 [10
 
 
@@ -1071,24 +1112,27 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
  Definitions
 ------------------------------------------------------------------------------
 
-Overfull \hbox (7.41728pt too wide) in paragraph at lines 236--238
-\T1/phv/m/n/12 The se-quence of nu-cleotides pro-duced from each spot on a high
--throughput
+Overfull \hbox (5.9079pt too wide) in paragraph at lines 268--270
+\T1/phv/m/n/12 A tech-nol-ogy wherein RNA is frag-mented, con-verted to DNA, an
+d an-a-lyzed on a high-throughput
  []
 
 [12
 
-] [13]
+]
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[14
+[13
 
 ]
 ------------------------------------------------------------------------------
  Preface
 ------------------------------------------------------------------------------
-[15
+
+LaTeX Warning: Reference `Chapter4' on page xiv undefined on input line 308.
+
+[14
 
 
 ] (./Chapters/Chapter1-Introduction.tex
@@ -1097,97 +1141,88 @@ Chapter 1.
  1 Introduction
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 26.
-[1
-
-
-
-] [2] <Figures/DesertLocust.jpeg, id=269, 357.335pt x 420.57124pt>
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
+<Figures/DesertLocust.jpeg, id=419, 357.335pt x 420.57124pt>
 File: Figures/DesertLocust.jpeg Graphic file (type jpg)
 
 <use Figures/DesertLocust.jpeg>
-Package pdftex.def Info: Figures/DesertLocust.jpeg used on input line 39.
+Package pdftex.def Info: Figures/DesertLocust.jpeg used on input line 40.
 (pdftex.def)             Requested size: 357.33412pt x 420.57022pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 44.
- [3] [4 <./Figures/DesertLocust.jpeg>] [5]
-[6] [7]
-<Figures/Sequencing_costs_over_time.pdf, id=361, 361.68425pt x 156.91924pt>
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 45.
+ [1
+
+
+
+] [2 <./Figures/DesertLocust.jpeg>]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 68.
+ [3]
+<Figures/Sequencing_costs_over_time.pdf, id=495, 361.68425pt x 156.91924pt>
 File: Figures/Sequencing_costs_over_time.pdf Graphic file (type pdf)
 
 <use Figures/Sequencing_costs_over_time.pdf>
 Package pdftex.def Info: Figures/Sequencing_costs_over_time.pdf used on input l
-ine 88.
+ine 87.
 (pdftex.def)             Requested size: 361.68336pt x 156.91884pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 95.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 94.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (2.19852pt too wide) in paragraph at lines 110--112
-\T1/phv/m/n/12 ing by proxy of cDNA molecules was Se-rial Anal-y-sis of Gene Ex
--pres-sion (SAGE)
- []
-
-[8] [9 <./Figures/Sequencing_costs_over_time.pdf>]
-<Figures/RNA_Sequencing_methodologies.pdf, id=415, 419.83047pt x 311.1625pt>
+) [4 <./Figures/Sequencing_costs_over_time.pdf>]
+<Figures/RNA_Sequencing_methodologies.pdf, id=547, 419.83047pt x 311.1625pt>
 File: Figures/RNA_Sequencing_methodologies.pdf Graphic file (type pdf)
 
 <use Figures/RNA_Sequencing_methodologies.pdf>
 Package pdftex.def Info: Figures/RNA_Sequencing_methodologies.pdf used on input
  line 116.
 (pdftex.def)             Requested size: 419.82944pt x 311.16174pt.
-
-Overfull \hbox (2.35637pt too wide) in paragraph at lines 116--121
- [][] 
- []
-
-[10] [11 <./Figures/RNA_Sequencing_methodologies.pdf>] [12] [13] [14] [15]
-[16]
-<Figures/SeqLengths_and_Connectivity.pdf, id=576, 415.5525pt x 327.2225pt>
+ [5] [6 <./Figures/RNA_Sequencing_methodologies.pdf>] [7]
+<Figures/SeqLengths_and_Connectivity.pdf, id=695, 415.5525pt x 327.2225pt>
 File: Figures/SeqLengths_and_Connectivity.pdf Graphic file (type pdf)
 
 <use Figures/SeqLengths_and_Connectivity.pdf>
 Package pdftex.def Info: Figures/SeqLengths_and_Connectivity.pdf used on input 
-line 184.
+line 186.
 (pdftex.def)             Requested size: 415.55148pt x 327.2217pt.
- [17] [18 <./Figures/SeqLengths_and_Connectivity.pdf>] [19]
-<Figures/Fibronectin.pdf, id=636, 390.1245pt x 289.08pt>
+ [8 <./Figures/SeqLengths_and_Connectivity.pdf>]
+Overfull \hbox (4.265pt too wide) in paragraph at lines 198--200
+\T1/phv/m/n/12 scrip-tome anal-y-sis. This se-quenc-ing ap-proach has sig-nif-i
+-cance ad-van-tages over mi-croar-rays. Specif-
+ []
+
+<Figures/Fibronectin.pdf, id=741, 390.1245pt x 289.08pt>
 File: Figures/Fibronectin.pdf Graphic file (type pdf)
 
 <use Figures/Fibronectin.pdf>
-Package pdftex.def Info: Figures/Fibronectin.pdf used on input line 214.
+Package pdftex.def Info: Figures/Fibronectin.pdf used on input line 216.
 (pdftex.def)             Requested size: 390.12354pt x 289.07928pt.
- [20] [21 <./Figures/Fibronectin.pdf>]
+ [9]
 
-Package natbib Warning: Citation `Burnette2005' on page 22 undefined on input l
-ine 226.
+Package natbib Warning: Citation `Burnette2005' on page 10 undefined on input l
+ine 228.
 
-[22]
-! Undefined control sequence.
-l.228 ...r2011, Johnson2011}. \slo{} is the \texit
-                                                  {C.elegans} orthologue of ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[10 <./Figures/Fibronectin.pdf>]
+Overfull \hbox (4.76073pt too wide) in paragraph at lines 230--231
+[]\T1/phv/m/n/12 The last, most cur-rent, and thor-ough study of intra-gene spl
+ic-ing co-or-di-na-tion in-volves the \T1/phv/m/sl/12 Caenorhab-
+ []
 
-[23] <Figures/ASEventTypesPlot.pdf, id=706, 405.515pt x 187.19937pt>
+<Figures/ASEventTypesPlot.pdf, id=807, 405.515pt x 187.19937pt>
 File: Figures/ASEventTypesPlot.pdf Graphic file (type pdf)
 
 <use Figures/ASEventTypesPlot.pdf>
-Package pdftex.def Info: Figures/ASEventTypesPlot.pdf used on input line 242.
+Package pdftex.def Info: Figures/ASEventTypesPlot.pdf used on input line 244.
 (pdftex.def)             Requested size: 405.51399pt x 187.19891pt.
- [24] [25 <./Figures/ASEventTypesPlot.pdf>]
-<Figures/NumberOFTranscriptsPerFlyGene.pdf, id=749, 411.5375pt x 289.08pt>
+ [11 <./Figures/ASEventTypesPlot.pdf>]
+<Figures/NumberOFTranscriptsPerFlyGene.pdf, id=848, 411.5375pt x 289.08pt>
 File: Figures/NumberOFTranscriptsPerFlyGene.pdf Graphic file (type pdf)
 
 <use Figures/NumberOFTranscriptsPerFlyGene.pdf>
 Package pdftex.def Info: Figures/NumberOFTranscriptsPerFlyGene.pdf used on inpu
-t line 259.
+t line 261.
 (pdftex.def)             Requested size: 411.5365pt x 289.07928pt.
 
 (./Tables/FlyGenesWith1000sofTx.tex
@@ -1195,60 +1230,130 @@ t line 259.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 274.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 274.
- [26 <./Figures/NumberOFTranscriptsPerFlyGene.pdf>]
-<Figures/DscamArch.pdf, id=776, 415.5525pt x 96.69475pt>
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 276.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 276.
+ <Figures/DscamArch.pdf, id=861, 415.5525pt x 96.69475pt>
 File: Figures/DscamArch.pdf Graphic file (type pdf)
 
 <use Figures/DscamArch.pdf>
-Package pdftex.def Info: Figures/DscamArch.pdf used on input line 282.
+Package pdftex.def Info: Figures/DscamArch.pdf used on input line 284.
 (pdftex.def)             Requested size: 415.55148pt x 96.69449pt.
-
-! Misplaced alignment tab character &.
-<argument> ... into the mRNA. Similarly, banks 6 &
-                                                   9 each contain 48 and 33 ...
-l.287 	}
-        
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<argument> ... into the mRNA. Similarly, banks 6 &
-                                                   9 each contain 48 and 33 ...
-l.287 	}
-        
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[27] [28 <./Figures/DscamArch.pdf>]
-<Figures/DscamAnatomy.pdf, id=809, 397.15074pt x 516.26274pt>
+ [12 <./Figures/NumberOFTranscriptsPerFlyGene.pdf>]
+[13 <./Figures/DscamArch.pdf>]
+<Figures/DscamAnatomy.pdf, id=904, 397.15074pt x 516.26274pt>
 File: Figures/DscamAnatomy.pdf Graphic file (type pdf)
 
 <use Figures/DscamAnatomy.pdf>
-Package pdftex.def Info: Figures/DscamAnatomy.pdf used on input line 311.
+Package pdftex.def Info: Figures/DscamAnatomy.pdf used on input line 312.
 (pdftex.def)             Requested size: 397.14977pt x 516.26147pt.
 
-
-LaTeX Warning: Float too large for page by 21.89793pt on input line 318.
-
-[29] [30 <./Figures/DscamAnatomy.pdf>]
-<Figures/LigationMechanism.pdf, id=847, 391.4625pt x 528.97626pt>
+<Figures/LigationMechanism.pdf, id=913, 391.4625pt x 528.97626pt>
 File: Figures/LigationMechanism.pdf Graphic file (type pdf)
 
 <use Figures/LigationMechanism.pdf>
-Package pdftex.def Info: Figures/LigationMechanism.pdf used on input line 343.
+Package pdftex.def Info: Figures/LigationMechanism.pdf used on input line 346.
 (pdftex.def)             Requested size: 391.46153pt x 528.97496pt.
+ [14] [15 <./Figures/DscamAnatomy.pdf>]
+[16 <./Figures/LigationMechanism.pdf>] [17]
+<Figures/Rnl2_Structure.pdf, id=1417, 354.82562pt x 291.58937pt>
+File: Figures/Rnl2_Structure.pdf Graphic file (type pdf)
+
+<use Figures/Rnl2_Structure.pdf>
+Package pdftex.def Info: Figures/Rnl2_Structure.pdf used on input line 379.
+(pdftex.def)             Requested size: 354.82474pt x 291.58865pt.
+
+
+Package natbib Warning: Citation `Nandrakumar2006' on page 18 undefined on inpu
+t line 389.
+
+[18 <./Figures/Rnl2_Structure.pdf>]
+<Figures/Rnl2_Active_Site_Residues.pdf, id=1466, 216.81pt x 216.81pt>
+File: Figures/Rnl2_Active_Site_Residues.pdf Graphic file (type pdf)
+
+<use Figures/Rnl2_Active_Site_Residues.pdf>
+Package pdftex.def Info: Figures/Rnl2_Active_Site_Residues.pdf used on input li
+ne 394.
+(pdftex.def)             Requested size: 216.80946pt x 216.80946pt.
+
+
+Package natbib Warning: Citation `Nandrakumar2006' on page 19 undefined on inpu
+t line 406.
+
+[19 <./Figures/Rnl2_Active_Site_Residues.pdf>]
+<Figures/FlamencoLocus.pdf, id=1530, 401.83527pt x 256.2905pt>
+File: Figures/FlamencoLocus.pdf Graphic file (type pdf)
+
+<use Figures/FlamencoLocus.pdf>
+Package pdftex.def Info: Figures/FlamencoLocus.pdf used on input line 432.
+(pdftex.def)             Requested size: 401.83427pt x 256.28986pt.
+
+
+LaTeX Warning: Reference `fig:mouse piRNA over time' on page 20 undefined on in
+put line 442.
+
+[20 <./Figures/FlamencoLocus.pdf>]
+<Figures/MammalianPiRNAClassesOverTime.pdf, id=1599, 415.5525pt x 324.21124pt>
+File: Figures/MammalianPiRNAClassesOverTime.pdf Graphic file (type pdf)
+
+<use Figures/MammalianPiRNAClassesOverTime.pdf>
+Package pdftex.def Info: Figures/MammalianPiRNAClassesOverTime.pdf used on inpu
+t line 447.
+(pdftex.def)             Requested size: 415.55148pt x 324.21045pt.
+ [21 <./Figures/MammalianPiRNAClassesOverTime.pdf>]
+<Figures/mammalian_piRNA_pathway.png, id=1624, 289.08pt x 359.1819pt>
+File: Figures/mammalian_piRNA_pathway.png Graphic file (type png)
+
+<use Figures/mammalian_piRNA_pathway.png>
+Package pdftex.def Info: Figures/mammalian_piRNA_pathway.png used on input line
+ 461.
+(pdftex.def)             Requested size: 289.07928pt x 359.18102pt.
+ [22 <./Figures/mammalian_piRNA_pathway.png>]) (./Chapters/Chapter2-SeqZipMetho
+dology.tex [23]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 SeqZip Methodology Development
+------------------------------------------------------------------------------
+[24
+
+]) (./Chapters/Chapter3-SeqZipManuscript.tex [25]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 SeqZip Publication
+------------------------------------------------------------------------------
+[26
+
+]) (./Chapters/Chapter5-Discussion.tex [27]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Discussion
+------------------------------------------------------------------------------
+[28
+
+]
+
+! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 ... T39A mutation to aliviate penultimate 2´
+                                                   OH requirement of T4 Rnl2...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.102 	\tem
+            Make a note into the future directions that you would like to ex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 ! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
@@ -1257,203 +1362,248 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.353 ...C) Step 2: Nucleophilic attack by the 5´
-                                                   DNA phosphate on the 3\te...
+l.102 ... would like to explore LNA’s at the 3´
+                                                  OH pisition of all ligatio...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-! Undefined control sequence.
-l.353 ...tack on the 5\textprime~ PO\textsubscript
-                                                  {4} across the DNA nick, l...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-[31] [32 <./Figures/LigationMechanism.pdf>] [33]
-Overfull \hbox (8.58342pt too wide) in paragraph at lines 359--360
-\T1/phv/m/n/12 lig-ase, Chlorella Virus PBCV-1 DNA lig-ase (herein Chlorella DN
-A lig-ase) [[][]Lohman
- []
+! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
 
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 ... both this and the use of penultimate 2´
+                                                   OH (Ribosome) suger in yo...
 
-LaTeX Warning: Reference `Chapter2' on page 34 undefined on input line 361.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-[34] [35]
-! Undefined control sequence.
-l.371 ...tion of the 5\textprime~ PO\textsubscript
-                                                  {4} on the 5\textprime~ re...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Extra }, or forgotten \endgroup.
+l.102 ...er served with a T39A mutation. Giggity }
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-<Figures/Rnl2_Structure.pdf, id=1332, 354.82562pt x 291.58937pt>
-File: Figures/Rnl2_Structure.pdf Graphic file (type pdf)
-
-<use Figures/Rnl2_Structure.pdf>
-Package pdftex.def Info: Figures/Rnl2_Structure.pdf used on input line 376.
-(pdftex.def)             Requested size: 354.82474pt x 291.58865pt.
-
-
-Package natbib Warning: Citation `Nandrakumar2006' on page 36 undefined on inpu
-t line 386.
-
-
-LaTeX Warning: Reference `Chapter2' on page 36 undefined on input line 386.
-
-[36] [37 <./Figures/Rnl2_Structure.pdf>]
-<Figures/Rnl2_Active_Site_Residues.pdf, id=1386, 216.81pt x 216.81pt>
-File: Figures/Rnl2_Active_Site_Residues.pdf Graphic file (type pdf)
-
-<use Figures/Rnl2_Active_Site_Residues.pdf>
-Package pdftex.def Info: Figures/Rnl2_Active_Site_Residues.pdf used on input li
-ne 391.
-(pdftex.def)             Requested size: 216.80946pt x 216.80946pt.
-
-Overfull \hbox (4.62138pt too wide) in paragraph at lines 401--402
-\T1/phv/m/n/12 terminal do-main and a K227A point mu-ta-tion (^^PTrun-cated mu-
-tant^^Q) has no adenyl-
- []
-
-[38 <./Figures/Rnl2_Active_Site_Residues.pdf>]
-
-Package natbib Warning: Citation `Nandrakumar2006' on page 39 undefined on inpu
-t line 403.
-
-
-LaTeX Warning: Reference `Chapter2' on page 39 undefined on input line 403.
-
-) [39] (./Appendices/AppendixA.tex [40]
+[29]) (./Appendices/AppendixA.tex [30]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix - Misc Information
 ------------------------------------------------------------------------------
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 13.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 13.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 13.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 13.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 13.
+(hyperref)                removing `\alpha' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 13.
+(hyperref)                removing `math shift' on input line 40.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 60.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-
- []
-
-[41
+[31
 
 ]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
 
- []
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-) [42]
+
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:∞ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \end{verbatim}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \end{verbatim}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:∞ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \end{verbatim}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [32]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 (./thesis.v0.14.bbl
-Underfull \hbox (badness 2326) in paragraph at lines 9--17
-\T1/phv/m/n/12 4189.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
- nih . gov / articlerender . fcgi ?
+Underfull \hbox (badness 1728) in paragraph at lines 21--31
+\T1/phv/m/n/12 Nicola Iovino, Pa-tri-cia Mor-ris, Michael J Brown-stein, Satomi
+ Kuramochi-Miyagawa, Toru
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 43--54
-[]\T1/phv/m/n/12 Tanya Bar-rett, Stephen E Wil-hite, Pierre Ledoux, Car-los Eva
-n-ge-lista,
+Underfull \hbox (badness 3168) in paragraph at lines 34--45
+\T1/phv/m/n/12 and Vladimir A. Gvozdev.  Double-stranded RNA-mediated si-lenc-i
+ng of ge-nomic tan-
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 43--54
-\T1/phv/m/n/12 Irene F Kim, Maxim Toma-shevsky, Kim-berly a Mar-shall, Kather-i
-ne H
+Underfull \hbox (badness 1342) in paragraph at lines 34--45
+\T1/phv/m/n/12 dem re-peats and trans-pos-able el-e-ments in the D. melanogaste
+r germline.  \T1/phv/m/sl/12 Cur-rent Bi-
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 43--54
-\T1/phv/m/n/12 Lee, Naigong Zhang, Cyn-thia L Robert-son, Nadezhda Serova, Sean
-
+Underfull \hbox (badness 1102) in paragraph at lines 34--45
+\T1/phv/m/sl/12 ol-ogy\T1/phv/m/n/12 , 11(13):1017--1027, July 2001.  ISSN 0960
+-9822.  doi: $\T1/cmr/m/n/12 16 / S0960-[]9822(01 ) 00299-[]8$\T1/phv/m/n/12 .
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 43--54
-\T1/phv/m/n/12 Davis, and Alexan-dra Sobol-eva.  NCBI GEO: archive for func-tio
-nal
+Underfull \hbox (badness 10000) in paragraph at lines 34--45
+\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . com / 
+science / article / pii / S0960982201002998http :
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 43--54
-\T1/phv/m/n/12 sue):D991--5, Jan-uary 2013.  ISSN 1362-4962.  doi: $\T1/cmr/m/n
-/12 10 . 1093 / nar /
+Underfull \hbox (badness 10000) in paragraph at lines 34--45
+\T1/cmtt/m/n/12 / / www . sciencedirect . com / science ? _ob = MImg & _imageke
+y = B6VRT-[]43HK9SP-[]K-[]1 & _cdi = 6243 &
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 57--64
+Underfull \hbox (badness 10000) in paragraph at lines 34--45
+\T1/cmtt/m/n/12 _user = 115184 & _pii = S0960982201002998 & _origin = & _ cover
+Date = 07 / 10 / 2001 & _sk = 999889986 &
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 85--92
 []\T1/phv/m/n/12 GI I Bell, RL L Pictet, WJ J Rut-ter, Bar-bara Cordell, Ed-mun
-d Tis-
+d Tis-cher, and Howard M.
+ []
+
+[33
+
+
+] [34]
+Underfull \hbox (badness 10000) in paragraph at lines 215--224
+\T1/cmtt/m/n/12 www . sciencedirect . com / science ? _ob = MImg & _imagekey = 
+B6WSN-[]4N6XNHF-[]1-[]3 & _cdi = 7051 & _user =
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 57--64
-\T1/phv/m/n/12 cher, and Howard M. Good-man.  Se-quence of the hu-man in-
+Underfull \hbox (badness 10000) in paragraph at lines 215--224
+\T1/cmtt/m/n/12 115184 & _pii = S0092867407002577 & _origin = gateway & _coverD
+ate = 03 / 23 / 2007 & _sk = 998719993 &
  []
 
-
-Underfull \hbox (badness 2753) in paragraph at lines 57--64
-\T1/phv/m/n/12 sulin gene.  \T1/phv/m/sl/12 Na-ture\T1/phv/m/n/12 , 284(5751):2
-6--32, March 1980.  ISSN 0028-
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 67--76
-\T1/phv/m/n/12 is-sue):D32--7, Jan-uary 2011.  ISSN 1362-4962.  doi: $\T1/cmr/m
-/n/12 10 . 1093 / nar /
- []
-
-[43
-
-
-]
-Underfull \hbox (badness 1082) in paragraph at lines 102--154
-\T1/cmr/m/n/12 nature07517$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / 
-/ www . pubmedcentral . nih . gov / articlerender .
- []
-
-[44] [45]
 
 ! Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
@@ -1461,7 +1611,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.222 Desmond 
+l.262 Desmond 
                R. Bullard and Richard P. Bowater.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1474,208 +1624,200 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.222 Desmond R. Bullard and Richard 
+l.262 Desmond R. Bullard and Richard 
                                        P. Bowater.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--270
-\T1/cmtt/m/n/12 15704464http : / / www . nature . com / nature / journal / v431
- / n7011 / abs /
+Underfull \hbox (badness 10000) in paragraph at lines 295--306
+\T1/cmtt/m/n/12 com / science / article / B6WW3-[]4NCCF20-[]1 / 2 / 320872bb9ee
+a35c7846e92ae5dd3080dhttp : / / www .
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 285--292
+Underfull \hbox (badness 10000) in paragraph at lines 295--306
+\T1/cmtt/m/n/12 sciencedirect . com / science ? _ob = MImg & _imagekey = B6WW3-
+[]4NCCF20-[]1-[]2 & _cdi = 7119 & _user =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--306
+\T1/cmtt/m/n/12 115184 & _pii = S1534580707001001 & _origin = gateway & _coverD
+ate = 04 / 30 / 2007 & _sk = 999879995 &
+ []
+
+[35]
+Underfull \hbox (badness 4647) in paragraph at lines 318--324
+[]\T1/phv/m/n/12 International Hu-man Genome Se-quenc-ing Con-sor-tium.  Fin-is
+h-ing the eu-chro-matic se-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 318--324
+\T1/phv/m/n/12 quence of the hu-man genome.  \T1/phv/m/sl/12 Na-ture\T1/phv/m/n
+/12 , 50(2):162--8, Febru-ary 2004.  ISSN 0039-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 339--346
 []\T1/phv/m/n/12 Tim Conze, Jenny Gorans-son, Hamid Reza Raz-za-ghian, Olle Er-
-ic-s-
+ic-s-son, Daniel Oberg,
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 285--292
-\T1/phv/m/n/12 son, Daniel Oberg, Goran Akus-jarvi, Ulf Lan-de-gren, and Mats N
-ils-
+Underfull \hbox (badness 1424) in paragraph at lines 339--346
+\T1/phv/m/n/12 Goran Akus-jarvi, Ulf Lan-de-gren, and Mats Nils-son.  Sin-gle m
+olecule anal-y-sis of com-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 285--292
-\T1/phv/m/sl/12 Res.\T1/phv/m/n/12 , page gkq581, June 2010.  doi: $\T1/cmr/m/n
-/12 10 . 1093 / nar / gkq581$\T1/phv/m/n/12 .  URL
+Underfull \hbox (badness 2393) in paragraph at lines 339--346
+\T1/phv/m/n/12 bi-na-to-rial splic-ing.  \T1/phv/m/sl/12 Nucl. Acids Res.\T1/ph
+v/m/n/12 , page gkq581, June 2010.  doi: $\T1/cmr/m/n/12 10 . 1093 / nar /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--292
-[][]$\T1/cmtt/m/n/12 http : / / nar . oxfordjournals . org / cgi / content / ab
-stract / gkq581v1http :
- []
-
-[46] [47]
-Underfull \hbox (badness 10000) in paragraph at lines 383--394
-\T1/phv/m/n/12 Se-basti�n Kadener, Guadalupe Nogu�s, Fed-erico Pelisch, Fran-
+Underfull \hbox (badness 3713) in paragraph at lines 356--366
+[]\T1/phv/m/n/12 Serena De Fazio, Ne-nad Bar-ton-icek, Mon-ica Di Gi-a-como, Ce
+i Abreu-Goodger, Aditya
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 383--394
-\T1/phv/m/n/12 cisco E. Bar-alle, An-dr�s F. Muro, and Al-berto R. Ko-rn-bli-ht
-t.  A Po-
+Underfull \hbox (badness 2941) in paragraph at lines 356--366
+\T1/phv/m/n/12 el-e-ments.  \T1/phv/m/sl/12 Na-ture\T1/phv/m/n/12 , ad-vance on
+, Oc-to-ber 2011.  ISSN 1476-4687.  doi: $\T1/cmr/m/n/12 10 . 1038 /
+ []
+
+[36]
+Underfull \hbox (badness 2671) in paragraph at lines 451--462
+\T1/phv/m/n/12 Guadalupe Nogu�s, Fed-erico Pelisch, Fran-cisco E. Bar-alle, An-
+dr�s F. Muro, and Al-
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 383--394
-\T1/phv/m/n/12 lar Mech-a-nism Co-or-di-nates Dif-fer-ent Re-gions of Al-ter-na
--tive Splic-
+Underfull \hbox (badness 2393) in paragraph at lines 451--462
+\T1/phv/m/n/12 berto R. Ko-rn-bli-htt.  A Po-lar Mech-a-nism Co-or-di-nates Dif
+-fer-ent Re-gions of Al-ter-na-tive
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 383--394
-\T1/phv/m/n/12 ing within a Sin-gle Gene.  \T1/phv/m/sl/12 Molec-u-lar Cell\T1/
-phv/m/n/12 , 19(3):393--404, Au-gust
+Underfull \hbox (badness 10000) in paragraph at lines 451--462
+\T1/cmtt/m/n/12 GatewayURL & _origin = CELLPRESS & _urlversion = 4 & _method = 
+citationSearch & _version = 1 & _src =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--394
-\T1/cmtt/m/n/12 / / www . sciencedirect . com / science ? _ob = GatewayURL & _o
-rigin = CELLPRESS &
+Underfull \hbox (badness 10000) in paragraph at lines 531--542
+[][]$\T1/cmtt/m/n/12 https : / / ssl . umassmed . edu / content / 108 / 51 / ,[
+]DanaInfo = www . pnas . org + 20790 . shorthttp :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--394
-\T1/cmtt/m/n/12 _urlversion = 4 & _method = citationSearch & _version = 1 & _sr
-c = FPDF &
+Underfull \hbox (badness 10000) in paragraph at lines 531--542
+\T1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? ar
+tid = 3251113 & tool = pmcentrez &
  []
 
-[48]
-Underfull \hbox (badness 4048) in paragraph at lines 454--464
-[]\T1/phv/m/n/12 Markus Hafner, Pablo Land-graf, Janos Lud-wig, Amanda Rice, To
-lu-
- []
-
-
-Underfull \hbox (badness 5563) in paragraph at lines 454--464
-\T1/phv/m/n/12 lope Ojo, Car-olina Lin, Daniel Holoch, Cindy Lim, and Thomas
+[37]
+Underfull \hbox (badness 1308) in paragraph at lines 552--563
+[]\T1/phv/m/n/12 Aihua Gu, Guix-i-ang Ji, Xi-ang-guo Shi, Yan Long, Yankai Xia,
+ Ling Song, Shoulin Wang,
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 454--464
-\T1/phv/m/n/12 us-ing cDNA li-brary se-quenc-ing.  \T1/phv/m/sl/12 Meth-ods (Sa
-n Diego, Calif.)\T1/phv/m/n/12 , 44(1):
+Underfull \hbox (badness 1264) in paragraph at lines 552--563
+\T1/phv/m/n/12 cep-ti-bil-ity to Sper-mato-genic Fail-ure in a Chi-nese Pop-u-l
+a-tion.  \T1/phv/m/sl/12 Hu-man Re-pro-duc-tion\T1/phv/m/n/12 , 25
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 454--464
-\T1/phv/m/n/12 3--12, Jan-uary 2008.  ISSN 1046-2023.  doi: $\T1/cmr/m/n/12 10 
-. 1016 / j . ymeth . 2007 .
+Underfull \hbox (badness 1147) in paragraph at lines 552--563
+\T1/phv/m/n/12 (12):2955--2961, De-cem-ber 2010.  ISSN 0268-1161, 1460-2350.  d
+oi: $\T1/cmr/m/n/12 10 . 1093 / humrep /
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 468--480
+Underfull \hbox (badness 6725) in paragraph at lines 580--592
 []\T1/phv/m/n/12 Markus Hafner, Markus Landthaler, Lukas Burger, Mohsen Khor-sh
-id,
+id, Jean Hausser,
  []
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 468--480
-\T1/phv/m/n/12 Jean Hausser, Philipp Berninger, An-drea Roth-baller, Manuel As-
-
+Underfull \hbox (badness 1178) in paragraph at lines 580--592
+\T1/phv/m/n/12 Philipp Berninger, An-drea Roth-baller, Manuel As-cano Jr., Anna
+-Carina Jungkamp, Math-
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 468--480
-\T1/phv/m/n/12 cano Jr., Anna-Carina Jungkamp, Math-ias Mun-schauer, Alexan-der
-
+Underfull \hbox (badness 4254) in paragraph at lines 580--592
+\T1/phv/m/n/12 ias Mun-schauer, Alexan-der Ul-rich, Greg S. War-dle, Scott Dewe
+ll, Mi-haela Za-volan,
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 468--480
-\T1/phv/m/n/12 Ul-rich, Greg S. War-dle, Scott Dewell, Mi-haela Za-volan, and T
-homas
+Underfull \hbox (badness 1742) in paragraph at lines 580--592
+\T1/phv/m/n/12 and Thomas Tuschl.  Transcriptome-wide Iden-ti-fi-ca-tion of RNA
+-Binding Pro-tein and Mi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
-\T1/phv/m/n/12 Tuschl.  Transcriptome-wide Iden-ti-fi-ca-tion of RNA-Binding Pr
-o-tein
+Underfull \hbox (badness 2261) in paragraph at lines 580--592
+\T1/phv/m/n/12 croRNA Tar-get Sites by PAR-CLIP.  \T1/phv/m/sl/12 Cell\T1/phv/m
+/n/12 , 141(1):129--141, April 2010.  ISSN 0092-
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 468--480
-\T1/phv/m/n/12 and Mi-croRNA Tar-get Sites by PAR-CLIP.  \T1/phv/m/sl/12 Cell\T
-1/phv/m/n/12 , 141(1):129--141,
+Underfull \hbox (badness 4036) in paragraph at lines 580--592
+\T1/phv/m/n/12 8674.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . cell . 2010 . 03 . 0
+09$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . 
+com / science /
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 468--480
-\T1/phv/m/n/12 April 2010.  ISSN 0092-8674.  doi: $\T1/cmr/m/n/12 10 . 1016 / j
- . cell . 2010 . 03 . 009$\T1/phv/m/n/12 .  URL
+Underfull \hbox (badness 10000) in paragraph at lines 580--592
+\T1/cmtt/m/n/12 article / B6WSN-[]4YRY58X-[]H / 2 / 506aed3f8c6aebed3d3b0918ed7
+e8ec1http : / / www . sciencedirect .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
-[][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . com / science / article /
- B6WSN-[]4YRY58X-[]H /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
-\T1/cmtt/m/n/12 2 / 506aed3f8c6aebed3d3b0918ed7e8ec1http : / / www . sciencedir
-ect .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
+Underfull \hbox (badness 10000) in paragraph at lines 580--592
 \T1/cmtt/m/n/12 com / science ? _ob = MImg & _imagekey = B6WSN-[]4YRY58X-[]H-[]
-1W & _cdi = 7051 &
+1W & _cdi = 7051 & _user = 115184 & _pii =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
-\T1/cmtt/m/n/12 _user = 115184 & _pii = S009286741000245X & _origin = gateway &
- _coverDate =
+Underfull \hbox (badness 10000) in paragraph at lines 580--592
+\T1/cmtt/m/n/12 S009286741000245X & _origin = gateway & _coverDate = 04 % 2F02 
+% 2F2010 & _sk = 998589998 & view = c &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--480
-\T1/cmtt/m/n/12 04 % 2F02 % 2F2010 & _sk = 998589998 & view = c & wchp = dGLzVz
-z-[]zSkWb & md5 =
+Underfull \hbox (badness 2376) in paragraph at lines 608--616
+\T1/phv/m/n/12 a-nism of RNA lig-ase.  \T1/phv/m/sl/12 Struc-ture (Lon-don, Eng
+-land: 1993)\T1/phv/m/n/12 , 12(2):327--339, Febru-ary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--504
-\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov
- / pubmed / 14962393http : / / pdn .
+Underfull \hbox (badness 10000) in paragraph at lines 608--616
+\T1/cmtt/m/n/12 gov / pubmed / 14962393http : / / pdn . sciencedirect . com / s
+cience ? _ob = MiamiImageURL & _cid =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--504
-\T1/cmtt/m/n/12 sciencedirect . com / science ? _ob = MiamiImageURL & _cid = 27
-2027 & _user =
+Underfull \hbox (badness 10000) in paragraph at lines 608--616
+\T1/cmtt/m/n/12 272027 & _user = 115184 & _pii = S0969212604000231 & _check = y
+ & _origin = article & _zone = toolbar &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--504
-\T1/cmtt/m/n/12 115184 & _pii = S0969212604000231 & _check = y & _origin = arti
-cle & _zone =
+Underfull \hbox (badness 10000) in paragraph at lines 608--616
+\T1/cmtt/m/n/12 _coverDate = 29-[]Feb-[]2004 & view = c & originContentFamily =
+ serial & wchp = dGLbVlt-[]zSkWA & md5 =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 496--504
-\T1/cmtt/m/n/12 toolbar & _coverDate = 29-[]Feb-[]2004 & view = c & originConte
-ntFamily = serial &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 496--504
-\T1/cmtt/m/n/12 wchp = dGLbVlt-[]zSkWA & md5 = 018e26b1b114f6a73bef97ac8a7ccefd
- / 1-[]s2 .
- []
-
-[49]
-Underfull \hbox (badness 1005) in paragraph at lines 558--566
-\T1/phv/m/n/12 Lo-erch, Christo-pher D Ar-mour, Ralph San-tos, Eric E Schadt, R
-oland
- []
-
+[38]
 
 ! Package inputenc Error: Unicode char \u8:� not set up for use with LaTeX.
 
@@ -1683,222 +1825,49 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.570 \newblock \emph{Zeitschrift f�r Physik}
+l.682 \newblock \emph{Zeitschrift f�r Physik}
                                                , 44\penalty0 (4-5):\penalty0
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[39]
+Underfull \hbox (badness 1337) in paragraph at lines 856--866
+\T1/cmr/m/n/12 gkt1032$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / ww
+w . ncbi . nlm . nih . gov / pubmed / 24203707http : / / www . pubmedcentral .
+ []
 
-Underfull \hbox (badness 2680) in paragraph at lines 577--586
-[]\T1/phv/m/n/12 K Kleppe, J H Van de Sande, and H G Kho-rana.  Polynu-cleotide
-
+[40]
+Underfull \hbox (badness 1142) in paragraph at lines 945--955
+\T1/cmr/m/n/12 1158441$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / ww
+w . ncbi . nlm . nih . gov / pubmed / 18451266http : / / www . pubmedcentral .
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 577--586
-\T1/phv/m/n/12 tem-plates and of ribo-oligonucleotides on de-oxyri-bopolynu-cle
-otide tem-
+Underfull \hbox (badness 10000) in paragraph at lines 980--988
+\T1/cmtt/m/n/12 nlm . nih . gov / pubmed / 17018278http : / / pdn . sciencedire
+ct . com / science ? _ob = MiamiImageURL &
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 577--586
-\T1/phv/m/n/12 plates.  \T1/phv/m/sl/12 Pro-ceed-ings of the Na-tional Academy 
-of Sci-ences of the
+Underfull \hbox (badness 10000) in paragraph at lines 980--988
+\T1/cmtt/m/n/12 _cid = 272196 & _user = 115184 & _pii = S0092867406011603 & _ch
+eck = y & _origin = article &
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 577--586
-\T1/phv/m/n/12 8424.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
- nih . gov / articlerender . fcgi ?
- []
-
-[50]
-Underfull \hbox (badness 3679) in paragraph at lines 605--612
-[]\T1/phv/m/n/12 Tina Lenasi, B. Matija Pe-ter-lin, and Pe-ter Dovc.  Dis-tal r
-eg-u-la-tion
+Underfull \hbox (badness 10000) in paragraph at lines 980--988
+\T1/cmtt/m/n/12 _zone = toolbar & _coverDate = 06-[]Oct-[]2006 & view = c & ori
+ginContentFamily = serial & wchp =
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 605--612
-\T1/phv/m/n/12 of al-ter-na-tive splic-ing by splic-ing en-hancer in equine $\O
-ML/cmm/m/it/12 ^^L$\T1/phv/m/n/12 -casein in-tron
+Underfull \hbox (badness 10000) in paragraph at lines 980--988
+\T1/cmtt/m/n/12 dGLbVBA-[]zSkWz & md5 = 73f1e929c58ce0a0d8812ec3873211f5 / 1-[]
+s2 . 0-[]S0092867406011603-[]main .
  []
 
-
-Underfull \hbox (badness 2088) in paragraph at lines 605--612
-\T1/phv/m/n/12 1.  \T1/phv/m/sl/12 RNA\T1/phv/m/n/12 , 12(3):498 --507, March 2
-006.  doi: $\T1/cmr/m/n/12 10 . 1261 / rna . 7261206$\T1/phv/m/n/12 .
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 605--612
-\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / rnajournal . cshlp . org / c
-ontent / 12 / 3 / 498 . abstracthttp : / /
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 626--636
-[]\T1/phv/m/n/12 Mingyao Li, Is-abel X Wang, Yun Li, Alan Bruzel, Al-li-son L R
-ichards,
- []
-
-
-Underfull \hbox (badness 1509) in paragraph at lines 651--660
-[]\T1/phv/m/n/12 Ryan Lis-ter, Ro-nan C O'Malley, Ju-lian Tonti-Filippini, Bria
-n D Gre-gory,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 651--660
-\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov
- / pubmed / 18423832http : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 651--660
-\T1/cmtt/m/n/12 pubmedcentral . nih . gov / articlerender . fcgi ? artid = 2723
-732 & tool =
- []
-
-
-Underfull \hbox (badness 1515) in paragraph at lines 663--673
-[]\T1/phv/m/n/12 Gregory J S Lohman, Yin-hua Zhang, Alexan-der M Zhelkovsky, Er
-ic J
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 663--673
-\T1/phv/m/n/12 Can-tor, Thomas C Evans, and Thomas C Evans Jr.  Ef-fi-cient DNA
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--673
-\T1/cmtt/m/n/12 24203707http : / / www . pubmedcentral . nih . gov / articleren
-der . fcgi ?
- []
-
-[51]
-Underfull \hbox (badness 1546) in paragraph at lines 752--762
-[]\T1/phv/m/n/12 Ugrappa Na-galak-shmi, Zhong Wang, Karl Waern, Chong Shou, De-
-ba-
- []
-
-
-Underfull \hbox (badness 1496) in paragraph at lines 752--762
-\T1/phv/m/n/12 sish Raha, Mark Ger-stein, and Michael Sny-der.  The tran-scrip-
-tional
- []
-
-
-Underfull \hbox (badness 5519) in paragraph at lines 752--762
-\T1/cmr/m/n/12 10 . 1126 / science . 1158441$\T1/phv/m/n/12 .  URL [][]$\T1/cmt
-t/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 752--762
-\T1/cmtt/m/n/12 18451266http : / / www . pubmedcentral . nih . gov / articleren
-der . fcgi ?
- []
-
-[52]
-Underfull \hbox (badness 2495) in paragraph at lines 787--795
-[]\T1/phv/m/n/12 Jayakrishnan Nan-daku-mar, Stew-art Shu-man, and Christo-pher 
-D Lima.
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 787--795
-\T1/phv/m/n/12 RNA lig-ase struc-tures re-veal the ba-sis for RNA speci-ficity 
-and con-
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 787--795
-\T1/phv/m/n/12 for-ma-tional changes that drive lig-a-tion for-ward.  \T1/phv/m
-/sl/12 Cell\T1/phv/m/n/12 , 127(1):71--84,
- []
-
-
-Underfull \hbox (badness 4492) in paragraph at lines 787--795
-\T1/phv/m/n/12 Oc-to-ber 2006.  ISSN 0092-8674.  doi: $\T1/cmr/m/n/12 10 . 1016
- / j . cell . 2006 . 08 . 038$\T1/phv/m/n/12 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--795
-\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov
- / pubmed / 17018278http : / / pdn .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--795
-\T1/cmtt/m/n/12 sciencedirect . com / science ? _ob = MiamiImageURL & _cid = 27
-2196 & _user =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--795
-\T1/cmtt/m/n/12 115184 & _pii = S0092867406011603 & _check = y & _origin = arti
-cle & _zone =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--795
-\T1/cmtt/m/n/12 toolbar & _coverDate = 06-[]Oct-[]2006 & view = c & originConte
-ntFamily = serial &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--795
-\T1/cmtt/m/n/12 wchp = dGLbVBA-[]zSkWz & md5 = 73f1e929c58ce0a0d8812ec3873211f5
- / 1-[]s2 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 797--805
-\T1/cmtt/m/n/12 nature . com / nature / journal / v463 / n7280 / full / nature0
-8909 . htmlhttp :
- []
-
-
-Underfull \hbox (badness 2762) in paragraph at lines 836--845
-[]\T1/phv/m/n/12 Qun Pan, Ofer Shai, Leo J Lee, Bren-dan J Frey, and Ben-jamin 
-J
- []
-
-[53]
-Underfull \hbox (badness 4378) in paragraph at lines 855--863
-[]\T1/phv/m/n/12 Marilyn K Parra, Jeff S Tan, Narla Mo-han-das, and John G Con-
-
- []
-
-
-Underfull \hbox (badness 4859) in paragraph at lines 855--863
-\T1/phv/m/n/12 boy.  In-trasplic-ing co-or-di-nates al-ter-na-tive first ex-ons
- with al-ter-na-
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 855--863
-\T1/phv/m/n/12 tive splic-ing in the pro-tein 4.1R gene.  \T1/phv/m/sl/12 EMBO 
-J\T1/phv/m/n/12 , 27(1):122--131,
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 855--863
-\T1/phv/m/n/12 Jan-uary 2008.  ISSN 0261-4189.  doi: $\T1/cmr/m/n/12 10 . 1038 
-/ sj . emboj . 7601957$\T1/phv/m/n/12 .
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 855--863
-\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / dx . doi . org / 10 . 1038 /
- sj . emboj . 7601957http : / / www . nature .
- []
-
+[41]
 
 ! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
 
@@ -1906,384 +1875,254 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.869 ...inucleotides To Regulate Alternative 3′
+l.1069 ...nucleotides To Regulate Alternative 3′
                                                    Splice Site Choice in
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 879--888
-\T1/phv/m/n/12 gong Zhang, and Yanda Li.  Func-tional im-por-tance of dif-fer-e
-nt pat-
+Underfull \hbox (badness 1152) in paragraph at lines 1091--1100
+\T1/phv/m/n/12 ons in hu-man and mouse.  \T1/phv/m/sl/12 BMC Ge-nomics\T1/phv/m
+/n/12 , 9(1):191, 2008.  ISSN 1471-2164.  doi:
+ []
+
+[42]
+Underfull \hbox (badness 3919) in paragraph at lines 1175--1180
+[]\T1/phv/m/n/12 Donald Rums-feld.  Known and un-known: a mem-oir.  2011.  URL 
+[][]$\T1/cmtt/m/n/12 http : / / books .
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 879--888
-\T1/phv/m/n/12 terns of cor-re-la-tion be-tween ad-ja-cent cas-sette ex-ons in 
-hu-man and
- []
-
-[54]
-Underfull \hbox (badness 2326) in paragraph at lines 960--967
-\T1/phv/m/n/12 8424.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
- nih . gov / articlerender . fcgi ?
+Underfull \hbox (badness 10000) in paragraph at lines 1175--1180
+\T1/cmtt/m/n/12 google . com / books ? hl = en & lr = &id = _wIcpxMOjD4C & oi =
+ fnd & pg = PA1 & dq = Known + and + unknown :
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 989--1000
-[]\T1/phv/m/n/12 Dietmar Schmucker, James C Clemens, Huidy Shu, Car-olyn A Worb
-y,
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+\T1/cmtt/m/n/12 pii / S0092867400808788http : / / pdn . sciencedirect . com / s
+cience ? _ob = MiamiImageURL & _cid =
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 989--1000
-\T1/phv/m/n/12 Jian Xiao, Marco Muda, Jack E Dixon, and S.Lawrence Zipursky.
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+\T1/cmtt/m/n/12 272196 & _user = 115184 & _pii = S0092867400808788 & _check = y
+ & _origin = article & _zone = toolbar &
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 989--1000
-\T1/phv/m/n/12 Drosophila Dscam Is an Axon Guid-ance Re-cep-tor Ex-hibit-ing Ex
--traor-
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+\T1/cmtt/m/n/12 _coverDate = 09-[]Jun-[]2000 & view = c & originContentFamily =
+ serial & wchp = dGLbVlV-[]zSkzS &
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 989--1000
-\T1/phv/m/n/12 di-nary Molec-u-lar Di-ver-sity.  \T1/phv/m/sl/12 Cell\T1/phv/m/
-n/12 , 101(6):671--684, June 2000.  ISSN
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+\T1/cmtt/m/n/12 md5 = 76cf30668637005c4da6fc6dc8de1873 & pid = 1-[]s2 . 0-[]S00
+92867400808788-[]main . pdfhttp :
  []
 
-
-Underfull \hbox (badness 2875) in paragraph at lines 989--1000
-\T1/phv/m/n/12 00928674.  doi: $\T1/cmr/m/n/12 10 . 1016 / S0092-[]8674(00 ) 80
-878-[]8$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 sciencedirect . com / science / article / pii / S00928674008087
-88http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 / / pdn . sciencedirect . com / science ? _ob = MiamiImageURL &
- _cid = 272196 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 _user = 115184 & _pii = S0092867400808788 & _check = y & _origi
-n = article &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 _zone = toolbar & _coverDate = 09-[]Jun-[]2000 & view = c & ori
-ginContentFamily =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 serial & wchp = dGLbVlV-[]zSkzS & md5 = 76cf30668637005c4da6fc6
-dc8de1873 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 989--1000
-\T1/cmtt/m/n/12 pid = 1-[]s2 . 0-[]S0092867400808788-[]main . pdfhttp : / / lin
-kinghub . elsevier .
- []
-
-[55]
-Underfull \hbox (badness 1038) in paragraph at lines 1013--1023
-[]\T1/phv/m/n/12 Alex K Shalek, Rahul Satija, Xian Adi-co-nis, Rona S Gert-ner,
- Jellert T
- []
-
-
-Underfull \hbox (badness 3826) in paragraph at lines 1035--1039
+[43]
+Underfull \hbox (badness 2617) in paragraph at lines 1280--1284
 []\T1/phv/m/n/12 Phillip A. Sharp.  No-bel Lec-tures in Phys-i-ol-ogy or Medici
-ne 1991-
+ne 1991-1995, 2014.  URL
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 1035--1039
-\T1/phv/m/n/12 1995, 2014.  URL [][]$\T1/cmtt/m/n/12 http : / / www . nobelpriz
-e . org / nobel _ organizations /
+Underfull \hbox (badness 10000) in paragraph at lines 1280--1284
+[][]$\T1/cmtt/m/n/12 http : / / www . nobelprize . org / nobel _ organizations 
+/ nobelfoundation / publications /
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 1041--1049
-[]\T1/phv/m/n/12 Jay Shen-dure and Erez Lieber-man Aiden.  The ex-pand-ing scop
-e
+Underfull \hbox (badness 1184) in paragraph at lines 1286--1294
+\T1/phv/m/sl/12 ture Biotech-nol-ogy\T1/phv/m/n/12 , 30(11):1084--1094, 2012.  
+ISSN 1087-0156.  doi: $\T1/cmr/m/n/12 10 . 1038 / nbt . 2421$\T1/phv/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1049
-\T1/phv/m/n/12 of DNA se-quenc-ing.  \T1/phv/m/sl/12 Na-ture Biotech-nol-ogy\T1
-/phv/m/n/12 , 30(11):1084--1094,
+Underfull \hbox (badness 1845) in paragraph at lines 1286--1294
+\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . nature . com / nbt / j
+ournal / v30 / n11 / full / nbt . 2421 . htmlhttp : / / www . nature .
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1041--1049
-\T1/phv/m/n/12 2012.  ISSN 1087-0156.  doi: $\T1/cmr/m/n/12 10 . 1038 / nbt . 2
-421$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http :
+Underfull \hbox (badness 1708) in paragraph at lines 1356--1365
+[]\T1/phv/m/n/12 Katsuyuki Shi-roguchi, Tony Z Jia, Pe-ter a Sims, and X Sun-ne
+y Xie.  Dig-i-tal RNA se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1049
-\T1/cmtt/m/n/12 / / www . nature . com / nbt / journal / v30 / n11 / full / nbt
- . 2421 . htmlhttp :
+Underfull \hbox (badness 1838) in paragraph at lines 1356--1365
+\T1/phv/m/n/12 molecule bar-codes.  \T1/phv/m/sl/12 Pro-ceed-ings of the Na-tio
+nal Academy of Sci-ences of the United
+ []
+
+[44]
+Underfull \hbox (badness 1424) in paragraph at lines 1386--1394
+[]\T1/phv/m/n/12 V Sriskanda and S Shu-man.  Speci-ficity and fi-delity of stra
+nd join-ing by Chlorella virus
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1080--1085
-[]\T1/phv/m/n/12 AW Shin-gle-ton, GC Sisk, and DL Stern.  Di-a-pause in the pea
- aphid
- []
-
-[56]
-Underfull \hbox (badness 1270) in paragraph at lines 1096--1104
-\T1/phv/m/n/12 Chlorella virus DNA lig-ase.  \T1/phv/m/sl/12 Nu-cleic acids re-
-search\T1/phv/m/n/12 , 26(15):3536--41,
+Underfull \hbox (badness 3826) in paragraph at lines 1386--1394
+\T1/phv/m/n/12 DNA lig-ase.  \T1/phv/m/sl/12 Nu-cleic acids re-search\T1/phv/m/
+n/12 , 26(15):3536--41, Au-gust 1998.  ISSN 0305-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1096--1104
-\T1/cmtt/m/n/12 gov / articlerender . fcgi ? artid = 147728 & tool = pmcentrez 
-& rendertype =
+Underfull \hbox (badness 1584) in paragraph at lines 1386--1394
+\T1/phv/m/n/12 1048.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
+ nih . gov / articlerender . fcgi ? artid = 147728 & tool =
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 1106--1112
-[]\T1/phv/m/n/12 R Staden.  A strat-egy of DNA se-quenc-ing em-ploy-ing com-put
-er pro-
+Underfull \hbox (badness 2073) in paragraph at lines 1455--1466
+\T1/phv/m/n/12 Pi-mentel, Steven L Salzberg, John L Rinn, and Lior Pachter.  Di
+f-fer-en-tial gene and
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 1106--1112
-\T1/phv/m/n/12 grams.  \T1/phv/m/sl/12 Nu-cleic Acids Re-search\T1/phv/m/n/12 ,
- 6(7):2601--2610, 1979.  URL
+Underfull \hbox (badness 1389) in paragraph at lines 1455--1466
+\T1/phv/m/n/12 tran-script ex-pres-sion anal-y-sis of RNA-seq ex-per-i-ments wi
+th TopHat and Cuf-flinks.  \T1/phv/m/sl/12 Na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1106--1112
-[][]$\T1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pmc / articles /
- PMC327874 / http :
+Underfull \hbox (badness 1194) in paragraph at lines 1455--1466
+\T1/phv/m/sl/12 ture Pro-to-cols\T1/phv/m/n/12 , 7(3):562--578, March 2012.  IS
+SN 1754-2189.  doi: $\T1/cmr/m/n/12 10 . 1038 / nprot . 2012 .
+ []
+
+[45]
+Underfull \hbox (badness 2020) in paragraph at lines 1563--1569
+\T1/phv/m/n/12 0143114182.  URL [][]$\T1/cmtt/m/n/12 http : / / www . amazon . 
+com / Life-[]Decoded-[]My-[]Genome / dp / B002HREL9Khttp :
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 1153--1162
-\T1/phv/m/n/12 Mar-i-jke J van Baren, Steven L Salzberg, Bar-bara J Wold, and L
-ior
+Underfull \hbox (badness 10000) in paragraph at lines 1563--1569
+\T1/cmtt/m/n/12 / / books . google . com / books ? hl = en & lr = &id = jx9JsHr
+y1PgC & oi = fnd & pg = PA1 & dq = A + Life + Decoded :
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 1165--1176
-[]\T1/phv/m/n/12 Cole Trap-nell, Adam Roberts, Loyal Goff, Geo Pertea, Dae-hwan
- Kim,
+Underfull \hbox (badness 3098) in paragraph at lines 1582--1593
+[]\T1/phv/m/n/12 Anastassios Vourekas, Qi Zheng, Pana-gi-o-tis Alex-iou, Mano-l
+is Maragkakis, Yohei Kirino,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1165--1176
-\T1/cmtt/m/n/12 www . nature . com / nprot / journal / v7 / n3 / full / nprot .
- 2012 . 016 . htmlhttp :
- []
-
-[57] [58]
-Underfull \hbox (badness 2326) in paragraph at lines 1273--1279
-[]\T1/phv/m/n/12 JC Ven-ter.  \T1/phv/m/sl/12 A life de-coded: my genome, my li
-fe\T1/phv/m/n/12 .  Pen-guin (Non-
+Underfull \hbox (badness 1721) in paragraph at lines 1582--1593
+\T1/phv/m/n/12 Brian D. Gre-gory, and Zis-si-mos Moure-latos.  Mili and Miwi ta
+r-get RNA reper-toire re-
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 1273--1279
-\T1/phv/m/n/12 Classics), 2007.  ISBN 0143114182.  URL [][]$\T1/cmtt/m/n/12 htt
-p : / / www . amazon . com /
+Underfull \hbox (badness 3679) in paragraph at lines 1582--1593
+\T1/phv/m/n/12 veals piRNA bio-gen-e-sis and func-tion of Miwi in spermio-gen-e
+-sis.  \T1/phv/m/sl/12 Na-ture Struc-tural
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1279
-\T1/cmtt/m/n/12 Life-[]Decoded-[]My-[]Genome / dp / B002HREL9Khttp : / / books 
-. google . com /
+Underfull \hbox (badness 3407) in paragraph at lines 1582--1593
+\T1/phv/m/sl/12 & Molec-u-lar Bi-ol-ogy\T1/phv/m/n/12 , 19(8):773--781, 2012.  
+ISSN 1545-9993.  doi: $\T1/cmr/m/n/12 10 . 1038 / nsmb .
+ []
+
+[46]
+Underfull \hbox (badness 2512) in paragraph at lines 1695--1705
+[]\T1/phv/m/n/12 Joanne M. Yeak-ley, Jian-Bing Fan, Den-nis Doucet, Lin Luo, El
+iza Wick-ham, Zhen Ye,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1279
-\T1/cmtt/m/n/12 books ? hl = en & lr = &id = jx9JsHry1PgC & oi = fnd & pg = PA1
- & dq = A + Life + Decoded :
+Underfull \hbox (badness 1484) in paragraph at lines 1695--1705
+\T1/phv/m/n/12 Mark S. Chee, and Xiang-Dong Fu.  Pro-fil-ing al-ter-na-tive spl
+ic-ing on fiber-optic ar-rays.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1279
-\T1/cmtt/m/n/12 +My + Genome : +My + Life & ots = Hqq64xIjzP & sig = VyT45kqGEI
-0bLqNBO8p _
+Underfull \hbox (badness 2772) in paragraph at lines 1695--1705
+\T1/phv/m/sl/12 Na-ture Biotech-nol-ogy\T1/phv/m/n/12 , 20(4):353--358, April 2
+002.  ISSN 1087-0156.  doi: $\T1/cmr/m/n/12 10 . 1038 /
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 1282--1289
-[]\T1/phv/m/n/12 Sebastien Vi-o-l-let, Ryan T Fuchs, Daniela B Mu-nafo, Fan-gle
-i Zhuang,
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+\T1/cmtt/m/n/12 cell . com / neuron / abstract / S0896-[]6273(04 ) 00431-[]3htt
+p : / / www . sciencedirect . com / science ?
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 1282--1289
-\T1/phv/m/n/12 and Gre-gory B Robb.  T4 RNA Lig-ase 2 trun-cated ac-tive site m
-u-
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+\T1/cmtt/m/n/12 _ob = GatewayURL & _origin = CELLPRESS & _urlversion = 4 & _met
+hod = citationSearch & _version =
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 1282--1289
-\T1/phv/m/n/12 tants: im-proved tools for RNA anal-y-sis.  \T1/phv/m/sl/12 BMC 
-Biotech-nol-ogy\T1/phv/m/n/12 , 11(1):
- []
-
-[59]
-Underfull \hbox (badness 2237) in paragraph at lines 1383--1393
-\T1/phv/m/n/12 splic-ing on fiber-optic ar-rays.  \T1/phv/m/sl/12 Na-ture Biote
-ch-nol-ogy\T1/phv/m/n/12 , 20(4):353--358,
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+\T1/cmtt/m/n/12 1 & _src = FPDF & _piikey = S0896627304004313 & md5 = dc4c49dba
+613e4c5b586cf0971dee1f2http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1393
-\T1/cmtt/m/n/12 / / www . nature . com / nbt / journal / v20 / n4 / full / nbt0
-402-[]353 . htmlhttp :
+Underfull \hbox (badness 1983) in paragraph at lines 1739--1747
+\T1/phv/m/sl/12 Im-mu-nity\T1/phv/m/n/12 , 29(6):839--841, De-cem-ber 2008.  IS
+SN 1074-7613.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . immuni .
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 1405--1416
-[]\T1/phv/m/n/12 Xiao-Li Zhan, James C. Clemens, Guil-herme Neves, Daisuke Hat-
-tori,
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+\T1/cmr/m/n/12 2008 . 12 . 005$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http 
+: / / www . sciencedirect . com / science / article / B6WSP-[]4V5PHVG-[]2 /
  []
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 1405--1416
-\T1/phv/m/n/12 John J. Flana-gan, Thomas Hum-mel, M. Luisa Vas-con-ce-los, An-
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 1405--1416
-\T1/phv/m/n/12 drew Chess, and S. Lawrence Zipursky.  Anal-y-sis of Dscam Di-ve
-r-
- []
-
-
-Underfull \hbox (badness 3557) in paragraph at lines 1405--1416
-\T1/phv/m/n/12 sity in Reg-u-lat-ing Axon Guid-ance in Drosophila Mush-room Bod
--ies.
- []
-
-
-Underfull \hbox (badness 2644) in paragraph at lines 1405--1416
-\T1/phv/m/sl/12 Neu-ron\T1/phv/m/n/12 , 43(5):673--686, Septem-ber 2004.  ISSN 
-0896-6273.  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1416
-\T1/cmr/m/n/12 10 . 1016 / j . neuron . 2004 . 07 . 020$\T1/phv/m/n/12 .  URL [
-][]$\T1/cmtt/m/n/12 http : / / www . cell . com / neuron /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1416
-\T1/cmtt/m/n/12 abstract / S0896-[]6273(04 ) 00431-[]3http : / / www . scienced
-irect . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1416
-\T1/cmtt/m/n/12 science ? _ob = GatewayURL & _origin = CELLPRESS & _urlversion 
-= 4 & _method =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1416
-\T1/cmtt/m/n/12 citationSearch & _version = 1 & _src = FPDF & _piikey = S089662
-7304004313 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1416
-\T1/cmtt/m/n/12 md5 = dc4c49dba613e4c5b586cf0971dee1f2http : / / dx . doi . org
- / 10 . 1016 / j .
- []
-
-[60]
-Underfull \hbox (badness 5726) in paragraph at lines 1427--1435
-[]\T1/phv/m/n/12 Julie Zikher-man and Arthur Weiss.  Al-ter-na-tive Splic-ing o
-f CD45:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
-\T1/phv/m/n/12 The Tip of the Ice-berg.  \T1/phv/m/sl/12 Im-mu-nity\T1/phv/m/n/
-12 , 29(6):839--841, De-cem-ber
- []
-
-
-Underfull \hbox (badness 2134) in paragraph at lines 1427--1435
-\T1/phv/m/n/12 2008.  ISSN 1074-7613.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . imm
-uni . 2008 . 12 . 005$\T1/phv/m/n/12 .  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
-[][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . com / science / article /
- B6WSP-[]4V5PHVG-[]2 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
 \T1/cmtt/m/n/12 2 / 85564fb6cf8edff69e39ac25ef6c8484http : / / www . sciencedir
-ect .
+ect . com / science ? _ob =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
-\T1/cmtt/m/n/12 com / science ? _ob = MImg & _imagekey = B6WSP-[]4V5PHVG-[]2-[]
-1 & _cdi = 7052 &
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+\T1/cmtt/m/n/12 MImg & _imagekey = B6WSP-[]4V5PHVG-[]2-[]1 & _cdi = 7052 & _use
+r = 115184 & _pii = S1074761308005153 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
-\T1/cmtt/m/n/12 _user = 115184 & _pii = S1074761308005153 & _origin = & _ cover
-Date =
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+\T1/cmtt/m/n/12 _origin = & _ coverDate = 12 / 19 / 2008 & _sk = 999709993 & vi
+ew = c & wchp = dGLbVzz-[]zSkWb & md5 =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1435
-\T1/cmtt/m/n/12 12 / 19 / 2008 & _sk = 999709993 & view = c & wchp = dGLbVzz-[]
-zSkWb & md5 =
- []
-
-)
+[47])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-[61]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 365.
+[48]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 365.
  (./thesis.v0.14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 365.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 365.
 Package rerunfilecheck Info: File `thesis.v0.14.out' has not changed.
-(rerunfilecheck)             Checksum: 63DBE3AF3042C4C090D7CCE887E4EE59;5485.
+(rerunfilecheck)             Checksum: E4470D5F2B622D7254E0C35AEEFA6179;11585.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 365.
  ) 
 Here is how much of TeX's memory you used:
- 19448 strings out of 493308
- 309677 string characters out of 6137816
- 384041 words of memory out of 5000000
- 22328 multiletter control sequences out of 15000+600000
- 75752 words of font info for 94 fonts, out of 8000000 for 9000
+ 20583 strings out of 493308
+ 323729 string characters out of 6137816
+ 501192 words of memory out of 5000000
+ 23378 multiletter control sequences out of 15000+600000
+ 76065 words of font info for 95 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,12n,45p,10447b,674s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,13n,45p,10441b,1399s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
@@ -2306,10 +2145,10 @@ type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
 rw/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/hel
 vetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/u
 hvro8a.pfb>
-Output written on thesis.v0.14.pdf (76 pages, 4258188 bytes).
+Output written on thesis.v0.14.pdf (62 pages, 4576385 bytes).
 PDF statistics:
- 1915 PDF objects out of 2073 (max. 8388607)
- 1542 compressed objects within 16 object streams
- 248 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2209 PDF objects out of 2487 (max. 8388607)
+ 1833 compressed objects within 19 object streams
+ 303 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
 

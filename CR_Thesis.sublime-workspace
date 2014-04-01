@@ -3,6 +3,50 @@
 	{
 		"selected_items":
 		[
+			[
+				"Voureka",
+				"Vourekas2012"
+			],
+			[
+				"NEBEL",
+				"NEBEL1961"
+			],
+			[
+				"Ho200",
+				"Ho2004"
+			],
+			[
+				"Johnson",
+				"Johnson2011"
+			],
+			[
+				"Peng",
+				"Peng2008"
+			],
+			[
+				"Parra20",
+				"Parra2008"
+			],
+			[
+				"te",
+				"textit"
+			],
+			[
+				"txt",
+				"textsuperscript"
+			],
+			[
+				"Wang200",
+				"Wang2008"
+			],
+			[
+				"Shale",
+				"Shalek2013b"
+			],
+			[
+				"Gh",
+				"Ghildiyal"
+			]
 		]
 	},
 	"buffers":
@@ -11,9 +55,37 @@
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 67.0,
 		"selected_items":
 		[
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: Descr",
+				"Snippet: Description"
+			],
+			[
+				"Snippet: Itemize",
+				"Snippet: Itemize"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Itemize"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Install",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Insta",
 				"Package Control: Install Package"
@@ -33,10 +105,6 @@
 			[
 				"Package",
 				"Package Control: Install Package"
-			],
-			[
-				"Snippet: ",
-				"Snippet: Markdown_link_(mdl)"
 			],
 			[
 				"install ",
@@ -71,7 +139,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 602.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -88,25 +156,45 @@
 	},
 	"file_history":
 	[
-		"/Users/royc/Dropbox/Thesis/CR_Thesis.sublime-workspace",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
 		"/Users/royc/Dropbox/Thesis/thesis.v0.14.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/royc/Dropbox/Thesis/library.bib",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter5-Discussion.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-MolCel2013.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-Introduction.tex",
 		"/Users/royc/Dropbox/Thesis/CR_Thesis.sublime-project",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/royc/Dropbox/Thesis/README.md",
+		"/Users/royc/Desktop/psl.to.bed.best.score.pl",
+		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1396097639/ghpcc/home/cr90w/my.project.space/SeqZip/dscam.seqzip.indexes/dscam.seqzip.v8.indexes/psl.to.bed.best.score.pl",
+		"/Users/royc/Dropbox/Thesis/Appendices/AppendixA.tex",
+		"/Users/royc/Desktop/todo.md",
+		"/Users/royc/Dropbox/Thesis/Bibliography_2.bib",
+		"/Users/royc/Dropbox/Thesis/Thesis.cls",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter3-SeqZipManuscript.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZipMethodology.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-MolCel2013.tex",
+		"/Users/royc/Dropbox/Thesis/ZZ_Master_LaTeX_Theis_Template/Chapters/Chapter1.tex",
+		"/Users/royc/Dropbox/Thesis/Tables/FlyGenesWith1000sofTx.tex",
+		"/Users/royc/Dropbox/Thesis/Variables.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/ChapterTemplate.tex",
+		"/Users/royc/Dropbox/Thesis/CR_Thesis.sublime-workspace",
 		"/Users/royc/Dropbox/Thesis/LaTex/CR_Thesis.sublime-project",
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1-Introduction.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/Thesis.cls",
 		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography_2.bib",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.toc",
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.bbl",
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/main.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
 		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography.bib",
 		"/Users/royc/Desktop/thesis.v0.13.tex",
 		"/Users/royc/Desktop/test.tex",
@@ -144,7 +232,6 @@
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Table Editor/Default (OSX).sublime-keymap",
 		"/Users/royc/Desktop/Rnl2_AMP.pymolLog",
 		"/Users/royc/Dropbox/Experiments/12-DSCAM-HOLD/12-80_protocol.md",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
 		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394165017/ghpcc/home/cr90w/bin/uniq.reads+",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/ghpcc",
 		"/Users/royc/Dropbox/Thesis/Markdowns/ghpcc.sftp-config.json",
@@ -171,9 +258,73 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"Kuramochi-Miyagawa2004",
+			"Kuramochi-Miyagawa",
+			"\\textit{Drosophila melanogaster}",
+			"Drosophila melanogaster",
+			"Regulate Alternative 3",
+			"Regulate Alternative 3′",
+			"′",
+			"±",
+			" ",
+			"C-Myb",
+			"B-Myb",
+			"Spo11",
+			"Mili",
+			"Miwi",
+			"A-Myb",
+			"mybrepro{}",
+			"\\mybrepro{}",
+			"\\mybrepro",
+			"Mybl1repro9",
+			"three ",
+			"‑",
+			"\\lt",
+			"$\\rho \\lt",
+			"PO\\",
+			" ",
+			"−",
+			"´",
+			"Johnson",
+			"r2011",
+			"×",
+			"∼",
+			"´",
+			"Grivna2006a\n\n\n\n\nGrivna",
+			"Grivna2006a\n\n\n\n\nGrivna200",
+			"Shirayama",
+			"Lin2009",
+			"ρ",
+			"′",
+			"\\geneSlo",
+			"\\fn1",
+			"\\geneFn",
+			"\\geneFn1",
+			"\\geneKcnma",
+			"\\textprime ",
+			"\\geneFn",
+			"nucleotides To Regulate",
+			"′",
+			"´",
+			"Martinez-Contreras2007",
+			"Martinez-Contreras2007a",
+			"\\InsertFigure",
+			"\\emph{Zeitschrift",
+			"Moderak",
+			"Mod",
+			"Moder",
+			"Moderak",
+			"Gilbert1978",
+			"Shendure2012\nShendure",
+			"Shendure2012\nShen",
+			"Shendure2012\nShendure",
+			"Shendure",
+			"Shendure2012",
+			"Shapiro2013",
+			"Sha",
 			"Trapnell2010",
 			"Li2011",
 			"Blencowe",
@@ -209,9 +360,39 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\\flies{}",
+			"\\\\flies{}",
+			"$\\pm$",
+			"$\\pm\\$",
+			"\\\\cmyb{}",
+			"\\\\bmyb{}",
+			"\\\\spo{}",
+			"\\\\mili{}",
+			"\\\\miwi{}",
+			"\\\\amyb{}",
+			"\\amyb",
+			"\\\\amyb",
+			"\\amyb",
+			"\\amyb{}",
+			"\\amyb",
+			"\\mybrepro{}",
+			"-",
+			" ",
+			"-",
+			"x",
+			"\\textasciitilde",
+			"$\\rho$",
+			"\\textprime",
+			"\\slo",
+			"\\fn",
+			"\\fn1",
+			"\\kcnma",
+			"\\textprime~ ",
+			"\\geneFn{}",
+			"\\textprime",
 			"\\t\\\\item "
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -258,7 +439,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 195.0
+		"height": 177.0
 	},
 	"output.git":
 	{
@@ -283,16 +464,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 263.0,
+	"side_bar_width": 281.0,
 	"status_bar_visible": true
 }

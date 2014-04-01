@@ -15,7 +15,8 @@
 \newcommand\dscam{\textit{Dscam1}}
 
 %----------------------------------------------------------------------------------------
-\section{On the importance of gene expression} %	SECTION 1
+%	SECTION 1
+\section{On the importance of gene expression}\label{sec:Importatance of Gene Expression} 
 %----------------------------------------------------------------------------------------
 
 The Old Testament chapter Exodus tells of the liberation of the Israelite people from Egyptian slavery. Their humble and reluctant leader Moses, acting under the direction of God, forces the Pharaoh Ramses to release the people of Israel through a series of 10 plagues. Pharaoh is stalwart and stubborn as he watches water turn to blood. As frogs, lice, and flies flood the city streets, he refuses to free the Israelites. When Egyptian livestock fell dead from disease,   people and animals both were covered in boils, and land burned in storms of fire, Pharaoh did not bend. The 8th plague was a swarm of Locusts, described in Exodus 10: 14–15:
@@ -37,9 +38,9 @@ Unlike fire and brimstone from the heavens, locusts are something we can hold an
 \begin{figure}[htbp]
 	\centering 
 	\includegraphics{Figures/DesertLocust.jpeg}
-	\caption[The Solitary and Gregarious forms of \textit{Schistocerca gregaria}]
+	\caption[The Solitary and Gregarious forms of \locusts{}]
 	{
-		The Solitary and Gregarious forms of \textit{Schistocerca gregaria}\\[0.25cm]
+		The Solitary and Gregarious forms of \locusts{}\\[0.25cm]
 		The two phenotypic forms of Schistocerca gregaria appear very different.  The Solitary form is green an generally larger, while its "gregarious" form is more brightly colored, smaller, and capable of swarming in vast numbers, destroying crops vegetation. Photo from \href{http://www.wikicommons.com}{Wikicommons}.
 	}
 	\label{fig:Locust}
@@ -54,28 +55,26 @@ Unlike fire and brimstone from the heavens, locusts are something we can hold an
   \item Thought to be separate species from solitary form until 1921 
 \end{itemize}
 
-The power and destruction this animal can inflict makes it difficult to believe that it is nothing more than a grasshopper. It is nothing more than a grasshopper not just by analogy, but by actual Taxonomy. The infamous desert locust is actually the \textit{gregarious} form  of \textit{Schistocerca gregaria} (See Figure ~\ref{fig:Locust}), while the more familiar and docile looking Grasshopper is the \textit{solitary form}. Scientists are just now beginning to understand how it is possible for such a dichotomy to exist within the same organism, or more specifically, within the same \textit{genome}.
+The power and destruction this animal can inflict makes it difficult to believe that it is nothing more than a grasshopper. It is nothing more than a grasshopper not just by analogy, but by actual Taxonomy. The infamous desert locust is actually the \textit{gregarious} form  of \locusts{} (See Figure ~\ref{fig:Locust}), while the more familiar and docile looking Grasshopper is the \textit{solitary form}. Scientists are just now beginning to understand how it is possible for such a dichotomy to exist within the same organism, or more specifically, within the same \textit{genome}.
 
 \textit{Schistocerca gregaria} is a polyphenic organism. Grasshoppers become locusts by going through a phase transition. Polyphenism is a general feature of insects, often stark in transformation. For example, pea aphids (\textit{Acyrthosiphon pisum}), which usually exist in an asexually reproducing, wingless female form, responds to overcrowding (often as a result of dwindling food supply) by producing winged offspring that travel to new sources of food \citep{Shingleton2003,Purandare2014b}.
 
 %<Facts about polyphenism in plants> 
 %<< Compare and contrast locusts and grasshoppers>>.
-
-%% ############# FIGURE
 %----------------------------------------------------------------------------------------
-\section{DNA Sequencing History} %	SECTION 2
+%	SECTION 1
+\section{Nucleic Acid Seqeuncing}
 %----------------------------------------------------------------------------------------
-%% ############# FIGURE
+\subsection{DNA Sequencing History} %	SUBSECTION 1
+%----------------------------------------------------------------------------------------
 
 Soon after it was realized that DNA is the source of genetic information in all living organisms \citep{Watson1953a}, and the "pretty" and "elegant" arrangement of complementary, antiparrallel DNA strands was known \citep{Watson2012a}, the ability to determine the specific arrangement, or "sequence", of nucleotide bases in a given length of DNA was seen as a critical missing piece of technology. It took 25 years after the nature of DNA's architecture to be able to determine the specific arrangement of nucleotides in the polymer\textemdash to sequence it. By 1977, two completely different methods developed by Sanger \citep{Sanger1975a,Sanger1977b} and Maxam-Gilbert \citep{Maxam1977a} were reported. These sequencing technologies, from then on referred to eponymously as ‘Sanger’ or ‘Maxam-Gilbert’ sequencing, were used to determine the specific order of a small piece of DNA (200–300 nt). Sanger sequencing soon dominated most sequencing reactions, likely due to the conceptually more intuitive nature of the technology, and over the past 35 years, DNA sequences have been slowly cloned, sequenced, analyzed, and dutifully cataloged into knowledge.
 
 During the late 1970’s and throughout the 1980’s, DNA sequences were typically communicated in important publications \citep{Cordell1980a,Sanger1978a}. The birth of the Internet in the 1990’s made essential publically-funded repositories for sequence information easily available \citep{Benson2011a}. However, it was the human genome project \citep{Lander2011a,Venter2001}, that provided the important activation energy that brought DNA sequencing from a hard-to-perform, but necessary, analysis, to an organized large-scale effort of assembling the complete genetic material complex genomes. An often criticized, but undeniably disrupting force in the human genome project was the competing efforts of the privately-owned company Celera \citep{Venter2008a}. Taking a higher-throughput and centralized approach to determining the sequence of the human genome, Celera fundamentally changed the landscape of genome assembly. Instead of assigning specific sections of the genome to be worked out by individual labs, Celera parallelized the effort, by collecting many of the best “high-throughput” Sanger-sequencing devices from Agilent (ABI 3700 DNA Analyzer). Using "shotgun" approach \citep{Staden1979}, sequenced pairwise \citep{Roach1995}, and combined with sequence scaffolds made available by the publicly-funded project, Celera was able to assemble high-quality genomic sequences very quickly. Arguably, this was the first deep sequencing effort, and changed the landscape of molecular and biochemical research, coincident with the beginning of a new millennium.
 
-%% ############# FIGURE
 %----------------------------------------------------------------------------------------
-\section{History of High-throughput Sequencing}
+\subsection{History of High-throughput Sequencing}
 %----------------------------------------------------------------------------------------
-%% ############# FIGURE
 
 Sequencing DNA by Sanger’s technology remains a valuable and critical tool in every biological scientist’s arsenal. However, the technology has a practical throughput limit. Each DNA molecule to be sequenced must be isolated and clonally amplified, typically using bacteria. Given that the human genome \citep{Hattori2005a} comprises > 3 billion nt (on just one strand), and that each Sanger reaction will provide ~800nt of quality sequence, we need at least ~4 million individual reactions to determine the sequence of the human genome, assuming that all of our reads are of sufficient quality, length, and do not overlap by even 1 nt. Even the best practical improvements to work-flows could not bring the Sanger approach to DNA sequencing in-line with aspirations of analyzing genomes of many different species or individual organisms.
 
@@ -98,7 +97,7 @@ Illumina uses a sequencing-by-synthesis approach using fluorescent nucleotides a
 %% ############# FIGURE
 
 %----------------------------------------------------------------------------------------
-\section{Deep-sequencing RNA methodologies}
+\subsection{Deep-sequencing RNA methodologies}
 %----------------------------------------------------------------------------------------
 
 %Just found the mother load of literature reviews http://blog.sbgenomics.com/history-of-rna-seq/ 
@@ -107,7 +106,8 @@ Illumina uses a sequencing-by-synthesis approach using fluorescent nucleotides a
 
 %<History> - start with a simple history of splicing, mention 
 
-The first widely-accepted method for measuring gene expression via sequencing by proxy of cDNA molecules was Serial Analysis of Gene Expression (SAGE) \citep{Velculescu1995a}. While the importance of microarrays in the measurement of gene expression via cannot be overstated \citep{Shendure2008,Marioni2008} the technologies limited ability to investigate novel sequences, and analogue signal, makes their relevance to this section somewhat off-topic. However, \textbf{SAGE}, (similar to the previously discussed MPSS technique) produces a digital output of gene expression using a cleaver procedure of cleaving cDNA molecules using restriction endonucleases that leaves a sticky end. After cleavage, these molecules are ligated and concatenated together to form longer DNA fragments. Fragments are cloned into a vector, amplified, and Sanger sequenced. Using known sequences incorporated during concatenation, the number of sequenced 'fragments' that align to a given gene is related to the abundance of the original mRNA molecule. While SAGE was a cleaver molecular trick allowing researches to dip into the 5-log range of expression typically seen in mRNA expression, it is still limited by read lengths and practical read depth of Sanger sequencing. 
+The first widely-accepted method for measuring gene expression via sequencing by proxy of cDNA molecules was Serial Analysis of Gene Expression (SAGE) \citep{Velculescu1995a}. While the importance of microarrays in the measurement of gene expression via cannot be overstated \citep{Shendure2008,Marioni2008} the technologies limited ability to investigate novel sequences, and analogue signal, makes their relevance to this section somewhat off-topic. However, SAGE, (similar to the previously discussed MPSS technique) produces a digital output of gene expression using a cleaver procedure of cleaving cDNA molecules using restriction endonucleases that leaves a sticky end. After cleavage, these molecules are ligated and concatenated together to form longer DNA fragments. Fragments are cloned into a vector, amplified, and Sanger sequenced. Using known sequences incorporated during concatenation, the number of sequenced 'fragments' that align to a given gene is related to the abundance of the original mRNA molecule. While SAGE was a cleaver molecular trick allowing researches to dip into the 5-log range of expression typically seen in mRNA expression, it is still limited by read lengths and practical read depth of Sanger sequencing. 
+
 Not long after the Solexa/Illumina platform produced read lengths of sufficient length of depth to consider measuring gene expression were the first RNA-Seq papers published \citep{Mortazavi2008, Nagalakshmi2008,Lister2008}. These papers gave a powerful glimpse into the future of molecular biology. Indeed, in the years since, analysis by RNA-Seq has quickly overtaken other forms of gene expression analysis, as demonstrated by the number of accessions deposited in GEO per year \citep{Barrett2013}. RNA-Seq allows for digital quantification of RNA expression across physiologically-relevant ranges \citep{Blencowe2009}. While simultaneously measuring gene expression, the data can be used for novel sequence discovery, measuring RNA-editing \citep{Li2011}, transcript assembly \citep{Trapnell2010}. By modifying the basic protocol or performing additional biochemical steps, RNA-Seq can be used to investigate many aspects of RNA biology (see \ref{fig:htsMethods}). 
 
 %% ############# FIGURE
@@ -125,7 +125,7 @@ Not long after the Solexa/Illumina platform produced read lengths of sufficient 
 
 RNA processing begins the moment the nascent RNA is exposed from the polymerase exit channel. Many methodologies have been developed that enrich RNA-Seq libraries for RNA molecules. For example, measurement of nascently transcribed RNA can be performed via GRO-Seq \citep{Core2008a}. Measuring the extremely complicated process of RNA turnover (referring to the rates at which RNAs both are produced and degraded) \citep{Ghosh2010a}, can be done using XXX-Seq after incorporation of XX nucleotides or a biochemical handle such as biotin. 
 % cite Geisberg2014? Global Analysis of mRNA Isoform Half-Lives Reveals Stabilizing and Destabilizing Elements in Yeast  
-RNA::protein interactions can be measured with or without cross-linking the protein to the RNA, via CLIP or RIP, respectively. Once an RNA has been fully transcribed, known processing steps such as Cap formation and poly(A) tail formation can be measured using any of the Cap-Seq/CAGE methodologies (Shiraki et al. 2003), or PAS-Seq (Shepard et al. 2011). With appropriate size-selection steps, small RNAs \citep{Ghildiyal2008} can also be captured into a sequencing library. Finally, traditional RNA-Seq, can effectively capture fragments of all of the above mentioned libraries, even though it is mainly associated with measurement or analysis of traditional mRNAs.
+RNA::protein interactions can be measured with or without cross-linking the protein to the RNA, via CLIP or RIP, respectively. Once an RNA has been fully transcribed, known processing steps such as Cap formation and poly(A) tail formation can be measured using any of the Cap-Seq/CAGE methodologies \citep{Shiraki2003a}, or PAS-Seq \citep{Shepard2011}. With appropriate size-selection steps, small RNAs \citep{Ghildiyal2008} can also be captured into a sequencing library. Finally, traditional RNA-Seq, can effectively capture fragments of all of the above mentioned libraries, even though it is mainly associated with measurement or analysis of traditional mRNAs.
 
 %<Need to add PAL-Seq to the figure below> See Paper Phil sent out from the Burge lab.
 %<Also we have TAIL-Seq from the Kim Lab> 
@@ -138,7 +138,7 @@ RNA-Seq and its associated flavors are also traditionally associated with measur
 %Marinov, Georgi K, Brian a Williams, Kenneth McCue, Gary P Schroth, Jason Gertz, Richard M Myers, and Barbara J Wold. 2013. “From Single-Cell to Cell-Pool Transcriptomes: Stochasticity in Gene Expression and RNA Splicing.” Genome Research (December 3): 496–510. doi:10.1101/gr.161034.113. http://www.ncbi.nlm.nih.gov/pubmed/24299736.
 
 %----------------------------------------------------------------------------------------
-\section{RNA Expression}
+\subsection{Measuing RNA Expression via Sequencing}
 %----------------------------------------------------------------------------------------
 
 % Here you need to talk about the Encode paper, which you left off with in the last section
@@ -146,7 +146,9 @@ RNA-Seq and its associated flavors are also traditionally associated with measur
 The encode project revealed that most of the genome is transcribed into RNA. This was done in cancerous cell lines, and while it revealed the potential for transcription, it did not reveal much biology beyond cells in culture simply perpetuating their existence. 
 
 %----------------------------------------------------------------------------------------
-\section{Alternative Splicing}
+\section{Nucleic Acid Splicing}
+%----------------------------------------------------------------------------------------
+\subsection{Alternative Splicing}
 %----------------------------------------------------------------------------------------
 
 % See this Review for good information 
@@ -165,7 +167,7 @@ The encode project revealed that most of the genome is transcribed into RNA. Thi
 Soon after the discovery of introns, it was reasoned that genes could be arranged in different combinations, greatly increasing the coding potential of a genome \citep{Gilbert1978a}. The process of rearranging genes, now known as alternative splicing (AS), has proven to be an integral phase of gene expression in most eukaryotes. In just 15 years, the number of genes estimated to be alternatively spliced has grown considerably. Phillip Sharp, Co-Nobel-prize winner for the discovery of splicing, stated that: “Approximately, one of every twenty genes is expressed by alternative pathways of RNA splicing in different cell types or growth states” \cite{Sharp2014}. Not long after the assembly of the first human genome, a number of groups combed through Expressed Sequence Tag (EST) databases to increase that estimate to 35\%-59\% \citep{Modrek2002}. Soon after, analysis using specially designed microarrays resulted in an increased estimate of 74\% \citep{Johnson2003}. However, in late 2008, three groups utilizing high-throughput sequencing (HTS) of cDNA (referred to as RNA-Seq) demonstrated that between 86\% and 95\% of human multi-exon genes are subject to AS \citep{Pan2008, Wang2008, Sultan2008}. Not only did they demonstrate that almost all genes are alternatively spliced, they also showed that AS often occurs in a tissue- and cell type-specific manner. In combination with regulation of transcription itself, the study of AS is critical to our understanding of the connections between the comparably static genomic DNA sequence and the highly flexible and adaptive abilities of organisms.
 
 %----------------------------------------------------------------------------------------
-\section{Deciphering a splicing code}
+\subsection{Deciphering a splicing code}
 %----------------------------------------------------------------------------------------
 
 A gene is alternatively spliced when, as a result of transcription and processing, there are at least two unique transcripts produced from one genomic sequence. Beyond counting observed isoforms, one major area of effort is to decode sequence regulatory elements (SREs) contained in pre-mRNA that define AS site selection \citep{Wang2008}. In contrast to the core splicing signals, we have limited knowledge of the SREs that serve to increase, or decrease, the strength of a particular splice site, often within a sea of other potential sites. Through a variety of mechanisms, these elements serve as cis-acting sequences and binding sites for trans-acting factors. Some of the best-studied SREs include Exon Splicing Enhancers and Silencers (ESEs and ESSs). Members of the Serine-Arginine (SR) protein family typically bind to ESEs located in an exon, promoting its definition and thereby increasing the probability that the exon will be included in the final transcript \citep{Graveley2000,Long2009}. Meanwhile, ESSs serve to squelch inclusion, often through binding trans-acting heterogeneous ribonucleoprotein particles (hnRNPs) \citep{Martinez-Contreras2007}. Therefore, binding of these trans-acting factors to their appropriate SREs can either promote or inhibit interactions between the splicing machinery and the pre-mRNA. The current working hypothesis is that a finely tuned combination of these binding events determines the final exon content of each isoform \citep{House2008}. 
@@ -173,7 +175,7 @@ A gene is alternatively spliced when, as a result of transcription and processin
 Sequence motifs that compose the AS code have been teased out \citep{Ladd2002, Barash2010}. Additionally, assignment of the binding motifs to tissue-specific trans-acting factors has also progressed \citep{Jin2003,Ule2005,Licatalosi2008}. Many of these binding motifs were identified using combined computational and biochemical approaches. Computational approaches usually involve searching for a comparative enrichment of sequences near splice sites. Biochemical approaches typically include gel shift, SELEX, and cross-linking. Many of these approaches are performed in vitro and disregard the importance of cellular context on binding affinities. However, with the increasing accessibility of deep sequencing, many groups are extracting physiologically relevant, high-resolution data from traditional biochemical techniques \citep{Ingolia2009, Ingolia2011}. Deep-sequencing approaches are also being applied to questions involving mechanisms of AS. In addition to the RNA-Seq experiments, High-Throughput Sequencing [following] Cross-Linking Immunoprecipitation (HTS-CLIP) has confirmed SRE motif data predicted from computational and microarray experiments \citep{Licatalosi2008,Hafner2010}. Using this approach, researchers can now enrich their samples for sequences that bind trans-acting factors of interest. 
 
 %----------------------------------------------------------------------------------------
-\section{The Isoform Problem}
+\subsection{The Isoform Problem}
 %----------------------------------------------------------------------------------------
 
 As with many areas of basic research, the field of AS relies on large-scale (aka – global, genome-wide, high-throughput) techniques. Two of the most widely applied technologies employed for large-scale analysis of gene expression are microarrays and '2nd generation' HTS sequencing. Unfortunately, both of these techniques have fundamental limitations, with the major issues being probe specificity for the former and read length for the latter.
@@ -199,7 +201,7 @@ Clearly, AS is an essential regulatory mechanism involved in the control of huma
 % Need to mention DSCAM – that can be the transition to Coordination in splicing
 
 %----------------------------------------------------------------------------------------
-\section{Coordination in splicing}
+\subsection{Coordination in splicing}
 %----------------------------------------------------------------------------------------
 
 % <Consider a leadin with this paper, Osheim YN, Miller OL Jr et al (1985) RNP particles at splice junction sequences on Drosophila chorion transcripts. Cell 43(1): 143–151> That shows spliceosomes associated with nascent RNA transcripts
@@ -225,13 +227,13 @@ There is precedence in the literature for genes known to display coordinated reg
 
 There have been a few studies that investigate forms of splicing coordination between adjacent exons present in mRNA. The vertebrate genes 4.1B and 4.1R, members of the protein 4.1 family encoding for cytoskeletal adaptor proteins, both undergo splicing of upstream 5\textprime~ first exons to distal 3\textprime~ second exons, skipping a stronger proximal 3\textprime~ second exon \citep{Parra2008, Parra2012}. This is accomplished through 'intrasplicing' involving an intronic sequence element (the 'intraexon') only present when transcription begins at the upstream 5\textprime~ exon, allowing the exon to ligate do the weaker distal 3\textprime~ second exon via an intermediate splicing event. Importantly, this type of splicing would be similar, but different from recursive splicing seen in drosophila \citep{Burnette2005}. Another example of the importance of intron sequence elements on AS is observed in the equine $\beta$-casin gene, where the authors propose a model involving an intronic splicing enhancer bound to the exit channel of the elongating polymerase, promoting inclusion of downstream cassette exons \citep{Lenasi2006}. Taking a more genome-wide approach Peng et al. examined human and mouse EST data looking for correlations between adjacent AS cassette exons \citep{Peng2008}. The authors note that positively correlated pairs of adjacent cassette exons typically resemble constitutive exons in splice strength, whereas negatively, or weakly correlated pairs are likely to be newly emerging exons, whose strength of splicing has not evolved enough to be constitutively included. 
 
-The last, most current, and thorough study of intra-gene splicing coordination involves the \textit{Caenorhabditis elegans} gene \slo{} \citep{Glauser2011, Johnson2011}. \slo{} is the \texit{C.elegans} orthologue of the human BK channel gene \kcnma{}, also known to undergo extensive alternative splicing \citep{Nilsen2010} via 13 cassette exons, potentially coding for over 1,000 different isoforms. \kcnma{} is highly developmentally, spatially, and tissue regulated. It is involved in a diverse range of cellular processes, including hearing, circadian rhythms, urinary function, and vasoregulation \citep{Fodor2009a}. While the gene is highly conserved, as organism complexity grows, so does the apparent transcriptional diversity of this gene. In worms, \slo{} can produce up to 12 different isoforms. Glauser et al. used QPCR to demonstrate individual, AS region inclusion frequencies do not correspond to complete isoform frequencies, when measured via a TaqMan probe approach. They go on to describe a interdependent-splicing model that best fits the data, and support interdependence via mutations at one sight altering splicing at both upstream and downstream sites of AS, separated by atleast one other splicing event. After measuring the biophysical properties of the isoforms \citep{Johnson2011}, they conclude that coordinated AS is critical for proper BK channel function in vivo. It is interesting to note that this study also identified an intronic sequence element that displayed some type of coordinated, or co-regulated effect on AS. 
+The last, most current, and thorough study of intra-gene splicing coordination involves the \textit{Caenorhabditis elegans} gene \slo{} \citep{Glauser2011, Johnson2011}. \slo{} is the \textit{C.elegans} orthologue of the human BK channel gene \kcnma{}, also known to undergo extensive alternative splicing \citep{Nilsen2010} via 13 cassette exons, potentially coding for over 1,000 different isoforms. \kcnma{} is highly developmentally, spatially, and tissue regulated. It is involved in a diverse range of cellular processes, including hearing, circadian rhythms, urinary function, and vasoregulation \citep{Fodor2009a}. While the gene is highly conserved, as organism complexity grows, so does the apparent transcriptional diversity of this gene. In worms, \slo{} can produce up to 12 different isoforms. Glauser et al. used QPCR to demonstrate individual, AS region inclusion frequencies do not correspond to complete isoform frequencies, when measured via a TaqMan probe approach. They go on to describe a interdependent-splicing model that best fits the data, and support interdependence via mutations at one sight altering splicing at both upstream and downstream sites of AS, separated by atleast one other splicing event. After measuring the biophysical properties of the isoforms \citep{Johnson2011}, they conclude that coordinated AS is critical for proper BK channel function in vivo. It is interesting to note that this study also identified an intronic sequence element that displayed some type of coordinated, or co-regulated effect on AS. 
 
 %Optional continue on with discussion and include Discuss long range RNA secondary structure and implecations of regulating alternative splicing (See Li, S., & Breaker, R. R. (2013). Eukaryotic TPP riboswitch regulation of alternative splicing involving long-distance base pairing. Nucleic acids research, 41(5), 3022–31. doi:10.1093/nar/gkt057) and Reg of AS by long RANGE SS folder in Mendeley
 
 
 %----------------------------------------------------------------------------------------
-\section{Many isoforms per gene}\label{sec:IsoformsPerGene}
+\subsection{Many isoforms per gene}\label{sec:IsoformsPerGene}
 %----------------------------------------------------------------------------------------
 
 It is easy to think of AS as a binary process. Isoform A or B is produced based upon picking either exon A or B. What quickly becomes evident, and is far too real for researchers building transcriptome assembly algorithms, is that the combinatorial nature of AS makes it both a power means of generating isoform diversity and a difficult problem to study \citep{Trapnell2012a}.
@@ -257,9 +259,9 @@ The ENCODE project clearly demonstrated that most human genes can under AS in ma
 \begin{figure}[htbp]
 	\centering 
 	\includegraphics{Figures/NumberOFTranscriptsPerFlyGene.pdf}
-	\caption[Number of transcripts per \textit{Drosophila melanogaster} gene]
+	\caption[Number of transcripts per \flies{} gene]
 	{
-		Number of transcripts per \textit{Drosophila melanogaster} gene\\[0.25cm]
+		Number of transcripts per \flies{} gene\\[0.25cm]
 		Data from \citep{Brown2014}, Supplemental Table 3. Number of transcript per bin, with bin sizes 'closed' on the upper part of range.
 	}
 	\label{fig:txPerFlyGene}
@@ -271,7 +273,7 @@ The ENCODE project clearly demonstrated that most human genes can under AS in ma
 %% ############# Table
 
 %----------------------------------------------------------------------------------------
-\section{Drosophila melanogaster \dscam{}}\label{sec:Dscam}
+\subsection{\flies{} \dscam{}}\label{sec:Dscam}
 %----------------------------------------------------------------------------------------
 
 Unquestionably, the gene most frequently used to demonstrate the combinatorial power of AS is fly \dscam{}. The 'architecture' of \dscam{} is rather unique among other organisms, but as we saw in Section \ref{sec:IsoformsPerGene}, contain some genes that generate tremendous isoform diversity from a single genetic locus \citep{Brown2014}. The basic structure of \dscam{} is shown in Figure \ref{fig:DscamArch}.
@@ -280,10 +282,10 @@ Unquestionably, the gene most frequently used to demonstrate the combinatorial p
 \begin{figure}[htbp]
 	\centering 
 	\includegraphics{Figures/DscamArch.pdf}
-	\caption[The architecture of the \textit{Drosophila melanogaster} gene \dscam{}]
+	\caption[The architecture of the \flies{} gene \dscam{}]
 	{
-		The architecture of the \textit{Drosophila melanogaster} gene \dscam{}\\[0.25cm]
-		\dscam{} has three 'clusters' or 'banks' of alternative cassette exons that are splicing out in a mutually-exclusive manner. The first bank, 'Exon 4', contains 12 different variants, of which one one is ever included into the mRNA. Similarly, banks 6 & 9 each contain 48 and 33 different variants, respectively. These three banks code for extracellular IgG domains, while the final region of AS, exon 17, encodes two different trans-membrane domains, again of which only one is included in the final mRNA.
+		The architecture of the \flies{} gene \dscam{}\\[0.25cm]
+		\dscam{} has three \textit{clusters} or 'banks' of alternative cassette exons that are splicing out in a mutually-exclusive manner. The first bank, 'Exon 4', contains 12 different variants, of which one one is ever included into the mRNA. Similarly, banks 6 \& 9 each contain 48 and 33 different variants, respectively. These three banks code for extracellular IgG domains, while the final region of AS, exon 17, encodes two different trans-membrane domains, again of which only one is included in the final mRNA.
 	}
 	\label{fig:DscamArch}
 \end{figure}
@@ -293,8 +295,7 @@ Human \textit{Dscam}, for which \dscam{} was named, was identified while looking
 
 Complex AS of\dscam{} was first noticed by the Zipursky lab in 2000 \citep{Schmucker2000}. While looking for proteins associated with \textit{dock} and \textit{pak}, two proteins important for neuronal growth cone guidance, they biochemically co-purified DSCAM1. Sequencing of \dscam{} clones revealed that virtually all contained different combinations of exons 4,6, and 9. In fact, these three exons are chosen from three clusters of mutually-exclusive cassette exons, containing 12, 48, and 33 different options each(see Figure \ref{fig:DscamArch}). The initial report kicked off an exciting period of research into \dscam{} structure and function. The functional significance of \dscam{} AS was a major goal of multiple labs.
 
-Before the highlights of \dscam{} research are reviewed, it is illustrative to discuss some basic \textit{Drosophila melanogaster} anatomy. There are 4 main regions where \dscam{} expression has been highly-studied.
-
+Before the highlights of \dscam{} research are reviewed, it is illustrative to discuss some basic \flies{} anatomy. There are 4 main regions where \dscam{} expression has been highly-studied.
 
 \begin{itemize} \itemsep0.5pt \parskip0pt \parsep0pt
   \item Hemocyte cells of the immune system
@@ -309,7 +310,7 @@ Before the highlights of \dscam{} research are reviewed, it is illustrative to d
 \begin{figure}[htbp]
 	\centering 
 	\includegraphics{Figures/DscamAnatomy.pdf}
-	\caption[Important \dscam{} expression during \textit{Drosophila melanogaster life} cycle]
+	\caption[Important \dscam{} expression during \flies{} life cycle]
 	{
 		Important \dscam{} expression during \textit{Drosophila melanogaster life} cycle\\[0.25cm]
 		\dscam{} has been high-studied in four different regions/cell types. 1) Hemocytes of the immune system, where DSCAM1 is involved in antigen recognition; 2) In Class IV da neurons, which sense mechanical stimulation of the larval body wall; 3) In mushroom body neurons of the pupal developing brain; and 4) (not shown) in Tetrad neurons of the eyes.
@@ -332,10 +333,12 @@ Before the highlights of \dscam{} research are reviewed, it is illustrative to d
 % Need transition from Dscam to Rnl2!
 
 %----------------------------------------------------------------------------------------
-\section{RNA Sequence investigation by ligation}\label{sec:Ligation}
+\section{Nucleic Acid Ligation}
+%----------------------------------------------------------------------------------------
+\subsection{RNA Sequence investigation by ligation}\label{sec:Ligation}
 %----------------------------------------------------------------------------------------
 
-In the late 1960's and early 1970's, the Lehman and Richardson labs characterized two workhorse-enzymes of modern molecular biology. Robert Lehman and colleagues, working at Standford Medical School, first described the activity of 'polynucleotide-joining enzyme' from \textit{Escherichia coli} (now known as \textit{E. Coli} DNA Ligase) \citep{Olivera1967b}. Work on this enzyme paralleled that from the Richardson lab at Harvard Medical School, where they focused on 'polynucleotide ligase' from \textit{Escherichia coli} infected with T4 bacteriophage (now known as T4 DNA ligase) \citep{Weiss1967a}. It became clear that while these two enzyme's shared a common mechanism\textemdash later elucidated by \citep{Modrich1973a}\textemdash they had important differences. First, T4 DNA ligase required ATP as a cofactor, which \textit{E. Coli} DNA Ligase did not (though it was later discovered that DNA ligase required NAD as a cofactor). Second, only T4 DNA ligase could catalyze ligation of blunt-ended DNA \citep{Tabor1987a}.
+In the late 1960's and early 1970's, the Lehman and Richardson labs characterized two workhorse-enzymes of modern molecular biology. Robert Lehman and colleagues, working at Standford Medical School, first described the activity of \textit{polynucleotide-joining enzyme} from \textit{Escherichia coli} (now known as \textit{E. Coli} DNA Ligase) \citep{Olivera1967b}. Work on this enzyme paralleled that from the Richardson lab at Harvard Medical School, where they focused on \textit{polynucleotide ligase} from \textit{Escherichia coli} infected with T4 bacteriophage (now known as T4 DNA ligase) \citep{Weiss1967a}. It became clear that while these two enzyme's shared a common mechanism\textemdash later elucidated by \citep{Modrich1973a}\textemdash they had important differences. First, T4 DNA ligase required ATP as a cofactor, which \textit{E. Coli} DNA Ligase did not (though it was later discovered that DNA ligase required NAD as a cofactor). Second, only T4 DNA ligase could catalyze ligation of blunt-ended DNA \citep{Tabor1987a}.
 
 %% ############# FIGURE
 \begin{figure}[htbp]
@@ -350,7 +353,7 @@ In the late 1960's and early 1970's, the Lehman and Richardson labs characterize
 \end{figure}
 %% ############# FIGURE
 
-The general mechanism of ligation, shown in Figure \ref{fig:Ligation Mechanism}, involves three steps: Step 1 (A) involves the $\epsilon$-amino group from the active site lysine performs a nucleophilic attack on the $\alpha$-phosphate of ATP in solution.  B) The ligase is now charged with AMP and inorganic phosphate (PPi) is freed into solution. C) Step 2: Nucleophilic attack by the 5´ DNA phosphate on the 3\textprime~ side of the nick to the AMP:ligase phosphate. D) 'Adenylated' DNA is now competent for DNA ligation. E) Step 3: the 3\textprime~ OH on the 5\textprime~ side of the nick performs a nucleophilic attack on the 5\textprime~ PO\textsubscript{4} across the DNA nick, liberating AMP into solution. F) Sealed nick resulting in: Ligase; AMP; and intact dsDNA.
+The general mechanism of ligation, shown in Figure \ref{fig:Ligation Mechanism}, involves three steps: Step 1 (A) involves the $\epsilon$-amino group from the active site lysine performs a nucleophilic attack on the $\alpha$-phosphate of ATP in solution.  B) The ligase is now charged with AMP and inorganic phosphate (PPi) is freed into solution. C) Step 2: Nucleophilic attack by the 5\textprime~ DNA phosphate on the 3\textprime~ side of the nick to the AMP:ligase phosphate. D) 'Adenylated' DNA is now competent for DNA ligation. E) Step 3: the 3\textprime~ OH on the 5\textprime~ side of the nick performs a nucleophilic attack on the 5\textprime~ PO$_{4}$ across the DNA nick, liberating AMP into solution. F) Sealed nick resulting in: Ligase; AMP; and intact dsDNA.
 
 In addition to elucidated the general mechanism of ligation, it was also discovered that T4 DNA ligase lacks a preference for terminal polynucleotide structures. The Khorana and Richardson labs both reported the activity of this enzyme on combinations of RNA and DNA duplexes \citep{Fareed1971, Kleppe1970b}. Both of these papers describe an activity on T4 DNA ligase, \underline{RNA-templated DNA to DNA ligation}, that is of particular relevance to this thesis work. Unlike T4 DNA ligase, \textit{E. Coli} DNA Ligase, will not join DNA strands on an RNA template \citep{Bullard2006}. Soon after demonstrating these activities in vitro, the Khorana lab reported detection of organism-generated DNA \citep{Besmer1972b}, setting up an orthogonal field (respective to PCR) of nucleic acid sequence characterization \citep{Conze2009c}.
 
@@ -361,14 +364,14 @@ For more than 40 years after its first description, T4 DNA ligase was the only c
 Building on the list of available enzymes that join hybrid polymer substrates Chapter \ref{Chapter2} presents data supporting RNA-templated DNA:DNA ligation activity for another enzyme, T4 RNA Ligase 2.
 
 %----------------------------------------------------------------------------------------
-\section{T4 RNA Ligase 2 (Rnl2)}\label{sec:Rnl2}
+\subsection{T4 RNA Ligase 2 (Rnl2)}
 %----------------------------------------------------------------------------------------
 
 Proteins of the T4 and T7 bacteriophages have been a boon for molecular biology. Without enzymes like polynucleotide kinase \citep{Richardson1965a}, T7 RNA polymerase \citep{Summers1970b}, and T4 DNA ligase \citep{Weiss1967a}, many essential manipulations of nucleic acids would have been impossible for decades. Obviously, these enzymes also have essential phage functions. T7 RNA polymerase is responsible for late stage replication of T7 phage transcripts, while T4 PNK works in concert with T4 DNA and RNA ligases to repair cleaved	nucleic acids resulting from bacterial pathogens defense systems \citep{Wang2002b}. Specifically, T4 RNA ligase 1 (herein "Rnl1", also known as \textit{gene 63} maintains phage replication by repairing tRNAs cleaved by an anticodon nuclease produces from the \textit{prr} locus \citep{Amitsur1987d}.
 
 Given the utility and importance of these enzymes, novel enzyme discovery is a fruitful area of research. The Shuman lab has a distinguished record of discovering and characterizing numerous such enzymes, including any involved in nucleic acid synthesis, modification, and repair. Through a blast search looking for novel ligases with sequences related to \textit{Trypanosoma brucei} RNA-editing ligases TbMP52 and TbMP48 \citep{Ho2002b}, they identified motifs in correct arrangement, spacing, and number indicative of an RNA ligase. The gene, identified as \textit{gp24.1}, has quickly become an essential tool in the era of modern genomics.
 
-Initial biochemical purification and characterization of \textit{gp24.1} \citep{Ho2002b} revealed that it indeed codes for an RNA ligase, which was renamed T4 RNA ligase 2 (herein "Rnl2"). Rnl2 is a 374 amino acid monomeric protein composed of 2 distinct domains initially purified as a 42-kDA His-tagged recombinant protein. The N-terminal domain (1\textendash 243) is responsible for steps (1) and (3) of the general ligation mechanisms (see Figure \ref{fig:Ligation Mechanism}), while the C-terminal domain (244\textendash 329) is responsible for adenylation of the 5\textprime~ PO\textsubscript{4} on the 5\textprime~ residue at the 3\textprime~ side of the nick, as shown in step (2). Additionally, Rnl2 is routinely purified as a pre-adenylated and immediately poised for its first ligation. In contrast to the N-terminal domain, which is composed of motifs typical to main ligases, the C-terminal domain is significantly	different from all other DNA ligases and has no structural homologue. While the biological function of Rnl1 is known, the biological function of Rnl2 remains a mystery, more than 12 years after its discovery \citep{Chauleau2013b}. However, there is some speculation that the flurry of research into bacterial CRISPR phage defense may reveal a role for Rnl2 \citep{Barrangou2007c,Chauleau2013b}.
+Initial biochemical purification and characterization of \textit{gp24.1} \citep{Ho2002b} revealed that it indeed codes for an RNA ligase, which was renamed T4 RNA ligase 2 (herein "Rnl2"). Rnl2 is a 374 amino acid monomeric protein composed of 2 distinct domains initially purified as a 42-kDA His-tagged recombinant protein. The N-terminal domain (1\textendash 243) is responsible for steps (1) and (3) of the general ligation mechanisms (see Figure \ref{fig:Ligation Mechanism}), while the C-terminal domain (244\textendash 329) is responsible for adenylation of the 5\textprime~ PO$_{4}$ on the 5\textprime~ residue at the 3\textprime~ side of the nick, as shown in step (2). Additionally, Rnl2 is routinely purified as a pre-adenylated and immediately poised for its first ligation. In contrast to the N-terminal domain, which is composed of motifs typical to main ligases, the C-terminal domain is significantly	different from all other DNA ligases and has no structural homologue. While the biological function of Rnl1 is known, the biological function of Rnl2 remains a mystery, more than 12 years after its discovery \citep{Chauleau2013b}. However, there is some speculation that the flurry of research into bacterial CRISPR phage defense may reveal a role for Rnl2 \citep{Barrangou2007c,Chauleau2013b}.
 
 %% ############# FIGURE
 \begin{figure}[htbp]
@@ -377,7 +380,7 @@ Initial biochemical purification and characterization of \textit{gp24.1} \citep{
 	\caption[Structure and active site of pre-adenylated of Rnl2]
 	{
 		Structure and active site of pre-adenylated of Rnl2\\[0.25cm]
-		Rnl2 as crystalized and described by \citep{Nandakumar2006}. Structures from PDB:2HVQ were generated with PyMol. Top left) Rnl2 is composed of a C-terminal and N-terminal domain. Top Right) The active site of Rnl2 is highlighted. Bottom left) Active site of Rnl2 as shown from 'bottom.' This face interacts with substrate. Residue numbering refers to that of the crystal structure.
+		Rnl2 as crystalized and described by \citep{Nandakumar2006}. Structures from PDB:2HVQ were generated with PyMol. Top left) Rnl2 is composed of a C-terminal and N-terminal domain. Top Right) The active site of Rnl2 is highlighted. Bottom left) Active site of Rnl2 as shown from bottom. This face interacts with substrate. Residue numbering refers to that of the crystal structure.
 	}
 	\label{fig:Rnl2 General Structure}
 \end{figure}
@@ -403,4 +406,90 @@ While Rnl2 is extremely efficient at high concentration, displaying little or no
 Ligation of hybrid substrates (eg. DNA-templated RNA:DNA vs DNA-templated DNA:DNA) have revealed general substrate preferences. DNA ligases appear to prefer the residue bearing the 5\textprime~ phosphate on the 3\textprime~ side of the nick to be 2\textprime~ deoxyribose, and have a relaxed requirement for the sugar on the 5\textprime~ side of the nick. RNA ligases have the reverse preference, demonstrating higher activities when the 5\textprime~ strand, 3\textprime~ OH residue also bears a 2\textprime OH. Rnl2 has an additional preference for an RNA residue at the penultimate 3\textprime~ side of a nick \citep{Ho2002b,Ho2004, Nandakumar2004a, Nandrakumar2006}. The two base requirement for RNA at the 5\textprime~ side of the double stranded nick biases Rnl2 to join RNA:[RNA/DNA] strands. Independent labs have measured this preference and have reported that the RNA-templated DNA:DNA joining activity of Rnl2 is below assay limits of detection \citep{Bullard2006}. However, results discussed in this work clearly show that with enough enzyme, and sensitive downstream measurements, Rnl2 will catalyze RNA-templated DNA:DNA ligation (see Chapter \ref{Chapter2}. Previous reports of Rnl2 lacking this activity are likely due to a single turnover mechanism in this reaction, owning to the poor dissociation rate of nucleic acid-interacting enzymes.
  % Need to add reference to this paper - \cite{Reuveni2014} where they talk about the importance of enzyme unbinding to the speed of reactions. That doesn't get at a reference that talks about slow dissociation of nucleic-acid interacting proteins, for which even Wee said he didn't know a fantastic reference.
 
+% Transition from Rnl2 to long RNAs/ piRNA precusors somehwow. 
+
+ %----------------------------------------------------------------------------------------
+ \section{Long Nucleic Acid Polymers}\label{piRNA section}
+ %----------------------------------------------------------------------------------------
+ %----------------------------------------------------------------------------------------
+\subsection{Mouse piRNAs are different}\label{sec:Mouse piRNAs}
+%----------------------------------------------------------------------------------------
+
+% ! Incorporate salient points of the Resources paper into this section? At least the sections I worked on!
+% Notes from Wei's Group meeting update on piRNAs.
+% Mention the Saito 2006 Slicer activity, in vitro, of Piwi domain containing argonautes in flies. Then mention papers from Siomi and Brennecki, and Lin lab in 2009 about mutating the catalytic triad in the piwi proteins and there is no slicer activity. 
+% A regulatory circuit for Piwi by the large…
+% Transcriptional Silencing of Transposons
+% Function of piwi(?) - Lin lab paper.
+% Mention review in G&D by hannon title is state of piRNA in flies - says that the slicer activity of piwi proteins in flies has never been shown in vivo. 
+% Mention Siomi Zuchi paper - they show in vitro evidence that the protein can take a 5' phosphate ssRNA and make something - a piRNA?
+
+Mammalian spermatogenesis is critical for the future of the species. Recently the importance a specific kind of small RNA\textemdash piRNAs\textemdash for proper spermatogenesis has become clear \citep{Siomi2011}. Even after >12 years since their discovery in \flies \citep{Aravin2001}, and >6 since their identification in rodents \citep{Girard2006, Lau2006}, the essential mechanisms of piRNA biogenesis to proper mammalian spermatogenesis remains largely unknown. These unknown mechanisms include: biogenesis from transcript to small RNA, physiological targets, and terminal function of sterility maintenance. What is known is that without a functioning piRNA pathway males are sterile. Studies in humans have also linked SNPs in the Argonaute proteins that bind piRNAs to decreased fertility \citep{Gu2010a}. 
+
+ %% ############# FIGURE
+\begin{figure}[htbp]
+	\centering 
+	\includegraphics{Figures/FlamencoLocus.pdf}
+	\caption[Genetic evidence for long, continuous fly piRNA precursor transcripts]
+	{
+		A the \flies{} gene \textit{flamenco} is a graveyard for transposon sequences \citep{Pelisson1994}. Evidence for expression of a single-contiguous RNA transcript from \textit{flamenco} (A) is provided by a P-element insertion into the suspected promoter region (B). \citep{Brennecke2007} could not detect specific piRNAs (red X's) by northern blot in the P-element mutant.
+	}
+	\label{fig:flamenco}
+\end{figure}
+%% ############# FIGURE
+
+
+piRNAs are so-called because they bind PIWI proteins, a sub-group of the Argonaute protein family, whose other members utilize small RNA as guides to target nucleic acids for many forms of post-transcriptional regulation \citep{Siomi2011}. There are three PIWI proteins in mice, each displaying a distinct expression profile during development and an association with piRNAs of a specific length. The first PIWI protein expressed, even before a mouse is born, is MIWI2 \citep{Carmell2007}, followed quickly by the more consistent player, MILI (see Figure \ref{fig:mouse piRNA over time} \citep{Kuramochi-Miyagawa2004, Aravin2006}. It is during the 'fetal' stage of piRNA biogenesis in mice that MIWI2 and MILI undergo ping-pong amplification, similar to that observed in flies, in order to silence expression of transposons during germ line formation \citep{Brennecke2007, Kuramochi-Miyagawa2008}. After birth, and during the 'neonatal stage' only MILI is expressed, and piRNAs shift from mostly transposon-mapping to 3\textprime~ UTR mapping \citep{Robine2009}. Once the 'first wave' of spermatogenesis \citep{Oakberg1956b, Laiho2013a} reaches meiosis, the pachytene piRNAs are expressed \citep{Girard2006, Lau2006, Li2013h}. Pachytene piRNAs tend to map to intergenic 'clusters' of unique genomic sequence. These clusters, from here after called 'piRNA-generating genes' appear to produce a single, continuous, relatively long, and un-spliced Pol II transcript \citep{Li2013h}. This is comparable to piRNA clusters in flies, such as flamenco, whose transcription can be abolished with a P-element insertion into a putative promoter, as measured by northern blot looking for piRNAs generated 168 kb downstream (see Figure \ref{fig:flamenco} \citep{Brennecke2007}. 
  
+ %% ############# FIGURE
+\begin{figure}[htbp]
+	\centering 
+	\includegraphics{Figures/MammalianPiRNAClassesOverTime.pdf}
+	\caption[Different Classes of mammalian piRNAs]
+	{
+		\hl{Write a nice caption here!}
+	}
+	\label{fig:Mammalian piRNA classes}
+\end{figure}
+%% ############# FIGURE
+
+Mammalian piRNAs can be divided into three major classes (\#Figure of my own design on piRNAs) \citep{Kuramochi-Miyagawa2008}. The first, present before birth, are those of the \textit{fetal piRNAs}. These piRNAs tend to be short, bind the PIWI protein MILI2 in mice, and have sequences found in transposable elements (Carmell et al. 2007). The next class of piRNAs, historically but confusing grouped with the previous class, are called Pre-pachytene piRNAs. Pre-pachytene piRNAs are expressed just before birth, and continue to be expressed in functioning testes, often associated with spermotoXX and spermotXX, precursor cells to mature sperm(?), and tend to map to traditional, and annotated, protein coding genes. Finally, due to their unique sequence in the genome, the genetic origin of a millions of piRNAs belonging to the third class, the pachytene piRNAs, was immediately known. Pachytene piRNAs are extremely abundant after, not coincidently, the pachytene stage of meiosis I when (descriptor) chromosomes pair up, cross over, and rearrange their genetic material. Extremely abundant means XX fold enrichment of pachytene piRNAs compared to miRNAs, as compared to developmental time point just two days earlier. The genomic origins of these piRNAs, while unique in terms of sequence, are often in ‘gene deserts,’ unannotated, and devoid of intronic sequences. This gene architecture makes the pachytene piRNA loci some of the most interesting RNA-producing regions of the mammalian genome.
+ 
+  %% ############# FIGURE
+\begin{figure}[htbp]
+	\centering 
+	\includegraphics{Figures/mammalian_piRNA_pathway.png}
+	\caption[A model for Mammalian piRNA biogenesis]
+	{
+		Figure taken from \citep{Li2013e}: A model for piRNA biogenesis. Primary piRNA transcripts are transcribed by RNA polymerase II and contain 5\textprime~ caps, exons and introns and poly(A) tails. The transcription of pachytene piRNA genes is controlled by A-MYB; transcription factor(s) (TF) controlling pre-pachytene piRNA genes remain to be discovered. Current models of piRNA biogenesis propose that PLD6 determines the 5\textprime~ end of piRNA intermediates with lengths >30 nt. These intermediates are proposed to then be loaded into PIWI proteins. After PIWI binding, a nuclease is thought to trim the 3\textprime~ end of the piRNA to the length characteristic of the particular bound PIWI protein. Finally, further trimming is prevented by addition of a 2\textprime~-O-methyl group to the 3\textprime~ end of the mature piRNA by the S-adenosylmethionine-dependent methyltransferase HEN1
+	}
+	\label{fig:Mammalian piRNA BioGensis; MolCel2013 Review}
+\end{figure}
+%% ############# FIGURE
+
+%!Known functions of mammalian piRNAs
+\citet{Vourekas2012} demonstrated that many MIWI, as measured by ClIP, actually bind mRNAs directly, without a small RNA guide.
+
+Two studies \citep{DeFazio2011,Reuter2011} used point mutations in the catalytic triad of MIWI2, MILI to remove slicer activity. The MIWI2 and MILI studies found that the mice were sterile, and did not accumulate transposon-mapping piRNAs. \citet{DeFazio2011} found that the mice were also sterile, and demonstrated increased LINE1 transcript accumulation.  \citet{Reuter2011} states that much the biological activity of MIWI depends on its slicer activity.
+
+%! Comparisons between fly and mammalian piRNA systems
+The transposon-mapping nature of the fetal piRNA class made obvious comparisons to the fly piRNA system nature. In the fly system, primary piRNAs transcribed from discrete loci and fed into an amplification loop between two PIWI proteins PIWI(3) and AGO3 (‘the ping-pong’ cycle) (REF Brenneki cell paper 2007). It is believed that PIWI proteins loaded with piRNAs bind and silence transposon messages, using the cleaved transposon transcripts, in combination with primary piRNA transcripts, as a substrates in the Ping-Pong cycle %($REF some newer review demonstrating this activity). 
+
+%! Our annotation of the pachytene piRNAs and discovery of A-MYB
+%However, annotation of the molecular RNA precursors to these polymers–the piRNA precursor transcripts–was a simple inclusion of large chunks of chromosomal coordinates. Using 6 different types of high-throughput sequencing datasets, we have accurately defined the genetic structure of 2124 piRNA-generating loci. With these annotations, investigation into the cause of coordinated expression of pachytene piRNAs–a highly abundant and experimentally tractable class of piRNAs–, became possible. Using transcriptional start sites, a motif for the transcription factor A-MYB was clearly observed within the promoters of most of pachytene piRNA-generating loci. Additionally, gene expression analysis of mice containing a mutant form of A-MYB revealed that A-MYB also coordinates the expression of many proteins involved, or associated with, proper piRNA biogensis and function. 
+
+%!Critical importance of integrating many different HTS datasets into mammalian piRNA study
+%piRNAs lend themselves to study using HTS
+%Require more datasets to work back to molecular precursors
+%RNA-Seq does not give precision necessary for annotation of 5´ and 3´ ends.
+%Cap-seq is too noisey to not have orthogonal dataset for comparison
+%Precision of 5´ end is critical for proper measurement of proximity to suspected transcription factor binding motifs and experimentally-determined ChIP signal
+%PAS-Seq challenging due to internal priming sites, difficulty of HTS platforms to read through homopolymers, and dynamic nature of 3´ end processing.
+
+%!Current status and future of transcriptome assembly
+%Reference most recent transcript assembly review.
+%Most successful methods are guided by known annotations
+%Unguided typically provide many discontinuous ‘contigs’ 
+%Maybe assisted by deeper RNA-Seq
+%Paired-end is critically important
+

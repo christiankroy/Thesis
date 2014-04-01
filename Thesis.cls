@@ -74,15 +74,25 @@
 %----------------------------------------------------------------------------------------
 %	MARGINS
 %----------------------------------------------------------------------------------------
-\setmarginsrb  { 1.5in}  % left margin | Umass Corrected
-                        { 1.5in}  % top margin
-                        { 1.0in}  % right margin
-                        { 1.0in}  % bottom margin
+%\setmarginsrb  { 1.5in}  % left margin | Umass Corrected
+                        %{ 1.5in}  % top margin
+                        %{ 1.0in}  % right margin
+                        %{ 1.0in}  % bottom margin
+                        %{  20pt}  % head height
+                        %{0.25in}  % head sep
+                        %{   9pt}  % foot height
+                        %{ 0.3in}  % foot sep
+%----------------------------------------------------------------------------------------
+\setmarginsrb  { 0.5in}  % left margin | For Good Draft printing
+                        { 0.5in}  % top margin
+                        { 0.5in}  % right margin
+                        { 0.5in}  % bottom margin
                         {  20pt}  % head height
                         {0.25in}  % head sep
                         {   9pt}  % foot height
                         { 0.3in}  % foot sep
 %----------------------------------------------------------------------------------------
+
 \raggedbottom
 \setlength{\topskip}{1\topskip \@plus 5\p@}
 \doublehyphendemerits=10000       % No consecutive line hyphens.
@@ -91,7 +101,7 @@
 \clubpenalty=9999                 % Almost no orphans at top of page.
 \interfootnotelinepenalty=9999    % Almost never break footnotes.
 \usepackage{fancyhdr}
-\lhead[\rm\thepage]{\fancyplain{}{\sl{\rightmark}}}
+\lhead[\rm\thepage]{\fancyplain{}{\sl{\rightmark}}} 
 \rhead[\fancyplain{}{\sl{\leftmark}}]{\rm\thepage}
 \chead{}\lfoot{}\rfoot{}\cfoot{}
 \pagestyle{fancy}

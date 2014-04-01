@@ -9,26 +9,57 @@
 \contentsline {chapter}{Symbols}{xi}{dummy.11}
 \contentsline {chapter}{Definitions}{xii}{dummy.13}
 \vspace {2em}
-\contentsline {chapter}{Preface}{xv}{dummy.14}
+\contentsline {chapter}{Preface}{xiv}{dummy.14}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.15}
 \contentsline {section}{\numberline {1.1}On the importance of gene expression}{1}{section.16}
-\contentsline {section}{\numberline {1.2}DNA Sequencing History}{5}{section.18}
-\contentsline {section}{\numberline {1.3}History of High-throughput Sequencing}{7}{section.19}
-\contentsline {section}{\numberline {1.4}Deep-sequencing RNA methodologies}{9}{section.21}
-\contentsline {section}{\numberline {1.5}RNA Expression}{13}{section.23}
-\contentsline {section}{\numberline {1.6}Alternative Splicing}{13}{section.24}
-\contentsline {section}{\numberline {1.7}Deciphering a splicing code}{15}{section.25}
-\contentsline {section}{\numberline {1.8}The Isoform Problem}{17}{section.26}
-\contentsline {section}{\numberline {1.9}Coordination in splicing}{20}{section.28}
-\contentsline {section}{\numberline {1.10}Many isoforms per gene}{24}{section.30}
-\contentsline {section}{\numberline {1.11}Drosophila melanogaster \textit {Dscam1}{}}{26}{section.34}
-\contentsline {section}{\numberline {1.12}RNA Sequence investigation by ligation}{29}{section.37}
-\contentsline {section}{\numberline {1.13}T4 RNA Ligase 2 (Rnl2)}{35}{section.39}
+\contentsline {section}{\numberline {1.2}Nucleic Acid Seqeuncing}{3}{section.18}
+\contentsline {subsection}{\numberline {1.2.1}DNA Sequencing History}{3}{subsection.19}
+\contentsline {subsection}{\numberline {1.2.2}History of High-throughput Sequencing}{3}{subsection.20}
+\contentsline {subsection}{\numberline {1.2.3}Deep-sequencing RNA methodologies}{5}{subsection.22}
+\contentsline {subsection}{\numberline {1.2.4}Measuing RNA Expression via Sequencing}{6}{subsection.24}
+\contentsline {section}{\numberline {1.3}Nucleic Acid Splicing}{7}{section.25}
+\contentsline {subsection}{\numberline {1.3.1}Alternative Splicing}{7}{subsection.26}
+\contentsline {subsection}{\numberline {1.3.2}Deciphering a splicing code}{7}{subsection.27}
+\contentsline {subsection}{\numberline {1.3.3}The Isoform Problem}{8}{subsection.28}
+\contentsline {subsection}{\numberline {1.3.4}Coordination in splicing}{9}{subsection.30}
+\contentsline {subsection}{\numberline {1.3.5}Many isoforms per gene}{11}{subsection.32}
+\contentsline {subsection}{\numberline {1.3.6}\textit {Drosophila melanogaster}{} \textit {Dscam1}{}}{12}{subsection.36}
+\contentsline {section}{\numberline {1.4}Nucleic Acid Ligation}{14}{section.39}
+\contentsline {subsection}{\numberline {1.4.1}RNA Sequence investigation by ligation}{14}{subsection.40}
+\contentsline {subsection}{\numberline {1.4.2}T4 RNA Ligase 2 (Rnl2)}{17}{subsection.42}
+\contentsline {section}{\numberline {1.5}Long Nucleic Acid Polymers}{20}{section.45}
+\contentsline {subsection}{\numberline {1.5.1}Mouse piRNAs are different}{20}{subsection.46}
+\contentsline {chapter}{\numberline {2}SeqZip Methodology Development}{24}{chapter.50}
+\contentsline {section}{\numberline {2.1}Main Section 1}{24}{section.51}
+\contentsline {subsection}{\numberline {2.1.1}Subsection 1}{24}{subsection.52}
+\contentsline {subsection}{\numberline {2.1.2}Subsection 2}{24}{subsection.53}
+\contentsline {section}{\numberline {2.2}Main Section 2}{24}{section.54}
+\contentsline {chapter}{\numberline {3}SeqZip Publication}{26}{chapter.56}
+\contentsline {section}{\numberline {3.1}Main Section 1}{26}{section.57}
+\contentsline {subsection}{\numberline {3.1.1}Subsection 1}{26}{subsection.58}
+\contentsline {subsection}{\numberline {3.1.2}Subsection 2}{26}{subsection.59}
+\contentsline {section}{\numberline {3.2}Main Section 2}{26}{section.60}
+\contentsline {chapter}{\numberline {4}Discussion}{28}{chapter.61}
+\contentsline {section}{\numberline {4.1}Future of Dyanmic long RNAs}{28}{section.62}
+\contentsline {subsection}{\numberline {4.1.1}The Known Knowns}{28}{subsection.63}
+\contentsline {subsection}{\numberline {4.1.2}The Known Unknowns}{29}{subsection.64}
+\contentsline {subsection}{\numberline {4.1.3}The Unknown Unknowns}{29}{subsection.65}
+\contentsline {section}{\numberline {4.2}Ligation-based investigation of long RNAs}{29}{section.66}
+\contentsline {subsection}{\numberline {4.2.1}SeqZip Other Applications}{29}{subsection.67}
+\contentsline {subsection}{\numberline {4.2.2}SeqZip Technical Improvements}{29}{subsection.68}
+\contentsline {subsection}{\numberline {4.2.3}SeqZip Alternatives}{30}{subsection.69}
+\contentsline {section}{\numberline {4.3}Mammalian piRNA-precursors, a special type of long RNA}{30}{section.70}
+\contentsline {subsection}{\numberline {4.3.1}What are they doing?}{30}{subsection.71}
+\contentsline {subsection}{\numberline {4.3.2}How are they generated?}{30}{subsection.72}
+\contentsline {subsection}{\numberline {4.3.3}Why should we care?}{30}{subsection.73}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Appendix - Misc Information}{41}{appendix.42}
-\contentsline {section}{\numberline {A.1}Equations}{41}{section.43}
-\contentsline {subsection}{\numberline {A.1.1}Determining [RNA] from $^{32}$P-$\alpha $-UTP used during vitro transcription}{41}{subsection.44}
-\contentsline {subsection}{\numberline {A.1.2}Determining [RNA] based on A$_{260}$}{42}{subsection.45}
-\contentsline {subsection}{\numberline {A.1.3}Normalize oxidized small RNA libraries size to time-matched unoxidized library}{42}{subsection.46}
+\contentsline {chapter}{\numberline {A}Appendix - Misc Information}{31}{appendix.74}
+\contentsline {section}{\numberline {A.1}Buffers}{31}{section.75}
+\contentsline {section}{\numberline {A.2}Equations}{31}{section.77}
+\contentsline {subsection}{\numberline {A.2.1}Determining [RNA] from $^{32}$P-$\alpha $-UTP used during vitro transcription}{31}{subsection.78}
+\contentsline {subsection}{\numberline {A.2.2}Determining [RNA] based on A$_{260}$}{31}{subsection.79}
+\contentsline {subsection}{\numberline {A.2.3}Normalize oxidized small RNA libraries size to time-matched unoxidized library}{32}{subsection.80}
+\contentsline {section}{\numberline {A.3}PCR Programs}{32}{section.81}
+\contentsline {section}{\numberline {A.4}Source Code}{32}{section.82}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{43}{dummy.47}
+\contentsline {chapter}{Bibliography}{33}{dummy.90}

@@ -2,50 +2,52 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.v0.14.aux
 The style file: plainnat.bst
-Database file #1: Bibliography_2.bib
+Database file #1: library.bib.bib
 Warning--I didn't find a database entry for "Burnette2005"
 Warning--I didn't find a database entry for "Nandrakumar2006"
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty publisher in Calarco2007
 Warning--empty journal in Riley2013
-You've used 123 entries,
+Warning--empty journal in Rumsfeld2011
+You've used 149 entries,
             2773 wiz_defined-function locations,
-            1681 strings with 54943 characters,
-and the built_in function-call counts, 108498 in all, are:
-= -- 9020
-> -- 11352
-< -- 43
-+ -- 3793
-- -- 3669
-* -- 11310
-:= -- 17956
-add.period$ -- 656
-call.type$ -- 123
-change.case$ -- 1590
-chr.to.int$ -- 122
-cite$ -- 248
-duplicate$ -- 2612
-empty$ -- 4944
-format.name$ -- 3838
-if$ -- 21307
-int.to.chr$ -- 2
+            1885 strings with 65764 characters,
+and the built_in function-call counts, 128258 in all, are:
+= -- 10730
+> -- 13199
+< -- 47
++ -- 4411
+- -- 4260
+* -- 13355
+:= -- 21196
+add.period$ -- 798
+call.type$ -- 149
+change.case$ -- 1865
+chr.to.int$ -- 147
+cite$ -- 301
+duplicate$ -- 3157
+empty$ -- 5979
+format.name$ -- 4457
+if$ -- 25223
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 124
-newline$ -- 909
-num.names$ -- 492
-pop$ -- 2701
+missing$ -- 150
+newline$ -- 1103
+num.names$ -- 596
+pop$ -- 3143
 preamble$ -- 1
-purify$ -- 1469
+purify$ -- 1718
 quote$ -- 0
-skip$ -- 2742
+skip$ -- 3238
 stack$ -- 0
-substring$ -- 3062
-swap$ -- 282
-text.length$ -- 8
+substring$ -- 3691
+swap$ -- 334
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1343
-warning$ -- 2
-while$ -- 603
+type$ -- 1629
+warning$ -- 3
+while$ -- 727
 width$ -- 0
-write$ -- 2174
-(There were 4 warnings)
+write$ -- 2638
+(There were 5 warnings)

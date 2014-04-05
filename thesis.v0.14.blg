@@ -1,53 +1,71 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.v0.14.aux
+White space in argument---line 358 of file thesis.v0.14.aux
+ : \citation{Gan2011
+ :                   ,Modzelewski2012}
+I'm skipping whatever remains of this command
+White space in argument---line 359 of file thesis.v0.14.aux
+ : \citation{Gan2011
+ :                   ,Modzelewski2012}
+I'm skipping whatever remains of this command
 The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 11748 items from 5000.
 Database file #1: library.bib.bib
-Warning--I didn't find a database entry for "Burnette2005"
-Warning--I didn't find a database entry for "Nandrakumar2006"
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "Burnette2005"
+Warning--I didn't find a database entry for "Lohman2013d"
+Warning--I didn't find a database entry for "Nandrakumar2006"
+Warning--I didn't find a database entry for "Hannon2008"
+Warning--I didn't find a database entry for "Aravin200a"
+Warning--I didn't find a database entry for "Kawaoka2013"
+Warning--I didn't find a database entry for "Baudat2000"
+Warning--I didn't find a database entry for "Deng2002"
+Warning--I didn't find a database entry for "Grivna2006b"
+Warning--I didn't find a database entry for "Weston1992"
 Warning--empty publisher in Calarco2007
 Warning--empty journal in Riley2013
 Warning--empty journal in Rumsfeld2011
-You've used 149 entries,
+Warning--there's a number but no volume in Vagin2004
+You've used 231 entries,
             2773 wiz_defined-function locations,
-            1885 strings with 65764 characters,
-and the built_in function-call counts, 128258 in all, are:
-= -- 10730
-> -- 13199
-< -- 47
-+ -- 4411
-- -- 4260
-* -- 13355
-:= -- 21196
-add.period$ -- 798
-call.type$ -- 149
-change.case$ -- 1865
-chr.to.int$ -- 147
-cite$ -- 301
-duplicate$ -- 3157
-empty$ -- 5979
-format.name$ -- 4457
-if$ -- 25223
-int.to.chr$ -- 3
+            2539 strings with 95024 characters,
+and the built_in function-call counts, 184393 in all, are:
+= -- 15789
+> -- 17878
+< -- 67
++ -- 5975
+- -- 5739
+* -- 19080
+:= -- 30300
+add.period$ -- 1258
+call.type$ -- 231
+change.case$ -- 2604
+chr.to.int$ -- 226
+cite$ -- 466
+duplicate$ -- 4858
+empty$ -- 9250
+format.name$ -- 6054
+if$ -- 36469
+int.to.chr$ -- 6
 int.to.str$ -- 1
-missing$ -- 150
-newline$ -- 1103
-num.names$ -- 596
-pop$ -- 3143
+missing$ -- 232
+newline$ -- 1727
+num.names$ -- 924
+pop$ -- 4248
 preamble$ -- 1
-purify$ -- 1718
+purify$ -- 2375
 quote$ -- 0
-skip$ -- 3238
+skip$ -- 4671
 stack$ -- 0
-substring$ -- 3691
-swap$ -- 334
+substring$ -- 5674
+swap$ -- 491
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1629
-warning$ -- 3
-while$ -- 727
+type$ -- 2531
+warning$ -- 4
+while$ -- 1124
 width$ -- 0
-write$ -- 2638
-(There were 5 warnings)
+write$ -- 4131
+(There were 2 error messages)

@@ -122,7 +122,7 @@
 		A Dissertation Presented \\[0.25cm]
 		By \\[0.25cm]
 		Christian K. Roy \\[0.25cm]
-
+ 
 		The signatures of the Dissertation Defense Committee signify \\
 		completion and approval as to style and content of the Dissertation\\[1cm]
 		\rule[1em]{25em}{1pt}\\[-0.6cm]% This prints a line for the signature
@@ -142,7 +142,7 @@
 		Anthony Carruthers, Ph.D.,\\[0.25cm]
 		Dean of the Graduate School of Biomedical Sciences\\[0.25cm]
 		Biochemistry and Molecular Pharmacology\\[0.25cm]
-		MAY 21st 2014
+		MAY 21st 2014 
 
  \end{center}
  \end{titlepage}
@@ -157,8 +157,8 @@
 \abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 The Thesis Abstract is written here (and usually kept to just this page). The page is kept centered vertically so can expand into the blank space above the title too\ldots
-}
 
+}
 \setcounter{page}{3}
 \clearpage % Start a new page
 
@@ -216,10 +216,9 @@ My committee has also been very supportive throughput my PhD. I hardly believed 
 \clearpage % Start a new page
 \setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
 \lhead{\emph{List of Abreviations}}
-	\listAbreviations
-\label{hd:abrevs}
+\label{hd:abrevs} \listAbreviations
 \begin{table}[h]
-\begin{tabular}{ll}
+\begin{tabular}{l|l}
 AS       & Alternative Splicing                                 \\
 DNA      & Deoxyribonucleic acid                                \\
 ssDNA    & Single-stranded DNA                                  \\
@@ -240,15 +239,14 @@ TTS      & \{Transcription or Translation\} Termination Site    \\
 SAGE     & Serial Analysis of Gene Expression                   \\
 \end{tabular}
 \end{table}
-\clearpage % Start a new page
 
 %----------------------------------------------------------------------------------------
 %	SYMBOLS
 %----------------------------------------------------------------------------------------
 \clearpage % Start a new page
 \lhead{\emph{List of Symbols}}
-	\listSymbols
-\label{hd:Symbols}
+\label{hd:Symbols} \listSymbols
+
 \begin{table}[h]
 \begin{tabular}{ll}
 5\textprime       & The 5 prime end of a DNA or RNA molecule 			\\
@@ -262,8 +260,8 @@ $\mu$       	  & Micro. A value of 1x10\textsuperscript{-6} standard units 			\\
 %----------------------------------------------------------------------------------------
 \clearpage % Start a new page
 \lhead{\emph{Definitions}}
-	\listDefinitions
-\label{hd:Definitions}
+\label{hd:Definitions} \listDefinitions
+
 \begin{description}
   \item[RNA-Seq] \hfill \\
   A technology wherein RNA is fragmented, converted to DNA, and analyzed on a high-throughput sequencing instrument
@@ -324,7 +322,7 @@ Some contents of Chapter \ref{Chapter3} are included in a currently submitted ma
 \input{Chapters/Chapter1-Introduction}
 \input{Chapters/Chapter2-SeqZipMethodology} 
 \input{Chapters/Chapter3-SeqZipManuscript}
-%\input{Chapters/Chapter4-MolCel2013} 
+\input{Chapters/Chapter4-MolCel2013} 
 \input{Chapters/Chapter5-Discussion} 
 
 

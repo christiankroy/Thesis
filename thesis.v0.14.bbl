@@ -1,4 +1,4 @@
-\begin{thebibliography}{149}
+\begin{thebibliography}{231}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -14,6 +14,36 @@ M~Amitsur, R~Levitz, and G~Kaufmann.
 \newblock ISSN 0261-4189.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=553660\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Anders and Huber(2010)]{Anders2010a}
+Simon Anders and Wolfgang Huber.
+\newblock {Differential expression analysis for sequence count data}.
+\newblock \emph{Genome Biology}, 11\penalty0 (10):\penalty0 R106, 2010.
+\newblock ISSN 1465-6914.
+\newblock \doi{10.1186/gb-2010-11-10-r106}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20979621}.
+
+\bibitem[Anstey et~al.(2009)Anstey, Rogers, Ott, Burrows, and
+  Simpson]{Anstey2009}
+Michael~L Anstey, Stephen~M Rogers, Swidbert~R Ott, Malcolm Burrows, and
+  Stephen~J Simpson.
+\newblock {Serotonin mediates behavioral gregarization underlying swarm
+  formation in desert locusts.}
+\newblock \emph{Science (New York, N.Y.)}, 323\penalty0 (5914):\penalty0
+  627--30, January 2009.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.1165939}.
+\newblock URL \url{http://dx.doi.org/10.1126/science.1165939
+  http://www.ncbi.nlm.nih.gov/pubmed/19179529}.
+
+\bibitem[Aravin and Hannon(2008)]{Aravin2008a}
+A~A Aravin and G~J Hannon.
+\newblock {Small RNA silencing pathways in germ and stem cells.}
+\newblock \emph{Cold Spring Harbor symposia on quantitative biology},
+  73:\penalty0 283--90, January 2008.
+\newblock ISSN 1943-4456.
+\newblock \doi{10.1101/sqb.2008.73.058}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19270082}.
 
 \bibitem[Aravin et~al.(2006)Aravin, Gaidatzis, Pfeffer, Lagos-Quintana,
   Landgraf, Iovino, Morris, Brownstein, Kuramochi-Miyagawa, Nakano, Chien,
@@ -42,6 +72,69 @@ Alexei~A. Aravin, Natalia~M. Naumova, Alexei~V. Tulin, Vasilii~V. Vagin,
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/pii/S0960982201002998
   http://www.sciencedirect.com/science?\_ob=MImg\&\_imagekey=B6VRT-43HK9SP-K-1\&\_cdi=6243\&\_user=115184\&\_pii=S0960982201002998\&\_origin=\&\_coverDate=07/10/2001\&\_sk=999889986\&view=c\&wchp=dGLzVzb-zSkWz\&md5=182a8ec2e55b3c2fde508f1afc397de7\&ie=/sdarticle.pdf}.
+
+\bibitem[Aravin et~al.(2007{\natexlab{a}})Aravin, Hannon, and
+  Brennecke]{Aravin2007a}
+Alexei~A Aravin, Gregory~J Hannon, and Julius Brennecke.
+\newblock {The Piwi-piRNA Pathway Provides an Adaptive Defense in the
+  Transposon Arms Race}.
+\newblock \emph{Science}, 318\penalty0 (5851):\penalty0 761--764, November
+  2007{\natexlab{a}}.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1146484}.
+\newblock URL \url{http://www.sciencemag.org/content/318/5851/761
+  http://www.sciencemag.org/content/318/5851/761.full.pdf}.
+
+\bibitem[Aravin et~al.(2007{\natexlab{b}})Aravin, Sachidanandam, Girard,
+  Fejes-Toth, and Hannon]{Aravin2007}
+Alexei~A. Aravin, Ravi Sachidanandam, Angelique Girard, Katalin Fejes-Toth, and
+  Gregory~J. Hannon.
+\newblock {Developmentally regulated piRNA clusters implicate MILI in
+  transposon control.}
+\newblock \emph{Science (New York, N.Y.)}, 316\penalty0 (5825):\penalty0
+  744--7, May 2007{\natexlab{b}}.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.1142612}.
+\newblock URL \url{http://www.sciencemag.org/content/316/5825/744.abstract
+  http://www.sciencemag.org/content/316/5825/744.full.pdf
+  http://www.ncbi.nlm.nih.gov/pubmed/17446352}.
+
+\bibitem[Ashe et~al.(2012)Ashe, Sapetschnig, Weick, Mitchell, Bagijn, Cording,
+  Doebley, Goldstein, Lehrbach, {Le Pen}, Pintacuda, Sakaguchi, Sarkies, Ahmed,
+  and Miska]{Ashe2012}
+Alyson Ashe, Alexandra Sapetschnig, Eva-Maria Weick, Jacinth Mitchell,
+  Marloes~P Bagijn, Amy~C Cording, Anna-Lisa Doebley, Leonard~D Goldstein,
+  Nicolas~J Lehrbach, J\'{e}r\'{e}mie {Le Pen}, Greta Pintacuda, Aisa
+  Sakaguchi, Peter Sarkies, Shawn Ahmed, and Eric~a Miska.
+\newblock {piRNAs can trigger a multigenerational epigenetic memory in the
+  germline of C. elegans.}
+\newblock \emph{Cell}, 150\penalty0 (1):\penalty0 88--99, July 2012.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2012.06.018}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3464430\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Bailey and Elkan(1994)]{Bailey1994}
+T~L Bailey and C~Elkan.
+\newblock {Fitting a mixture model by expectation maximization to discover
+  motifs in biopolymers.}
+\newblock \emph{Proceedings International Conference on Intelligent Systems for
+  Molecular Biology ISMB International Conference on Intelligent Systems for
+  Molecular Biology}, 2:\penalty0 28--36, January 1994.
+\newblock ISSN 1553-0833.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/7584402}.
+
+\bibitem[Bailey et~al.(2009)Bailey, Boden, Buske, Frith, Grant, Clementi, Ren,
+  Li, and Noble]{Bailey2009}
+Timothy~L Bailey, Mikael Boden, Fabian~a Buske, Martin Frith, Charles~E Grant,
+  Luca Clementi, Jingyuan Ren, Wilfred~W Li, and William~S Noble.
+\newblock {MEME SUITE: tools for motif discovery and searching.}
+\newblock \emph{Nucleic acids research}, 37\penalty0 (Web Server
+  issue):\penalty0 W202--8, July 2009.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkp335}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2703892\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Barash et~al.(2010)Barash, Calarco, Gao, Pan, Wang, Shai, Blencowe,
   and Frey]{Barash2010}
@@ -180,6 +273,15 @@ David~R Bentley, Shankar Balasubramanian, Harold~P Swerdlow, Geoffrey~P Smith,
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2581791\&tool=pmcentrez\&rendertype=abstract}.
 
+\bibitem[Benton and Donoghue(2007)]{Benton2007}
+Michael~J Benton and Philip C~J Donoghue.
+\newblock {Paleontological evidence to date the tree of life.}
+\newblock \emph{Molecular biology and evolution}, 24\penalty0 (1):\penalty0
+  26--53, January 2007.
+\newblock ISSN 0737-4038.
+\newblock \doi{10.1093/molbev/msl150}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17047029}.
+
 \bibitem[Bernstein et~al.(1983)Bernstein, Mogami, Donady, and
   Emerson]{Bernstein1983a}
 Sanford~I. Bernstein, Kaname Mogami, J.~James Donady, and Charles~P. Emerson.
@@ -209,6 +311,26 @@ Benjamin~J Blencowe, Sidrah Ahmad, and Leo~J Lee.
 \newblock ISSN 1549-5477.
 \newblock \doi{10.1101/gad.1788009}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19528315}.
+
+\bibitem[Bolcun-Filas et~al.(2011)Bolcun-Filas, Bannister, Barash, Schimenti,
+  Hartford, Eppig, Handel, Shen, and Schimenti]{Bolcun-Filas2011}
+Ewelina Bolcun-Filas, Laura~A. Bannister, Alex Barash, Kerry~J. Schimenti,
+  Suzanne~A. Hartford, John~J. Eppig, Mary~Ann Handel, Lishuang Shen, and
+  John~C. Schimenti.
+\newblock {A-MYB (MYBL1) transcription factor is a master regulator of male
+  meiosis}.
+\newblock \emph{Development}, 138\penalty0 (15):\penalty0 3319 --3330, 2011.
+\newblock \doi{10.1242/dev.067645}.
+\newblock URL \url{http://dev.biologists.org/content/138/15/3319.abstract
+  http://dev.biologists.org/content/138/15/3319.full.pdf}.
+
+\bibitem[Brennecke and Malone(2008)]{Brennecke2008}
+J~Brennecke and CD~Malone.
+\newblock {An Epigenetic Role for Maternally Inherited piRNAs in Transposon
+  Silencing}.
+\newblock \emph{Science (New York, \ldots}, 322\penalty0 (November):\penalty0
+  1387--1392, 2008.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2805124/}.
 
 \bibitem[Brennecke et~al.(2007)Brennecke, Aravin, Stark, Dus, Kellis,
   Sachidanandam, and Hannon]{Brennecke2007}
@@ -269,6 +391,18 @@ Desmond R. Bullard and Richard P. Bowater.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1525015/pdf/bj3980135.pdf}.
 
+\bibitem[Burnside et~al.(2008)Burnside, Ouyang, Anderson, Bernberg, Lu, Meyers,
+  Green, Markis, Isaacs, Huang, and Morgan]{Burnside2008}
+Joan Burnside, Ming Ouyang, Amy Anderson, Erin Bernberg, Cheng Lu, Blake~C
+  Meyers, Pamela~J Green, Milos Markis, Grace Isaacs, Emily Huang, and Robin~W
+  Morgan.
+\newblock {Deep sequencing of chicken microRNAs.}
+\newblock \emph{BMC genomics}, 9:\penalty0 185, January 2008.
+\newblock ISSN 1471-2164.
+\newblock \doi{10.1186/1471-2164-9-185}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2375912\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Calarco et~al.(2007{\natexlab{a}})Calarco, Saltzman, Ip, and
   Blencowe]{Calarco2007}
 John~A Calarco, Arneet~L Saltzman, Joanna~Y Ip, and Benjamin~J Blencowe.
@@ -304,6 +438,15 @@ Michelle~A. Carmell, Ang\'{e}lique Girard, Henk~J.G. van~de Kant, Deborah
   \url{http://www.sciencedirect.com/science/article/B6WW3-4NCCF20-1/2/320872bb9eea35c7846e92ae5dd3080d
   http://www.sciencedirect.com/science?\_ob=MImg\&\_imagekey=B6WW3-4NCCF20-1-2\&\_cdi=7119\&\_user=115184\&\_pii=S1534580707001001\&\_origin=gateway\&\_coverDate=04/30/2007\&\_sk=999879995\&view=c\&wchp=dGLbVlb-zSkWA\&md5=4477fad234c33db4b38b7606674018b9\&ie=/sdarticle.pdf}.
 
+\bibitem[Cenik and Zamore(2011)]{Cenik2011}
+Elif~Sarinay Cenik and Phillip~D Zamore.
+\newblock {Argonaute proteins.}
+\newblock \emph{Current biology : CB}, 21\penalty0 (12):\penalty0 R446--9, June
+  2011.
+\newblock ISSN 1879-0445.
+\newblock \doi{10.1016/j.cub.2011.05.020}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/21683893}.
+
 \bibitem[Chauleau and Shuman(2013)]{Chauleau2013b}
 Mathieu Chauleau and Stewart Shuman.
 \newblock {Kinetic mechanism of nick sealing by T4 RNA ligase 2 and effects of
@@ -313,6 +456,39 @@ Mathieu Chauleau and Stewart Shuman.
 \newblock ISSN 1469-9001.
 \newblock \doi{10.1261/rna.041731.113}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24158792}.
+
+\bibitem[Chen et~al.(2009)Chen, Jin, James, Adams-cioaba, Gyoon, Guo, Tenaglia,
+  Xu, Gish, Min, and Pawson]{Chen2009a}
+Chen Chen, Jing Jin, D~Andrew James, Melanie~A Adams-cioaba, Jin Gyoon, Yahong
+  Guo, Enrico Tenaglia, Chao Xu, Gerald Gish, Jinrong Min, and Tony Pawson.
+\newblock {Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor
+  domain to arginine methylated Miwi}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 106\penalty0
+  (48):\penalty0 20336--20341, 2009.
+\newblock URL \url{http://www.pnas.org/content/106/48/20336.short}.
+
+\bibitem[Chen et~al.(2008)Chen, Xu, Yuan, Fang, Huss, Vega, Wong, Orlov, Zhang,
+  Jiang, Loh, Yeo, Yeo, Narang, Govindarajan, Leong, Shahab, Ruan, Bourque,
+  Sung, Clarke, Wei, and Ng]{Chen2008}
+Xi~Chen, Han Xu, Ping Yuan, Fang Fang, Mikael Huss, Vinsensius~B Vega, Eleanor
+  Wong, Yuriy~L Orlov, Weiwei Zhang, Jianming Jiang, Yuin-Han Loh, Hock~Chuan
+  Yeo, Zhen~Xuan Yeo, Vipin Narang, Kunde~Ramamoorthy Govindarajan, Bernard
+  Leong, Atif Shahab, Yijun Ruan, Guillaume Bourque, Wing-Kin Sung, Neil~D
+  Clarke, Chia-Lin Wei, and Huck-Hui Ng.
+\newblock {Integration of external signaling pathways with the core
+  transcriptional network in embryonic stem cells.}
+\newblock \emph{Cell}, 133\penalty0 (6):\penalty0 1106--17, June 2008.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2008.04.043}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18555785}.
+
+\bibitem[Chuma and Hosokawa(2006)]{Chuma2006a}
+Shinichiro Chuma and Mihoko Hosokawa.
+\newblock {Tdrd1/Mtr-1 ,a male tudor-related gene, is essential for male
+  germ-cell differentiationand nuage/germinal grandule formation in mice}.
+\newblock \emph{Proceedings of the \ldots}, 103\penalty0 (43):\penalty0 1--6,
+  2006.
+\newblock URL \url{http://www.pnas.org/content/103/43/15894.short}.
 
 \bibitem[Consortium(2004)]{Hattori2005a}
 International Human Genome~Sequencing Consortium.
@@ -363,6 +539,28 @@ Serena {De Fazio}, Nenad Bartonicek, Monica {Di Giacomo}, Cei Abreu-Goodger,
 \newblock \doi{10.1038/nature10547}.
 \newblock URL \url{http://dx.doi.org/10.1038/nature10547
   http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature10547.pdf}.
+
+\bibitem[Deng et~al.(1996)Deng, Ishii, and Sarai]{Deng1996}
+QL~Qiao-lin Deng, Shunsuke Ishii, and Akinori Sarai.
+\newblock {Binding site analysis of c-Myb : screening of potential binding
+  sites by using the mutation matrix derived from systematic binding affinity
+  measurements}.
+\newblock \emph{Nucleic Acids Research}, 24\penalty0 (4):\penalty0 766--774,
+  1996.
+\newblock URL \url{http://nar.oxfordjournals.org/content/24/4/766.short}.
+
+\bibitem[Deng and Lin(2002)]{Deng2002c}
+Wei Deng and Haifan Lin.
+\newblock {miwi, a Murine Homolog of piwi, Encodes a Cytoplasmic Protein
+  Essential for Spermatogenesis}.
+\newblock \emph{Developmental cell}, 2\penalty0 (6):\penalty0 819--830, June
+  2002.
+\newblock ISSN 1534-5807.
+\newblock \doi{16/S1534-5807(02)00165-X}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S153458070200165X
+  http://www.sciencedirect.com/science?\_ob=MImg\&\_imagekey=B6WW3-463G30P-K-1\&\_cdi=7119\&\_user=115184\&\_pii=S153458070200165X\&\_origin=\&\_coverDate=06/30/2002\&\_sk=999979993\&view=c\&wchp=dGLzVzb-zSkzk\&md5=574692970ba43a75d64c9cfa37225f54\&ie=/sdarticle.pdf
+  http://www.cell.com/developmental-cell/abstract/S1534-5807(02)00165-X}.
 
 \bibitem[Djebali et~al.(2008)Djebali, Kapranov, Foissac, Lagarde, Reymond,
   Ucla, Wyss, Drenkow, Dumais, Murray, Lin, Szeto, Denoeud, Calvo, Frankish,
@@ -441,6 +639,16 @@ Matthew Fagnani, Yoseph Barash, Joanna~Y Ip, Christine Misquitta, Qun Pan,
 \newblock \doi{10.1186/gb-2007-8-6-r108}.
 \newblock URL \url{http://genomebiology.com/content/8/6/R108}.
 
+\bibitem[Farazi et~al.(2008)Farazi, Juranek, and Tuschl]{Farazi2008}
+Thalia~a Farazi, Stefan~a Juranek, and Thomas Tuschl.
+\newblock {The growing catalog of small RNAs and their association with
+  distinct Argonaute/Piwi family members.}
+\newblock \emph{Development (Cambridge, England)}, 135\penalty0 (7):\penalty0
+  1201--14, April 2008.
+\newblock ISSN 0950-1991.
+\newblock \doi{10.1242/dev.005629}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18287206}.
+
 \bibitem[Fareed et~al.(1971)Fareed, Wilt, and Richardson]{Fareed1971}
 George~C Fareed, Elaine~M Wilt, and Charles~C Richardson.
 \newblock {Enzymatic Breakage and Joining of Deoxyribonucleic Acid}.
@@ -486,6 +694,16 @@ Y~Furuichi.
 \newblock \emph{Proceedings of the \ldots}, 72\penalty0 (2):\penalty0 742--745,
   1975.
 \newblock URL \url{http://www.pnas.org/content/72/2/742.short}.
+
+\bibitem[Gan et~al.(2011)Gan, Lin, Zhang, Zhang, Liao, Wang, and Han]{Gan2011}
+Haiyun Gan, Xiwen Lin, Zhuqiang Zhang, Wei Zhang, Shangying Liao, Lixian Wang,
+  and Chunsheng Han.
+\newblock {piRNA profiling during specific stages of mouse spermatogenesis}.
+\newblock \emph{RNA}, May 2011.
+\newblock \doi{10.1261/rna.2648411}.
+\newblock URL
+  \url{http://rnajournal.cshlp.org/content/early/2011/05/20/rna.2648411.abstract
+  http://rnajournal.cshlp.org/content/early/2011/05/20/rna.2648411.full.pdf}.
 
 \bibitem[Ghildiyal et~al.(2008)Ghildiyal, Seitz, Horwich, Li, Du, Lee, Xu,
   Kittler, Zapp, Weng, and Zamore]{Ghildiyal2008}
@@ -540,6 +758,33 @@ Dominique~A. Glauser, Brandon~E. Johnson, Richard~W. Aldrich, and Miriam~B.
   \url{https://ssl.umassmed.edu/content/108/51/,DanaInfo=www.pnas.org+20790.short
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3251113\&tool=pmcentrez\&rendertype=abstract}.
 
+\bibitem[Grabherr et~al.(2011)Grabherr, Haas, Yassour, Levin, Thompson, Amit,
+  Adiconis, Fan, Raychowdhury, Zeng, Chen, Mauceli, Hacohen, Gnirke, Rhind,
+  di~Palma, Birren, Nusbaum, Lindblad-Toh, Friedman, and Regev]{Grabherr2011}
+Manfred~G Grabherr, Brian~J Haas, Moran Yassour, Joshua~Z Levin, Dawn~A
+  Thompson, Ido Amit, Xian Adiconis, Lin Fan, Raktima Raychowdhury, Qiandong
+  Zeng, Zehua Chen, Evan Mauceli, Nir Hacohen, Andreas Gnirke, Nicholas Rhind,
+  Federica di~Palma, Bruce~W Birren, Chad Nusbaum, Kerstin Lindblad-Toh, Nir
+  Friedman, and Aviv Regev.
+\newblock {Full-length transcriptome assembly from RNA-Seq data without a
+  reference genome}.
+\newblock \emph{Nature Biotechnology}, 29\penalty0 (7):\penalty0 644--652, May
+  2011.
+\newblock ISSN 1087-0156.
+\newblock \doi{10.1038/nbt.1883}.
+\newblock URL \url{http://www.nature.com/nbt/journal/v29/n7/full/nbt.1883.html
+  http://www.nature.com/nbt/journal/v29/n7/pdf/nbt.1883.pdf}.
+
+\bibitem[Grant et~al.(2011)Grant, Bailey, and Noble]{Grant2011}
+Charles~E Grant, Timothy~L Bailey, and William~Stafford Noble.
+\newblock {FIMO: scanning for occurrences of a given motif.}
+\newblock \emph{Bioinformatics (Oxford, England)}, 27\penalty0 (7):\penalty0
+  1017--8, April 2011.
+\newblock ISSN 1367-4811.
+\newblock \doi{10.1093/bioinformatics/btr064}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3065696\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Graveley(2000)]{Graveley2000}
 B~R Graveley.
 \newblock {Sorting out the complexity of SR protein functions}.
@@ -547,6 +792,17 @@ B~R Graveley.
   September 2000.
 \newblock ISSN 1355-8382.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/10999598}.
+
+\bibitem[Grivna et~al.(2006)Grivna, Beyret, Wang, and Lin]{Grivna2006}
+Shane~T. Grivna, Ergin Beyret, Zhong Wang, and Haifan Lin.
+\newblock {A novel class of small RNAs in mouse spermatogenic cells.}
+\newblock \emph{Genes \& development}, 20\penalty0 (13):\penalty0 1709--14,
+  July 2006.
+\newblock ISSN 0890-9369.
+\newblock \doi{10.1101/gad.1434406}.
+\newblock URL \url{http://genesdev.cshlp.org/content/20/13/1709.abstract
+  http://genesdev.cshlp.org/content/20/13/1709.full.pdf
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1522066\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Gu et~al.(2010)Gu, Ji, Shi, Long, Xia, Song, Wang, and Wang]{Gu2010a}
 Aihua Gu, Guixiang Ji, Xiangguo Shi, Yan Long, Yankai Xia, Ling Song, Shoulin
@@ -560,6 +816,52 @@ Aihua Gu, Guixiang Ji, Xiangguo Shi, Yan Long, Yankai Xia, Ling Song, Shoulin
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20940137
   http://humrep.oxfordjournals.org/content/25/12/2955
   http://humrep.oxfordjournals.org/content/25/12/2955.full.pdf}.
+
+\bibitem[Gu et~al.(2012)Gu, Lee, Chaves, Youngman, Pazour, Conte, and
+  Mello]{Gu2012}
+Weifeng Gu, Heng-Chi Lee, Daniel Chaves, Elaine~M Youngman, Gregory~J Pazour,
+  Darryl Conte, and Craig~C Mello.
+\newblock {CapSeq and CIP-TAP identify Pol II start sites and reveal capped
+  small RNAs as C. elegans piRNA precursors.}
+\newblock \emph{Cell}, 151\penalty0 (7):\penalty0 1488--500, December 2012.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2012.11.023}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3581324\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Guenther et~al.(2007)Guenther, Levine, Boyer, Jaenisch, and
+  Young]{Guenther2007}
+Matthew~G Guenther, Stuart~S Levine, Laurie~A Boyer, Rudolf Jaenisch, and
+  Richard~A Young.
+\newblock {A chromatin landmark and transcription initiation at most promoters
+  in human cells.}
+\newblock \emph{Cell}, 130:\penalty0 77--88, 2007.
+\newblock ISSN 00928674.
+\newblock \doi{10.1016/j.cell.2007.05.042}.
+
+\bibitem[Gupta et~al.(2007)Gupta, Stamatoyannopoulos, Bailey, and
+  Noble]{Gupta2007}
+Shobhit Gupta, John~a Stamatoyannopoulos, Timothy~L Bailey, and
+  William~Stafford Noble.
+\newblock {Quantifying similarity between motifs.}
+\newblock \emph{Genome biology}, 8\penalty0 (2):\penalty0 R24, January 2007.
+\newblock ISSN 1465-6914.
+\newblock \doi{10.1186/gb-2007-8-2-r24}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1852410\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Haase et~al.(2010)Haase, Fenoglio, Muerdter, Guzzardo, Czech, Pappin,
+  Chen, Gordon, and Hannon]{Haase2010}
+Astrid~D Haase, Silvia Fenoglio, Felix Muerdter, Paloma~M Guzzardo, Benjamin
+  Czech, Darryl~J Pappin, Caifu Chen, Assaf Gordon, and Gregory~J Hannon.
+\newblock {Probing the initiation and effector phases of the somatic piRNA
+  pathway in Drosophila.}
+\newblock \emph{Genes \& development}, 24\penalty0 (22):\penalty0 2499--504,
+  November 2010.
+\newblock ISSN 1549-5477.
+\newblock \doi{10.1101/gad.1968110}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2975926\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Hafner et~al.(2008)Hafner, Landgraf, Ludwig, Rice, Ojo, Lin, Holoch,
   Lim, and Tuschl]{Hafner2008a}
@@ -590,6 +892,30 @@ Markus Hafner, Markus Landthaler, Lukas Burger, Mohsen Khorshid, Jean Hausser,
   \url{http://www.sciencedirect.com/science/article/B6WSN-4YRY58X-H/2/506aed3f8c6aebed3d3b0918ed7e8ec1
   http://www.sciencedirect.com/science?\_ob=MImg\&\_imagekey=B6WSN-4YRY58X-H-1W\&\_cdi=7051\&\_user=115184\&\_pii=S009286741000245X\&\_origin=gateway\&\_coverDate=04\%2F02\%2F2010\&\_sk=998589998\&view=c\&wchp=dGLzVzz-zSkWb\&md5=831980768d084e9c9b52517b7dcc371f\&ie=/sdarticle.pdf}.
 
+\bibitem[Handler et~al.(2011)Handler, Olivieri, Novatchkova, Gruber, Meixner,
+  Mechtler, Stark, Sachidanandam, and Brennecke]{Handler2011}
+Dominik Handler, Daniel Olivieri, Maria Novatchkova, Franz~Sebastian Gruber,
+  Katharina Meixner, Karl Mechtler, Alexander Stark, Ravi Sachidanandam, and
+  Julius Brennecke.
+\newblock {A systematic analysis of Drosophila TUDOR domain-containing proteins
+  identifies Vreteno and the Tdrd12 family as essential primary piRNA pathway
+  factors.}
+\newblock \emph{The EMBO journal}, 30\penalty0 (19):\penalty0 3977--93, October
+  2011.
+\newblock ISSN 1460-2075.
+\newblock \doi{10.1038/emboj.2011.308}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3209783\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Hartig et~al.(2007)Hartig, Tomari, and F\"{o}rstemann]{Hartig2007}
+Julia~Verena Hartig, Yukihide Tomari, and Klaus F\"{o}rstemann.
+\newblock {piRNAs--the ancient hunters of genome invaders.}
+\newblock \emph{Genes \& development}, 21\penalty0 (14):\penalty0 1707--13,
+  July 2007.
+\newblock ISSN 0890-9369.
+\newblock \doi{10.1101/gad.1567007}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17639076}.
+
 \bibitem[Ho et~al.(1997)Ho, Etten, and Shuman]{Ho1997b}
 C~K Ho, J~L~Van Etten, and S~Shuman.
 \newblock {Characterization of an ATP-dependent DNA ligase encoded by Chlorella
@@ -614,6 +940,29 @@ C~Kiong Ho, Li~Kai Wang, Christopher~D Lima, and Stewart Shuman.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/14962393
   http://pdn.sciencedirect.com/science?\_ob=MiamiImageURL\&\_cid=272027\&\_user=115184\&\_pii=S0969212604000231\&\_check=y\&\_origin=article\&\_zone=toolbar\&\_coverDate=29-Feb-2004\&view=c\&originContentFamily=serial\&wchp=dGLbVlt-zSkWA\&md5=018e26b1b114f6a73bef97ac8a7ccefd/1-s2.0-S0969212604000231-main.pdf}.
 
+\bibitem[Horvath et~al.(2009)Horvath, Kistler, and Kistler]{Horvath2009}
+Gary~C Horvath, Malathi~K Kistler, and W~Stephen Kistler.
+\newblock {RFX2 is a candidate downstream amplifier of A-MYB regulation in
+  mouse spermatogenesis}.
+\newblock \emph{BMC Developmental Biology}, 9\penalty0 (1):\penalty0 63, 2009.
+\newblock ISSN 1471-213X.
+\newblock \doi{10.1186/1471-213X-9-63}.
+\newblock URL
+  \url{https://ssl.umassmed.edu/1471-213X/9/,DanaInfo=www.biomedcentral.com+63}.
+
+\bibitem[Hosokawa et~al.(2007)Hosokawa, Shoji, Kitamura, Tanaka, Noce, Chuma,
+  and Nakatsuji]{Hosokawa2007}
+Mihoko Hosokawa, Masanobu Shoji, Kouichi Kitamura, Takashi Tanaka, Toshiaki
+  Noce, Shinichiro Chuma, and Norio Nakatsuji.
+\newblock {Tudor-related proteins TDRD1/MTR-1, TDRD6 and TDRD7/TRAP: domain
+  composition, intracellular localization, and function in male germ cells in
+  mice.}
+\newblock \emph{Developmental biology}, 301\penalty0 (1):\penalty0 38--52,
+  January 2007.
+\newblock ISSN 0012-1606.
+\newblock \doi{10.1016/j.ydbio.2006.10.046}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17141210}.
+
 \bibitem[House and Lynch(2008)]{House2008}
 Amy~E House and Kristen~W Lynch.
 \newblock {Regulation of alternative splicing: more than just the ABCs}.
@@ -622,6 +971,35 @@ Amy~E House and Kristen~W Lynch.
 \newblock ISSN 0021-9258.
 \newblock \doi{10.1074/jbc.R700031200}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18024429}.
+
+\bibitem[Houwing et~al.(2007)Houwing, Kamminga, Berezikov, Cronembold, Girard,
+  van~den Elst, Filippov, Blaser, Raz, Moens, Plasterk, Hannon, Draper, and
+  Ketting]{Houwing2007}
+Saskia Houwing, Leonie~M. Kamminga, Eugene Berezikov, Daniela Cronembold,
+  Ang\'{e}lique Girard, Hans van~den Elst, Dmitri~V. Filippov, Heiko Blaser,
+  Erez Raz, Cecilia~B. Moens, Ronald~H.A. Plasterk, Gregory~J. Hannon, Bruce~W.
+  Draper, and Ren\'{e}~F. Ketting.
+\newblock {A Role for Piwi and piRNAs in Germ Cell Maintenance and Transposon
+  Silencing in Zebrafish}.
+\newblock \emph{Cell}, 129\penalty0 (1):\penalty0 69--82, April 2007.
+\newblock ISSN 0092-8674.
+\newblock \doi{10.1016/j.cell.2007.03.026}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0092867407003923
+  http://www.sciencedirect.com/science?\_ob=MiamiImageURL\&\_cid=272196\&\_user=115184\&\_pii=S0092867407003923\&\_check=y\&\_origin=\&\_coverDate=06-Apr-2007\&view=c\&wchp=dGLzVlk-zSkWz\&md5=1cc45744e432d0002606f288ea8efbb7/1-s2.0-S0092867407003923-main.pdf}.
+
+\bibitem[Huang et~al.(2011)Huang, Gao, Peng, Choi, Sarma, Ren, Morris, and
+  Frohman]{Huang2011}
+Huiyan Huang, Qun Gao, Xiaoxue Peng, Seok-Yong Choi, Krishna Sarma, Hongmei
+  Ren, Andrew~J Morris, and Michael~a Frohman.
+\newblock {piRNA-associated germline nuage formation and spermatogenesis
+  require MitoPLD profusogenic mitochondrial-surface lipid signaling.}
+\newblock \emph{Developmental cell}, 20\penalty0 (3):\penalty0 376--87, March
+  2011.
+\newblock ISSN 1878-1551.
+\newblock \doi{10.1016/j.devcel.2011.01.004}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3061402\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Ingolia et~al.(2009)Ingolia, Ghaemmaghami, Newman, and
   Weissman]{Ingolia2009}
@@ -640,6 +1018,18 @@ Nicholas~T Ingolia, Liana~F Lareau, and Jonathan~S Weissman.
 \newblock \doi{10.1016/j.cell.2011.10.002}.
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/pii/S0092867411011925}.
+
+\bibitem[Ipsaro et~al.(2012)Ipsaro, Haase, Knott, Joshua-Tor, and
+  Hannon]{Ipsaro2012}
+Jonathan~J Ipsaro, Astrid~D Haase, Simon~R Knott, Leemor Joshua-Tor, and
+  Gregory~J Hannon.
+\newblock {The structural biochemistry of Zucchini implicates it as a nuclease
+  in piRNA biogenesis.}
+\newblock \emph{Nature}, 491\penalty0 (7423):\penalty0 279--83, November 2012.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature11502}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3493678\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Jin et~al.(2003)Jin, Suzuki, Maegawa, Endo, Sugano, Hashimoto, Yasuda,
   and Inoue]{Jin2003}
@@ -685,6 +1075,24 @@ E.~H. Kennard.
 \newblock \doi{10.1007/BF01391200}.
 \newblock URL \url{http://link.springer.com/10.1007/BF01391200}.
 
+\bibitem[Kent(2002)]{Kent2002}
+W.~J. Kent.
+\newblock {BLAT---The BLAST-Like Alignment Tool}.
+\newblock \emph{Genome Research}, 12\penalty0 (4):\penalty0 656--664, March
+  2002.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.229202}.
+\newblock URL \url{http://www.genome.org/cgi/doi/10.1101/gr.229202}.
+
+\bibitem[Kim et~al.(2009)Kim, Han, and Siomi]{Kim2009}
+V~Narry Kim, Jinju Han, and Mikiko~C Siomi.
+\newblock {Biogenesis of small RNAs in animals.}
+\newblock \emph{Nature reviews. Molecular cell biology}, 10\penalty0
+  (2):\penalty0 126--39, February 2009.
+\newblock ISSN 1471-0080.
+\newblock \doi{10.1038/nrm2632}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19165215}.
+
 \bibitem[Kleppe et~al.(1970)Kleppe, {Van de Sande}, and Khorana]{Kleppe1970b}
 K~Kleppe, J~H {Van de Sande}, and H~G Khorana.
 \newblock {Polynucleotide ligase-catalyzed joining of
@@ -695,6 +1103,28 @@ K~Kleppe, J~H {Van de Sande}, and H~G Khorana.
 \newblock ISSN 0027-8424.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=283168\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Kojima et~al.(2009)Kojima, Kuramochi-Miyagawa, Chuma, Tanaka,
+  Nakatsuji, Kimura, and Nakano]{Kojima2009}
+Kanako Kojima, Satomi Kuramochi-Miyagawa, Shinichiro Chuma, Takashi Tanaka,
+  Norio Nakatsuji, Tohru Kimura, and Toru Nakano.
+\newblock {Associations between PIWI proteins and TDRD1/MTR-1 are critical for
+  integrated subcellular localization in murine male germ cells.}
+\newblock \emph{Genes to cells : devoted to molecular \& cellular mechanisms},
+  14\penalty0 (10):\penalty0 1155--65, October 2009.
+\newblock ISSN 1365-2443.
+\newblock \doi{10.1111/j.1365-2443.2009.01342.x}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19735482}.
+
+\bibitem[Kumar and Carmichael(1998)]{Kumar1998}
+Madhur; Kumar and Gordon~G Carmichael.
+\newblock {Antisense RNA: function and fate of duplex RNA in cells of higher
+  eukaryotes.}
+\newblock \emph{Microbiology and molecular biology reviews : MMBR}, 62\penalty0
+  (4):\penalty0 1415--34, December 1998.
+\newblock ISSN 1092-2172.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=98951\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Kuramochi-Miyagawa et~al.(2004)Kuramochi-Miyagawa, Kimura, Ijiri,
   Isobe, Asada, Fujita, Ikawa, Iwai, Okabe, Deng, Lin, Matsuda, and
@@ -727,6 +1157,19 @@ Satomi Kuramochi-Miyagawa, Toshiaki Watanabe, Kengo Gotoh, Yasushi Totoki,
 \newblock URL \url{http://genesdev.cshlp.org/content/22/7/908
   http://genesdev.cshlp.org/content/22/7/908.full.pdf}.
 
+\bibitem[Kutter et~al.(2011)Kutter, Brown, Gon\c{c}alves, Wilson, Watt, Brazma,
+  White, and Odom]{Kutter2011}
+Claudia Kutter, Gordon~D Brown, Angela Gon\c{c}alves, Michael~D Wilson, Stephen
+  Watt, Alvis Brazma, Robert~J White, and Duncan~T Odom.
+\newblock {Pol III binding in six mammals shows conservation among amino acid
+  isotypes despite divergence among tRNA genes.}
+\newblock \emph{Nature genetics}, 43\penalty0 (10):\penalty0 948--55, October
+  2011.
+\newblock ISSN 1546-1718.
+\newblock \doi{10.1038/ng.906}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3184141\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Ladd and Cooper(2002)]{Ladd2002}
 Andrea~N Ladd and Thomas~A Cooper.
 \newblock {Finding signals that regulate alternative splicing in the
@@ -754,6 +1197,23 @@ Eric~S Lander.
 \newblock \doi{10.1038/nature09792}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/21307931}.
 
+\bibitem[Langmead et~al.(2009)Langmead, Trapnell, Pop, and
+  Salzberg]{Langmead2009}
+Ben Langmead, Cole Trapnell, Mihai Pop, and Steven~L Salzberg.
+\newblock {Ultrafast and memory-efficient alignment of short DNA sequences to
+  the human genome}.
+\newblock \emph{Genome Biology}, 10\penalty0 (3):\penalty0 R25, 2009.
+\newblock ISSN 1465-6914.
+\newblock \doi{10.1186/gb-2009-10-3-r25}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19261174}.
+
+\bibitem[Latham et~al.(1996)Latham, Litvin, Orth, Patel, Mettus, and
+  Reddy]{Latham1996}
+K~E Latham, J~Litvin, J~M Orth, B~Patel, R~Mettus, and E~P Reddy.
+\newblock {Temporal patterns of A-myb and B-myb gene expression during testis
+  development.}
+\newblock \emph{Oncogene}, 13:\penalty0 1161--1168, 1996.
+
 \bibitem[Lau et~al.(2006)Lau, Seto, Kim, Kuramochi-Miyagawa, Nakano, Bartel,
   and Kingston]{Lau2006}
 Nelson~C Lau, Anita~G Seto, Jinkuk Kim, Satomi Kuramochi-Miyagawa, Toru Nakano,
@@ -765,6 +1225,18 @@ Nelson~C Lau, Anita~G Seto, Jinkuk Kim, Satomi Kuramochi-Miyagawa, Toru Nakano,
 \newblock \doi{10.1126/science.1130164}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16778019
   http://www.sciencemag.org/content/313/5785/363.full.pdf}.
+
+\bibitem[Lee et~al.(2012)Lee, Gu, Shirayama, Youngman, Conte, and
+  Mello]{Lee2012}
+Heng-Chi Lee, Weifeng Gu, Masaki Shirayama, Elaine Youngman, Darryl Conte, and
+  Craig~C Mello.
+\newblock {C. elegans piRNAs mediate the genome-wide surveillance of germline
+  transcripts.}
+\newblock \emph{Cell}, 150\penalty0 (1):\penalty0 78--87, July 2012.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2012.06.016}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3410639\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Lenasi et~al.(2006)Lenasi, Peterlin, and Dovc]{Lenasi2006}
 Tina Lenasi, B.~Matija Peterlin, and Peter Dovc.
@@ -786,6 +1258,14 @@ Hairi Li, Jinsong Qiu, and Xiang-Dong Fu.
 \newblock \doi{10.1002/0471142727.mb0413s98}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/22470064}.
 
+\bibitem[Li et~al.(2009{\natexlab{a}})Li, Handsaker, Wysoker, Fennell, Ruan,
+  Homer, Marth, Abecasis, and Durbin]{Li2009d}
+Heng Li, Bob Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan, Nils Homer, Gabor
+  Marth, Goncalo Abecasis, and Richard Durbin.
+\newblock {The Sequence Alignment/Map format and SAMtools}.
+\newblock \emph{Bioinformatics}, 25:\penalty0 2078--2079, 2009{\natexlab{a}}.
+\newblock \doi{10.1093/bioinformatics/btp352}.
+
 \bibitem[Li et~al.(2011)Li, Wang, Li, Bruzel, Richards, Toung, and
   Cheung]{Li2011}
 Mingyao Li, Isabel~X Wang, Yun Li, Alan Bruzel, Allison~L Richards, Jonathan~M
@@ -798,6 +1278,26 @@ Mingyao Li, Isabel~X Wang, Yun Li, Alan Bruzel, Allison~L Richards, Jonathan~M
 \newblock \doi{10.1126/science.1207018}.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3204392\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Li et~al.(2009{\natexlab{b}})Li, Barringer, and Barbash]{Li2009a}
+X~C Li, B~C Barringer, and D~a Barbash.
+\newblock {The pachytene checkpoint and its relationship to evolutionary
+  patterns of polyploidization and hybrid sterility.}
+\newblock \emph{Heredity}, 102\penalty0 (1):\penalty0 24--30, January
+  2009{\natexlab{b}}.
+\newblock ISSN 1365-2540.
+\newblock \doi{10.1038/hdy.2008.84}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18766201}.
+
+\bibitem[Li and Schimenti(2007)]{Li2007}
+Xin~Chenglin Li and John~C Schimenti.
+\newblock {Mouse pachytene checkpoint 2 (trip13) is required for completing
+  meiotic recombination but not synapsis.}
+\newblock \emph{PLoS genetics}, 3\penalty0 (8):\penalty0 e130, August 2007.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.0030130}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1941754\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Li et~al.(2013{\natexlab{a}})Li, Roy, Dong, Bolcun-Filas, Wang, Han,
   Xu, Moore, Schimenti, Weng, and Zamore]{Li2013h}
@@ -851,19 +1351,6 @@ Ryan Lister, Ronan~C O'Malley, Julian Tonti-Filippini, Brian~D Gregory,
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18423832
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2723732\&tool=pmcentrez\&rendertype=abstract}.
 
-\bibitem[Lohman et~al.(2013)Lohman, Zhang, Zhelkovsky, Cantor, Evans, and
-  Jr]{Lohman2013d}
-Gregory J~S Lohman, Yinhua Zhang, Alexander~M Zhelkovsky, Eric~J Cantor,
-  Thomas~C Evans, and Thomas C~Evans Jr.
-\newblock {Efficient DNA ligation in DNA – RNA hybrid helices by Chlorella
-  virus DNA ligase}.
-\newblock \emph{Nucleic acids research}, 42\penalty0 (36):\penalty0 1--14,
-  November 2013.
-\newblock ISSN 1362-4962.
-\newblock \doi{10.1093/nar/gkt1032}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24203707
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3919565\&tool=pmcentrez\&rendertype=abstract}.
-
 \bibitem[Long and Caceres(2009)]{Long2009}
 Jennifer~C Long and Javier~F Caceres.
 \newblock {The SR protein family of splicing factors: master regulators of gene
@@ -880,6 +1367,15 @@ Kristen~W. Lynch.
 \newblock ISSN 1474-1733.
 \newblock \doi{10.1038/nri1497}.
 \newblock URL \url{http://dx.doi.org/10.1038/nri1497}.
+
+\bibitem[Mangan and Alon(2003)]{Mangan2003}
+S.~Mangan and U.~Alon.
+\newblock {Structure and function of the feed-forward loop network motif}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 100\penalty0
+  (21):\penalty0 11980 --11985, October 2003.
+\newblock \doi{10.1073/pnas.2133841100}.
+\newblock URL \url{http://www.pnas.org/content/100/21/11980.abstract
+  http://www.pnas.org/content/100/21/11980.full.pdf}.
 
 \bibitem[Marioni et~al.(2008)Marioni, Mason, Mane, Stephens, and
   Gilad]{Marioni2008}
@@ -910,6 +1406,15 @@ A~M Maxam and W~Gilbert.
 \newblock ISSN 0740-7378.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/1422074}.
 
+\bibitem[Mettus et~al.(1994)Mettus, Litvin, Wali, Toscani, Latham, Hatton, and
+  Reddy]{Mettus1994}
+R~V Mettus, J~Litvin, A~Wali, A~Toscani, K~Latham, K~Hatton, and E~P Reddy.
+\newblock {Murine A-myb: evidence for differential splicing and tissue-specific
+  expression.}
+\newblock \emph{Oncogene}, 9\penalty0 (10):\penalty0 3077--86, October 1994.
+\newblock ISSN 0950-9232.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/8084617}.
+
 \bibitem[Modrek and Lee(2002)]{Modrek2002}
 Barmak Modrek and Christopher Lee.
 \newblock {A genomic view of alternative splicing}.
@@ -928,6 +1433,28 @@ Paul Modrich, Yasuhiro Anraku, and I.~R. Lehman.
 \newblock ISSN 0021-9258, 1083-351X.
 \newblock URL \url{http://www.jbc.org/content/248/21/7495
   http://www.jbc.org/content/248/21/7495.full.pdf}.
+
+\bibitem[Modzelewski et~al.(2012)Modzelewski, Holmes, Hilz, Grimson, and
+  Cohen]{Modzelewski2012}
+Andrew~J Modzelewski, Rebecca~J Holmes, Stephanie Hilz, Andrew Grimson, and
+  Paula~E Cohen.
+\newblock {AGO4 regulates entry into meiosis and influences silencing of sex
+  chromosomes in the male mouse germline.}
+\newblock \emph{Developmental cell}, 23\penalty0 (2):\penalty0 251--64, August
+  2012.
+\newblock ISSN 1878-1551.
+\newblock \doi{10.1016/j.devcel.2012.07.003}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.devcel.2012.07.003}.
+
+\bibitem[Montgomery et~al.(1998)Montgomery, Xu, and Fire]{Montgomery1998}
+M~K Montgomery, S~Xu, and a~Fire.
+\newblock {RNA as a target of double-stranded RNA-mediated genetic interference
+  in Caenorhabditis elegans.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 95\penalty0 (26):\penalty0 15502--7, December 1998.
+\newblock ISSN 0027-8424.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=28072\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Mortazavi et~al.(2008)Mortazavi, Williams, McCue, Schaeffer, and
   Wold]{Mortazavi2008}
@@ -965,6 +1492,16 @@ Michihiko Nakano, Jun Komatsu, Shun-ichi Matsuura, Kazunori Takashima, Shinji
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/pii/S0168165603000233}.
 
+\bibitem[Namekawa and Lee(2009)]{Namekawa2009}
+Satoshi~H Namekawa and Jeannie~T Lee.
+\newblock {XY and ZW: is meiotic sex chromosome inactivation the rule in
+  evolution?}
+\newblock \emph{PLoS genetics}, 5\penalty0 (5):\penalty0 e1000493, May 2009.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.1000493}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2679206\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Nandakumar et~al.(2004)Nandakumar, Ho, Lima, and
   Shuman]{Nandakumar2004a}
 Jayakrishnan Nandakumar, C~Kiong Ho, Christopher~D Lima, and Stewart Shuman.
@@ -985,6 +1522,25 @@ Jayakrishnan Nandakumar, Stewart Shuman, and Christopher~D Lima.
 \newblock \doi{10.1016/j.cell.2006.08.038}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17018278
   http://pdn.sciencedirect.com/science?\_ob=MiamiImageURL\&\_cid=272196\&\_user=115184\&\_pii=S0092867406011603\&\_check=y\&\_origin=article\&\_zone=toolbar\&\_coverDate=06-Oct-2006\&view=c\&originContentFamily=serial\&wchp=dGLbVBA-zSkWz\&md5=73f1e929c58ce0a0d8812ec3873211f5/1-s2.0-S0092867406011603-main.pdf}.
+
+\bibitem[NEBEL et~al.(1961)NEBEL, AMAROSE, and HACKET]{NEBEL1961}
+B~R NEBEL, A~P AMAROSE, and E~M HACKET.
+\newblock {Calendar of gametogenic development in the prepuberal male mouse.}
+\newblock \emph{Science (New York, N.Y.)}, 134\penalty0 (3482):\penalty0
+  832--3, September 1961.
+\newblock ISSN 0036-8075.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/13728067}.
+
+\bibitem[Newburger and Bulyk(2009)]{Newburger2009}
+Daniel~E Newburger and Martha~L Bulyk.
+\newblock {UniPROBE: an online database of protein binding microarray data on
+  protein-DNA interactions.}
+\newblock \emph{Nucleic acids research}, 37\penalty0 (Database issue):\penalty0
+  D77--82, January 2009.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkn660}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2686578\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Nilsen and Graveley(2010)]{Nilsen2010}
 Timothy~W. Nilsen and Brenton~R. Graveley.
@@ -1017,12 +1573,34 @@ Mats Nilsson, Dan-Oscar Antson, Gisela Barbany, and Ulf Landegren.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC29667/pdf/GKE133.pdf}.
 
+\bibitem[Nishimasu et~al.(2012)Nishimasu, Ishizu, Saito, Fukuhara, Kamatani,
+  Bonnefond, Matsumoto, Nishizawa, Nakanaga, Aoki, Ishitani, Siomi, Siomi, and
+  Nureki]{Nishimasu2012}
+Hiroshi Nishimasu, Hirotsugu Ishizu, Kuniaki Saito, Satoshi Fukuhara, Miharu~K
+  Kamatani, Luc Bonnefond, Naoki Matsumoto, Tomohiro Nishizawa, Keita Nakanaga,
+  Junken Aoki, Ryuichiro Ishitani, Haruhiko Siomi, Mikiko~C Siomi, and Osamu
+  Nureki.
+\newblock {Structure and function of Zucchini endoribonuclease in piRNA
+  biogenesis.}
+\newblock \emph{Nature}, 491\penalty0 (7423):\penalty0 284--7, November 2012.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature11509}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/23064230}.
+
 \bibitem[Oakberg and Oakberq(1956)]{Oakberg1956b}
 EF~Oakberg and F~Oakberq.
 \newblock {A Description of Spermiogenesis in the mouse and its use in analysis
   of the cycle of the seminiferous epithelium and germ cell renewal}.
 \newblock \emph{The American journal of anatomy}, 99\penalty0 (3):\penalty0
   391--419, 1956.
+
+\bibitem[Oh and Reddy(1999)]{Oh1999}
+I~H Oh and E~P Reddy.
+\newblock {The myb gene family in cell growth, differentiation and apoptosis.}
+\newblock \emph{Oncogene}, 18\penalty0 (19):\penalty0 3017--33, May 1999.
+\newblock ISSN 0950-9232.
+\newblock \doi{10.1038/sj.onc.1202839}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/10378697}.
 
 \bibitem[Olivera and Lehman(1967)]{Olivera1967b}
 BM~Olivera and IR~Lehman.
@@ -1031,6 +1609,17 @@ BM~Olivera and IR~Lehman.
 \newblock \emph{Proceedings of the National Academy of \ldots}, pages
   1426--1433, 1967.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pmc/articles/pmc224490/}.
+
+\bibitem[Osella et~al.(2011)Osella, Bosia, Cor\'{a}, and Caselle]{Osella2011}
+Matteo Osella, Carla Bosia, Davide Cor\'{a}, and Michele Caselle.
+\newblock {The role of incoherent microRNA-mediated feedforward loops in noise
+  buffering.}
+\newblock \emph{PLoS computational biology}, 7\penalty0 (3):\penalty0 e1001101,
+  March 2011.
+\newblock ISSN 1553-7358.
+\newblock \doi{10.1371/journal.pcbi.1001101}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3053320\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Pan et~al.(2008)Pan, Shai, Lee, Frey, and Blencowe]{Pan2008}
 Qun Pan, Ofer Shai, Leo~J Lee, Brendan~J Frey, and Benjamin~J Blencowe.
@@ -1042,6 +1631,17 @@ Qun Pan, Ofer Shai, Leo~J Lee, Brendan~J Frey, and Benjamin~J Blencowe.
 \newblock \doi{10.1038/ng.259}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18978789
   http://www.nature.com/ng/journal/v40/n12/pdf/ng.259.pdf}.
+
+\bibitem[Pane et~al.(2007)Pane, Wehr, and Sch\"{u}pbach]{Pane2007}
+Attilio Pane, Kristina Wehr, and Trudi Sch\"{u}pbach.
+\newblock {zucchini and squash encode two putative nucleases required for
+  rasiRNA production in the Drosophila germline.}
+\newblock \emph{Developmental cell}, 12\penalty0 (6):\penalty0 851--62, June
+  2007.
+\newblock ISSN 1534-5807.
+\newblock \doi{10.1016/j.devcel.2007.03.022}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1945814\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Park and Graveley(2007)]{Park2007}
 Jung~Woo Park and Brenton~R Graveley.
@@ -1075,6 +1675,17 @@ Marilyn~K Parra, Thomas~L Gallagher, Sharon~L Amacher, Narla Mohandas, and
 \newblock URL \url{http://mcb.asm.org/content/32/11/2044
   http://mcb.asm.org/content/32/11/2044.full.pdf}.
 
+\bibitem[Peirson(2003)]{Peirson2003}
+S.~N. Peirson.
+\newblock {Experimental validation of novel and conventional approaches to
+  quantitative real-time PCR data analysis}.
+\newblock \emph{Nucleic Acids Research}, 31\penalty0 (14):\penalty0 73e--73,
+  July 2003.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gng073}.
+\newblock URL
+  \url{http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gng073}.
+
 \bibitem[P\'{e}lisson et~al.(1994)P\'{e}lisson, Song, Prud'homme, Smith,
   Bucheton, and Corces]{Pelisson1994}
 a~P\'{e}lisson, S~U Song, N~Prud'homme, P~a Smith, a~Bucheton, and V~G Corces.
@@ -1098,6 +1709,17 @@ Tao Peng, Chenghai Xue, Jianning Bi, Tingting Li, Xiaowo Wang, Xuegong Zhang,
 \newblock URL \url{http://www.biomedcentral.com/1471-2164/9/191
   http://www.biomedcentral.com/content/pdf/1471-2164-9-191.pdf}.
 
+\bibitem[Plocik and Graveley(2013)]{Plocik2013}
+Alex~M. Plocik and Brenton~R. Graveley.
+\newblock {New Insights from Existing Sequence Data: Generating Breakthroughs
+  without a Pipette}.
+\newblock \emph{Molecular Cell}, 49\penalty0 (4):\penalty0 605--617, February
+  2013.
+\newblock ISSN 10972765.
+\newblock \doi{10.1016/j.molcel.2013.01.031}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1097276513000956}.
+
 \bibitem[Ponta et~al.(2003)Ponta, Sherman, and Herrlich]{Ponta2003b}
 Helmut Ponta, Larry Sherman, and Peter~a Herrlich.
 \newblock {CD44: from adhesion molecules to signalling regulators.}
@@ -1117,6 +1739,28 @@ Swapna~R. Purandare, Brigitte Tenhumberg, and Jennifer~a. Brisson.
 \newblock ISSN 03076946.
 \newblock \doi{10.1111/een.12080}.
 \newblock URL \url{http://doi.wiley.com/10.1111/een.12080}.
+
+\bibitem[Quinlan and Hall(2010)]{Quinlan2010}
+Aaron~R Quinlan and Ira~M Hall.
+\newblock {BEDTools: a flexible suite of utilities for comparing genomic
+  features}.
+\newblock \emph{Bioinformatics (Oxford, England)}, 26\penalty0 (6):\penalty0
+  841--842, March 2010.
+\newblock ISSN 1367-4811.
+\newblock \doi{10.1093/bioinformatics/btq033}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20110278}.
+
+\bibitem[Reuter et~al.(2009)Reuter, Chuma, Tanaka, Franz, Stark, and
+  Pillai]{Reuter2009}
+Michael Reuter, Shinichiro Chuma, Takashi Tanaka, Thomas Franz, Alexander
+  Stark, and Ramesh~S Pillai.
+\newblock {Loss of the Mili-interacting Tudor domain-containing protein-1
+  activates transposons and alters the Mili-associated small RNA profile.}
+\newblock \emph{Nature structural \& molecular biology}, 16\penalty0
+  (6):\penalty0 639--46, June 2009.
+\newblock ISSN 1545-9985.
+\newblock \doi{10.1038/nsmb.1615}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19465913}.
 
 \bibitem[Reuter et~al.(2011)Reuter, Berninger, Chuma, Shah, Hosokawa, Funaya,
   Antony, Sachidanandam, and Pillai]{Reuter2011}
@@ -1145,6 +1789,18 @@ Kasandra~J Riley and Joan~A Steitz.
   of Protein-RNA Interactions Minireview}.
 \newblock pages 2011--2014, 2013.
 
+\bibitem[Ro et~al.(2007)Ro, Park, Song, Nguyen, Jin, Sanders, McCarrey, and
+  Yan]{Ro2007}
+Seungil Ro, Chanjae Park, Rui Song, Dan Nguyen, Jingling Jin, Kenton~M Sanders,
+  John~R McCarrey, and Wei Yan.
+\newblock {Cloning and Expression Profiling of Testis-Expressed piRNA-Like
+  RNAs}.
+\newblock \emph{RNA}, 13\penalty0 (10):\penalty0 1693--1702, October 2007.
+\newblock ISSN 1355-8382, 1469-9001.
+\newblock \doi{10.1261/rna.640307}.
+\newblock URL \url{http://rnajournal.cshlp.org/content/13/10/1693
+  http://rnajournal.cshlp.org/content/13/10/1693.full.pdf}.
+
 \bibitem[Roach et~al.(1995)Roach, Boysen, Wang, Hood, and Wang]{Roach1995}
 JC~Jared~C Roach, Cecilie Boysen, K~Wang, Leroy Hood, and I~K A~I Wang.
 \newblock {Pairwise End Sequencing: A unified approach to genomic mapping and
@@ -1166,6 +1822,14 @@ Nicolas Robine, Nelson~C. Lau, Sudha Balla, Zhigang Jin, Katsutomo Okamura,
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/pii/S0960982209021186}.
 
+\bibitem[Romanienko and Camerini-Otero(2000)]{Romanienko2000}
+P~J Romanienko and R~D Camerini-Otero.
+\newblock {The mouse Spo11 gene is required for meiotic chromosome synapsis.}
+\newblock \emph{Molecular cell}, 6\penalty0 (5):\penalty0 975--87, November
+  2000.
+\newblock ISSN 1097-2765.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11106738}.
+
 \bibitem[Ronaghi et~al.(1998)Ronaghi, Uhl\'{e}n, and Nyr\'{e}n]{Ronaghi1998a}
 M~Ronaghi, M~Uhl\'{e}n, and P~Nyr\'{e}n.
 \newblock {A sequencing method based on real-time pyrophosphate.}
@@ -1177,6 +1841,18 @@ Donald Rumsfeld.
 \newblock 2011.
 \newblock URL
   \url{http://books.google.com/books?hl=en\&lr=\&id=\_wIcpxMOjD4C\&oi=fnd\&pg=PA1\&dq=Known+and+unknown:+A+Memoir\&ots=W4PYQwzGlR\&sig=Y2inMLRvej-dDhUqVPL4MrAj9VQ}.
+
+\bibitem[Saito et~al.(2009)Saito, Inagaki, Mituyama, Kawamura, Ono, Sakota,
+  Kotani, Asai, Siomi, and Siomi]{Saito2009}
+Kuniaki Saito, Sachi Inagaki, Toutai Mituyama, Yoshinori Kawamura, Yukiteru
+  Ono, Eri Sakota, Hazuki Kotani, Kiyoshi Asai, Haruhiko Siomi, and Mikiko~C
+  Siomi.
+\newblock {A regulatory circuit for piwi by the large Maf gene traffic jam in
+  Drosophila.}
+\newblock \emph{Nature}, 461\penalty0 (7268):\penalty0 1296--9, October 2009.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature08501}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19812547}.
 
 \bibitem[Salehi-Ashtiani et~al.(2008)Salehi-Ashtiani, Yang, Derti, Tian, Hao,
   Lin, Makowski, Shen, Murray, Szeto, Tusneem, Smith, Cusick, Hill, Roth, and
@@ -1243,6 +1919,17 @@ Dietmar Schmucker, James~C Clemens, Huidy Shu, Carolyn~A Worby, Jian Xiao,
   http://pdn.sciencedirect.com/science?\_ob=MiamiImageURL\&\_cid=272196\&\_user=115184\&\_pii=S0092867400808788\&\_check=y\&\_origin=article\&\_zone=toolbar\&\_coverDate=09-Jun-2000\&view=c\&originContentFamily=serial\&wchp=dGLbVlV-zSkzS\&md5=76cf30668637005c4da6fc6dc8de1873\&pid=1-s2.0-S0092867400808788-main.pdf
   http://linkinghub.elsevier.com/retrieve/pii/S0092867400808788}.
 
+\bibitem[Schoenmakers et~al.(2009)Schoenmakers, Wassenaar, Hoogerbrugge, Laven,
+  Grootegoed, and Baarends]{Schoenmakers2009}
+Sam Schoenmakers, Evelyne Wassenaar, Jos~W Hoogerbrugge, Joop S~E Laven,
+  J~Anton Grootegoed, and Willy~M Baarends.
+\newblock {Female meiotic sex chromosome inactivation in chicken.}
+\newblock \emph{PLoS genetics}, 5\penalty0 (5):\penalty0 e1000466, May 2009.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.1000466}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2678266\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Schwarzbauer et~al.(1983)Schwarzbauer, Tamkun, Lemischka, and
   Hynes]{Schwarzbauer1983}
 J~E Schwarzbauer, J~W Tamkun, I~R Lemischka, and R~O Hynes.
@@ -1251,6 +1938,18 @@ J~E Schwarzbauer, J~W Tamkun, I~R Lemischka, and R~O Hynes.
 \newblock \emph{Cell}, 35\penalty0 (2 Pt 1):\penalty0 421--31, December 1983.
 \newblock ISSN 0092-8674.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/6317187}.
+
+\bibitem[Seitz et~al.(2008)Seitz, Ghildiyal, and Zamore]{Seitz2008}
+Herv\'{e} Seitz, Megha Ghildiyal, and Phillip~D. Zamore.
+\newblock {Argonaute Loading Improves the 5′ Precision of Both MicroRNAs and
+  Their miRNA∗ Strands in Flies}.
+\newblock \emph{Current Biology}, 18\penalty0 (2):\penalty0 147--151, January
+  2008.
+\newblock ISSN 0960-9822.
+\newblock \doi{10.1016/j.cub.2007.12.049}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0960982207024803
+  http://pdn.sciencedirect.com/science?\_ob=MiamiImageURL\&\_cid=272099\&\_user=115184\&\_pii=S0960982207024803\&\_check=y\&\_origin=article\&\_zone=toolbar\&\_coverDate=22-Jan-2008\&view=c\&originContentFamily=serial\&wchp=dGLbVlS-zSkzk\&md5=9bf8ce7b733ece6c321acb61ddebb0f0/1-s2.0-S0960982207024803-main.pdf}.
 
 \bibitem[Shalek et~al.(2013)Shalek, Satija, Adiconis, Gertner, Gaublomme,
   Raychowdhury, Schwartz, Yosef, Malboeuf, Lu, Trombetta, Gennert, Gnirke,
@@ -1281,6 +1980,15 @@ Phillip~A. Sharp.
 \newblock {Nobel Lectures in Physiology or Medicine 1991-1995}, 2014.
 \newblock URL
   \url{http://www.nobelprize.org/nobel\_organizations/nobelfoundation/publications/lectures/WSC/physio-91-95.htm}.
+
+\bibitem[Shen-Orr et~al.(2002)Shen-Orr, Milo, Mangan, and Alon]{Shen-Orr2002}
+Shai~S Shen-Orr, Ron Milo, Shmoolik Mangan, and Uri Alon.
+\newblock {Network motifs in the transcriptional regulation network of
+  Escherichia coli.}
+\newblock \emph{Nature genetics}, 31\penalty0 (1):\penalty0 64--8, May 2002.
+\newblock ISSN 1061-4036.
+\newblock \doi{10.1038/ng881}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11967538}.
 
 \bibitem[Shendure and Aiden(2012)]{Shendure2012}
 Jay Shendure and Erez~Lieberman Aiden.
@@ -1351,6 +2059,19 @@ Toshiyuki Shiraki, Shinji Kondo, Shintaro Katayama, Kazunori Waki, Takeya
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 100:\penalty0 15776--15781, 2003.
 
+\bibitem[Shirayama et~al.(2012)Shirayama, Seth, Lee, Gu, Ishidate, Conte, and
+  Mello]{Shirayama2012}
+Masaki Shirayama, Meetu Seth, Heng-Chi Lee, Weifeng Gu, Takao Ishidate, Darryl
+  Conte, and Craig~C. Mello.
+\newblock {piRNAs initiate an epigenetic memory of nonself RNA in the C.
+  elegans germline.}
+\newblock \emph{Cell}, 150\penalty0 (1):\penalty0 65--77, July 2012.
+\newblock ISSN 1097-4172.
+\newblock \doi{10.1016/j.cell.2012.06.015}.
+\newblock URL \url{http://www.cell.com/abstract/S0092-8674(12)00764-7
+  http://www.sciencedirect.com/science?\_ob=GatewayURL\&\_origin=CELLPRESS\&\_urlversion=4\&\_method=citationSearch\&\_version=1\&\_src=FPDF\&\_piikey=S0092867412007647\&md5=a7252bd600956941e73eb1848eeb7caf
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3597741\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Shiroguchi et~al.(2012)Shiroguchi, Jia, Sims, and
   Xie]{Shiroguchi2012a}
 Katsuyuki Shiroguchi, Tony~Z Jia, Peter~a Sims, and X~Sunney Xie.
@@ -1363,6 +2084,22 @@ Katsuyuki Shiroguchi, Tony~Z Jia, Peter~a Sims, and X~Sunney Xie.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3268301\&tool=pmcentrez\&rendertype=abstract}.
 
+\bibitem[Shoji et~al.(2009)Shoji, Tanaka, Hosokawa, Reuter, Stark, Kato,
+  Kondoh, Okawa, Chujo, Suzuki, Hata, Martin, Noce, Kuramochi-Miyagawa, Nakano,
+  Sasaki, Pillai, Nakatsuji, and Chuma]{Shoji2009}
+Masanobu Shoji, Takashi Tanaka, Mihoko Hosokawa, Michael Reuter, Alexander
+  Stark, Yuzuru Kato, Gen Kondoh, Katsuya Okawa, Takeshi Chujo, Tsutomu Suzuki,
+  Kenichiro Hata, Sandra~L Martin, Toshiaki Noce, Satomi Kuramochi-Miyagawa,
+  Toru Nakano, Hiroyuki Sasaki, Ramesh~S Pillai, Norio Nakatsuji, and
+  Shinichiro Chuma.
+\newblock {The TDRD9-MIWI2 complex is essential for piRNA-mediated
+  retrotransposon silencing in the mouse male germline.}
+\newblock \emph{Developmental cell}, 17\penalty0 (6):\penalty0 775--87,
+  December 2009.
+\newblock ISSN 1878-1551.
+\newblock \doi{10.1016/j.devcel.2009.10.012}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20059948}.
+
 \bibitem[Siomi et~al.(2011)Siomi, Sato, Pezic, and Aravin]{Siomi2011}
 Mikiko~C. Siomi, Kaoru Sato, Dubravka Pezic, and Alexei~A. Aravin.
 \newblock {PIWI-interacting small RNAs: the vanguard of genome defence}.
@@ -1372,6 +2109,18 @@ Mikiko~C. Siomi, Kaoru Sato, Dubravka Pezic, and Alexei~A. Aravin.
 \newblock \doi{10.1038/nrm3089}.
 \newblock URL \url{http://dx.doi.org/10.1038/nrm3089
   http://www.nature.com/nrm/journal/v12/n4/pdf/nrm3089.pdf}.
+
+\bibitem[Smith et~al.(2004)Smith, Bowles, Wilson, Teasdale, and
+  Koopman]{Smith2004}
+James~M Smith, Josephine Bowles, Megan Wilson, Rohan~D Teasdale, and Peter
+  Koopman.
+\newblock {Expression of the tudor-related gene Tdrd5 during development of the
+  male germline in mice.}
+\newblock \emph{Gene expression patterns : GEP}, 4\penalty0 (6):\penalty0
+  701--5, October 2004.
+\newblock ISSN 1567-133X.
+\newblock \doi{10.1016/j.modgep.2004.04.002}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/15465492}.
 
 \bibitem[Southern(2001)]{Southern2001}
 E~M Southern.
@@ -1438,6 +2187,38 @@ Jamal Tazi, Nadia Bakkour, and Stefan Stamm.
 \newblock \doi{10.1016/j.bbadis.2008.09.017}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18992329}.
 
+\bibitem[Thomson and Lin(2009)]{Thomson2009}
+Travis Thomson and Haifan Lin.
+\newblock {The biogenesis and function of PIWI proteins and piRNAs: progress
+  and prospect.}
+\newblock \emph{Annual review of cell and developmental biology}, 25:\penalty0
+  355--76, January 2009.
+\newblock ISSN 1530-8995.
+\newblock \doi{10.1146/annurev.cellbio.24.110707.175327}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2780330\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Toscani et~al.(1997)Toscani, Mettus, Coupland, Simpkins, Litvin, Orth,
+  Hatton, and Reddy]{Toscani1997}
+Antonio Toscani, Richard~V. Mettus, Robert Coupland, Henry Simpkins, Judith
+  Litvin, Joanne Orth, Kimi~S. Hatton, and E.~Premkumar Reddy.
+\newblock {Arrest of spermatogenesis and defective breast development in mice
+  lacking A-myb}.
+\newblock \emph{Nature}, 386\penalty0 (6626):\penalty0 713--717, April 1997.
+\newblock \doi{10.1038/386713a0}.
+\newblock URL \url{http://dx.doi.org/10.1038/386713a0
+  http://www.nature.com/nature/journal/v386/n6626/pdf/386713a0.pdf}.
+
+\bibitem[Trapnell et~al.(2009)Trapnell, Pachter, and Salzberg]{Trapnell2009}
+Cole Trapnell, Lior Pachter, and Steven~L. Salzberg.
+\newblock {TopHat: discovering splice junctions with RNA-Seq}.
+\newblock \emph{Bioinformatics}, 25\penalty0 (9):\penalty0 1105 --1111, May
+  2009.
+\newblock \doi{10.1093/bioinformatics/btp120}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/25/9/1105.abstract
+  http://bioinformatics.oxfordjournals.org/content/25/9/1105.full.pdf}.
+
 \bibitem[Trapnell et~al.(2010)Trapnell, Williams, Pertea, Mortazavi, Kwan, van
   Baren, Salzberg, Wold, and Pachter]{Trapnell2010}
 Cole Trapnell, Brian~A Williams, Geo Pertea, Ali Mortazavi, Gordon Kwan,
@@ -1464,6 +2245,15 @@ Cole Trapnell, Adam Roberts, Loyal Goff, Geo Pertea, Daehwan Kim, David~R
   \url{http://www.nature.com/nprot/journal/v7/n3/full/nprot.2012.016.html
   http://www.nature.com/nprot/journal/v7/n3/pdf/nprot.2012.016.pdf}.
 
+\bibitem[Trauth et~al.(1994)Trauth, Mutschler, Jenkins, Gilbert, Copeland, and
+  Klempnauer]{Trauth1994}
+Konrad Trauth, Bettina Mutschler, Nancy~A Jenkins, Debra~J Gilbert, Neal~G
+  Copeland, and Karl-heinz Klempnauer.
+\newblock {Mouse A-myb encodes a trans-activator and is expressed in
+  mitotically active cells of the developing central nervous system, adult
+  testis and B lymphocytes}.
+\newblock \emph{EMBO}, 13\penalty0 (24):\penalty0 5994--6005, 1994.
+
 \bibitem[Ule et~al.(2005)Ule, Jensen, Mele, and Darnell]{Ule2005}
 Jernej Ule, Kirk Jensen, Aldo Mele, and Robert~B. Darnell.
 \newblock {CLIP: A method for identifying protein-RNA interaction sites in
@@ -1473,6 +2263,53 @@ Jernej Ule, Kirk Jensen, Aldo Mele, and Robert~B. Darnell.
 \newblock \doi{10.1016/j.ymeth.2005.07.018}.
 \newblock URL
   \url{http://www.sciencedirect.com/science/article/B6WN5-4HN9Y57-D/2/1718faa3c3c5bd5bcc6f6959e0316231}.
+
+\bibitem[Vagin et~al.(2004)Vagin, Klenov, Stolyarenko, and
+  Kotelnikov]{Vagin2004}
+Vasily~V Vagin, Mikhail~S Klenov, Anastasia~D Stolyarenko, and Roman~N
+  Kotelnikov.
+\newblock {The RNA Interference Proteins and Vasa Locus are Involved in the
+  Silencing of Retrotransposons in the Female Germline of Drosophila
+  melanogaster}.
+\newblock \emph{RNA Biology}, \penalty0 (June):\penalty0 54--58, 2004.
+
+\bibitem[Vagin et~al.(2006)Vagin, Sigova, Li, Seitz, Gvozdev, and
+  Zamore]{Vagin2006}
+Vasily~V. Vagin, Alla Sigova, Chengjian Li, Herv\'{e} Seitz, Vladimir Gvozdev,
+  and Phillip~D. Zamore.
+\newblock {A Distinct Small RNA Pathway Silences Selfish Genetic Elements in
+  the Germline}.
+\newblock \emph{Science}, 313\penalty0 (5785):\penalty0 320 --324, July 2006.
+\newblock \doi{10.1126/science.1129333}.
+\newblock URL \url{http://www.sciencemag.org/content/313/5785/320.abstract
+  http://www.sciencemag.org/content/313/5785/320.full.pdf}.
+
+\bibitem[Vagin et~al.(2009)Vagin, Wohlschlegel, Qu, Jonsson, Huang, Chuma,
+  Girard, Sachidanandam, Hannon, and Aravin]{Vagin2009}
+Vasily~V Vagin, James Wohlschlegel, Jun Qu, Zophonias Jonsson, Xinhua Huang,
+  Shinichiro Chuma, Angelique Girard, Ravi Sachidanandam, Gregory~J Hannon, and
+  Alexei~a Aravin.
+\newblock {Proteomic analysis of murine Piwi proteins reveals a role for
+  arginine methylation in specifying interaction with Tudor family members.}
+\newblock \emph{Genes \& development}, 23\penalty0 (15):\penalty0 1749--62,
+  August 2009.
+\newblock ISSN 1549-5477.
+\newblock \doi{10.1101/gad.1814809}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2720255\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Vasileva et~al.(2009)Vasileva, Tiedau, Firooznia, M\"{u}ller-Reichert,
+  and Jessberger]{Vasileva2009}
+Ana Vasileva, Daniela Tiedau, Adriana Firooznia, Thomas M\"{u}ller-Reichert,
+  and Rolf Jessberger.
+\newblock {Tdrd6 is required for spermiogenesis, chromatoid body architecture,
+  and regulation of miRNA expression.}
+\newblock \emph{Current biology : CB}, 19\penalty0 (8):\penalty0 630--9, April
+  2009.
+\newblock ISSN 1879-0445.
+\newblock \doi{10.1016/j.cub.2009.02.047}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2719840\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Velculescu et~al.(1995)Velculescu, Zhang, Vogelstein, and
   Kinzler]{Velculescu1995a}
@@ -1613,6 +2450,23 @@ Li~Kai Wang, Christopher~D Lima, and Stewart Shuman.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=126130\&tool=pmcentrez\&rendertype=abstract}.
 
+\bibitem[Watanabe et~al.(2011)Watanabe, Chuma, Yamamoto, Kuramochi-Miyagawa,
+  Totoki, Toyoda, Hoki, Fujiyama, Shibata, Sado, Noce, Nakano, Nakatsuji, Lin,
+  and Sasaki]{Watanabe2011a}
+Toshiaki Watanabe, Shinichiro Chuma, Yasuhiro Yamamoto, Satomi
+  Kuramochi-Miyagawa, Yasushi Totoki, Atsushi Toyoda, Yuko Hoki, Asao Fujiyama,
+  Tatsuhiro Shibata, Takashi Sado, Toshiaki Noce, Toru Nakano, Norio Nakatsuji,
+  Haifan Lin, and Hiroyuki Sasaki.
+\newblock {MITOPLD Is a Mitochondrial Protein Essential for Nuage Formation and
+  piRNA Biogenesis in the Mouse Germline}.
+\newblock \emph{Developmental Cell}, 20\penalty0 (3):\penalty0 364--375, March
+  2011.
+\newblock ISSN 1534-5807.
+\newblock \doi{10.1016/j.devcel.2011.01.005}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/B6WW3-52CPPV6-K/2/b3ed17363997aeb45abec4a72b973367
+  http://www.sciencedirect.com/science?\_ob=MImg\&\_imagekey=B6WW3-52CPPV6-K-1\&\_cdi=7119\&\_user=115184\&\_pii=S1534580711000335\&\_origin=gateway\&\_coverDate=03/15/2011\&\_sk=999799996\&view=c\&wchp=dGLzVtb-zSkWA\&md5=d7133d9dc5fb77073c8f21ad972bad9c\&ie=/sdarticle.pdf}.
+
 \bibitem[Watson et~al.(2005)Watson, P\"{u}ttmann-Holgado, Thomas, Lamar,
   Hughes, Kondo, Rebel, and Schmucker]{Watson2005}
 Fiona~L Watson, Roland P\"{u}ttmann-Holgado, Franziska Thomas, David~L Lamar,
@@ -1678,6 +2532,19 @@ Quin~F Wills, Kenneth~J Livak, Alex~J Tipping, Tariq Enver, Andrew~J Goldson,
 \newblock \doi{10.1038/nbt.2642}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/23873083}.
 
+\bibitem[Yabuta et~al.(2011)Yabuta, Ohta, Abe, Kurimoto, Chuma, and
+  Saitou]{Yabuta2011}
+Yukihiro Yabuta, Hiroshi Ohta, Takaya Abe, Kazuki Kurimoto, Shinichiro Chuma,
+  and Mitinori Saitou.
+\newblock {TDRD5 is required for retrotransposon silencing, chromatoid body
+  assembly, and spermiogenesis in mice.}
+\newblock \emph{The Journal of cell biology}, 192\penalty0 (5):\penalty0
+  781--95, March 2011.
+\newblock ISSN 1540-8140.
+\newblock \doi{10.1083/jcb.201009043}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3051809\&tool=pmcentrez\&rendertype=abstract}.
+
 \bibitem[Yamakawa et~al.(1998)Yamakawa, Huot, Haendelt, Hubert, Chen, Lyons,
   and Korenberg]{Yamakawa1998b}
 K~Yamakawa, Y~K Huot, M~a Haendelt, R~Hubert, X~N Chen, G~E Lyons, and J~R
@@ -1689,6 +2556,18 @@ K~Yamakawa, Y~K Huot, M~a Haendelt, R~Hubert, X~N Chen, G~E Lyons, and J~R
   February 1998.
 \newblock ISSN 0964-6906.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/9426258}.
+
+\bibitem[Yang et~al.(2011)Yang, Zhan, Zhang, Sun, Wang, Tian, Bi, Wang, Shi,
+  Jiang, Zhang, and Jin]{Yang2011}
+Yun Yang, Leilei Zhan, Wenjing Zhang, Feng Sun, Wenfeng Wang, Nan Tian, Jingpei
+  Bi, Haitao Wang, Dike Shi, Yajian Jiang, Yaozhou Zhang, and Yongfeng Jin.
+\newblock {RNA secondary structure in mutually exclusive splicing}.
+\newblock \emph{Nat Struct Mol Biol}, 18\penalty0 (2):\penalty0 159--168,
+  February 2011.
+\newblock ISSN 1545-9993.
+\newblock \doi{10.1038/nsmb.1959}.
+\newblock URL \url{http://dx.doi.org/10.1038/nsmb.1959
+  http://www.nature.com/nsmb/journal/v18/n2/pdf/nsmb.1959.pdf}.
 
 \bibitem[Yeakley et~al.(2002)Yeakley, Fan, Doucet, Luo, Wickham, Ye, Chee, and
   Fu]{Yeakley2002}
@@ -1725,6 +2604,44 @@ Xiao-Li Zhan, James~C. Clemens, Guilherme Neves, Daisuke Hattori, John~J.
 \newblock URL \url{http://www.cell.com/neuron/abstract/S0896-6273(04)00431-3
   http://www.sciencedirect.com/science?\_ob=GatewayURL\&\_origin=CELLPRESS\&\_urlversion=4\&\_method=citationSearch\&\_version=1\&\_src=FPDF\&\_piikey=S0896627304004313\&md5=dc4c49dba613e4c5b586cf0971dee1f2
   http://dx.doi.org/10.1016/j.neuron.2004.07.020}.
+
+\bibitem[Zhang et~al.(2012{\natexlab{a}})Zhang, Wang, Xu, Zhang, Koppetsch,
+  Schultz, Vreven, Meignin, Davis, Zamore, Weng, and Theurkauf]{Zhang2012}
+Fan Zhang, Jie Wang, Jia Xu, Zhao Zhang, Birgit~S. Koppetsch, Nadine Schultz,
+  Thom Vreven, Carine Meignin, Ilan Davis, Phillip~D. Zamore, Zhiping Weng, and
+  William~E. Theurkauf.
+\newblock {UAP56 Couples piRNA Clusters to the Perinuclear Transposon Silencing
+  Machinery}.
+\newblock \emph{Cell}, 151\penalty0 (4):\penalty0 871--884, November
+  2012{\natexlab{a}}.
+\newblock ISSN 0092-8674.
+\newblock \doi{10.1016/j.cell.2012.09.040}.
+\newblock URL \url{http://www.cell.com/abstract/S0092-8674(12)01239-1
+  http://www.sciencedirect.com/science?\_ob=GatewayURL\&\_origin=CELLPRESS\&\_urlversion=4\&\_method=citationSearch\&\_version=1\&\_src=FPDF\&\_piikey=S0092867412012391\&md5=1a91ed51c509301ae03a46c1a4debba9}.
+
+\bibitem[Zhang et~al.(2008)Zhang, Liu, Meyer, Eeckhoute, Johnson, Bernstein,
+  Nusbaum, Myers, Brown, Li, and Liu]{Zhang2008}
+Yong Zhang, Tao Liu, Clifford~a Meyer, J\'{e}r\^{o}me Eeckhoute, David~S
+  Johnson, Bradley~E Bernstein, Chad Nusbaum, Richard~M Myers, Myles Brown, Wei
+  Li, and X~Shirley Liu.
+\newblock {Model-based analysis of ChIP-Seq (MACS).}
+\newblock \emph{Genome biology}, 9\penalty0 (9):\penalty0 R137, January 2008.
+\newblock ISSN 1465-6914.
+\newblock \doi{10.1186/gb-2008-9-9-r137}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2592715\&tool=pmcentrez\&rendertype=abstract}.
+
+\bibitem[Zhang et~al.(2012{\natexlab{b}})Zhang, Theurkauf, Weng, and
+  Zamore]{Zhang2012a}
+Zhao Zhang, William~E Theurkauf, Zhiping Weng, and Phillip~D Zamore.
+\newblock {Strand-specific libraries for high throughput RNA sequencing (
+  RNA-Seq ) prepared without poly ( A ) selection}.
+\newblock \emph{Silence}, 3\penalty0 (1):\penalty0 9, January
+  2012{\natexlab{b}}.
+\newblock ISSN 1758-907X.
+\newblock \doi{10.1186/1758-907X-3-9}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3552703\&tool=pmcentrez\&rendertype=abstract}.
 
 \bibitem[Zhu et~al.(2003)Zhu, Shendure, Mitra, and Church]{Zhu2003}
 Jun Zhu, Jay Shendure, Robi~D Mitra, and George~M Church.

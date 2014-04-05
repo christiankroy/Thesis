@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  1 APR 2014 00:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  4 APR 2014 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,22 +886,8 @@ LaTeX Info: Redefining \genfrac on input line 121.
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-
-
-! LaTeX Error: Command \degree already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \newcommand\degree{}
-                         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip69
 \bibsep=\skip70
@@ -937,7 +923,39 @@ File: lstlang1.sty 2014/03/04 1.5c listings language file
 LaTeX Warning: Unused global option(s):
     [letter].
 
-(./thesis.v0.14.aux)
+(./thesis.v0.14.aux
+
+LaTeX Warning: Label `sec: SeqZip Overview' multiply defined.
+
+
+LaTeX Warning: Label `fig:Original SeqZip Diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:Ligation product and RNA integrity' multiply defined.
+
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
+
+
+LaTeX Warning: Label `tab:FlyGenesWithManyTx' multiply defined.
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
+
+
+LaTeX Warning: Label `fig:Roy2014 Rnl2' multiply defined.
+
+)
 \openout1 = `thesis.v0.14.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
@@ -957,8 +975,7 @@ LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 76.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -1065,22 +1082,23 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
  [6
 
 
-])
+] [7])
 \tf@toc=\write4
 \openout4 = `thesis.v0.14.toc'.
 
- [7]
+
+[8]
 ------------------------------------------------------------------------------
  List of Figures
 ------------------------------------------------------------------------------
-(./thesis.v0.14.lof)
+(./thesis.v0.14.lof [9
+
+
+])
 \tf@lof=\write5
 \openout5 = `thesis.v0.14.lof'.
 
- [8
-
-
-]
+ [10]
 ------------------------------------------------------------------------------
  List of Tables
 ------------------------------------------------------------------------------
@@ -1088,7 +1106,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 \tf@lot=\write6
 \openout6 = `thesis.v0.14.lot'.
 
- [9
+ [11
 
 
 ]
@@ -1096,43 +1114,39 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
  Abreviations
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 220.
-[10
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 219.
+[12
 
 
 ]
 ------------------------------------------------------------------------------
  Symbols
 ------------------------------------------------------------------------------
-[11
-
+[13
 
 ]
 ------------------------------------------------------------------------------
  Definitions
 ------------------------------------------------------------------------------
 
-Overfull \hbox (5.9079pt too wide) in paragraph at lines 268--270
+Overfull \hbox (5.9079pt too wide) in paragraph at lines 266--268
 \T1/phv/m/n/12 A tech-nol-ogy wherein RNA is frag-mented, con-verted to DNA, an
 d an-a-lyzed on a high-throughput
  []
 
-[12
+[14
 
 ]
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[13
+[15
 
 ]
 ------------------------------------------------------------------------------
  Preface
 ------------------------------------------------------------------------------
-
-LaTeX Warning: Reference `Chapter4' on page xiv undefined on input line 308.
-
-[14
+[16
 
 
 ] (./Chapters/Chapter1-Introduction.tex
@@ -1143,86 +1157,94 @@ Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
-<Figures/DesertLocust.jpeg, id=419, 357.335pt x 420.57124pt>
-File: Figures/DesertLocust.jpeg Graphic file (type jpg)
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 29.
+<Figures/Chapter1/DesertLocust.jpeg, id=607, 357.335pt x 420.57124pt>
+File: Figures/Chapter1/DesertLocust.jpeg Graphic file (type jpg)
 
-<use Figures/DesertLocust.jpeg>
-Package pdftex.def Info: Figures/DesertLocust.jpeg used on input line 40.
+<use Figures/Chapter1/DesertLocust.jpeg>
+Package pdftex.def Info: Figures/Chapter1/DesertLocust.jpeg used on input line 
+44.
 (pdftex.def)             Requested size: 357.33412pt x 420.57022pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 49.
  [1
 
 
 
-] [2 <./Figures/DesertLocust.jpeg>]
+] [2 <./Figures/Chapter1/DesertLocust.jpeg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
  [3]
-<Figures/Sequencing_costs_over_time.pdf, id=495, 361.68425pt x 156.91924pt>
-File: Figures/Sequencing_costs_over_time.pdf Graphic file (type pdf)
-
-<use Figures/Sequencing_costs_over_time.pdf>
-Package pdftex.def Info: Figures/Sequencing_costs_over_time.pdf used on input l
-ine 87.
+<Figures/Chapter1/Sequencing_costs_over_time.pdf, id=690, 361.68425pt x 156.919
+24pt>
+File: Figures/Chapter1/Sequencing_costs_over_time.pdf Graphic file (type pdf)
+ <use Figures/Chapter1/Sequencing_costs_over_time.pdf>
+Package pdftex.def Info: Figures/Chapter1/Sequencing_costs_over_time.pdf used o
+n input line 93.
 (pdftex.def)             Requested size: 361.68336pt x 156.91884pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 94.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 100.
+
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [4 <./Figures/Sequencing_costs_over_time.pdf>]
-<Figures/RNA_Sequencing_methodologies.pdf, id=547, 419.83047pt x 311.1625pt>
-File: Figures/RNA_Sequencing_methodologies.pdf Graphic file (type pdf)
+) [4]
+<Figures/Chapter1/RNA_Sequencing_methodologies.pdf, id=731, 419.83047pt x 311.1
+625pt>
+File: Figures/Chapter1/RNA_Sequencing_methodologies.pdf Graphic file (type pdf)
 
-<use Figures/RNA_Sequencing_methodologies.pdf>
-Package pdftex.def Info: Figures/RNA_Sequencing_methodologies.pdf used on input
- line 116.
+ <use Figures/Chapter1/RNA_Sequencing_methodologies.pdf>
+Package pdftex.def Info: Figures/Chapter1/RNA_Sequencing_methodologies.pdf used
+ on input line 122.
 (pdftex.def)             Requested size: 419.82944pt x 311.16174pt.
- [5] [6 <./Figures/RNA_Sequencing_methodologies.pdf>] [7]
-<Figures/SeqLengths_and_Connectivity.pdf, id=695, 415.5525pt x 327.2225pt>
-File: Figures/SeqLengths_and_Connectivity.pdf Graphic file (type pdf)
-
-<use Figures/SeqLengths_and_Connectivity.pdf>
-Package pdftex.def Info: Figures/SeqLengths_and_Connectivity.pdf used on input 
-line 186.
+ [5 <./Figures/Chapter1/Sequencing_costs_over_time.pdf>] [6 <./Figures/Chapter1
+/RNA_Sequencing_methodologies.pdf>] [7]
+<Figures/Chapter1/SeqLengths_and_Connectivity.pdf, id=884, 415.5525pt x 327.222
+5pt>
+File: Figures/Chapter1/SeqLengths_and_Connectivity.pdf Graphic file (type pdf)
+ <use Figures/Chapter1/SeqLengths_and_Connectivity.pdf>
+Package pdftex.def Info: Figures/Chapter1/SeqLengths_and_Connectivity.pdf used 
+on input line 203.
 (pdftex.def)             Requested size: 415.55148pt x 327.2217pt.
- [8 <./Figures/SeqLengths_and_Connectivity.pdf>]
-Overfull \hbox (4.265pt too wide) in paragraph at lines 198--200
+
+Overfull \hbox (4.265pt too wide) in paragraph at lines 215--217
 \T1/phv/m/n/12 scrip-tome anal-y-sis. This se-quenc-ing ap-proach has sig-nif-i
 -cance ad-van-tages over mi-croar-rays. Specif-
  []
 
-<Figures/Fibronectin.pdf, id=741, 390.1245pt x 289.08pt>
-File: Figures/Fibronectin.pdf Graphic file (type pdf)
+[8] [9 <./Figures/Chapter1/SeqLengths_and_Connectivity.pdf>]
+<Figures/Chapter1/Fibronectin.pdf, id=951, 390.1245pt x 289.08pt>
+File: Figures/Chapter1/Fibronectin.pdf Graphic file (type pdf)
 
-<use Figures/Fibronectin.pdf>
-Package pdftex.def Info: Figures/Fibronectin.pdf used on input line 216.
+<use Figures/Chapter1/Fibronectin.pdf>
+Package pdftex.def Info: Figures/Chapter1/Fibronectin.pdf used on input line 23
+3.
 (pdftex.def)             Requested size: 390.12354pt x 289.07928pt.
- [9]
+
 
 Package natbib Warning: Citation `Burnette2005' on page 10 undefined on input l
-ine 228.
+ine 245.
 
-[10 <./Figures/Fibronectin.pdf>]
-Overfull \hbox (4.76073pt too wide) in paragraph at lines 230--231
+[10 <./Figures/Chapter1/Fibronectin.pdf>]
+Overfull \hbox (4.76073pt too wide) in paragraph at lines 247--248
 []\T1/phv/m/n/12 The last, most cur-rent, and thor-ough study of intra-gene spl
 ic-ing co-or-di-na-tion in-volves the \T1/phv/m/sl/12 Caenorhab-
  []
 
-<Figures/ASEventTypesPlot.pdf, id=807, 405.515pt x 187.19937pt>
-File: Figures/ASEventTypesPlot.pdf Graphic file (type pdf)
+<Figures/Chapter1/ASEventTypesPlot.pdf, id=1002, 405.515pt x 187.19937pt>
+File: Figures/Chapter1/ASEventTypesPlot.pdf Graphic file (type pdf)
 
-<use Figures/ASEventTypesPlot.pdf>
-Package pdftex.def Info: Figures/ASEventTypesPlot.pdf used on input line 244.
+<use Figures/Chapter1/ASEventTypesPlot.pdf>
+Package pdftex.def Info: Figures/Chapter1/ASEventTypesPlot.pdf used on input li
+ne 261.
 (pdftex.def)             Requested size: 405.51399pt x 187.19891pt.
- [11 <./Figures/ASEventTypesPlot.pdf>]
-<Figures/NumberOFTranscriptsPerFlyGene.pdf, id=848, 411.5375pt x 289.08pt>
-File: Figures/NumberOFTranscriptsPerFlyGene.pdf Graphic file (type pdf)
-
-<use Figures/NumberOFTranscriptsPerFlyGene.pdf>
-Package pdftex.def Info: Figures/NumberOFTranscriptsPerFlyGene.pdf used on inpu
-t line 261.
+ [11]
+<Figures/Chapter1/NumberOFTranscriptsPerFlyGene.pdf, id=1033, 411.5375pt x 289.
+08pt>
+File: Figures/Chapter1/NumberOFTranscriptsPerFlyGene.pdf Graphic file (type pdf
+)
+ <use Figures/Chapter1/NumberOFTranscriptsPerFlyGene.pdf>
+Package pdftex.def Info: Figures/Chapter1/NumberOFTranscriptsPerFlyGene.pdf use
+d on input line 278.
 (pdftex.def)             Requested size: 411.5365pt x 289.07928pt.
 
 (./Tables/FlyGenesWith1000sofTx.tex
@@ -1231,168 +1253,620 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 276.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 293.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 276.
- <Figures/DscamArch.pdf, id=861, 415.5525pt x 96.69475pt>
-File: Figures/DscamArch.pdf Graphic file (type pdf)
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 293.
+ [12 <./Figures/Chapter1/ASEventTypesPlot.pdf> <./Figures/Chapter1/NumberOFTran
+scriptsPerFlyGene.pdf>]
+<Figures/Chapter1/DscamArch.pdf, id=1073, 415.5525pt x 96.69475pt>
+File: Figures/Chapter1/DscamArch.pdf Graphic file (type pdf)
 
-<use Figures/DscamArch.pdf>
-Package pdftex.def Info: Figures/DscamArch.pdf used on input line 284.
+<use Figures/Chapter1/DscamArch.pdf>
+Package pdftex.def Info: Figures/Chapter1/DscamArch.pdf used on input line 301.
+
 (pdftex.def)             Requested size: 415.55148pt x 96.69449pt.
- [12 <./Figures/NumberOFTranscriptsPerFlyGene.pdf>]
-[13 <./Figures/DscamArch.pdf>]
-<Figures/DscamAnatomy.pdf, id=904, 397.15074pt x 516.26274pt>
-File: Figures/DscamAnatomy.pdf Graphic file (type pdf)
+ [13 <./Figures/Chapter1/DscamArch.pdf>]
+<Figures/Chapter1/DscamAnatomy.pdf, id=1098, 397.15074pt x 516.26274pt>
+File: Figures/Chapter1/DscamAnatomy.pdf Graphic file (type pdf)
 
-<use Figures/DscamAnatomy.pdf>
-Package pdftex.def Info: Figures/DscamAnatomy.pdf used on input line 312.
+<use Figures/Chapter1/DscamAnatomy.pdf>
+Package pdftex.def Info: Figures/Chapter1/DscamAnatomy.pdf used on input line 3
+29.
 (pdftex.def)             Requested size: 397.14977pt x 516.26147pt.
 
-<Figures/LigationMechanism.pdf, id=913, 391.4625pt x 528.97626pt>
-File: Figures/LigationMechanism.pdf Graphic file (type pdf)
+<Figures/Chapter1/LigationMechanism.pdf, id=1107, 391.4625pt x 528.97626pt>
+File: Figures/Chapter1/LigationMechanism.pdf Graphic file (type pdf)
 
-<use Figures/LigationMechanism.pdf>
-Package pdftex.def Info: Figures/LigationMechanism.pdf used on input line 346.
+<use Figures/Chapter1/LigationMechanism.pdf>
+Package pdftex.def Info: Figures/Chapter1/LigationMechanism.pdf used on input l
+ine 363.
 (pdftex.def)             Requested size: 391.46153pt x 528.97496pt.
- [14] [15 <./Figures/DscamAnatomy.pdf>]
-[16 <./Figures/LigationMechanism.pdf>] [17]
-<Figures/Rnl2_Structure.pdf, id=1417, 354.82562pt x 291.58937pt>
-File: Figures/Rnl2_Structure.pdf Graphic file (type pdf)
+ [14] [15 <./Figures/Chapter1/DscamAnatomy.pdf>] [16 <./Figures/Chapter1/Ligati
+onMechanism.pdf>]
 
-<use Figures/Rnl2_Structure.pdf>
-Package pdftex.def Info: Figures/Rnl2_Structure.pdf used on input line 379.
+Package natbib Warning: Citation `Lohman2013d' on page 17 undefined on input li
+ne 379.
+
+
+Package natbib Warning: Citation `Lohman2013d' on page 17 undefined on input li
+ne 379.
+
+[17] <Figures/Chapter1/Rnl2_Structure.pdf, id=1606, 354.82562pt x 291.58937pt>
+File: Figures/Chapter1/Rnl2_Structure.pdf Graphic file (type pdf)
+
+<use Figures/Chapter1/Rnl2_Structure.pdf>
+Package pdftex.def Info: Figures/Chapter1/Rnl2_Structure.pdf used on input line
+ 396.
 (pdftex.def)             Requested size: 354.82474pt x 291.58865pt.
 
 
 Package natbib Warning: Citation `Nandrakumar2006' on page 18 undefined on inpu
-t line 389.
+t line 406.
 
-[18 <./Figures/Rnl2_Structure.pdf>]
-<Figures/Rnl2_Active_Site_Residues.pdf, id=1466, 216.81pt x 216.81pt>
-File: Figures/Rnl2_Active_Site_Residues.pdf Graphic file (type pdf)
+[18 <./Figures/Chapter1/Rnl2_Structure.pdf>]
+<Figures/Chapter1/Rnl2_Active_Site_Residues.pdf, id=1652, 216.81pt x 216.81pt>
+File: Figures/Chapter1/Rnl2_Active_Site_Residues.pdf Graphic file (type pdf)
 
-<use Figures/Rnl2_Active_Site_Residues.pdf>
-Package pdftex.def Info: Figures/Rnl2_Active_Site_Residues.pdf used on input li
-ne 394.
+<use Figures/Chapter1/Rnl2_Active_Site_Residues.pdf>
+Package pdftex.def Info: Figures/Chapter1/Rnl2_Active_Site_Residues.pdf used on
+ input line 411.
 (pdftex.def)             Requested size: 216.80946pt x 216.80946pt.
 
 
 Package natbib Warning: Citation `Nandrakumar2006' on page 19 undefined on inpu
-t line 406.
+t line 423.
 
-[19 <./Figures/Rnl2_Active_Site_Residues.pdf>]
-<Figures/FlamencoLocus.pdf, id=1530, 401.83527pt x 256.2905pt>
-File: Figures/FlamencoLocus.pdf Graphic file (type pdf)
+[19 <./Figures/Chapter1/Rnl2_Active_Site_Residues.pdf>]
+<Figures/Chapter1/FlamencoLocus.pdf, id=1719, 401.83527pt x 256.2905pt>
+File: Figures/Chapter1/FlamencoLocus.pdf Graphic file (type pdf)
 
-<use Figures/FlamencoLocus.pdf>
-Package pdftex.def Info: Figures/FlamencoLocus.pdf used on input line 432.
+<use Figures/Chapter1/FlamencoLocus.pdf>
+Package pdftex.def Info: Figures/Chapter1/FlamencoLocus.pdf used on input line 
+449.
 (pdftex.def)             Requested size: 401.83427pt x 256.28986pt.
 
 
 LaTeX Warning: Reference `fig:mouse piRNA over time' on page 20 undefined on in
-put line 442.
+put line 459.
 
-[20 <./Figures/FlamencoLocus.pdf>]
-<Figures/MammalianPiRNAClassesOverTime.pdf, id=1599, 415.5525pt x 324.21124pt>
-File: Figures/MammalianPiRNAClassesOverTime.pdf Graphic file (type pdf)
-
-<use Figures/MammalianPiRNAClassesOverTime.pdf>
-Package pdftex.def Info: Figures/MammalianPiRNAClassesOverTime.pdf used on inpu
-t line 447.
+[20 <./Figures/Chapter1/FlamencoLocus.pdf>]
+<Figures/Chapter1/MammalianPiRNAClassesOverTime.pdf, id=1788, 415.5525pt x 324.
+21124pt>
+File: Figures/Chapter1/MammalianPiRNAClassesOverTime.pdf Graphic file (type pdf
+)
+ <use Figures/Chapter1/MammalianPiRNAClassesOverTime.pdf>
+Package pdftex.def Info: Figures/Chapter1/MammalianPiRNAClassesOverTime.pdf use
+d on input line 464.
 (pdftex.def)             Requested size: 415.55148pt x 324.21045pt.
- [21 <./Figures/MammalianPiRNAClassesOverTime.pdf>]
-<Figures/mammalian_piRNA_pathway.png, id=1624, 289.08pt x 359.1819pt>
-File: Figures/mammalian_piRNA_pathway.png Graphic file (type png)
+ [21 <./Figures/Chapter1/MammalianPiRNAClassesOverTime.pdf>]
+<Figures/Chapter1/mammalian_piRNA_pathway.png, id=1814, 289.08pt x 359.1819pt>
+File: Figures/Chapter1/mammalian_piRNA_pathway.png Graphic file (type png)
 
-<use Figures/mammalian_piRNA_pathway.png>
-Package pdftex.def Info: Figures/mammalian_piRNA_pathway.png used on input line
- 461.
+<use Figures/Chapter1/mammalian_piRNA_pathway.png>
+Package pdftex.def Info: Figures/Chapter1/mammalian_piRNA_pathway.png used on i
+nput line 478.
 (pdftex.def)             Requested size: 289.07928pt x 359.18102pt.
- [22 <./Figures/mammalian_piRNA_pathway.png>]) (./Chapters/Chapter2-SeqZipMetho
-dology.tex [23]
+ [22 <./Figures/Chapter1/mammalian_piRNA_pathway.png>]) (./Chapters/Chapter2-Se
+qZipMethodology.tex [23]
 Chapter 2.
 ------------------------------------------------------------------------------
- 2 SeqZip Methodology Development
+ 2 SeqZip - Development and Applications
 ------------------------------------------------------------------------------
-[24
 
-]) (./Chapters/Chapter3-SeqZipManuscript.tex [25]
+<Figures/Chapter2/OriginalSeqZipDiagram.pdf, id=1841, 396.48125pt x 197.73875pt
+>
+File: Figures/Chapter2/OriginalSeqZipDiagram.pdf Graphic file (type pdf)
+ <use Figures/Chapter2/OriginalSeqZipDiagram.pdf>
+Package pdftex.def Info: Figures/Chapter2/OriginalSeqZipDiagram.pdf used on inp
+ut line 16.
+(pdftex.def)             Requested size: 396.48027pt x 197.73827pt.
+ [24
+
+ <./Figures/Chapter2/OriginalSeqZipDiagram.pdf>]
+Package epstopdf Info: Source file: <Figures/Chapter2/10GeneSetSchematic.eps>
+(epstopdf)                    date: 2014-04-04 21:23:45
+(epstopdf)                    size: 465142 bytes
+(epstopdf)             Output file: <Figures/Chapter2/10GeneSetSchematic-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:25:19
+(epstopdf)                    size: 38388 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/10GeneSet
+Schematic-eps-converted-to.pdf Figures/Chapter2/10GeneSetSchematic.eps>
+(epstopdf)             \includegraphics on input line 38.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf, id=1870, 344.28625pt
+ x 370.38374pt>
+File: Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/10GeneSetSchematic-eps-converted-to.p
+df used on input line 38.
+(pdftex.def)             Requested size: 344.2854pt x 370.38283pt.
+
+[25 <./Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figures/Chapter2/DegreadedRNABySeqZip.eps>
+
+(epstopdf)                    date: 2014-04-04 20:38:28
+(epstopdf)                    size: 3698427 bytes
+(epstopdf)             Output file: <Figures/Chapter2/DegreadedRNABySeqZip-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2014-04-04 20:38:50
+(epstopdf)                    size: 543828 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/Degreaded
+RNABySeqZip-eps-converted-to.pdf Figures/Chapter2/DegreadedRNABySeqZip.eps>
+(epstopdf)             \includegraphics on input line 87.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf, id=1885, 288.07625
+pt x 251.94125pt>
+File: Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to
+.pdf used on input line 87.
+(pdftex.def)             Requested size: 288.07553pt x 251.94063pt.
+ [26]
+Package epstopdf Info: Source file: <Figures/Chapter2/TransRNAWithSeqZip.eps>
+(epstopdf)                    date: 2014-04-04 20:27:13
+(epstopdf)                    size: 2241728 bytes
+(epstopdf)             Output file: <Figures/Chapter2/TransRNAWithSeqZip-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2014-04-04 20:29:20
+(epstopdf)                    size: 294432 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/TransRNAW
+ithSeqZip-eps-converted-to.pdf Figures/Chapter2/TransRNAWithSeqZip.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf, id=1890, 363.3575pt 
+x 258.9675pt>
+File: Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.p
+df used on input line 102.
+(pdftex.def)             Requested size: 363.3566pt x 258.96684pt.
+
+[27 <./Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf>] [28 <./Figu
+res/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figures/Chapter2/HIVviaSeqZip.eps>
+(epstopdf)                    date: 2014-04-04 20:37:31
+(epstopdf)                    size: 4021787 bytes
+(epstopdf)             Output file: <Figures/Chapter2/HIVviaSeqZip-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-04-04 20:38:52
+(epstopdf)                    size: 665140 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/HIVviaSeq
+Zip-eps-converted-to.pdf Figures/Chapter2/HIVviaSeqZip.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf, id=1928, 392.46625pt x 346
+.29375pt>
+File: Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf use
+d on input line 130.
+(pdftex.def)             Requested size: 392.46527pt x 346.2929pt.
+Package epstopdf Info: Source file: <Figures/Chapter2/PrecursorLocations.eps>
+(epstopdf)                    date: 2014-04-04 21:16:05
+(epstopdf)                    size: 548279 bytes
+(epstopdf)             Output file: <Figures/Chapter2/PrecursorLocations-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:20:13
+(epstopdf)                    size: 39383 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/Precursor
+Locations-eps-converted-to.pdf Figures/Chapter2/PrecursorLocations.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf, id=1929, 378.41376pt
+ x 294.09875pt>
+File: Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/PrecursorLocations-eps-converted-to.p
+df used on input line 147.
+(pdftex.def)             Requested size: 378.41283pt x 294.09802pt.
+
+(./Tables/matchedClusterValues.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+Package epstopdf Info: Source file: <Figures/Chapter2/RTDoesntWork.eps>
+(epstopdf)                    date: 2014-04-04 21:19:12
+(epstopdf)                    size: 3712270 bytes
+(epstopdf)             Output file: <Figures/Chapter2/RTDoesntWork-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:20:15
+(epstopdf)                    size: 301639 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/RTDoesntW
+ork-eps-converted-to.pdf Figures/Chapter2/RTDoesntWork.eps>
+(epstopdf)             \includegraphics on input line 164.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf, id=1930, 341.275pt x 346.2
+9375pt>
+File: Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf use
+d on input line 164.
+(pdftex.def)             Requested size: 341.27415pt x 346.2929pt.
+Package epstopdf Info: Source file: <Figures/Chapter2/dst1.eps>
+(epstopdf)                    date: 2014-04-04 21:08:58
+(epstopdf)                    size: 3580592 bytes
+(epstopdf)             Output file: <Figures/Chapter2/dst1-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-04-04 21:09:07
+(epstopdf)                    size: 214162 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/dst1-eps-
+converted-to.pdf Figures/Chapter2/dst1.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/dst1-eps-converted-to.pdf, id=1931, 291.0875pt x 160.6pt>
+File: Figures/Chapter2/dst1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figures/Chapter2/dst1-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/dst1-eps-converted-to.pdf used on inp
+ut line 178.
+(pdftex.def)             Requested size: 291.08678pt x 160.5996pt.
+Package epstopdf Info: Source file: <Figures/Chapter2/testesSpecificRnaseqPrecu
+rsors.eps>
+(epstopdf)                    date: 2014-04-04 21:12:35
+(epstopdf)                    size: 5366419 bytes
+(epstopdf)             Output file: <Figures/Chapter2/testesSpecificRnaseqPrecu
+rsors-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:13:06
+(epstopdf)                    size: 398369 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/testesSpe
+cificRnaseqPrecursors-eps-converted-to.pdf Figures/Chapter2/testesSpecificRnase
+qPrecursors.eps>
+(epstopdf)             \includegraphics on input line 192.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf, id=1932,
+ 336.25626pt x 208.78pt>
+File: Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-co
+nverted-to.pdf used on input line 192.
+(pdftex.def)             Requested size: 336.25543pt x 208.77946pt.
+Package epstopdf Info: Source file: <Figures/Chapter2/piRNAPrecurserAnalyisBySe
+qZip.eps>
+(epstopdf)                    date: 2014-04-04 21:51:22
+(epstopdf)                    size: 3023676 bytes
+(epstopdf)             Output file: <Figures/Chapter2/piRNAPrecurserAnalyisBySe
+qZip-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:29:13
+(epstopdf)                    size: 164439 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/piRNAPrec
+urserAnalyisBySeqZip-eps-converted-to.pdf Figures/Chapter2/piRNAPrecurserAnalyi
+sBySeqZip.eps>
+(epstopdf)             \includegraphics on input line 206.
+runsystem(repstopdf --outfile=Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-ep
+s-converted-to.pdf Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip.eps)...execut
+ed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/Chapter2/piRNAPrecurserAnalyisBySe
+qZip-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-04 21:51:33
+(epstopdf)                    size: 167486 bytes.
+
+<Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf, id=1933, 
+352.31625pt x 288.07625pt>
+File: Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-con
+verted-to.pdf used on input line 206.
+(pdftex.def)             Requested size: 352.31538pt x 288.07553pt.
+)
+(./Chapters/Chapter3-SeqZipManuscript.tex [29 <./Figures/Chapter2/HIVviaSeqZip-
+eps-converted-to.pdf>] [30 <./Figures/Chapter2/PrecursorLocations-eps-converted
+-to.pdf>] [31 <./Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf> <./Figures
+/Chapter2/dst1-eps-converted-to.pdf>] [32 <./Figures/Chapter2/testesSpecificRna
+seqPrecursors-eps-converted-to.pdf> <./Figures/Chapter2/piRNAPrecurserAnalyisBy
+SeqZip-eps-converted-to.pdf>]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 SeqZip Publication
 ------------------------------------------------------------------------------
-[26
+<Figures/Chapter3/Roy2014Fig1.pdf, id=2010, 409.53pt x 143.53625pt>
+File: Figures/Chapter3/Roy2014Fig1.pdf Graphic file (type pdf)
 
-]) (./Chapters/Chapter5-Discussion.tex [27]
+<use Figures/Chapter3/Roy2014Fig1.pdf>
+Package pdftex.def Info: Figures/Chapter3/Roy2014Fig1.pdf used on input line 15
+.
+(pdftex.def)             Requested size: 409.52899pt x 143.53589pt.
+Package epstopdf Info: Source file: <Figures/Chapter3/Roy2014Fig2.eps>
+(epstopdf)                    date: 2014-04-04 20:42:52
+(epstopdf)                    size: 7810451 bytes
+(epstopdf)             Output file: <Figures/Chapter3/Roy2014Fig2-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2014-04-04 20:46:02
+(epstopdf)                    size: 655912 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter3/Roy2014Fi
+g2-eps-converted-to.pdf Figures/Chapter3/Roy2014Fig2.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf, id=2011, 387.4475pt x 358.3
+3875pt>
+File: Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf used
+ on input line 37.
+(pdftex.def)             Requested size: 387.44655pt x 358.33788pt.
+Package epstopdf Info: Source file: <Figures/Chapter3/Roy2014Fig3.eps>
+(epstopdf)                    date: 2014-04-04 20:45:14
+(epstopdf)                    size: 7398250 bytes
+(epstopdf)             Output file: <Figures/Chapter3/Roy2014Fig3-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2014-04-04 20:46:05
+(epstopdf)                    size: 353700 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/Chapter3/Roy2014Fi
+g3-eps-converted-to.pdf Figures/Chapter3/Roy2014Fig3.eps>
+(epstopdf)             \includegraphics on input line 55.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf, id=2012, 390.45876pt x 478.
+78876pt>
+File: Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf used
+ on input line 55.
+(pdftex.def)             Requested size: 390.4578pt x 478.78758pt.
+)
+(./Chapters/Chapter4-MolCel2013.tex [33
+
+ <./Figures/Chapter3/Roy2014Fig1.pdf>]
+[34 <./Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf>] [35 <./Figures/Chapt
+er3/Roy2014Fig3-eps-converted-to.pdf>]
 Chapter 4.
 ------------------------------------------------------------------------------
- 4 Discussion
+ 4 MolCel2013
 ------------------------------------------------------------------------------
-[28
+
+Package natbib Warning: Citation `Hannon2008' on page 36 undefined on input lin
+e 23.
+
+
+Package natbib Warning: Citation `Aravin200a' on page 36 undefined on input lin
+e 25.
+
+
+Package natbib Warning: Citation `Kawaoka2013' on page 36 undefined on input li
+ne 28.
+
+[36
 
 ]
+<Figures/Chapter4/MolCel2013_Fig1.pdf, id=2243, 319.60002pt x 444.66125pt>
+File: Figures/Chapter4/MolCel2013_Fig1.pdf Graphic file (type pdf)
 
-! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
+<use Figures/Chapter4/MolCel2013_Fig1.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig1.pdf used on input lin
+e 49.
+(pdftex.def)             Requested size: 319.59923pt x 444.66016pt.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 ... T39A mutation to aliviate penultimate 2´
-                                                   OH requirement of T4 Rnl2...
+<Figures/Chapter4/MolCel2013_FigS1.pdf, id=2246, 369.38pt x 504.88625pt>
+File: Figures/Chapter4/MolCel2013_FigS1.pdf Graphic file (type pdf)
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<use Figures/Chapter4/MolCel2013_FigS1.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS1.pdf used on input li
+ne 61.
+(pdftex.def)             Requested size: 369.37909pt x 504.885pt.
+ [37] [38 <./Figures/Chapter4/MolCel2013_Fig1.pdf>] [39 <./Figures/Chapter4/Mol
+Cel2013_FigS1.pdf>] [40]
+<Figures/Chapter4/MolCel2013_Fig2.pdf, id=2417, 370.36467pt x 484.89757pt>
+File: Figures/Chapter4/MolCel2013_Fig2.pdf Graphic file (type pdf)
 
-! Undefined control sequence.
-l.102 	\tem
-            Make a note into the future directions that you would like to ex...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<use Figures/Chapter4/MolCel2013_Fig2.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig2.pdf used on input lin
+e 102.
+(pdftex.def)             Requested size: 370.36375pt x 484.89638pt.
 
+<Figures/Chapter4/MolCel2013_FigS2.pdf, id=2420, 407.85675pt x 535.33301pt>
+File: Figures/Chapter4/MolCel2013_FigS2.pdf Graphic file (type pdf)
 
-! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.102 ... would like to explore LNA’s at the 3´
-                                                  OH pisition of all ligatio...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<use Figures/Chapter4/MolCel2013_FigS2.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS2.pdf used on input li
+ne 113.
+(pdftex.def)             Requested size: 407.85576pt x 535.3317pt.
 
 
-! Package inputenc Error: Unicode char \u8:´ not set up for use with LaTeX.
+Package natbib Warning: Citation `Gan2011 ' on page 41 undefined on input line 
+125.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.102 ... both this and the use of penultimate 2´
-                                                   OH (Ribosome) suger in yo...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Package natbib Warning: Citation `Gan2011 ' on page 41 undefined on input line 
+125.
 
-! Extra }, or forgotten \endgroup.
-l.102 ...er served with a T39A mutation. Giggity }
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
-[29]) (./Appendices/AppendixA.tex [30]
+LaTeX Warning: Reference `fig:MolCelF13' on page 41 undefined on input line 129
+.
+
+<Figures/Chapter4/MolCel2013_Fig3.pdf, id=2445, 482.80376pt x 289.08pt>
+File: Figures/Chapter4/MolCel2013_Fig3.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig3.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig3.pdf used on input lin
+e 135.
+(pdftex.def)             Requested size: 482.80258pt x 289.07928pt.
+
+<Figures/Chapter4/MolCel2013_FigS3.pdf, id=2454, 387.4475pt x 289.08pt>
+File: Figures/Chapter4/MolCel2013_FigS3.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS3.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS3.pdf used on input li
+ne 146.
+(pdftex.def)             Requested size: 387.44655pt x 289.07928pt.
+ [41] [42 <./Figures/Chapter4/MolCel2013_Fig2.pdf>] [43 <./Figures/Chapter4/Mol
+Cel2013_FigS2.pdf>] [44 <./Figures/Chapter4/MolCel2013_Fig3.pdf>] [45 <./Figure
+s/Chapter4/MolCel2013_FigS3.pdf>]
+<Figures/Chapter4/MolCel2013_Fig4.pdf, id=2603, 393.47pt x 391.4625pt>
+File: Figures/Chapter4/MolCel2013_Fig4.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig4.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig4.pdf used on input lin
+e 170.
+(pdftex.def)             Requested size: 393.46902pt x 391.46153pt.
+
+<Figures/Chapter4/MolCel2013_FigS4.pdf, id=2606, 385.44pt x 454.69875pt>
+File: Figures/Chapter4/MolCel2013_FigS4.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS4.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS4.pdf used on input li
+ne 181.
+(pdftex.def)             Requested size: 385.43906pt x 454.69763pt.
+ [46] [47 <./Figures/Chapter4/MolCel2013_Fig4.pdf>] [48 <./Figures/Chapter4/Mol
+Cel2013_FigS4.pdf>]
+Overfull \hbox (3.59384pt too wide) in paragraph at lines 203--204
+\T1/phv/m/n/12 dance sig-nif-i-cantly de-creased in mu-tant testes. At 14.5 dpp
+, me-dian piRNA abun-dance per pachytene
+ []
+
+<Figures/Chapter4/MolCel2013_Fig5.pdf, id=2751, 399.4925pt x 415.5525pt>
+File: Figures/Chapter4/MolCel2013_Fig5.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig5.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig5.pdf used on input lin
+e 208.
+(pdftex.def)             Requested size: 399.49152pt x 415.55148pt.
+
+<Figures/Chapter4/MolCel2013_FigS5.pdf, id=2754, 308.15125pt x 254.9525pt>
+File: Figures/Chapter4/MolCel2013_FigS5.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS5.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS5.pdf used on input li
+ne 219.
+(pdftex.def)             Requested size: 308.15048pt x 254.95186pt.
+
+
+Package natbib Warning: Citation `Baudat2000' on page 49 undefined on input lin
+e 228.
+
+
+Package natbib Warning: Citation `Deng2002' on page 49 undefined on input line 
+239.
+
+
+Package natbib Warning: Citation `Deng2002' on page 49 undefined on input line 
+239.
+
+[49]
+
+Package natbib Warning: Citation `Grivna2006b' on page 50 undefined on input li
+ne 243.
+
+[50 <./Figures/Chapter4/MolCel2013_Fig5.pdf>]
+<Figures/Chapter4/MolCel2013_Fig6.pdf, id=2808, 396.48125pt x 345.29pt>
+File: Figures/Chapter4/MolCel2013_Fig6.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig6.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig6.pdf used on input lin
+e 250.
+(pdftex.def)             Requested size: 396.48027pt x 345.28914pt.
+
+<Figures/Chapter4/MolCel2013_FigS6.pdf, id=2811, 342.27875pt x 357.335pt>
+File: Figures/Chapter4/MolCel2013_FigS6.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS6.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS6.pdf used on input li
+ne 262.
+(pdftex.def)             Requested size: 342.2779pt x 357.33412pt.
+ [51 <./Figures/Chapter4/MolCel2013_FigS5.pdf>] [52 <./Figures/Chapter4/MolCel2
+013_Fig6.pdf>]
+<Figures/Chapter4/MolCel2013_Fig7.pdf, id=3000, 415.5525pt x 502.87875pt>
+File: Figures/Chapter4/MolCel2013_Fig7.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig7.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig7.pdf used on input lin
+e 289.
+(pdftex.def)             Requested size: 415.55148pt x 502.87752pt.
+
+<Figures/Chapter4/MolCel2013_FigS7.pdf, id=3003, 373.395pt x 557.08125pt>
+File: Figures/Chapter4/MolCel2013_FigS7.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS7.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS7.pdf used on input li
+ne 303.
+(pdftex.def)             Requested size: 373.39409pt x 557.0799pt.
+ [53 <./Figures/Chapter4/MolCel2013_FigS6.pdf>] [54 <./Figures/Chapter4/MolCel2
+013_Fig7.pdf>] [55 <./Figures/Chapter4/MolCel2013_FigS7.pdf>]
+
+Package natbib Warning: Citation `Weston1992' on page 56 undefined on input lin
+e 321.
+
+<Figures/Chapter4/MolCel2013_Fig8.pdf, id=3402, 401.5pt x 526.96875pt>
+File: Figures/Chapter4/MolCel2013_Fig8.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_Fig8.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig8.pdf used on input lin
+e 326.
+(pdftex.def)             Requested size: 401.49901pt x 526.96745pt.
+
+<Figures/Chapter4/MolCel2013_FigS8.pdf, id=3403, 407.5225pt x 459.7175pt>
+File: Figures/Chapter4/MolCel2013_FigS8.pdf Graphic file (type pdf)
+
+<use Figures/Chapter4/MolCel2013_FigS8.pdf>
+Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS8.pdf used on input li
+ne 338.
+(pdftex.def)             Requested size: 407.5215pt x 459.71637pt.
+ [56] [57 <./Figures/Chapter4/MolCel2013_Fig8.pdf>] [58 <./Figures/Chapter4/Mol
+Cel2013_FigS8.pdf>]
+
+Package natbib Warning: Citation `Deng2002' on page 59 undefined on input line 
+364.
+
+[59]
+
+Package natbib Warning: Citation `Baudat2000' on page 60 undefined on input lin
+e 377.
+
+
+Package natbib Warning: Citation `Deng2002' on page 60 undefined on input line 
+377.
+
+
+Overfull \hbox (9.0989pt too wide) in paragraph at lines 376--378
+\T1/phv/m/n/12 guide-lines of the In-sti-tu-tional An-i-mal Care and Use Com-mi
+t-tee of the Uni-ver-sity of Mas-sachusetts
+ []
+
+
+Package natbib Warning: Citation `Baudat2000' on page 60 undefined on input lin
+e 389.
+
+
+Package natbib Warning: Citation `Deng2002' on page 60 undefined on input line 
+389.
+
+[60]
+Overfull \hbox (7.57498pt too wide) in paragraph at lines 394--395
+[]\T1/phv/m/n/12 Strand-specific RNA-seq li-braries [[][]Zhang et al.[][], [][]
+2012a[][]] us-ing Ribo-Zero Gold (Epi-cen-tre Biotech-
+ []
+
+[61] [62] [63]) (./Chapters/Chapter5-Discussion.tex [64]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Discussion
+------------------------------------------------------------------------------
+[65
+
+] [66]) (./Appendices/AppendixA.tex [67]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix - Misc Information
@@ -1430,176 +1904,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
-[31
+[68
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
 
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{verbatim}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
 
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{verbatim}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
-
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{verbatim}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{verbatim}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:∞ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{verbatim}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 \end{verbatim}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:˚ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 \end{verbatim}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:∞ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 \end{verbatim}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-) [32]
+) [69]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 (./thesis.v0.14.bbl
-Underfull \hbox (badness 1728) in paragraph at lines 21--31
+Underfull \hbox (badness 1728) in paragraph at lines 51--61
 \T1/phv/m/n/12 Nicola Iovino, Pa-tri-cia Mor-ris, Michael J Brown-stein, Satomi
  Kuramochi-Miyagawa, Toru
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 34--45
+Underfull \hbox (badness 3168) in paragraph at lines 64--75
 \T1/phv/m/n/12 and Vladimir A. Gvozdev.  Double-stranded RNA-mediated si-lenc-i
 ng of ge-nomic tan-
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 34--45
+Underfull \hbox (badness 1342) in paragraph at lines 64--75
 \T1/phv/m/n/12 dem re-peats and trans-pos-able el-e-ments in the D. melanogaste
 r germline.  \T1/phv/m/sl/12 Cur-rent Bi-
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 34--45
+Underfull \hbox (badness 1102) in paragraph at lines 64--75
 \T1/phv/m/sl/12 ol-ogy\T1/phv/m/n/12 , 11(13):1017--1027, July 2001.  ISSN 0960
 -9822.  doi: $\T1/cmr/m/n/12 16 / S0960-[]9822(01 ) 00299-[]8$\T1/phv/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--45
+Underfull \hbox (badness 10000) in paragraph at lines 64--75
 \T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . com / 
 science / article / pii / S0960982201002998http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--45
+Underfull \hbox (badness 10000) in paragraph at lines 64--75
 \T1/cmtt/m/n/12 / / www . sciencedirect . com / science ? _ob = MImg & _imageke
 y = B6VRT-[]43HK9SP-[]K-[]1 & _cdi = 6243 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--45
+Underfull \hbox (badness 10000) in paragraph at lines 64--75
 \T1/cmtt/m/n/12 _user = 115184 & _pii = S0960982201002998 & _origin = & _ cover
 Date = 07 / 10 / 2001 & _sk = 999889986 &
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 85--92
+Underfull \hbox (badness 10000) in paragraph at lines 90--101
+\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencemag . org / con
+tent / 316 / 5825 / 744 . abstracthttp : / / www . sciencemag .
+ []
+
+[70
+
+
+]
+Underfull \hbox (badness 1371) in paragraph at lines 178--185
 []\T1/phv/m/n/12 GI I Bell, RL L Pictet, WJ J Rut-ter, Bar-bara Cordell, Ed-mun
 d Tis-cher, and Howard M.
  []
 
-[33
-
-
-] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 215--224
+[71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 337--346
 \T1/cmtt/m/n/12 www . sciencedirect . com / science ? _ob = MImg & _imagekey = 
 B6WSN-[]4N6XNHF-[]1-[]3 & _cdi = 7051 & _user =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--224
+Underfull \hbox (badness 10000) in paragraph at lines 337--346
 \T1/cmtt/m/n/12 115184 & _pii = S0092867407002577 & _origin = gateway & _coverD
 ate = 03 / 23 / 2007 & _sk = 998719993 &
  []
@@ -1611,7 +1996,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.262 Desmond 
+l.384 Desmond 
                R. Bullard and Richard P. Bowater.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1624,200 +2009,297 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.262 Desmond R. Bullard and Richard 
+l.384 Desmond R. Bullard and Richard 
                                        P. Bowater.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--306
+Underfull \hbox (badness 10000) in paragraph at lines 429--440
 \T1/cmtt/m/n/12 com / science / article / B6WW3-[]4NCCF20-[]1 / 2 / 320872bb9ee
 a35c7846e92ae5dd3080dhttp : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--306
+Underfull \hbox (badness 10000) in paragraph at lines 429--440
 \T1/cmtt/m/n/12 sciencedirect . com / science ? _ob = MImg & _imagekey = B6WW3-
 []4NCCF20-[]1-[]2 & _cdi = 7119 & _user =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--306
+Underfull \hbox (badness 10000) in paragraph at lines 429--440
 \T1/cmtt/m/n/12 115184 & _pii = S1534580707001001 & _origin = gateway & _coverD
 ate = 04 / 30 / 2007 & _sk = 999879995 &
  []
 
-[35]
-Underfull \hbox (badness 4647) in paragraph at lines 318--324
+[73]
+Underfull \hbox (badness 4647) in paragraph at lines 494--500
 []\T1/phv/m/n/12 International Hu-man Genome Se-quenc-ing Con-sor-tium.  Fin-is
 h-ing the eu-chro-matic se-
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 318--324
+Underfull \hbox (badness 2503) in paragraph at lines 494--500
 \T1/phv/m/n/12 quence of the hu-man genome.  \T1/phv/m/sl/12 Na-ture\T1/phv/m/n
 /12 , 50(2):162--8, Febru-ary 2004.  ISSN 0039-
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 339--346
+Underfull \hbox (badness 3281) in paragraph at lines 515--522
 []\T1/phv/m/n/12 Tim Conze, Jenny Gorans-son, Hamid Reza Raz-za-ghian, Olle Er-
 ic-s-son, Daniel Oberg,
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 339--346
+Underfull \hbox (badness 1424) in paragraph at lines 515--522
 \T1/phv/m/n/12 Goran Akus-jarvi, Ulf Lan-de-gren, and Mats Nils-son.  Sin-gle m
 olecule anal-y-sis of com-
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 339--346
+Underfull \hbox (badness 2393) in paragraph at lines 515--522
 \T1/phv/m/n/12 bi-na-to-rial splic-ing.  \T1/phv/m/sl/12 Nucl. Acids Res.\T1/ph
 v/m/n/12 , page gkq581, June 2010.  doi: $\T1/cmr/m/n/12 10 . 1093 / nar /
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 356--366
+Underfull \hbox (badness 3713) in paragraph at lines 532--542
 []\T1/phv/m/n/12 Serena De Fazio, Ne-nad Bar-ton-icek, Mon-ica Di Gi-a-como, Ce
 i Abreu-Goodger, Aditya
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 356--366
+Underfull \hbox (badness 2941) in paragraph at lines 532--542
 \T1/phv/m/n/12 el-e-ments.  \T1/phv/m/sl/12 Na-ture\T1/phv/m/n/12 , ad-vance on
 , Oc-to-ber 2011.  ISSN 1476-4687.  doi: $\T1/cmr/m/n/12 10 . 1038 /
  []
 
-[36]
-Underfull \hbox (badness 2671) in paragraph at lines 451--462
+[74]
+Underfull \hbox (badness 3568) in paragraph at lines 553--564
+[]\T1/phv/m/n/12 Wei Deng and Haifan Lin.  miwi, a Murine Ho-molog of piwi, En-
+codes a Cy-to-plas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--564
+\T1/phv/m/n/12 mic Pro-tein Es-sen-tial for Sper-mato-ge-n-e-sis.  \T1/phv/m/sl
+/12 De-vel-op-men-tal cell\T1/phv/m/n/12 , 2(6):819--830,
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 553--564
+\T1/phv/m/n/12 June 2002.  ISSN 1534-5807.  doi: $\T1/cmr/m/n/12 16 / S1534-[]5
+807(02 ) 00165-[]X$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--564
+\T1/cmtt/m/n/12 sciencedirect . com / science / article / pii / S15345807020016
+5Xhttp : / / www . sciencedirect .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--564
+\T1/cmtt/m/n/12 com / science ? _ob = MImg & _imagekey = B6WW3-[]463G30P-[]K-[]
+1 & _cdi = 7119 & _user = 115184 & _pii =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--564
+\T1/cmtt/m/n/12 S153458070200165X & _origin = & _ coverDate = 06 / 30 / 2002 & 
+_sk = 999979993 & view = c & wchp =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--564
+\T1/cmtt/m/n/12 dGLzVzb-[]zSkzk & md5 = 574692970ba43a75d64c9cfa37225f54 & ie =
+ /sdarticle . pdfhttp : / / www .
+ []
+
+[75]
+Underfull \hbox (badness 2671) in paragraph at lines 659--670
 \T1/phv/m/n/12 Guadalupe Nogu�s, Fed-erico Pelisch, Fran-cisco E. Bar-alle, An-
 dr�s F. Muro, and Al-
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 451--462
+Underfull \hbox (badness 2393) in paragraph at lines 659--670
 \T1/phv/m/n/12 berto R. Ko-rn-bli-htt.  A Po-lar Mech-a-nism Co-or-di-nates Dif
 -fer-ent Re-gions of Al-ter-na-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--462
+Underfull \hbox (badness 10000) in paragraph at lines 659--670
 \T1/cmtt/m/n/12 GatewayURL & _origin = CELLPRESS & _urlversion = 4 & _method = 
 citationSearch & _version = 1 & _src =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--542
+Underfull \hbox (badness 1895) in paragraph at lines 699--707
+\T1/cmr/m/n/12 10 . 1261 / rna . 2648411$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/
+n/12 http : / / rnajournal . cshlp . org / content / early / 2011 / 05 / 20 / r
+na .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--707
+\T1/cmtt/m/n/12 2648411 . abstracthttp : / / rnajournal . cshlp . org / content
+ / early / 2011 / 05 / 20 / rna . 2648411 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--760
 [][]$\T1/cmtt/m/n/12 https : / / ssl . umassmed . edu / content / 108 / 51 / ,[
 ]DanaInfo = www . pnas . org + 20790 . shorthttp :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--542
+Underfull \hbox (badness 10000) in paragraph at lines 749--760
 \T1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? ar
 tid = 3251113 & tool = pmcentrez &
  []
 
-[37]
-Underfull \hbox (badness 1308) in paragraph at lines 552--563
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 797--806
+\T1/cmtt/m/n/12 / / genesdev . cshlp . org / content / 20 / 13 / 1709 . full . 
+pdfhttp : / / www . pubmedcentral . nih . gov /
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 808--819
 []\T1/phv/m/n/12 Aihua Gu, Guix-i-ang Ji, Xi-ang-guo Shi, Yan Long, Yankai Xia,
  Ling Song, Shoulin Wang,
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 552--563
+Underfull \hbox (badness 1264) in paragraph at lines 808--819
 \T1/phv/m/n/12 cep-ti-bil-ity to Sper-mato-genic Fail-ure in a Chi-nese Pop-u-l
 a-tion.  \T1/phv/m/sl/12 Hu-man Re-pro-duc-tion\T1/phv/m/n/12 , 25
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 552--563
+Underfull \hbox (badness 1147) in paragraph at lines 808--819
 \T1/phv/m/n/12 (12):2955--2961, De-cem-ber 2010.  ISSN 0268-1161, 1460-2350.  d
 oi: $\T1/cmr/m/n/12 10 . 1093 / humrep /
  []
 
 
-Underfull \hbox (badness 6725) in paragraph at lines 580--592
+Underfull \hbox (badness 6725) in paragraph at lines 882--894
 []\T1/phv/m/n/12 Markus Hafner, Markus Landthaler, Lukas Burger, Mohsen Khor-sh
 id, Jean Hausser,
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 580--592
+Underfull \hbox (badness 1178) in paragraph at lines 882--894
 \T1/phv/m/n/12 Philipp Berninger, An-drea Roth-baller, Manuel As-cano Jr., Anna
 -Carina Jungkamp, Math-
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 580--592
+Underfull \hbox (badness 4254) in paragraph at lines 882--894
 \T1/phv/m/n/12 ias Mun-schauer, Alexan-der Ul-rich, Greg S. War-dle, Scott Dewe
 ll, Mi-haela Za-volan,
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 580--592
+Underfull \hbox (badness 1742) in paragraph at lines 882--894
 \T1/phv/m/n/12 and Thomas Tuschl.  Transcriptome-wide Iden-ti-fi-ca-tion of RNA
 -Binding Pro-tein and Mi-
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 580--592
+Underfull \hbox (badness 2261) in paragraph at lines 882--894
 \T1/phv/m/n/12 croRNA Tar-get Sites by PAR-CLIP.  \T1/phv/m/sl/12 Cell\T1/phv/m
 /n/12 , 141(1):129--141, April 2010.  ISSN 0092-
  []
 
 
-Underfull \hbox (badness 4036) in paragraph at lines 580--592
+Underfull \hbox (badness 4036) in paragraph at lines 882--894
 \T1/phv/m/n/12 8674.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . cell . 2010 . 03 . 0
 09$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . 
 com / science /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--592
+Underfull \hbox (badness 10000) in paragraph at lines 882--894
 \T1/cmtt/m/n/12 article / B6WSN-[]4YRY58X-[]H / 2 / 506aed3f8c6aebed3d3b0918ed7
 e8ec1http : / / www . sciencedirect .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--592
+Underfull \hbox (badness 10000) in paragraph at lines 882--894
 \T1/cmtt/m/n/12 com / science ? _ob = MImg & _imagekey = B6WSN-[]4YRY58X-[]H-[]
 1W & _cdi = 7051 & _user = 115184 & _pii =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--592
+Underfull \hbox (badness 10000) in paragraph at lines 882--894
 \T1/cmtt/m/n/12 S009286741000245X & _origin = gateway & _coverDate = 04 % 2F02 
 % 2F2010 & _sk = 998589998 & view = c &
  []
 
-
-Underfull \hbox (badness 2376) in paragraph at lines 608--616
+[77]
+Underfull \hbox (badness 2376) in paragraph at lines 934--942
 \T1/phv/m/n/12 a-nism of RNA lig-ase.  \T1/phv/m/sl/12 Struc-ture (Lon-don, Eng
 -land: 1993)\T1/phv/m/n/12 , 12(2):327--339, Febru-ary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--616
+Underfull \hbox (badness 10000) in paragraph at lines 934--942
 \T1/cmtt/m/n/12 gov / pubmed / 14962393http : / / pdn . sciencedirect . com / s
 cience ? _ob = MiamiImageURL & _cid =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--616
+Underfull \hbox (badness 10000) in paragraph at lines 934--942
 \T1/cmtt/m/n/12 272027 & _user = 115184 & _pii = S0969212604000231 & _check = y
  & _origin = article & _zone = toolbar &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--616
+Underfull \hbox (badness 10000) in paragraph at lines 934--942
 \T1/cmtt/m/n/12 _coverDate = 29-[]Feb-[]2004 & view = c & originContentFamily =
  serial & wchp = dGLbVlt-[]zSkWA & md5 =
  []
 
-[38]
+
+Underfull \hbox (badness 1253) in paragraph at lines 978--990
+\T1/phv/m/n/12 Ronald H.A. Plas-terk, Gre-gory J. Han-non, Bruce W. Draper, and
+ Ren� F. Ket-ting.  A
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 978--990
+\T1/phv/m/n/12 Role for Piwi and piR-NAs in Germ Cell Main-te-nance and Trans-p
+o-son Si-lenc-ing in Ze-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--990
+\T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect . com / 
+science / article / pii / S0092867407003923http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--990
+\T1/cmtt/m/n/12 / / www . sciencedirect . com / science ? _ob = MiamiImageURL &
+ _cid = 272196 & _user = 115184 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--990
+\T1/cmtt/m/n/12 _pii = S0092867407003923 & _check = y & _origin = & _ coverDate
+ = 06-[]Apr-[]2007 & view = c & wchp =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--990
+\T1/cmtt/m/n/12 dGLzVlk-[]zSkWz & md5 = 1cc45744e432d0002606f288ea8efbb7 / 1-[]
+s2 . 0-[]S0092867407003923-[]main .
+ []
+
+[78]
 
 ! Package inputenc Error: Unicode char \u8:� not set up for use with LaTeX.
 
@@ -1825,49 +2307,96 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.682 \newblock \emph{Zeitschrift f�r Physik}
-                                               , 44\penalty0 (4-5):\penalty0
+l.1072 \newblock \emph{Zeitschrift f�r Physik}
+                                                , 44\penalty0 (4-5):\penalty0
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[39]
-Underfull \hbox (badness 1337) in paragraph at lines 856--866
-\T1/cmr/m/n/12 gkt1032$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / ww
-w . ncbi . nlm . nih . gov / pubmed / 24203707http : / / www . pubmedcentral .
+[79]
+Underfull \hbox (badness 3471) in paragraph at lines 1231--1240
+\T1/phv/m/n/12 Mello.  C. el-e-gans piR-NAs me-di-ate the genome-wide surveil-l
+ance of germline tran-
  []
 
-[40]
-Underfull \hbox (badness 1142) in paragraph at lines 945--955
+
+Underfull \hbox (badness 2376) in paragraph at lines 1231--1240
+\T1/phv/m/n/12 scripts.  \T1/phv/m/sl/12 Cell\T1/phv/m/n/12 , 150(1):78--87, Ju
+ly 2012.  ISSN 1097-4172.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . cell . 2012 .
+ []
+
+[80] [81]
+Underfull \hbox (badness 3557) in paragraph at lines 1450--1458
+\T1/phv/m/n/12 8424.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
+ nih . gov / articlerender . fcgi ? artid = 28072 & tool =
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 1472--1482
 \T1/cmr/m/n/12 1158441$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / ww
 w . ncbi . nlm . nih . gov / pubmed / 18451266http : / / www . pubmedcentral .
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 980--988
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1525
 \T1/cmtt/m/n/12 nlm . nih . gov / pubmed / 17018278http : / / pdn . sciencedire
 ct . com / science ? _ob = MiamiImageURL &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 980--988
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1525
 \T1/cmtt/m/n/12 _cid = 272196 & _user = 115184 & _pii = S0092867406011603 & _ch
 eck = y & _origin = article &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 980--988
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1525
 \T1/cmtt/m/n/12 _zone = toolbar & _coverDate = 06-[]Oct-[]2006 & view = c & ori
 ginContentFamily = serial & wchp =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 980--988
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1525
 \T1/cmtt/m/n/12 dGLbVBA-[]zSkWz & md5 = 73f1e929c58ce0a0d8812ec3873211f5 / 1-[]
 s2 . 0-[]S0092867406011603-[]main .
  []
 
-[41]
+
+Underfull \hbox (badness 2277) in paragraph at lines 1614--1623
+[]\T1/phv/m/n/12 Matteo Osella, Carla Bosia, Da-vide Cor�, and Michele Caselle.
+  The role of in-co-her-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1614--1623
+\T1/phv/m/n/12 ent microRNA-mediated feed-for-ward loops in noise buffer-ing.  
+\T1/phv/m/sl/12 PLoS com-pu-ta-tional bi-
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 1614--1623
+\T1/phv/m/sl/12 ol-ogy\T1/phv/m/n/12 , 7(3):e1001101, March 2011.  ISSN 1553-73
+58.  doi: $\T1/cmr/m/n/12 10 . 1371 / journal . pcbi .
+ []
+
+[83]
+Underfull \hbox (badness 1221) in paragraph at lines 1636--1645
+[]\T1/phv/m/n/12 Attilio Pane, Kristina Wehr, and Trudi Sch�p-bach.  zuc-chini 
+and squash en-code two pu-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 1636--1645
+\T1/phv/m/n/12 ta-tive nu-cle-ases re-quired for rasiRNA pro-duc-tion in the Dr
+osophila germline.  \T1/phv/m/sl/12 De-vel-op-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 1636--1645
+\T1/phv/m/sl/12 men-tal cell\T1/phv/m/n/12 , 12(6):851--62, June 2007.  ISSN 15
+34-5807.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . devcel . 2007 .
+ []
+
 
 ! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
 
@@ -1875,280 +2404,480 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1069 ...nucleotides To Regulate Alternative 3′
+l.1669 ...nucleotides To Regulate Alternative 3′
                                                    Splice Site Choice in
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 1091--1100
+Underfull \hbox (badness 1152) in paragraph at lines 1702--1711
 \T1/phv/m/n/12 ons in hu-man and mouse.  \T1/phv/m/sl/12 BMC Ge-nomics\T1/phv/m
 /n/12 , 9(1):191, 2008.  ISSN 1471-2164.  doi:
  []
 
-[42]
-Underfull \hbox (badness 3919) in paragraph at lines 1175--1180
+[84]
+Underfull \hbox (badness 3919) in paragraph at lines 1839--1844
 []\T1/phv/m/n/12 Donald Rums-feld.  Known and un-known: a mem-oir.  2011.  URL 
 [][]$\T1/cmtt/m/n/12 http : / / books .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1839--1844
 \T1/cmtt/m/n/12 google . com / books ? hl = en & lr = &id = _wIcpxMOjD4C & oi =
  fnd & pg = PA1 & dq = Known + and + unknown :
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1921
 \T1/cmtt/m/n/12 pii / S0092867400808788http : / / pdn . sciencedirect . com / s
 cience ? _ob = MiamiImageURL & _cid =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1921
 \T1/cmtt/m/n/12 272196 & _user = 115184 & _pii = S0092867400808788 & _check = y
  & _origin = article & _zone = toolbar &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1921
 \T1/cmtt/m/n/12 _coverDate = 09-[]Jun-[]2000 & view = c & originContentFamily =
  serial & wchp = dGLbVlV-[]zSkzS &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1234--1245
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1921
 \T1/cmtt/m/n/12 md5 = 76cf30668637005c4da6fc6dc8de1873 & pid = 1-[]s2 . 0-[]S00
 92867400808788-[]main . pdfhttp :
  []
 
-[43]
-Underfull \hbox (badness 2617) in paragraph at lines 1280--1284
+
+! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1944 ...ock {Argonaute Loading Improves the 5′
+                                                   Precision of Both MicroRN...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:∗ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1945   Their miRNA∗
+                        Strands in Flies}.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 1943--1953
+[]\T1/phv/m/n/12 Herv� Seitz, Megha Ghildiyal, and Phillip D. Zamore.  Arg-onau
+te Load-ing Im-proves
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 1943--1953
+\T1/phv/m/n/12 the 5 Pre-ci-sion of Both Mi-croR-NAs and Their miRNA Strands in
+ Flies.  \T1/phv/m/sl/12 Cur-
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 1943--1953
+\T1/phv/m/sl/12 rent Bi-ol-ogy\T1/phv/m/n/12 , 18(2):147--151, Jan-uary 2008.  
+ISSN 0960-9822.  doi: $\T1/cmr/m/n/12 10 . 1016 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1953
+\T1/cmr/m/n/12 j . cub . 2007 . 12 . 049$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/
+n/12 http : / / www . sciencedirect . com / science / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1953
+\T1/cmtt/m/n/12 S0960982207024803http : / / pdn . sciencedirect . com / science
+ ? _ob = MiamiImageURL & _cid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1953
+\T1/cmtt/m/n/12 272099 & _user = 115184 & _pii = S0960982207024803 & _check = y
+ & _origin = article & _zone = toolbar &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1953
+\T1/cmtt/m/n/12 _coverDate = 22-[]Jan-[]2008 & view = c & originContentFamily =
+ serial & wchp = dGLbVlS-[]zSkzk & md5 =
+ []
+
+[86]
+Underfull \hbox (badness 2617) in paragraph at lines 1979--1983
 []\T1/phv/m/n/12 Phillip A. Sharp.  No-bel Lec-tures in Phys-i-ol-ogy or Medici
 ne 1991-1995, 2014.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1284
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1983
 [][]$\T1/cmtt/m/n/12 http : / / www . nobelprize . org / nobel _ organizations 
 / nobelfoundation / publications /
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 1286--1294
+Underfull \hbox (badness 1184) in paragraph at lines 1994--2002
 \T1/phv/m/sl/12 ture Biotech-nol-ogy\T1/phv/m/n/12 , 30(11):1084--1094, 2012.  
 ISSN 1087-0156.  doi: $\T1/cmr/m/n/12 10 . 1038 / nbt . 2421$\T1/phv/m/n/12 .
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 1286--1294
+Underfull \hbox (badness 1845) in paragraph at lines 1994--2002
 \T1/phv/m/n/12 URL [][]$\T1/cmtt/m/n/12 http : / / www . nature . com / nbt / j
 ournal / v30 / n11 / full / nbt . 2421 . htmlhttp : / / www . nature .
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 1356--1365
+Underfull \hbox (badness 5893) in paragraph at lines 2064--2074
+[]\T1/phv/m/n/12 Masaki Shi-rayama, Meetu Seth, Heng-Chi Lee, Weifeng Gu, Takao
+ Ishi-date, Dar-ryl
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 2064--2074
+\T1/phv/m/n/12 Conte, and Craig C. Mello.  piR-NAs ini-ti-ate an epi-ge-netic m
+em-ory of non-self RNA
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 2064--2074
+\T1/phv/m/n/12 in the C. el-e-gans germline.  \T1/phv/m/sl/12 Cell\T1/phv/m/n/1
+2 , 150(1):65--77, July 2012.  ISSN 1097-4172.  doi:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2074
+\T1/cmtt/m/n/12 / / www . sciencedirect . com / science ? _ob = GatewayURL & _o
+rigin = CELLPRESS & _urlversion =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2074
+\T1/cmtt/m/n/12 4 & _method = citationSearch & _version = 1 & _src = FPDF & _pi
+ikey = S0092867412007647 & md5 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2074
+\T1/cmtt/m/n/12 a7252bd600956941e73eb1848eeb7cafhttp : / / www . pubmedcentral 
+. nih . gov / articlerender .
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 2077--2086
 []\T1/phv/m/n/12 Katsuyuki Shi-roguchi, Tony Z Jia, Pe-ter a Sims, and X Sun-ne
 y Xie.  Dig-i-tal RNA se-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 1356--1365
+Underfull \hbox (badness 1838) in paragraph at lines 2077--2086
 \T1/phv/m/n/12 molecule bar-codes.  \T1/phv/m/sl/12 Pro-ceed-ings of the Na-tio
 nal Academy of Sci-ences of the United
  []
 
-[44]
-Underfull \hbox (badness 1424) in paragraph at lines 1386--1394
+[87]
+Underfull \hbox (badness 1424) in paragraph at lines 2135--2143
 []\T1/phv/m/n/12 V Sriskanda and S Shu-man.  Speci-ficity and fi-delity of stra
 nd join-ing by Chlorella virus
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 1386--1394
+Underfull \hbox (badness 3826) in paragraph at lines 2135--2143
 \T1/phv/m/n/12 DNA lig-ase.  \T1/phv/m/sl/12 Nu-cleic acids re-search\T1/phv/m/
 n/12 , 26(15):3536--41, Au-gust 1998.  ISSN 0305-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 1386--1394
+Underfull \hbox (badness 1584) in paragraph at lines 2135--2143
 \T1/phv/m/n/12 1048.  URL [][]$\T1/cmtt/m/n/12 http : / / www . pubmedcentral .
  nih . gov / articlerender . fcgi ? artid = 147728 & tool =
  []
 
-
-Underfull \hbox (badness 2073) in paragraph at lines 1455--1466
+[88]
+Underfull \hbox (badness 2073) in paragraph at lines 2236--2247
 \T1/phv/m/n/12 Pi-mentel, Steven L Salzberg, John L Rinn, and Lior Pachter.  Di
 f-fer-en-tial gene and
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 1455--1466
+Underfull \hbox (badness 1389) in paragraph at lines 2236--2247
 \T1/phv/m/n/12 tran-script ex-pres-sion anal-y-sis of RNA-seq ex-per-i-ments wi
 th TopHat and Cuf-flinks.  \T1/phv/m/sl/12 Na-
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 1455--1466
+Underfull \hbox (badness 1194) in paragraph at lines 2236--2247
 \T1/phv/m/sl/12 ture Pro-to-cols\T1/phv/m/n/12 , 7(3):562--578, March 2012.  IS
 SN 1754-2189.  doi: $\T1/cmr/m/n/12 10 . 1038 / nprot . 2012 .
  []
 
-[45]
-Underfull \hbox (badness 2020) in paragraph at lines 1563--1569
+
+Underfull \hbox (badness 1152) in paragraph at lines 2278--2286
+[]\T1/phv/m/n/12 Vasily V. Va-gin, Alla Sigova, Chengjian Li, Herv� Seitz, Vlad
+imir Gvozdev, and Phillip D.
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 2278--2286
+\T1/phv/m/n/12 Zamore.  A Dis-tinct Small RNA Path-way Si-lences Self-ish Ge-ne
+tic El-e-ments in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2278--2286
+[][]$\T1/cmtt/m/n/12 http : / / www . sciencemag . org / content / 313 / 5785 /
+ 320 . abstracthttp : / / www . sciencemag . org /
+ []
+
+[89]
+Underfull \hbox (badness 2020) in paragraph at lines 2400--2406
 \T1/phv/m/n/12 0143114182.  URL [][]$\T1/cmtt/m/n/12 http : / / www . amazon . 
 com / Life-[]Decoded-[]My-[]Genome / dp / B002HREL9Khttp :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1563--1569
+Underfull \hbox (badness 10000) in paragraph at lines 2400--2406
 \T1/cmtt/m/n/12 / / books . google . com / books ? hl = en & lr = &id = jx9JsHr
 y1PgC & oi = fnd & pg = PA1 & dq = A + Life + Decoded :
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 1582--1593
+Underfull \hbox (badness 3098) in paragraph at lines 2419--2430
 []\T1/phv/m/n/12 Anastassios Vourekas, Qi Zheng, Pana-gi-o-tis Alex-iou, Mano-l
 is Maragkakis, Yohei Kirino,
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 1582--1593
+Underfull \hbox (badness 1721) in paragraph at lines 2419--2430
 \T1/phv/m/n/12 Brian D. Gre-gory, and Zis-si-mos Moure-latos.  Mili and Miwi ta
 r-get RNA reper-toire re-
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 1582--1593
+Underfull \hbox (badness 3679) in paragraph at lines 2419--2430
 \T1/phv/m/n/12 veals piRNA bio-gen-e-sis and func-tion of Miwi in spermio-gen-e
 -sis.  \T1/phv/m/sl/12 Na-ture Struc-tural
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 1582--1593
+Underfull \hbox (badness 3407) in paragraph at lines 2419--2430
 \T1/phv/m/sl/12 & Molec-u-lar Bi-ol-ogy\T1/phv/m/n/12 , 19(8):773--781, 2012.  
 ISSN 1545-9993.  doi: $\T1/cmr/m/n/12 10 . 1038 / nsmb .
  []
 
-[46]
-Underfull \hbox (badness 2512) in paragraph at lines 1695--1705
+[90]
+Underfull \hbox (badness 2903) in paragraph at lines 2456--2469
+[]\T1/phv/m/n/12 Toshiaki Watan-abe, Shinichiro Chuma, Ya-suhiro Ya-mamoto, Sat
+omi Kuramochi-Miyagawa,
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 2456--2469
+\T1/phv/m/n/12 Ya-sushi To-toki, At-sushi Toy-oda, Yuko Hoki, Asao Fu-jiyama, T
+at-suhiro Shi-bata, Takashi
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 2456--2469
+\T1/phv/m/n/12 TO-PLD Is a Mi-to-chon-drial Pro-tein Es-sen-tial for Nu-age For
+-ma-tion and piRNA Bio-gen-e-sis
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 2456--2469
+\T1/phv/m/n/12 5807.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . devcel . 2011 . 01 .
+ 005$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http : / / www . sciencedirect 
+. com / science /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2456--2469
+\T1/cmtt/m/n/12 article / B6WW3-[]52CPPV6-[]K / 2 / b3ed17363997aeb45abec4a72b9
+73367http : / / www . sciencedirect .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2456--2469
+\T1/cmtt/m/n/12 com / science ? _ob = MImg & _imagekey = B6WW3-[]52CPPV6-[]K-[]
+1 & _cdi = 7119 & _user = 115184 & _pii =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2456--2469
+\T1/cmtt/m/n/12 S1534580711000335 & _origin = gateway & _coverDate = 03 / 15 / 
+2011 & _sk = 999799996 & view = c & wchp =
+ []
+
+[91]
+Underfull \hbox (badness 2512) in paragraph at lines 2574--2584
 []\T1/phv/m/n/12 Joanne M. Yeak-ley, Jian-Bing Fan, Den-nis Doucet, Lin Luo, El
 iza Wick-ham, Zhen Ye,
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 1695--1705
+Underfull \hbox (badness 1484) in paragraph at lines 2574--2584
 \T1/phv/m/n/12 Mark S. Chee, and Xiang-Dong Fu.  Pro-fil-ing al-ter-na-tive spl
 ic-ing on fiber-optic ar-rays.
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 1695--1705
+Underfull \hbox (badness 2772) in paragraph at lines 2574--2584
 \T1/phv/m/sl/12 Na-ture Biotech-nol-ogy\T1/phv/m/n/12 , 20(4):353--358, April 2
 002.  ISSN 1087-0156.  doi: $\T1/cmr/m/n/12 10 . 1038 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+Underfull \hbox (badness 10000) in paragraph at lines 2596--2607
 \T1/cmtt/m/n/12 cell . com / neuron / abstract / S0896-[]6273(04 ) 00431-[]3htt
 p : / / www . sciencedirect . com / science ?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+Underfull \hbox (badness 10000) in paragraph at lines 2596--2607
 \T1/cmtt/m/n/12 _ob = GatewayURL & _origin = CELLPRESS & _urlversion = 4 & _met
 hod = citationSearch & _version =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1728
+Underfull \hbox (badness 10000) in paragraph at lines 2596--2607
 \T1/cmtt/m/n/12 1 & _src = FPDF & _piikey = S0896627304004313 & md5 = dc4c49dba
 613e4c5b586cf0971dee1f2http :
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1739--1747
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2621
+\T1/cmtt/m/n/12 / / www . cell . com / abstract / S0092-[]8674(12 ) 01239-[]1ht
+tp : / / www . sciencedirect . com / science ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2621
+\T1/cmtt/m/n/12 _ob = GatewayURL & _origin = CELLPRESS & _urlversion = 4 & _met
+hod = citationSearch & _version = 1 &
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 2636--2645
+[]\T1/phv/m/n/12 Zhao Zhang, William E Theurkauf, Zhip-ing Weng, and Phillip D 
+Zamore.  Strand-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 2636--2645
+\T1/phv/m/n/12 specific li-braries for high through-put RNA se-quenc-ing ( RNA-
+Seq ) pre-pared with-out
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 2636--2645
+\T1/phv/m/n/12 poly ( A ) se-lec-tion.  \T1/phv/m/sl/12 Si-lence\T1/phv/m/n/12 
+, 3(1):9, Jan-uary 2012b.  ISSN 1758-907X.  doi: $\T1/cmr/m/n/12 10 .
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 2656--2664
 \T1/phv/m/sl/12 Im-mu-nity\T1/phv/m/n/12 , 29(6):839--841, De-cem-ber 2008.  IS
 SN 1074-7613.  doi: $\T1/cmr/m/n/12 10 . 1016 / j . immuni .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2664
 \T1/cmr/m/n/12 2008 . 12 . 005$\T1/phv/m/n/12 .  URL [][]$\T1/cmtt/m/n/12 http 
 : / / www . sciencedirect . com / science / article / B6WSP-[]4V5PHVG-[]2 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2664
 \T1/cmtt/m/n/12 2 / 85564fb6cf8edff69e39ac25ef6c8484http : / / www . sciencedir
 ect . com / science ? _ob =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2664
 \T1/cmtt/m/n/12 MImg & _imagekey = B6WSP-[]4V5PHVG-[]2-[]1 & _cdi = 7052 & _use
 r = 115184 & _pii = S1074761308005153 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2664
 \T1/cmtt/m/n/12 _origin = & _ coverDate = 12 / 19 / 2008 & _sk = 999709993 & vi
 ew = c & wchp = dGLbVzz-[]zSkWb & md5 =
  []
 
-[47])
+)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 365.
-[48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 365.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 363.
+[92]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 363.
  (./thesis.v0.14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 365.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 365.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 363.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 363.
 Package rerunfilecheck Info: File `thesis.v0.14.out' has not changed.
-(rerunfilecheck)             Checksum: E4470D5F2B622D7254E0C35AEEFA6179;11585.
+(rerunfilecheck)             Checksum: 72DA5C83DFE4BDF94F65078CE98C5D5B;17600.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 365.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 363.
  ) 
 Here is how much of TeX's memory you used:
- 20583 strings out of 493308
- 323729 string characters out of 6137816
- 501192 words of memory out of 5000000
- 23378 multiletter control sequences out of 15000+600000
+ 21240 strings out of 493308
+ 338403 string characters out of 6137816
+ 525612 words of memory out of 5000000
+ 23815 multiletter control sequences out of 15000+600000
  76065 words of font info for 95 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,13n,45p,10441b,1399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,14n,45p,10441b,1401s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/
-fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2013/texmf-dist/fo
-nts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
-rw/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/hel
-vetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/u
-hvro8a.pfb>
-Output written on thesis.v0.14.pdf (62 pages, 4576385 bytes).
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw
+/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helve
+tic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhv
+ro8a.pfb>
+Output written on thesis.v0.14.pdf (108 pages, 20178579 bytes).
 PDF statistics:
- 2209 PDF objects out of 2487 (max. 8388607)
- 1833 compressed objects within 19 object streams
- 303 named destinations out of 1000 (max. 500000)
- 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4392 PDF objects out of 5155 (max. 8388607)
+ 3359 compressed objects within 34 object streams
+ 484 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
 

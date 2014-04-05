@@ -64,7 +64,7 @@
   July\or August\or September\or October\or November\or December\fi
   \space \number\year}
 \usepackage{setspace}
-\onehalfspacing
+  %\onehalfspacing
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{2.0ex plus0.5ex minus0.2ex}
 \usepackage{vmargin}
@@ -170,7 +170,7 @@
 \newcommand*{\supervisorTwo}[1]{\def\supnameTwo{#1}}
 \newcommand*{\thesistitle}[1]{\def\ttitle{#1}}
 \newcommand*{\examiner}[1]{\def\examname{#1}}
-\newcommand*{\degree}[1]{\def\degreename{#1}}
+\newcommand*{\degreeName}[1]{\def\degreename{#1}}
 \newcommand*{\authors}[1]{\def\authornames{#1}}
 \newcommand*{\addresses}[1]{\def\addressnames{#1}}
 \newcommand*{\university}[1]{\def\univname{#1}}
@@ -199,7 +199,7 @@
 %-------------------------------------------------   
 \examiner{} % Your examiner's name - this is not currently used anywhere in the template, cite it with \examname if you want it
 %-------------------------------------------------   
-\degree{Doctor of Philosophy} % Your degree name - this is currently used in the title page and abstract
+\degreeName{Doctor of Philosophy} % Your degree name - this is currently used in the title page and abstract
 %-------------------------------------------------   
 \authors{Christian Knauf \textsc{Roy}} % Your name - this is used in the title page and abstract
 %-------------------------------------------------   
@@ -390,19 +390,19 @@
 }\end{spacing}
 }
 
-\newcommand\listAbreviations[1]{
+\newcommand\listAbreviations{
 \btypeout{Abreviations}
 \addtotoc{Abreviations}
 \begin{center}{\large{\textit{List of Abreviations}} \par}\end{center}
 }
 
-\newcommand\listDefinitions[1]{
+\newcommand\listDefinitions{
 \btypeout{Definitions}
 \addtotoc{Definitions}
 \begin{center}{\large{\textit{Definitions}} \par}\end{center}
 }
 
-\newcommand\listSymbols[1]{
+\newcommand\listSymbols{
 \btypeout{Symbols}
 \addtotoc{Symbols}
 \begin{center}{\large{\textit{List of Symbols}} \par}\end{center}

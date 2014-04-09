@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RoyC_Umass_Thesis.v0.5.aux
+The style file: Bibliography/apalike.bst
+Reallocated field_info (elt_size=4) to 10764 items from 5000.
+Database file #1: Bibliography/library.bib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "Lohman2013d"
+Warning--I didn't find a database entry for "Hannon2008"
+Warning--empty publisher in Calarco2007
+Warning--empty journal in Kawaoka2012
+Warning--empty journal in Riley2013
+Warning--empty journal in Rumsfeld2011
+Warning--there's a number but no volume in Vagin2004
+You've used 260 entries,
+            1935 wiz_defined-function locations,
+            2092 strings with 74522 characters,
+and the built_in function-call counts, 149411 in all, are:
+= -- 13507
+> -- 11015
+< -- 79
++ -- 4108
+- -- 4102
+* -- 15291
+:= -- 26655
+add.period$ -- 778
+call.type$ -- 260
+change.case$ -- 3349
+chr.to.int$ -- 254
+cite$ -- 265
+duplicate$ -- 3722
+empty$ -- 7585
+format.name$ -- 4456
+if$ -- 27484
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 261
+newline$ -- 1301
+num.names$ -- 780
+pop$ -- 2818
+preamble$ -- 1
+purify$ -- 3351
+quote$ -- 0
+skip$ -- 2780
+stack$ -- 0
+substring$ -- 8907
+swap$ -- 348
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1556
+warning$ -- 5
+while$ -- 1005
+width$ -- 0
+write$ -- 3369
+(There were 7 warnings)

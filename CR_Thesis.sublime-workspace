@@ -52,45 +52,34 @@
 	"buffers":
 	[
 		{
-			"file": "thesis.v0.14.tex",
+			"file": "RoyC_Umass_Thesis.v0.5.tex",
 			"settings":
 			{
-				"buffer_size": 18683,
+				"buffer_size": 5883,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Chapters/Chapter1-Introduction.tex",
+			"file": "Chapters/Chapter1-Intro.tex",
 			"settings":
 			{
-				"buffer_size": 70948,
+				"buffer_size": 71767,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Chapters/Chapter4-MolCel2013.tex",
+			"file": "Chapters/Chapter2-SeqZip.tex",
 			"settings":
 			{
-				"buffer_size": 70086,
+				"buffer_size": 15099,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "\\chapter{Discussion} % Main chapter title\n\n\\label{Chapter 5} % for referencing this chapter elsewhere, use \\ref{Chapter X}\n\n\\lhead{Chapter 5. \\emph{Discussion}} % this is for the header on each page \n\n%----------------------------------------------------------------------------------------\n%	SECTION 1\n\\section{Future of Dynamic long RNAs}\n%----------------------------------------------------------------------------------------\n\n\n\n%•	Implications for discrination past one's DNA as it is the actual PRODUCT of the DNA and the actual biology (or at least closer to the functional biology) that is going on inside of every person\n\n\n %Start with Deck of Cards. Wikicommons on Deck of cards? Combinatoral nature of splicing turns RNA-Seq into a BIG Data problm. 20K genes, but >100K possible transcripts.  This would let me lead into the Graveley paper and then lead into RNA-Seq\n\n\nDeep sequencing of transcriptomes has revolutionized biology. Previously, transcript discovery was a cumbersome task. Transcript identification and characterization involved significant labor, cost, and materials. In the mid-90's, microarray technology \\citep{Schena1995a} gave us a tantalizing glimpse into how genes were expressed, but were limited to probed, and therefore known, sequences. However, the green and red landscapes of a microarray analysis hinted at incredible complexity\\textemdash a complexity that would have to wait for technology to catch up.\n\nLike many transformative technologies, RNA-seq was made possible by incremental improvements to numerous supportive technologies such as: 1) digital optics, 2) microscopy, 3) slide chemistry and on-slide PCR and 4) nucleic-acid alignment. A HiSeq 2500 relies on all of these technologies (and others) to produce the 100M+ sequences that allow Scientists to peer every day into the transcriptional output of a genome.\n\nIn the past 5 years, biologists have started to think way beyond mRNAs and small RNAs. The former captured out interest for 30+ years \\citep{Furuichi1975,Wei1975}, and the later has been on a run-away trail since capturing out attention in 1998 \\citep{Fire1998}. HTS has added long RNAs (among others) to these classes of gene RNA products. However, many biologically-trained and minded Scientists find themselves overwhelmed by the complete different methods and approaches to tackling the 'big data' created by modern genome-wide experiments. Experimental training does not currently provide students with the required skills in statistics, computer programing, and experimental design that are needed to work with genome-wide data. The richness of this data often leaves many unasked (and unanswered) test-able hypothesis just sitting in public repositories \\citep{Plocik2013}.\n\nBeing such a novel area of extremely basic research, and to borrow a few seemingly inane but rather insightful trio of phrases from the United States Secretary of Defense Donald Rumsfeld \\citep{Rumsfeld2011}, their remain at least three important areas of knowledge concerning long RNAs of the transcriptome: \n\\hyperref[subsec: The Known Knowns]{''The Known Knowns''}; \n\\hyperref[subsec: The Known Unknowns]{''The Known Unknowns''}; \nand the \\hyperref[subsec: The Unknown Unknowns]{''The Unknown Unknowns''}.\n\n%-----------------------------------\n%	SUBSECTION 1\n\\subsection{The Known Knowns}\\label{subsec: The Known Knowns}\n%-----------------------------------\n\nAt this point, it is important to remember that in this document \\textit{long RNAs} may also refer to products containing characteristics of traditional mRNAs, that is a 5\\textprime~m7G Cap, ligated exons, and a Poly(A) tail. However, many of these long mRNAs are extemely dynamic. So much so that until HTS and RNA-Seq, comprehensive investigation of their complexity was not possible.\n\n\n\\begin{description}\n	\\item[Pervasive transcription]\n	Here you can put some information from ENCODE and your thoughts on it.\n\n	\\item[Tissue and cell specificity]\n	Your feelings on Specificity of long RNA expression\n\n	\\item[Functional]\n	We \\textit{know} that some long RNAs are functional. What are these?\n\n	\\item[Chromatin regulation]\n	We also know that some long RNAs regulation Chromatin structure. What are your feelings as to the importance of this fact?\n\n	\\item[PTGS]\n	Long RNAs ability to do post transcriptional gene regulation, including piRNAs, and Xist, etc....\n\n\\end{description}\n\n%-----------------------------------\n%	SUBSECTION 2\n\\subsection{The Known Unknowns}\\label{subsec: The Known Unknowns}\n%-----------------------------------\n\n\n\\begin{description}\n	\\item[How are they important?] \n	Conservation of these things is not obvious - if they are not conserved - are they important? Maybe talk about how MALAT1 is highly expressed, but seems to be dispensable.\n\n	\\item[What regulates their tissue-specific expression?]\n	Do they important some of the special sauce that makes tissues different from one other, more so then the mRNAs changes which can be extreme, but not terribly so....\n\n	\\item[]  \n\n\\end{description}\n\n%-----------------------------------\n%	SUBSECTION 2\n\\subsection{The Unknown Unknowns}\\label{subsec: The Unknown Unknowns}\n\nThis is the area of knowledge keeps many motivated to perform basic research every day. What secrets does the transcriptome have in store that we haven't even \\textit{thought} about? Only through pushing the boundaries of the last two sections can we begin to think beyond the edge of map and formulate testable hypothesis. Here I propose a few outlandish ideas for Unknown Unkowns.\n\n\n\n%----------------------------------------------------------------------------------------\n%	SECTION 1\n\\section{Ligation-based investigation of long RNAs}\n%----------------------------------------------------------------------------------------\n%-----------------------------------\n%	SUBSECTION 1\n\\subsection{SeqZip Other Applications}\n%-----------------------------------\n%-----------------------------------\n%	SUBSECTION 2\n\\subsection{SeqZip Technical Improvements}\n%-----------------------------------\n\n\\begin{itemize}\n	\\item Use of T39A mutation to aliviate penultimate 2\\textprime OH requirement of T4 Rnl2 (See Nandakumar...Lima, Cell 2006)\n	\\item Use of thermostable ligase, allowing for multiple rounds of ligation. Need a good reference, DO NOT USE Ref 27 from Conze et al 2009!\n	\\item Elevated ligation temperatures, minimizing blut-ended NTL events\n	\\item Make a note into the future directions that you would like to explore LNA’s at the 3\\textprime~OH position of all ligation results, leading to increased ligation efficiency, however both this and the use of penultimate 2\\textprime OH (Ribosome) suger in your ligamers would lead to added costs, and the latter maybe better served with a T39A mutation. Giggity  \n	\\item Digital PCR of the PCR products ala \\citep{Shiroguchi2012a}. \n	\\item SeqZip on the SOLiD platform\n	\\item SeqZip on single-cell RNA samples.  \n\\end{itemize}\n\n%-----------------------------------\n%	SUBSECTION 3\n\\subsection{SeqZip Alternatives}\n%-----------------------------------\n%----------------------------------------------------------------------------------------\n%	SUBSECTION 1\n\\section{Mammalian piRNA-precursors, a special type of long RNA}\n%----------------------------------------------------------------------------------------\n\n\n%Unanswered questions/issues of the resources paper?\n\n%-----------------------------------\n%	SUBSECTION 1\n\\subsection{What are they doing?}\n%-----------------------------------\n\n%Interaction w/ ribosomes?\n\n%-----------------------------------\n%	SUBSECTION 2\n\\subsection{How are they generated?}\n%-----------------------------------\n\n%Interaction w/ ribosomes?\n%How does cell partition prepachytene transcripts to mRNA or piRNA use?\n\n%-----------------------------------\n%	SUBSECTION 3\n\\subsection{Why should we care?}\n%-----------------------------------\n\n% The references are stored in the file named \"library.bib.bib\"\n%\\bibliography{library.bib} ",
-			"file": "Chapters/Chapter5-Discussion.tex",
-			"file_size": 7966,
-			"file_write_time": 1396360804000000,
+			"file": "Chapters/Chapter5-Disc.tex",
 			"settings":
 			{
-				"buffer_size": 7962,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Appendices/AppendixA.tex",
-			"settings":
-			{
-				"buffer_size": 4602,
+				"buffer_size": 15371,
 				"line_ending": "Unix"
 			}
 		},
@@ -98,23 +87,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 191,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "library.bib",
-			"settings":
-			{
-				"buffer_size": 1970671,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Thesis.cls",
-			"settings":
-			{
-				"buffer_size": 17058,
+				"buffer_size": 1058,
 				"line_ending": "Unix"
 			}
 		}
@@ -122,9 +95,21 @@
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 87.0,
 		"selected_items":
 		[
+			[
+				"Snippet: item",
+				"Snippet: Itemize"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Cases"
+			],
+			[
+				"Snippet: itemize",
+				"Snippet: Itemize"
+			],
 			[
 				"Remove",
 				"Package Control: Remove Package"
@@ -139,10 +124,6 @@
 			],
 			[
 				"Snippet: Itemize",
-				"Snippet: Itemize"
-			],
-			[
-				"Snippet: ",
 				"Snippet: Itemize"
 			],
 			[
@@ -206,7 +187,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 449.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -223,30 +204,56 @@
 	},
 	"file_history":
 	[
-		"/Users/royc/Dropbox/Thesis/Chapters/ChapterTemplate.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/royc/Dropbox/Thesis/Tables/FlyGenesWith1000sofTx.tex",
+		"/Users/royc/Dropbox/Thesis/Tables/BigSpanGenes.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter3-Roy2014.tex",
 		"/Users/royc/Dropbox/Thesis/Thesis.cls",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
-		"/Users/royc/Dropbox/Thesis/thesis.v0.14.tex",
-		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-MolCel2013.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
-		"/Users/royc/Dropbox/Thesis/library.bib",
-		"/Users/royc/Dropbox/Thesis/Chapters/Chapter5-Discussion.tex",
-		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-Introduction.tex",
-		"/Users/royc/Dropbox/Thesis/CR_Thesis.sublime-project",
-		"/Users/royc/Dropbox/Thesis/README.md",
-		"/Users/royc/Desktop/psl.to.bed.best.score.pl",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1396097639/ghpcc/home/cr90w/my.project.space/SeqZip/dscam.seqzip.indexes/dscam.seqzip.v8.indexes/psl.to.bed.best.score.pl",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-Li2013.tex",
+		"/Users/royc/Desktop/example.md",
+		"/Users/royc/Dropbox/Thesis/Appendices/AppendixC.tex",
 		"/Users/royc/Dropbox/Thesis/Appendices/AppendixA.tex",
-		"/Users/royc/Desktop/todo.md",
-		"/Users/royc/Dropbox/Thesis/Bibliography_2.bib",
+		"/Users/royc/Dropbox/Thesis/Tables/exampleLigamerAssemblerInput.tex",
+		"/Users/royc/Dropbox/Thesis/Tables/matchedClusterValues.tex",
+		"/Users/royc/Dropbox/Thesis/Tables/FlyGenesWith1000sofTx.tex",
+		"/Users/royc/Dropbox/Thesis/Bibliography/library.bib",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/abreviations.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/definitions.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZip.tex",
+		"/Users/royc/Dropbox/Thesis/LaTeXConfig/shortcuts.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter3-SeqZipManuscript.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZipMethodology.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-Introduction.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-MolCel2013.tex",
+		"/Users/royc/Dropbox/Thesis/thesis.v0.14.tex",
+		"/Users/royc/Dropbox/Thesis/Appendices/AppendixB.tex",
+		"/Users/royc/Dropbox/Thesis/library.bib",
+		"/Users/royc/Dropbox/Thesis/nature.bst",
+		"/Users/royc/Dropbox/Thesis/apalike.bst",
+		"/Users/royc/Dropbox/Thesis/cell.bst",
+		"/Users/royc/Dropbox/Thesis/cell.sty",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/abstract.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/tablesOfContents.tex",
+		"/Users/royc/Dropbox/Thesis/README.md",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/acknowledgements.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/dedication.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/preface.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/symbols.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/titlePage.tex",
+		"/Users/royc/Dropbox/Thesis/FrontMatter/signaturePage.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/Chapter5-Discussion.tex",
+		"/Users/royc/Dropbox/Thesis/Chapters/ChapterTemplate.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/royc/Dropbox/Thesis/CR_Thesis.sublime-project",
+		"/Users/royc/Desktop/psl.to.bed.best.score.pl",
+		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1396097639/ghpcc/home/cr90w/my.project.space/SeqZip/dscam.seqzip.indexes/dscam.seqzip.v8.indexes/psl.to.bed.best.score.pl",
+		"/Users/royc/Desktop/todo.md",
+		"/Users/royc/Dropbox/Thesis/Bibliography_2.bib",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-MolCel2013.tex",
 		"/Users/royc/Dropbox/Thesis/ZZ_Master_LaTeX_Theis_Template/Chapters/Chapter1.tex",
 		"/Users/royc/Dropbox/Thesis/Variables.tex",
@@ -257,7 +264,6 @@
 		"/Users/royc/Dropbox/Thesis/LaTex/Thesis.cls",
 		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography_2.bib",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.toc",
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.bbl",
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1.tex",
@@ -328,6 +334,24 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"PNAS",
+			"rattus\\_norvegicus",
+			"\\textlessGria",
+			"Li2013",
+			".pdf}",
+			"Argonaute Loading Improves the",
+			"′",
+			"Bullard",
+			"Bullart",
+			"2006]",
+			"\\emph",
+			"Bullard",
+			"Bowater",
+			"Bullard and Bowater",
+			"\\emphBullard and Bowater,",
+			"page",
+			"Chapter3/",
+			"Figures/",
 			"\\btypeout",
 			" spac­ing",
 			" \\dou­blespac­ing",
@@ -437,12 +461,7 @@
 			"\\prefaceSectio",
 			"prefaceSectio",
 			"prefaceSection",
-			"listof",
-			"abrev",
-			"list",
-			"•\\t",
-			"Reference",
-			"group"
+			"listof"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -450,6 +469,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"rn4",
+			"<Gria3",
+			".eps}",
+			"AppendixB/",
+			"Figures/Chapter1/",
+			"Figures/Chapter4/",
+			"Figures/Chapter4",
 			"\\%",
 			"^\\%",
 			"\\flies{}",
@@ -493,23 +519,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "thesis.v0.14.tex",
+					"file": "RoyC_Umass_Thesis.v0.5.tex",
 					"settings":
 					{
-						"buffer_size": 18683,
+						"buffer_size": 5883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								780,
-								780
+								5883,
+								5883
 							]
 						],
 						"settings":
@@ -517,59 +543,60 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1213.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "Chapters/Chapter1-Introduction.tex",
+					"file": "Chapters/Chapter1-Intro.tex",
 					"settings":
 					{
-						"buffer_size": 70948,
+						"buffer_size": 71767,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33310,
-								33310
+								2985,
+								2985
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"spell_check": true,
 							"synced": false,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2547.0,
+						"translation.y": 10923.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "Chapters/Chapter4-MolCel2013.tex",
+					"file": "Chapters/Chapter2-SeqZip.tex",
 					"settings":
 					{
-						"buffer_size": 70086,
+						"buffer_size": 15099,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29308,
-								29308
+								13911,
+								13911
 							]
 						],
 						"settings":
@@ -588,18 +615,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "Chapters/Chapter5-Discussion.tex",
+					"file": "Chapters/Chapter5-Disc.tex",
 					"settings":
 					{
-						"buffer_size": 7962,
+						"buffer_size": 15371,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3094,
-								3094
+								15328,
+								15328
 							]
 						],
 						"settings":
@@ -612,56 +639,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 632.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "Appendices/AppendixA.tex",
-					"settings":
-					{
-						"buffer_size": 4602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4121,
-								4121
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1676.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 191,
+						"buffer_size": 1058,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								191,
-								191
+								288,
+								288
 							]
 						],
 						"settings":
@@ -670,66 +666,6 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "library.bib",
-					"settings":
-					{
-						"buffer_size": 1970671,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/Bibtex.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 202755.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "Thesis.cls",
-					"settings":
-					{
-						"buffer_size": 17058,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1761,
-								1770
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/TeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -773,7 +709,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 191.0
+		"height": 150.0
 	},
 	"output.git":
 	{
@@ -808,6 +744,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 281.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true
 }

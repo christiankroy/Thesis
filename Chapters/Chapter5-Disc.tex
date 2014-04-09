@@ -1,0 +1,171 @@
+\chapter{Discussion} 
+\label{Chapter 5} 
+\lhead{Chapter 5. \emph{Discussion}} % this is for the header on each page 
+
+%•	Implications for discrination past one's DNA as it is the actual PRODUCT of the DNA and the actual biology (or at least closer to the functional biology) that is going on inside of every person
+
+% This section needs to have enough of 'me' in it. I need to show how I've grown as a scientist, and not just a technician. That I can identify that important questions in the field and articulate how they can be pursued.
+
+
+ %Start with Deck of Cards. Wikicommons on Deck of cards? Combinatoral nature of splicing turns RNA-Seq into a BIG Data problm. 20K genes, but >100K possible transcripts.  This would let me lead into the Graveley paper and then lead into RNA-Seq
+
+ %What is a question that I feel needs real attention in the future? 
+
+%Mammalian piRNAs how about clash to let us know the other RNAs that they are interacting with? Maybe those RNAs can be used as a location proxy. Cite mourolotos paper. 
+
+%Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
+
+%Can you use Seqzip as a platform for imaging? I should ask Akiko for her references concerning in vivo fish. 
+
+%Need to discuss coordination in splicing. A systematic examination of alternative first exon use tied to downstream splicing events would be very useful. How best to do this with current or near, technologies? Enrichment for Cap would be a good start. But how do get valuable downstream? Do you combine the analysis with a Seqzip approach? Or some other sequencing platform? We are only interested in the cassette exons and alternative processing events... How to enrich for them? Again that would be a Seqzip like approach. Perhaps this is how you describe your dream Seqzip Experiment. 
+
+%------------------------------------------------------------------------------
+\section{Future of Dynamic long RNAs}
+%------------------------------------------------------------------------------
+
+Deep sequencing of transcriptomes has revolutionized biology. Previously, transcript discovery was a cumbersome task. Transcript identification and characterization involved significant labor, cost, and materials. In the mid-90's, microarray technology \citep{Schena1995a} gave us a tantalizing glimpse into how genes were expressed, but were limited to probed, and therefore known, sequences. However, the green and red landscapes of a microarray analysis hinted at incredible complexity\textemdash a complexity that would have to wait for technology to catch up.
+
+Like many transformative technologies, RNA-seq was made possible by incremental improvements to numerous supportive technologies such as: 1) digital optics, 2) microscopy, 3) slide chemistry and on-slide PCR and 4) nucleic-acid alignment. A HiSeq 2500 relies on all of these technologies (and others) to produce the 100M+ sequences that allow Scientists to peer every day into the transcriptional output of a genome.
+
+In the past 5 years, biologists have started to think way beyond mRNAs and small RNAs. The former captured out interest for 30+ years \citep{Furuichi1975,Wei1975}, and the later has been on a run-away trail since capturing out attention in 1998 \citep{Fire1998}. HTS has added long RNAs (among others) to these classes of gene RNA products. However, many biologically-trained and minded Scientists find themselves overwhelmed by the complete different methods and approaches to tackling the ``big data'' created by modern genome-wide experiments. Experimental training does not currently provide students with the required skills in statistics, computer programing, and experimental design that are needed to work with genome-wide data. The richness of this data often leaves many unasked (and unanswered) test-able hypothesis just sitting in public repositories \citep{Plocik2013}.
+
+Being such a novel area of extremely basic research, and to borrow a few seemingly inane but rather insightful trio of phrases from the United States Secretary of Defense Donald Rumsfeld \citep{Rumsfeld2011}, their remain at least three important areas of knowledge concerning long RNAs of the transcriptome: 
+\hyperref[subsec: The Known Knowns]{''The Known Knowns''}; 
+\hyperref[subsec: The Known Unknowns]{''The Known Unknowns''}; 
+and the \hyperref[subsec: The Unknown Unknowns]{''The Unknown Unknowns''}.
+
+%-----------------------------------
+\subsection{The Known Knowns}\label{subsec: The Known Knowns}
+%-----------------------------------
+
+At this point, it is important to remember that in this document \textit{long RNAs} may also refer to products containing characteristics of traditional mRNAs, that is a 5\textprime~m7G Cap, ligated exons, and a Poly(A) tail. However, many of these long mRNAs are extemely dynamic. So much so that until HTS and RNA-Seq, comprehensive investigation of their complexity was not possible.
+
+
+\begin{description}
+	\item[Pervasive transcription]
+	Here you can put some information from ENCODE and your thoughts on it.
+
+	\item[Tissue and cell specificity]
+	Your feelings on Specificity of long RNA expression
+
+	\item[Functional]
+	We \textit{know} that some long RNAs are functional. What are these?
+
+	\item[Chromatin regulation]
+	We also know that some long RNAs regulation Chromatin structure. What are your feelings as to the importance of this fact?
+
+	\item[PTGS]
+	Long RNAs ability to do post transcriptional gene regulation, including piRNAs, and Xist, etc....
+
+\end{description}
+
+%-----------------------------------
+\subsection{The Known Unknowns}\label{subsec: The Known Unknowns}
+%-----------------------------------
+
+\begin{description}
+	\item[How are they important?] 
+	Conservation of these things is not obvious - if they are not conserved - are they important? Maybe talk about how MALAT1 is highly expressed, but seems to be dispensable.
+
+	\item[What regulates their tissue-specific expression?]
+	Do they important some of the special sauce that makes tissues different from one other, more so then the mRNAs changes which can be extreme, but not terribly so....
+
+	\item[]  
+
+\end{description}
+
+%-----------------------------------
+\subsection{The Unknown Unknowns}\label{subsec: The Unknown Unknowns}
+%-----------------------------------
+
+This is the area of knowledge keeps many motivated to perform basic research every day. What secrets does the transcriptome have in store that we haven't even \textit{thought} about? Only through pushing the boundaries of the last two sections can we begin to think beyond the edge of map and formulate testable hypothesis. Here I propose a few outlandish ideas for Unknown Unkowns.
+
+
+%------------------------------------------------------------------------------
+\section{Ligation-based investigation of long RNAs}
+%------------------------------------------------------------------------------
+\subsection{SeqZip Other Applications}
+%-----------------------------------
+\subsection{SeqZip Technical Improvements}
+%-----------------------------------
+
+\begin{itemize}
+	\item Use of T39A mutation to aliviate penultimate 2\textprime OH requirement of T4 Rnl2 (See Nandakumar...Lima, Cell 2006)
+	\item Use of thermostable ligase, allowing for multiple rounds of ligation. Need a good reference, DO NOT USE Ref 27 from Conze et al 2009!
+	\item Elevated ligation temperatures, minimizing blut-ended NTL events
+	\item Make a note into the future directions that you would like to explore LNA’s at the 3\textprime~OH position of all ligation results, leading to increased ligation efficiency, however both this and the use of penultimate 2\textprime OH (Ribosome) suger in your ligamers would lead to added costs, and the latter maybe better served with a T39A mutation. Giggity  
+	\item Digital PCR of the PCR products ala \citep{Shiroguchi2012a}. 
+	\item SeqZip on the SOLiD platform
+	\item SeqZip on single-cell RNA samples.  
+\end{itemize}
+
+%-----------------------------------
+\subsection{SeqZip Alternatives}
+%-----------------------------------
+%------------------------------------------------------------------------------
+\section{Mammalian piRNA-precursors, a special type of long RNA}
+%------------------------------------------------------------------------------
+
+%Unanswered questions/issues of the resources paper?
+
+% What about the work that MJM asked  you to do considering the mRNAs that change over spermatogensis?
+
+%-----------------------------------
+\subsection{What are they doing?}
+%-----------------------------------
+
+%Interaction w/ ribosomes?
+
+%-----------------------------------
+\subsection{How are they generated?}
+%-----------------------------------
+
+%Interaction w/ ribosomes?
+%How does cell partition prepachytene transcripts to mRNA or piRNA use?
+
+%-----------------------------------
+\subsection{Why should we care?}
+%-----------------------------------
+
+% The references are stored in the file named "library.bib.bib"
+%\bibliography{library.bib} 
+
+%------------------------------------------------------------------------------
+\section{What are the questions generated by my work?}
+%------------------------------------------------------------------------------
+
+\begin{itemize}
+	\item What determines AS splicing decisions? It is not connectivity in splicing, and it seems to be SR and hnRNP proteins. Splicing is tissue specific. So is it the tissue-specific expression of SR and hnRNP proteins the is the main determinant of AS outcomes? How does chromatin state and organization play into AS decisions? 
+	\item What determins that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome ($REF$), so why is it that precursors are given a different lot in life?
+	\item How does one perform deep and broad analysis of mRNAs using second-generation HTS give the tremendous log-range over which they are expressed?
+	\item What controls the stochastic and probablistic splicing of \dscam{}? Why is it different between hemocytes and neurons? Why would hemocytes need less aparent diversity, given the range of antigen they could potentially encounter?
+	\item What is the 'field' that I'm in? Complex transcripts I would say... 
+	\item The field needs better tools to study RNA expression in a highthroughput manner. This is discussed in Brent's paper. Many molecular biologists do not have the necessary skills to perform the required analysis. The barrier of performing these type of analysis needs to be lowered by 1) Better software tools 2) More appropriate and targeted education 3) A change in how molecular biologists think 4) Redifining how we think of a gene 5) others?
+	\item What experiment would I really like to be able to do??
+	\item I would love to have a database of complete transcripts of a cell - think about how you were panning the data for the MolCel paper, and you could see ChIP marks, Pol II occupancy, RNA-Seq, and piRNA data. It would be great to be able to do that more often, and we greater precision
+	\item How to you organise and visualize this type of data?
+\end{itemize}
+
+%------------------------------------------------------------------------------
+\section{Science versus Engineering: Two thoughts in one school}
+%------------------------------------------------------------------------------
+
+\begin{quote}
+	\itshape % This will be italicized quote
+	\singlespacing
+	“There is a general attitude among the scientific community that science is superior to engineering.” - \citep{Macilwain2010}
+
+	“Science is about what is; engineering is about what can be. Engineers are dedicated to solving problems and creating new, useful, and efficient things.“ - Niel Armstrong
+\end{quote}
+
+A common schism between technically-oriented individuals is whether or not they identify themselves as an engineer or a scientist. The first quote, from an article published in Nature, communicates a clear bias in academic circles of the importance of the \textit{why} over the \textit{how}. In essence, how one priorities these questions may categories individuals as a scientists (why is important) or an engineer (how is more important). The second quote, from the first man to walk on the Moon, Neil Armstrong, highlights what motivates a self described ”engineer” and ”geek.” How does a single graduate system, training PhDs for careers in life science, educate individuals who fall into these two fundamentally different belief systems?
+
+In short\textemdash not well. When searching for a lab to call home, I told professors that I wanted to work on a technology development project. A typical response was, “That's not what we do here.” As someone who is first interested in the 'how' over the 'why,' this began a brief period when I thought I had made the wrong choice in leaving industry to go back to graduate school. What was the basis for this aversion to technology development? The same article in Nature states that this feeling toward engineering may be attributed “partly to a 'linear' model of innovation, which holds that scientific discovery leads to technology, which in turn leads to human betterment.  This model is as firmly entrenched in policy-makers' minds as it is intellectually discredited.  As any engineer will tell you, innovations, such as aviation and the steam engine, commonly precede scientific understanding of how things work.” If policy-makers value basic discovery over technological application, perhaps this explains why many of my professors tried to steer me away from a technology development project.
+
+In spite of policy-makers and my professors holding the viewpoint that discovery precedes technology, some of the most notable breakthrough scientific discoveries, including many made by Nobel Laureates, demonstrate a clear integration of both the scientific method and technological application.  For example, the 2007 award in Physiology and Medicine was given for “discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells."  By combining these principle discoveries, an indispensable technique in modern genetics was created – gene targeting.  The feeling of which is more important, the principle discoveries or the application thereof, is likely what separates a scientist from an engineer. 
+
+The importance of technology to the advancement of science in general is not limited to anecdotes resulting in a Nobel prize. A quick scan of the most \href{http://www.pnas.org/reports/most-cited}{highly-cited} papers in the journal PNAS reveals that the top 13, indeed \textit{all} 13, are about a novel methodology or technique. Sequencing of DNA, microarray analysis, tetracycline-ineducable promoters, recombinant adenovirus, and site-specific mutagenesis are just a handful of the tools on this list. This effect can be seen in \href{http://simplystatistics.org/2014/04/07/writing-good-software-can-have-more-impact-than-publishing-in-high-impact-journals-for-genomic-statisticians/}{computation biology}, with transformative techniques, such as BLAT \citep{Altschul1990} and Bowtie \citep{Langmead2009} attaining citations well beyond a typical paper in their journal of publication and far more than most primary research-centered articles.
+
+How does someone who is motivated by the engineering of science best contribute in an academic setting? Luckily, I did not have to question my decision to return to school for long. I found a pair of labs where I could learn how to practice traditional hypothesis-driven research while also developing new tools necessary to do so. My project is a perfect fit for me and has been terrific fun to work on. In the past five years, the technique that I developed, SeqZip, allows for the more efficient study of  mRNA isoforms produced from alternative splicing of pre-mRNA. This is a very engineering-type accomplishment. However, the technique uses short DNA oligonucleotides and a novel activity (that I discovered) of an known RNA ligase to shorten and simplify isoform sequence information. Use of Rnl2 to perform RNA-templated DNA:DNA ligation is completely new knowledge, and falls squarely within a scientific purview. The technique simplifies many of the experimental issues that researchers struggle with when studying the often complex products of alternative splicing.
+% Need transition or concluding paragraph
+

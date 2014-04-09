@@ -1,29 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Thesis LaTeX Template - THESIS CLASS FILE
-%
+% Thesis LaTeX Template - THESIS CLASS FILE%
 % This template has been downloaded from:
-% http://www.latextemplates.com
-%
-% This class file defines the structure and design of the template. 
-%
-% There is one part of this file that needs to be filled out - the variables
-% dictating the document particulars such as the author name, university
-% name, etc. You will find these in the commented "DOCUMENT VARIABLES"
-% section below.
-%
-% The other two easily-editable sections are the margin sizes and abstract.
-% These have both been commented for easy editing. Advanced LaTeX
-% users will have no trouble editing the rest of the document to their liking.
-%
-% Original header:
-%% This is file `Thesis.cls', based on 'ECSthesis.cls', by Steve R. Gunn
-%% generated with the docstrip utility.
-%%
-%% Created by Steve R. Gunn, modified by Sunil Patel: www.sunilpatel.co.uk
-%% Further modified by www.latextemplates.com
-%
+% http://www.latextemplates.com%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \NeedsTeXFormat{LaTeX2e}[1996/12/01]
 \ProvidesClass{Thesis}
               [2007/22/02 v1.0
@@ -148,7 +127,7 @@
 \usepackage{booktabs}
 \usepackage{rotating}
 \usepackage{listings}
-\usepackage{lstpatch}
+\usepackage{LaTeXConfig/lstpatch}
 \lstset{captionpos=b,
         frame=tb,
         basicstyle=\scriptsize\ttfamily,
@@ -192,7 +171,7 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Examination of dynamic long RNAs} % Your thesis title - this is used in the title and abstract
+\thesistitle{"Putting the pieces together: exons and piRNAs"} % Your thesis title - this is used in the title and abstract
 %-------------------------------------------------  
 \supervisorOne{Melissa J. \textsc{Moore}} % You supervisor's name - this is used in the title page
 \supervisorTwo{Phillip D. \textsc{Zamore}} % You supervisor's name - this is used in the title page
@@ -201,7 +180,7 @@
 %-------------------------------------------------   
 \degreeName{Doctor of Philosophy} % Your degree name - this is currently used in the title page and abstract
 %-------------------------------------------------   
-\authors{Christian Knauf \textsc{Roy}} % Your name - this is used in the title page and abstract
+\authors{Christian K. \textsc{Roy}} % Your name - this is used in the title page and abstract
 %-------------------------------------------------   
 \addresses{} % Your address - this is not currently used anywhere in the template, cite it with \addressnames if you want it
 %-------------------------------------------------   
@@ -240,63 +219,6 @@
 \FACULTY{\texorpdfstring{\href{Faculty Web Site URL Here (include http://)} % Your faculty's URL
                 {FACULTY NAME (IN BLOCK CAPITALS)}} % Your faculty's name in capitals - this is not currently used anywhere in the template, cite it with \FACNAME if you want it
                 {FACULTY NAME (IN BLOCK CAPITALS)}}
-%----------------------------------------------------------------------------------------    
-
-% The default title page, this is not used in this www.latextemplates.com version            
-\renewcommand\maketitle{
-  \btypeout{Title Page}
-  \hypersetup{pdftitle={\@title}}
-  \hypersetup{pdfsubject=\subjectname}
-  \hypersetup{pdfauthor=\authornames}
-  \hypersetup{pdfkeywords=\keywordnames}
-  \thispagestyle{empty}
-  \begin{titlepage}
-    \let\footnotesize\small
-    \let\footnoterule\relax
-    \let \footnote \thanks
-    \setcounter{footnote}{0}
-    \null\vfil
-    \vskip 60\p@
-    \begin{center}
-      \setlength{\parskip}{0pt}
-      {\large\textbf{\UNIVNAME}\par}
-      \vfill
-      {\huge \bf \@title \par}
-      \vfill
-      {\LARGE by \par}
-      \smallskip
-      {\LARGE \authornames \par}
-      \vfill
-      {\large A thesis submitted in partial fulfillment for the \par}
-      {\large degree of \degreename \par}
-      \bigskip
-      \bigskip
-      {\large in the \par}
-      {\large \facname \par}
-      {\large \deptname \par} 
-      \bigskip
-      \bigskip
-      \bigskip
-      {\Large \@date \par}
-      \bigskip
-    \end{center}
-    \par
-    \@thanks
-    \vfil\null
-  \end{titlepage}
-  \setcounter{footnote}{0}%
-  \global\let\thanks\relax
-  \global\let\maketitle\relax
-  \global\let\@thanks\@empty
-  \global\let\@author\@empty
-  \global\let\@date\@empty
-  \global\let\@title\@empty
-  \global\let\title\relax
-  \global\let\author\relax
-  \global\let\date\relax
-  \global\let\and\relax
-  \cleardoublepage
-}
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE DESIGN
 %----------------------------------------------------------------------------------------

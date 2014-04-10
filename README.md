@@ -7,9 +7,37 @@ My 2014 UMMS Thesis
 
 ### Getting Setup ###
 
-1. Obtain a good text editor.  I used SublimeText 2 w/ the LaTeXTools package installed.
+1. Obtain a good text editor. I used Sublime Text 2 with some packages installed
+    * LaTeXTools | Adds some LaTeX functality
+    * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
 2. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
 3. Fill out the folder structure.
+
+### Symbols ###
+
++ To make a quote, use the characters `This is a ``quoted'' Word`. That is two backticks followed by the word(s) to be quoted, and then two single quotes.  LaTeX will turn this into a quotes openning and closing quotes when compiled
++ Primes - use `5\textprime~` or any version therefor. The tilde at the end is required to insert a space after the prime signal. `\usepackage{flexisym}` required.
++ ~ can (and should be) inserted with `\textasciitilde`
+
+### Code Folding ###
+
++ Sections are Flush with side
++ Subsections = 2 spaces
++ Figures/Tables = 4 Spaces
++ Everything with 2 or more spaces from the line above is folded
+
+`CMD+K, CMD+J` Unfolds everything
+`CMD+K, CMD+3` Folds Figures.
+`CMD+K, CMD+2` Folds Down to Subsections.
+`CMD+K, CMD+1` Folds Down to Sections.
+
+### References ###
+
+1. Internal by number = `\ref{labelName}``
+2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
+3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
+4. Insert a bare, but clickable url = `\url{http://www.place.com}`
+
 
 ### Figures ###
 

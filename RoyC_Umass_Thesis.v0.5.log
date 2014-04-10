@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  8 APR 2014 21:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  10 APR 2014 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -890,7 +890,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count154
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
@@ -921,11 +921,11 @@ Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 )
 (./LaTeXConfig/shortcuts.tex) (./RoyC_Umass_Thesis.v0.5.aux
 
-LaTeX Warning: Label `fig:Original SeqZip Diagram' multiply defined.
-
-
 LaTeX Warning: Label `fig:Ligation product and RNA integrity' multiply defined.
 
+
+
+LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
 
 
 LaTeX Warning: Label `tab:FlyGenesWithManyTx' multiply defined.
@@ -946,34 +946,28 @@ LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
 LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
 
 
-LaTeX Warning: Label `fig:Hiv tx via SeqZip' multiply defined.
-
-
 LaTeX Warning: Label `fig:Roy2014 Rnl2' multiply defined.
-
-
-LaTeX Warning: Label `fig:Roy2014 SeqZip Diagram' multiply defined.
 
 )
 \openout1 = `RoyC_Umass_Thesis.v0.5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 40.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -1000,7 +994,7 @@ Package caption Info: End \AtBeginDocument code.
 )
 \c@lstlisting=\count162
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 40.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1009,23 +1003,23 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./RoyC_Umass_Thesis.v0.5.out) (./RoyC_Umass_Thesis.v0.5.out)
 \@outlinefile=\write3
 \openout3 = `RoyC_Umass_Thesis.v0.5.out'.
 
-LaTeX Info: Redefining \celsius on input line 47.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
+LaTeX Info: Redefining \celsius on input line 40.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 40.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 47.
-Package gensymb Info: Using \Omega for \ohm on input line 47.
+LaTeX Info: Redefining \ohm on input line 40.
+Package gensymb Info: Using \Omega for \ohm on input line 40.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1129,24 +1123,24 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
  Definitions
 ------------------------------------------------------------------------------
 
-Overfull \hbox (5.9079pt too wide) in paragraph at lines 9--11
+Overfull \hbox (5.9079pt too wide) in paragraph at lines 6--8
 \T1/phv/m/n/12 A tech-nol-ogy wherein RNA is frag-mented, con-verted to DNA, an
 d an-a-lyzed on a high-throughput
  []
 
 [14
 
-]) (./FrontMatter/dedication.tex
+] [15]) (./FrontMatter/dedication.tex
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[15
+[16
 
 ]) (./FrontMatter/preface.tex
 ------------------------------------------------------------------------------
  Preface
 ------------------------------------------------------------------------------
-[16
+[17
 
 
 ]) (./Chapters/Chapter1-Intro.tex
@@ -1155,25 +1149,25 @@ Chapter 1.
  1 Introduction
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 7.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 14.
 [1
 
 
 
-] <Figures/Chapter1/DesertLocust.jpeg, id=655, 357.335pt x 420.57124pt>
+] <Figures/Chapter1/DesertLocust.jpeg, id=728, 357.335pt x 420.57124pt>
 File: Figures/Chapter1/DesertLocust.jpeg Graphic file (type jpg)
 
 <use Figures/Chapter1/DesertLocust.jpeg>
 Package pdftex.def Info: Figures/Chapter1/DesertLocust.jpeg used on input line 
-33.
+28.
 (pdftex.def)             Requested size: 357.33412pt x 420.57022pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 38.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 33.
  [2 <./Figures/Chapter1/DesertLocust.jpeg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 57.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 51.
  [3]
 Package epstopdf Info: Source file: <Figures/Chapter1/Sequencing_costs_over_tim
 e.eps>
@@ -1186,19 +1180,19 @@ e-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/Sequencin
 g_costs_over_time-eps-converted-to.pdf Figures/Chapter1/Sequencing_costs_over_t
 ime.eps>
-(epstopdf)             \includegraphics on input line 77.
+(epstopdf)             \includegraphics on input line 66.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/Sequencing_costs_over_time-eps-converted-to.pdf, id=735, 346.
+<Figures/Chapter1/Sequencing_costs_over_time-eps-converted-to.pdf, id=807, 346.
 29375pt x 155.58125pt>
 File: Figures/Chapter1/Sequencing_costs_over_time-eps-converted-to.pdf Graphic 
 file (type pdf)
 
 <use Figures/Chapter1/Sequencing_costs_over_time-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/Sequencing_costs_over_time-eps-conver
-ted-to.pdf used on input line 77.
+ted-to.pdf used on input line 66.
 (pdftex.def)             Requested size: 346.2929pt x 155.58086pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 84.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 71.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1214,21 +1208,25 @@ ies-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/RNA_Seque
 ncing_methodologies-eps-converted-to.pdf Figures/Chapter1/RNA_Sequencing_method
 ologies.eps>
-(epstopdf)             \includegraphics on input line 100.
+(epstopdf)             \includegraphics on input line 83.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/RNA_Sequencing_methodologies-eps-converted-to.pdf, id=774, 42
+<Figures/Chapter1/RNA_Sequencing_methodologies-eps-converted-to.pdf, id=847, 42
 0.57124pt x 311.1625pt>
 File: Figures/Chapter1/RNA_Sequencing_methodologies-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use Figures/Chapter1/RNA_Sequencing_methodologies-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/RNA_Sequencing_methodologies-eps-conv
-erted-to.pdf used on input line 100.
+erted-to.pdf used on input line 83.
 (pdftex.def)             Requested size: 420.57022pt x 311.16174pt.
 
 [5 <./Figures/Chapter1/Sequencing_costs_over_time-eps-converted-to.pdf>]
 [6 <./Figures/Chapter1/RNA_Sequencing_methodologies-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `Kelemen2013' on page 7 undefined on input lin
+e 111.
+
 Package epstopdf Info: Source file: <Figures/Chapter1/numberHumanGenesAndNumber
 Spliced.eps>
 (epstopdf)                    date: 2014-04-08 15:45:10
@@ -1240,21 +1238,20 @@ Spliced-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/numberHum
 anGenesAndNumberSpliced-eps-converted-to.pdf Figures/Chapter1/numberHumanGenesA
 ndNumberSpliced.eps>
-(epstopdf)             \includegraphics on input line 144.
+(epstopdf)             \includegraphics on input line 117.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf, id=926
+<Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf, id=997
 , 332.24126pt x 160.6pt>
 File: Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf Gr
 aphic file (type pdf)
 
 <use Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-
-converted-to.pdf used on input line 144.
+converted-to.pdf used on input line 117.
 (pdftex.def)             Requested size: 332.24043pt x 160.5996pt.
 
 [7 <./Figures/Chapter1/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf>]
-[8]
 Package epstopdf Info: Source file: <Figures/Chapter1/SeqLengths_and_Connectivi
 ty.eps>
 (epstopdf)                    date: 2014-04-05 20:45:22
@@ -1266,25 +1263,20 @@ ty-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/SeqLength
 s_and_Connectivity-eps-converted-to.pdf Figures/Chapter1/SeqLengths_and_Connect
 ivity.eps>
-(epstopdf)             \includegraphics on input line 172.
+(epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf, id=1020, 41
+<Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf, id=1067, 41
 5.5525pt x 327.2225pt>
 File: Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf Graphic
  file (type pdf)
 
 <use Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/SeqLengths_and_Connectivity-eps-conve
-rted-to.pdf used on input line 172.
+rted-to.pdf used on input line 139.
 (pdftex.def)             Requested size: 415.55148pt x 327.2217pt.
 
-Overfull \hbox (4.265pt too wide) in paragraph at lines 184--186
-\T1/phv/m/n/12 scrip-tome anal-y-sis. This se-quenc-ing ap-proach has sig-nif-i
--cance ad-van-tages over mi-croar-rays. Specif-
- []
-
-[9 <./Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf>]
+[8] [9 <./Figures/Chapter1/SeqLengths_and_Connectivity-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/Fibronectin.eps>
 (epstopdf)                    date: 2014-04-05 20:47:22
 (epstopdf)                    size: 488530 bytes
@@ -1294,19 +1286,19 @@ Package epstopdf Info: Source file: <Figures/Chapter1/Fibronectin.eps>
 (epstopdf)                    size: 60833 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/Fibronect
 in-eps-converted-to.pdf Figures/Chapter1/Fibronectin.eps>
-(epstopdf)             \includegraphics on input line 202.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/Fibronectin-eps-converted-to.pdf, id=1061, 390.45876pt x 289.
+<Figures/Chapter1/Fibronectin-eps-converted-to.pdf, id=1148, 390.45876pt x 289.
 08pt>
 File: Figures/Chapter1/Fibronectin-eps-converted-to.pdf Graphic file (type pdf)
 
  <use Figures/Chapter1/Fibronectin-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/Fibronectin-eps-converted-to.pdf used
- on input line 202.
+ on input line 166.
 (pdftex.def)             Requested size: 390.4578pt x 289.07928pt.
  [10]
-Overfull \hbox (4.76073pt too wide) in paragraph at lines 216--217
+Overfull \hbox (4.76073pt too wide) in paragraph at lines 179--180
 []\T1/phv/m/n/12 The last, most cur-rent, and thor-ough study of intra-gene spl
 ic-ing co-or-di-na-tion in-volves the \T1/phv/m/sl/12 Caenorhab-
  []
@@ -1321,18 +1313,22 @@ erted-to.pdf>
 (epstopdf)                    size: 18940 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/ASEventTy
 pesPlot-eps-converted-to.pdf Figures/Chapter1/ASEventTypesPlot.eps>
-(epstopdf)             \includegraphics on input line 230.
+(epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf, id=1133, 393.47pt x 17
+<Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf, id=1205, 393.47pt x 17
 2.645pt>
 File: Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf
- used on input line 230.
+ used on input line 187.
 (pdftex.def)             Requested size: 393.46902pt x 172.64456pt.
- [12 <./Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf>]
+
+
+Package natbib Warning: Citation `Ponta2003b' on page 12 undefined on input lin
+e 199.
+
 Package epstopdf Info: Source file: <Figures/Chapter1/NumberOFTranscriptsPerFly
 Gene.eps>
 (epstopdf)                    date: 2014-04-05 20:46:21
@@ -1344,24 +1340,25 @@ Gene-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/NumberOFT
 ranscriptsPerFlyGene-eps-converted-to.pdf Figures/Chapter1/NumberOFTranscriptsP
 erFlyGene.eps>
-(epstopdf)             \includegraphics on input line 247.
+(epstopdf)             \includegraphics on input line 203.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf, id=1164, 
+<Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf, id=1217, 
 413.545pt x 291.0875pt>
 File: Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-con
-verted-to.pdf used on input line 247.
+verted-to.pdf used on input line 203.
 (pdftex.def)             Requested size: 413.54398pt x 291.08678pt.
 
 (./Tables/FlyGenesWith1000sofTx.tex)
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 262.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 214.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 262.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 214.
+ [12 <./Figures/Chapter1/ASEventTypesPlot-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/DscamArch.eps>
 (epstopdf)                    date: 2014-04-05 20:47:35
 (epstopdf)                    size: 278643 bytes
@@ -1371,18 +1368,23 @@ o.pdf>
 (epstopdf)                    size: 16910 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/DscamArch
 -eps-converted-to.pdf Figures/Chapter1/DscamArch.eps>
-(epstopdf)             \includegraphics on input line 270.
+(epstopdf)             \includegraphics on input line 220.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/DscamArch-eps-converted-to.pdf, id=1177, 391.4625pt x 73.2737
+<Figures/Chapter1/DscamArch-eps-converted-to.pdf, id=1245, 391.4625pt x 73.2737
 4pt>
 File: Figures/Chapter1/DscamArch-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Chapter1/DscamArch-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/DscamArch-eps-converted-to.pdf used o
-n input line 270.
+n input line 220.
 (pdftex.def)             Requested size: 391.46153pt x 73.27354pt.
- [13 <./Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf>] [
-14 <./Figures/Chapter1/DscamArch-eps-converted-to.pdf>]
+
+
+Package natbib Warning: Citation `Yamakawa1998b' on page 13 undefined on input 
+line 229.
+
+[13 <./Figures/Chapter1/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf> <./
+Figures/Chapter1/DscamArch-eps-converted-to.pdf>] [14]
 Package epstopdf Info: Source file: <Figures/Chapter1/DscamAnatomy.eps>
 (epstopdf)                    date: 2014-04-05 20:47:47
 (epstopdf)                    size: 466988 bytes
@@ -1392,18 +1394,18 @@ d-to.pdf>
 (epstopdf)                    size: 65982 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/DscamAnat
 omy-eps-converted-to.pdf Figures/Chapter1/DscamAnatomy.eps>
-(epstopdf)             \includegraphics on input line 298.
+(epstopdf)             \includegraphics on input line 250.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf, id=1216, 397.485pt x 516.9
+<Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf, id=1279, 397.485pt x 516.9
 3124pt>
 File: Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf use
-d on input line 298.
+d on input line 250.
 (pdftex.def)             Requested size: 397.48402pt x 516.92998pt.
- [15 <./Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf>] [16]
+ [15] [16 <./Figures/Chapter1/DscamAnatomy-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/LigationMechanism.eps>
 (epstopdf)                    date: 2014-04-05 20:46:54
 (epstopdf)                    size: 1806875 bytes
@@ -1413,24 +1415,19 @@ verted-to.pdf>
 (epstopdf)                    size: 369927 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/LigationM
 echanism-eps-converted-to.pdf Figures/Chapter1/LigationMechanism.eps>
-(epstopdf)             \includegraphics on input line 338.
+(epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/LigationMechanism-eps-converted-to.pdf, id=1277, 374.39874pt 
+<Figures/Chapter1/LigationMechanism-eps-converted-to.pdf, id=1340, 374.39874pt 
 x 518.93875pt>
 File: Figures/Chapter1/LigationMechanism-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use Figures/Chapter1/LigationMechanism-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/LigationMechanism-eps-converted-to.pd
-f used on input line 338.
+f used on input line 285.
 (pdftex.def)             Requested size: 374.39783pt x 518.93748pt.
 
-[17 <./Figures/Chapter1/LigationMechanism-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Lohman2013d' on page 18 undefined on input li
-ne 354.
-
-[18]
+[17] [18 <./Figures/Chapter1/LigationMechanism-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/Rnl2_Structure.eps>
 (epstopdf)                    date: 2014-04-05 20:45:37
 (epstopdf)                    size: 5375521 bytes
@@ -1440,17 +1437,18 @@ ted-to.pdf>
 (epstopdf)                    size: 374442 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/Rnl2_Stru
 cture-eps-converted-to.pdf Figures/Chapter1/Rnl2_Structure.eps>
-(epstopdf)             \includegraphics on input line 371.
+(epstopdf)             \includegraphics on input line 314.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf, id=1379, 355.3275pt x 29
+<Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf, id=1439, 355.3275pt x 29
 2.09125pt>
 File: Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf Graphic file (type p
 df)
  <use Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf u
-sed on input line 371.
+sed on input line 314.
 (pdftex.def)             Requested size: 355.32661pt x 292.09052pt.
+ [19]
 Package epstopdf Info: Source file: <Figures/Chapter1/Rnl2_Active_Site_Residues
 .eps>
 (epstopdf)                    date: 2014-04-05 20:45:52
@@ -1462,21 +1460,19 @@ Package epstopdf Info: Source file: <Figures/Chapter1/Rnl2_Active_Site_Residues
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/Rnl2_Acti
 ve_Site_Residues-eps-converted-to.pdf Figures/Chapter1/Rnl2_Active_Site_Residue
 s.eps>
-(epstopdf)             \includegraphics on input line 386.
+(epstopdf)             \includegraphics on input line 327.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/Rnl2_Active_Site_Residues-eps-converted-to.pdf, id=1397, 216.
+<Figures/Chapter1/Rnl2_Active_Site_Residues-eps-converted-to.pdf, id=1476, 216.
 81pt x 217.81375pt>
 File: Figures/Chapter1/Rnl2_Active_Site_Residues-eps-converted-to.pdf Graphic f
 ile (type pdf)
 
 <use Figures/Chapter1/Rnl2_Active_Site_Residues-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/Rnl2_Active_Site_Residues-eps-convert
-ed-to.pdf used on input line 386.
+ed-to.pdf used on input line 327.
 (pdftex.def)             Requested size: 216.80946pt x 217.8132pt.
- [19]
-[20 <./Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf> <./Figures/Chapter
-1/Rnl2_Active_Site_Residues-eps-converted-to.pdf>]
+ [20 <./Figures/Chapter1/Rnl2_Structure-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/FlamencoLocus.eps>
 (epstopdf)                    date: 2014-04-05 20:47:09
 (epstopdf)                    size: 385455 bytes
@@ -1486,18 +1482,18 @@ ed-to.pdf>
 (epstopdf)                    size: 26413 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/FlamencoL
 ocus-eps-converted-to.pdf Figures/Chapter1/FlamencoLocus.eps>
-(epstopdf)             \includegraphics on input line 424.
+(epstopdf)             \includegraphics on input line 361.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf, id=1470, 375.4025pt x 234
+<Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf, id=1526, 375.4025pt x 234
 .8775pt>
 File: Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf Graphic file (type pd
 f)
  <use Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf us
-ed on input line 424.
+ed on input line 361.
 (pdftex.def)             Requested size: 375.40158pt x 234.87692pt.
- [21]
+ [21 <./Figures/Chapter1/Rnl2_Active_Site_Residues-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter1/MammalianPiRNAClassesOver
 Time.eps>
 (epstopdf)                    date: 2014-04-05 20:46:32
@@ -1509,29 +1505,30 @@ Time-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter1/Mammalian
 PiRNAClassesOverTime-eps-converted-to.pdf Figures/Chapter1/MammalianPiRNAClasse
 sOverTime.eps>
-(epstopdf)             \includegraphics on input line 439.
+(epstopdf)             \includegraphics on input line 373.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-converted-to.pdf, id=1531, 
+<Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-converted-to.pdf, id=1586, 
 415.5525pt x 324.21124pt>
 File: Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-con
-verted-to.pdf used on input line 439.
+verted-to.pdf used on input line 373.
 (pdftex.def)             Requested size: 415.55148pt x 324.21045pt.
 
-<Figures/Chapter1/mammalian_piRNA_pathway.png, id=1534, 232.7094pt x 289.08pt>
+[22 <./Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf>]
+<Figures/Chapter1/mammalian_piRNA_pathway.png, id=1614, 232.7094pt x 289.08pt>
 File: Figures/Chapter1/mammalian_piRNA_pathway.png Graphic file (type png)
 
 <use Figures/Chapter1/mammalian_piRNA_pathway.png>
 Package pdftex.def Info: Figures/Chapter1/mammalian_piRNA_pathway.png used on i
-nput line 453.
+nput line 384.
 (pdftex.def)             Requested size: 232.70882pt x 289.07928pt.
- [22 <./Figures/Chapter1/FlamencoLocus-eps-converted-to.pdf>]) (./Chapters/Chap
-ter2-SeqZip.tex [23 <./Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-conve
-rted-to.pdf>] [24 <./Figures/Chapter1/mammalian_piRNA_pathway.png>]
+ [23 <./Figures/Chapter1/MammalianPiRNAClassesOverTime-eps-converted-to.pdf>])
+(./Chapters/Chapter2-SeqZip.tex [24 <./Figures/Chapter1/mammalian_piRNA_pathway
+.png>]
 Chapter 2.
 ------------------------------------------------------------------------------
  2 SeqZip - Development and Applications
@@ -1546,25 +1543,38 @@ Package epstopdf Info: Source file: <Figures/Chapter2/OriginalSeqZipDiagram.eps
 (epstopdf)                    size: 42890 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/OriginalS
 eqZipDiagram-eps-converted-to.pdf Figures/Chapter2/OriginalSeqZipDiagram.eps>
-(epstopdf)             \includegraphics on input line 15.
+(epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-to.pdf, id=1587, 396.4812
+<Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-to.pdf, id=1654, 396.4812
 5pt x 197.73875pt>
 File: Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-t
-o.pdf used on input line 15.
+o.pdf used on input line 12.
 (pdftex.def)             Requested size: 396.48027pt x 197.73827pt.
- [25
+
+
+LaTeX Warning: Reference `sec: SeqZip Intergrity' on page 25 undefined on input
+ line 27.
+
+
+LaTeX Warning: Reference `sec: SeqZip Intergrity' on page 25 undefined on input
+ line 31.
+
+[25
 
 ]
 
-LaTeX Warning: Reference `Chapter5' on page 26 undefined on input line 40.
+LaTeX Warning: Reference `Chapter5' on page 26 undefined on input line 35.
 
 [26 <./Figures/Chapter2/OriginalSeqZipDiagram-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `Bingham2008a' on page 27 undefined on input l
+ine 39.
+
 (./Tables/BigSpanGenes.tex)
 Package epstopdf Info: Source file: <Figures/Chapter2/10GeneSetSchematic.eps>
 (epstopdf)                    date: 2014-04-04 21:23:45
@@ -1575,16 +1585,16 @@ nverted-to.pdf>
 (epstopdf)                    size: 38388 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/10GeneSet
 Schematic-eps-converted-to.pdf Figures/Chapter2/10GeneSetSchematic.eps>
-(epstopdf)             \includegraphics on input line 55.
+(epstopdf)             \includegraphics on input line 49.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf, id=1670, 344.28625pt
+<Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf, id=1734, 344.28625pt
  x 370.38374pt>
 File: Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/10GeneSetSchematic-eps-converted-to.p
-df used on input line 55.
+df used on input line 49.
 (pdftex.def)             Requested size: 344.2854pt x 370.38283pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/DegreadedRNABySeqZip.eps>
 
@@ -1596,20 +1606,18 @@ converted-to.pdf>
 (epstopdf)                    size: 543828 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/Degreaded
 RNABySeqZip-eps-converted-to.pdf Figures/Chapter2/DegreadedRNABySeqZip.eps>
-(epstopdf)             \includegraphics on input line 77.
+(epstopdf)             \includegraphics on input line 64.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf, id=1671, 288.07625
+<Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf, id=1735, 288.07625
 pt x 251.94125pt>
 File: Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf Graphic file (
 type pdf)
 
 <use Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/DegreadedRNABySeqZip-eps-converted-to
-.pdf used on input line 77.
+.pdf used on input line 64.
 (pdftex.def)             Requested size: 288.07553pt x 251.94063pt.
- [27] [28 <./Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf> <./Figur
-es/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter2/TransRNAWithSeqZip.eps>
 (epstopdf)                    date: 2014-04-04 20:27:13
 (epstopdf)                    size: 2241728 bytes
@@ -1619,19 +1627,21 @@ nverted-to.pdf>
 (epstopdf)                    size: 294432 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/TransRNAW
 ithSeqZip-eps-converted-to.pdf Figures/Chapter2/TransRNAWithSeqZip.eps>
-(epstopdf)             \includegraphics on input line 92.
+(epstopdf)             \includegraphics on input line 75.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf, id=1711, 363.3575pt 
+<Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf, id=1736, 363.3575pt 
 x 258.9675pt>
 File: Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/TransRNAWithSeqZip-eps-converted-to.p
-df used on input line 92.
+df used on input line 75.
 (pdftex.def)             Requested size: 363.3566pt x 258.96684pt.
 
-[29]
+[27] [28 <./Figures/Chapter2/10GeneSetSchematic-eps-converted-to.pdf> <./Figure
+s/Chapter2/DegreadedRNABySeqZip-eps-converted-to.pdf>] [29 <./Figures/Chapter2/
+TransRNAWithSeqZip-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter2/HIVviaSeqZip.eps>
 (epstopdf)                    date: 2014-04-04 20:37:31
 (epstopdf)                    size: 4021787 bytes
@@ -1641,16 +1651,16 @@ d-to.pdf>
 (epstopdf)                    size: 665140 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/HIVviaSeq
 Zip-eps-converted-to.pdf Figures/Chapter2/HIVviaSeqZip.eps>
-(epstopdf)             \includegraphics on input line 120.
+(epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf, id=1716, 392.46625pt x 346
+<Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf, id=1789, 392.46625pt x 346
 .29375pt>
 File: Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf use
-d on input line 120.
+d on input line 96.
 (pdftex.def)             Requested size: 392.46527pt x 346.2929pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/PrecursorLocations.eps>
 (epstopdf)                    date: 2014-04-04 21:16:05
@@ -1661,16 +1671,16 @@ nverted-to.pdf>
 (epstopdf)                    size: 39383 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/Precursor
 Locations-eps-converted-to.pdf Figures/Chapter2/PrecursorLocations.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf, id=1717, 378.41376pt
+<Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf, id=1790, 378.41376pt
  x 294.09875pt>
 File: Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/PrecursorLocations-eps-converted-to.p
-df used on input line 137.
+df used on input line 109.
 (pdftex.def)             Requested size: 378.41283pt x 294.09802pt.
 
 (./Tables/matchedClusterValues.tex
@@ -1687,16 +1697,16 @@ d-to.pdf>
 (epstopdf)                    size: 301639 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/RTDoesntW
 ork-eps-converted-to.pdf Figures/Chapter2/RTDoesntWork.eps>
-(epstopdf)             \includegraphics on input line 154.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf, id=1718, 341.275pt x 346.2
+<Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf, id=1791, 341.275pt x 346.2
 9375pt>
 File: Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf use
-d on input line 154.
+d on input line 122.
 (pdftex.def)             Requested size: 341.27415pt x 346.2929pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/dst1.eps>
 (epstopdf)                    date: 2014-04-04 21:08:58
@@ -1707,15 +1717,15 @@ Package epstopdf Info: Source file: <Figures/Chapter2/dst1.eps>
 (epstopdf)                    size: 214162 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/dst1-eps-
 converted-to.pdf Figures/Chapter2/dst1.eps>
-(epstopdf)             \includegraphics on input line 167.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/dst1-eps-converted-to.pdf, id=1719, 291.0875pt x 160.6pt>
+<Figures/Chapter2/dst1-eps-converted-to.pdf, id=1792, 291.0875pt x 160.6pt>
 File: Figures/Chapter2/dst1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Chapter2/dst1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/dst1-eps-converted-to.pdf used on inp
-ut line 167.
+ut line 133.
 (pdftex.def)             Requested size: 291.08678pt x 160.5996pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/fn1ThreeSite.eps>
 (epstopdf)                    date: 2014-04-07 06:37:13
@@ -1726,16 +1736,16 @@ d-to.pdf>
 (epstopdf)                    size: 178965 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/fn1ThreeS
 ite-eps-converted-to.pdf Figures/Chapter2/fn1ThreeSite.eps>
-(epstopdf)             \includegraphics on input line 180.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf, id=1720, 372.39125pt x 371
+<Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf, id=1793, 372.39125pt x 371
 .3875pt>
 File: Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf use
-d on input line 180.
+d on input line 144.
 (pdftex.def)             Requested size: 372.39034pt x 371.38658pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/testesSpecificRnaseqPrecu
 rsors.eps>
@@ -1748,17 +1758,17 @@ rsors-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/testesSpe
 cificRnaseqPrecursors-eps-converted-to.pdf Figures/Chapter2/testesSpecificRnase
 qPrecursors.eps>
-(epstopdf)             \includegraphics on input line 193.
+(epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf, id=1721,
+<Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf, id=1794,
  336.25626pt x 208.78pt>
 File: Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-co
-nverted-to.pdf used on input line 193.
+nverted-to.pdf used on input line 155.
 (pdftex.def)             Requested size: 336.25543pt x 208.77946pt.
 Package epstopdf Info: Source file: <Figures/Chapter2/piRNAPrecurserAnalyisBySe
 qZip.eps>
@@ -1771,26 +1781,25 @@ qZip-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter2/piRNAPrec
 urserAnalyisBySeqZip-eps-converted-to.pdf Figures/Chapter2/piRNAPrecurserAnalyi
 sBySeqZip.eps>
-(epstopdf)             \includegraphics on input line 207.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf, id=1722, 
+<Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf, id=1795, 
 352.31625pt x 288.07625pt>
 File: Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-con
-verted-to.pdf used on input line 207.
+verted-to.pdf used on input line 166.
 (pdftex.def)             Requested size: 352.31538pt x 288.07553pt.
 )
-(./Chapters/Chapter3-Roy2014.tex [30 <./Figures/Chapter2/TransRNAWithSeqZip-eps
--converted-to.pdf>] [31 <./Figures/Chapter2/HIVviaSeqZip-eps-converted-to.pdf>]
-[32 <./Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf>] [33 <./Figure
-s/Chapter2/RTDoesntWork-eps-converted-to.pdf> <./Figures/Chapter2/dst1-eps-conv
-erted-to.pdf>] [34 <./Figures/Chapter2/fn1ThreeSite-eps-converted-to.pdf> <./Fi
-gures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf>] [35 <./Fig
-ures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf>]
+(./Chapters/Chapter3-Roy2014.tex [30 <./Figures/Chapter2/HIVviaSeqZip-eps-conve
+rted-to.pdf>] [31 <./Figures/Chapter2/PrecursorLocations-eps-converted-to.pdf>]
+[32 <./Figures/Chapter2/RTDoesntWork-eps-converted-to.pdf> <./Figures/Chapter2/
+dst1-eps-converted-to.pdf>] [33 <./Figures/Chapter2/fn1ThreeSite-eps-converted-
+to.pdf> <./Figures/Chapter2/testesSpecificRnaseqPrecursors-eps-converted-to.pdf
+>] [34 <./Figures/Chapter2/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf>]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 SeqZip Publication
@@ -1807,7 +1816,7 @@ g1-eps-converted-to.pdf Figures/Chapter3/Roy2014Fig1.eps>
 (epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter3/Roy2014Fig1-eps-converted-to.pdf, id=1828, 409.53pt x 143.536
+<Figures/Chapter3/Roy2014Fig1-eps-converted-to.pdf, id=1886, 409.53pt x 143.536
 25pt>
 File: Figures/Chapter3/Roy2014Fig1-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1827,7 +1836,7 @@ g2-eps-converted-to.pdf Figures/Chapter3/Roy2014Fig2.eps>
 (epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf, id=1829, 387.4475pt x 358.3
+<Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf, id=1887, 387.4475pt x 358.3
 3875pt>
 File: Figures/Chapter3/Roy2014Fig2-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1847,7 +1856,7 @@ g3-eps-converted-to.pdf Figures/Chapter3/Roy2014Fig3.eps>
 (epstopdf)             \includegraphics on input line 55.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf, id=1830, 390.45876pt x 478.
+<Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf, id=1888, 390.45876pt x 478.
 78876pt>
 File: Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1856,10 +1865,10 @@ Package pdftex.def Info: Figures/Chapter3/Roy2014Fig3-eps-converted-to.pdf used
  on input line 55.
 (pdftex.def)             Requested size: 390.4578pt x 478.78758pt.
 )
-(./Chapters/Chapter4-Li2013.tex [36
+(./Chapters/Chapter4-Li2013.tex [35
 
- <./Figures/Chapter3/Roy2014Fig1-eps-converted-to.pdf>] [37 <./Figures/Chapter3
-/Roy2014Fig2-eps-converted-to.pdf>] [38 <./Figures/Chapter3/Roy2014Fig3-eps-con
+ <./Figures/Chapter3/Roy2014Fig1-eps-converted-to.pdf>] [36 <./Figures/Chapter3
+/Roy2014Fig2-eps-converted-to.pdf>] [37 <./Figures/Chapter3/Roy2014Fig3-eps-con
 verted-to.pdf>]
 Chapter 4.
 ------------------------------------------------------------------------------
@@ -1867,10 +1876,10 @@ Chapter 4.
 ng Early Meiosis in Mouse Testes
 ------------------------------------------------------------------------------
 
-Package natbib Warning: Citation `Hannon2008' on page 39 undefined on input lin
-e 12.
+Package natbib Warning: Citation `Hannon2008' on page 38 undefined on input lin
+e 9.
 
-[39
+[38
 
 ]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig1.eps>
@@ -1882,16 +1891,16 @@ rted-to.pdf>
 (epstopdf)                    size: 76168 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig1-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig1.eps>
-(epstopdf)             \includegraphics on input line 38.
+(epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf, id=2062, 320.19624pt x 
+<Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf, id=2119, 320.19624pt x 
 444.66125pt>
 File: Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf 
-used on input line 38.
+used on input line 27.
 (pdftex.def)             Requested size: 320.19545pt x 444.66016pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS1.eps>
 (epstopdf)                    date: 2014-04-05 21:14:11
@@ -1902,20 +1911,20 @@ erted-to.pdf>
 (epstopdf)                    size: 64852 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS1-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS1.eps>
-(epstopdf)             \includegraphics on input line 50.
+(epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf, id=2065, 369.38pt x 50
+<Figures/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf, id=2122, 369.38pt x 50
 4.88625pt>
 File: Figures/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf
- used on input line 50.
+ used on input line 37.
 (pdftex.def)             Requested size: 369.37909pt x 504.885pt.
 
-[40] [41 <./Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf>] [42 <./Figu
-res/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf>] [43]
+[39] [40 <./Figures/Chapter4/MolCel2013_Fig1-eps-converted-to.pdf>] [41 <./Figu
+res/Chapter4/MolCel2013_FigS1-eps-converted-to.pdf>] [42]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig2.eps>
 (epstopdf)                    date: 2014-04-05 21:15:13
 (epstopdf)                    size: 688247 bytes
@@ -1925,16 +1934,16 @@ rted-to.pdf>
 (epstopdf)                    size: 69819 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig2-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig2.eps>
-(epstopdf)             \includegraphics on input line 91.
+(epstopdf)             \includegraphics on input line 67.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf, id=2211, 370.38374pt x 
+<Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf, id=2269, 370.38374pt x 
 485.815pt>
 File: Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf 
-used on input line 91.
+used on input line 67.
 (pdftex.def)             Requested size: 370.38283pt x 485.81381pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS2.eps>
 (epstopdf)                    date: 2014-04-05 21:14:02
@@ -1945,23 +1954,23 @@ erted-to.pdf>
 (epstopdf)                    size: 130195 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS2-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS2.eps>
-(epstopdf)             \includegraphics on input line 102.
+(epstopdf)             \includegraphics on input line 76.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf, id=2214, 408.52625pt x
+<Figures/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf, id=2272, 408.52625pt x
  536.0025pt>
 File: Figures/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf
- used on input line 102.
+ used on input line 76.
 (pdftex.def)             Requested size: 408.52525pt x 536.00119pt.
 
 
-LaTeX Warning: Reference `fig:MolCelF13' on page 44 undefined on input line 118
-.
+LaTeX Warning: Reference `fig:MolCelF13' on page 43 undefined on input line 90.
 
-[44] [45 <./Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf>] [46 <./Figu
+
+[43] [44 <./Figures/Chapter4/MolCel2013_Fig2-eps-converted-to.pdf>] [45 <./Figu
 res/Chapter4/MolCel2013_FigS2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig3.eps>
 (epstopdf)                    date: 2014-04-05 21:15:06
@@ -1972,16 +1981,16 @@ rted-to.pdf>
 (epstopdf)                    size: 108461 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig3-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig3.eps>
-(epstopdf)             \includegraphics on input line 124.
+(epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf, id=2316, 482.80376pt x 
+<Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf, id=2374, 482.80376pt x 
 289.08pt>
 File: Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf 
-used on input line 124.
+used on input line 96.
 (pdftex.def)             Requested size: 482.80258pt x 289.07928pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS3.eps>
 (epstopdf)                    date: 2014-04-05 21:13:53
@@ -1992,20 +2001,20 @@ erted-to.pdf>
 (epstopdf)                    size: 86699 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS3-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS3.eps>
-(epstopdf)             \includegraphics on input line 135.
+(epstopdf)             \includegraphics on input line 105.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS3-eps-converted-to.pdf, id=2325, 387.4475pt x 
+<Figures/Chapter4/MolCel2013_FigS3-eps-converted-to.pdf, id=2383, 387.4475pt x 
 289.08pt>
 File: Figures/Chapter4/MolCel2013_FigS3-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS3-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS3-eps-converted-to.pdf
- used on input line 135.
+ used on input line 105.
 (pdftex.def)             Requested size: 387.44655pt x 289.07928pt.
- [47
+ [46
 
- <./Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf>] [48 <./Figures/Chap
+ <./Figures/Chapter4/MolCel2013_Fig3-eps-converted-to.pdf>] [47 <./Figures/Chap
 ter4/MolCel2013_FigS3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig4.eps>
 (epstopdf)                    date: 2014-04-05 21:14:58
@@ -2016,16 +2025,16 @@ rted-to.pdf>
 (epstopdf)                    size: 81379 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig4-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig4.eps>
-(epstopdf)             \includegraphics on input line 160.
+(epstopdf)             \includegraphics on input line 124.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf, id=2384, 393.47pt x 391
+<Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf, id=2442, 393.47pt x 391
 .4625pt>
 File: Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf 
-used on input line 160.
+used on input line 124.
 (pdftex.def)             Requested size: 393.46902pt x 391.46153pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS4.eps>
 (epstopdf)                    date: 2014-04-05 21:13:44
@@ -2036,23 +2045,23 @@ erted-to.pdf>
 (epstopdf)                    size: 58170 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS4-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS4.eps>
-(epstopdf)             \includegraphics on input line 171.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS4-eps-converted-to.pdf, id=2387, 385.44pt x 45
+<Figures/Chapter4/MolCel2013_FigS4-eps-converted-to.pdf, id=2445, 385.44pt x 45
 4.69875pt>
 File: Figures/Chapter4/MolCel2013_FigS4-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS4-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS4-eps-converted-to.pdf
- used on input line 171.
+ used on input line 133.
 (pdftex.def)             Requested size: 385.43906pt x 454.69763pt.
 
-[49
+[48
 
-] [50 <./Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf>] [51 <./Figures
+] [49 <./Figures/Chapter4/MolCel2013_Fig4-eps-converted-to.pdf>] [50 <./Figures
 /Chapter4/MolCel2013_FigS4-eps-converted-to.pdf>]
-Overfull \hbox (3.59384pt too wide) in paragraph at lines 193--194
+Overfull \hbox (3.59384pt too wide) in paragraph at lines 151--152
 \T1/phv/m/n/12 dance sig-nif-i-cantly de-creased in mu-tant testes. At 14.5 dpp
 , me-dian piRNA abun-dance per pachytene
  []
@@ -2066,16 +2075,16 @@ rted-to.pdf>
 (epstopdf)                    size: 45188 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig5-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig5.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf, id=2499, 399.4925pt x 4
+<Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf, id=2556, 399.4925pt x 4
 15.5525pt>
 File: Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf 
-used on input line 198.
+used on input line 155.
 (pdftex.def)             Requested size: 399.49152pt x 415.55148pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS5.eps>
 (epstopdf)                    date: 2014-04-05 21:13:25
@@ -2086,19 +2095,19 @@ erted-to.pdf>
 (epstopdf)                    size: 47691 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS5-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS5.eps>
-(epstopdf)             \includegraphics on input line 209.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf, id=2502, 308.15125pt x
+<Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf, id=2559, 308.15125pt x
  254.9525pt>
 File: Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf
- used on input line 209.
+ used on input line 164.
 (pdftex.def)             Requested size: 308.15048pt x 254.95186pt.
 
-[52] [53 <./Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf>]
+[51] [52 <./Figures/Chapter4/MolCel2013_Fig5-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig6.eps>
 (epstopdf)                    date: 2014-04-05 21:14:40
 (epstopdf)                    size: 2507933 bytes
@@ -2108,16 +2117,16 @@ rted-to.pdf>
 (epstopdf)                    size: 189215 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig6-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig6.eps>
-(epstopdf)             \includegraphics on input line 240.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig6-eps-converted-to.pdf, id=2560, 396.48125pt x 
+<Figures/Chapter4/MolCel2013_Fig6-eps-converted-to.pdf, id=2616, 396.48125pt x 
 345.29pt>
 File: Figures/Chapter4/MolCel2013_Fig6-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig6-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig6-eps-converted-to.pdf 
-used on input line 240.
+used on input line 188.
 (pdftex.def)             Requested size: 396.48027pt x 345.28914pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS6.eps>
 (epstopdf)                    date: 2014-04-05 21:13:15
@@ -2128,20 +2137,20 @@ erted-to.pdf>
 (epstopdf)                    size: 264271 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS6-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS6.eps>
-(epstopdf)             \includegraphics on input line 252.
+(epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS6-eps-converted-to.pdf, id=2563, 342.27875pt x
+<Figures/Chapter4/MolCel2013_FigS6-eps-converted-to.pdf, id=2619, 342.27875pt x
  357.335pt>
 File: Figures/Chapter4/MolCel2013_FigS6-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS6-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS6-eps-converted-to.pdf
- used on input line 252.
+ used on input line 197.
 (pdftex.def)             Requested size: 342.2779pt x 357.33412pt.
 
-[54 <./Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf>] [55 <./Figures/
-Chapter4/MolCel2013_Fig6-eps-converted-to.pdf>] [56 <./Figures/Chapter4/MolCel2
+[53 <./Figures/Chapter4/MolCel2013_FigS5-eps-converted-to.pdf>] [54 <./Figures/
+Chapter4/MolCel2013_Fig6-eps-converted-to.pdf>] [55 <./Figures/Chapter4/MolCel2
 013_FigS6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig7.eps>
 (epstopdf)                    date: 2014-04-05 21:14:32
@@ -2152,16 +2161,16 @@ rted-to.pdf>
 (epstopdf)                    size: 1612018 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig7-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig7.eps>
-(epstopdf)             \includegraphics on input line 279.
+(epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf, id=2717, 415.5525pt x 5
+<Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf, id=2773, 415.5525pt x 5
 02.87875pt>
 File: Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf 
-used on input line 279.
+used on input line 219.
 (pdftex.def)             Requested size: 415.55148pt x 502.87752pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS7.eps>
 (epstopdf)                    date: 2014-04-05 21:13:05
@@ -2172,19 +2181,19 @@ erted-to.pdf>
 (epstopdf)                    size: 2987130 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS7-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS7.eps>
-(epstopdf)             \includegraphics on input line 293.
+(epstopdf)             \includegraphics on input line 230.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS7-eps-converted-to.pdf, id=2720, 373.395pt x 5
+<Figures/Chapter4/MolCel2013_FigS7-eps-converted-to.pdf, id=2776, 373.395pt x 5
 57.08125pt>
 File: Figures/Chapter4/MolCel2013_FigS7-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS7-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS7-eps-converted-to.pdf
- used on input line 293.
+ used on input line 230.
 (pdftex.def)             Requested size: 373.39409pt x 557.0799pt.
 
-[57 <./Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf>] [58 <./Figures/C
+[56 <./Figures/Chapter4/MolCel2013_Fig7-eps-converted-to.pdf>] [57 <./Figures/C
 hapter4/MolCel2013_FigS7-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_Fig8.eps>
 (epstopdf)                    date: 2014-04-05 21:14:19
@@ -2195,16 +2204,16 @@ rted-to.pdf>
 (epstopdf)                    size: 141995 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_Fig8-eps-converted-to.pdf Figures/Chapter4/MolCel2013_Fig8.eps>
-(epstopdf)             \includegraphics on input line 316.
+(epstopdf)             \includegraphics on input line 249.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf, id=2802, 401.5pt x 526.
+<Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf, id=2859, 401.5pt x 526.
 96875pt>
 File: Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf 
-used on input line 316.
+used on input line 249.
 (pdftex.def)             Requested size: 401.49901pt x 526.96745pt.
 Package epstopdf Info: Source file: <Figures/Chapter4/MolCel2013_FigS8.eps>
 (epstopdf)                    date: 2014-04-05 21:12:47
@@ -2215,39 +2224,45 @@ erted-to.pdf>
 (epstopdf)                    size: 44286 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Chapter4/MolCel201
 3_FigS8-eps-converted-to.pdf Figures/Chapter4/MolCel2013_FigS8.eps>
-(epstopdf)             \includegraphics on input line 328.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf, id=2803, 407.5225pt x 
+<Figures/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf, id=2860, 407.5225pt x 
 459.7175pt>
 File: Figures/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf Graphic file (type
  pdf)
  <use Figures/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf
- used on input line 328.
+ used on input line 258.
 (pdftex.def)             Requested size: 407.5215pt x 459.71637pt.
 
-[59] [60 <./Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf>] [61 <./Figu
-res/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf>] [62]
-Overfull \hbox (9.0989pt too wide) in paragraph at lines 366--368
+[58] [59 <./Figures/Chapter4/MolCel2013_Fig8-eps-converted-to.pdf>] [60 <./Figu
+res/Chapter4/MolCel2013_FigS8-eps-converted-to.pdf>] [61]
+Overfull \hbox (9.0989pt too wide) in paragraph at lines 289--291
 \T1/phv/m/n/12 guide-lines of the In-sti-tu-tional An-i-mal Care and Use Com-mi
 t-tee of the Uni-ver-sity of Mas-sachusetts
  []
 
-[63]
-Overfull \hbox (7.57498pt too wide) in paragraph at lines 384--385
+[62]
+Overfull \hbox (7.57498pt too wide) in paragraph at lines 307--308
 []\T1/phv/m/n/12 Strand-specific RNA-seq li-braries [[][]Zhang et al.[][], [][]
 2012a[][]] us-ing Ribo-Zero Gold (Epi-cen-tre Biotech-
  []
 
-[64] [65] [66]) (./Chapters/Chapter5-Disc.tex [67]
+[63] [64] [65]) (./Chapters/Chapter5-Disc.tex [66]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Discussion
 ------------------------------------------------------------------------------
-[68
+[67
 
-] [69] [70] [71]) (./Appendices/AppendixA.tex [72]
+] [68] [69] [70]
+Overfull \hbox (21.58066pt too wide) in paragraph at lines 145--145
+ |[]\T1/phv/b/n/17.28 Needle in a haystack: piRNA pre-cur-sor tran-scripts sur-
+rounded
+ []
+
+[71] [72] [73]) (./Appendices/AppendixA.tex [74]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix - Misc Information
@@ -2285,7 +2300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
-[73
+[75
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 87--95
@@ -2297,7 +2312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
  []
 
-) (./Appendices/AppendixB.tex [74]
+) (./Appendices/AppendixB.tex [76]
 Appendix B.
 ------------------------------------------------------------------------------
  B Appendix B: piRNA precurors are spliced
@@ -2316,7 +2331,7 @@ rSplicing.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/AppendixB/evidenceForPrecursorSplicing-eps-converted-to.pdf, id=3097, 
+<Figures/AppendixB/evidenceForPrecursorSplicing-eps-converted-to.pdf, id=3189, 
 415.5525pt x 224.84pt>
 File: Figures/AppendixB/evidenceForPrecursorSplicing-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -2339,7 +2354,7 @@ usorIntrons.eps>
 (epstopdf)             \includegraphics on input line 22.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/AppendixB/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf, id=3098,
+<Figures/AppendixB/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf, id=3190,
  403.5075pt x 367.3725pt>
 File: Figures/AppendixB/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf Grap
 hic file (type pdf)
@@ -2362,7 +2377,7 @@ rSJ.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/AppendixB/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf, id=3099, 415
+<Figures/AppendixB/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf, id=3191, 415
 .5525pt x 258.9675pt>
 File: Figures/AppendixB/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -2386,7 +2401,7 @@ atSpliceJunctions.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Figures/AppendixB/aggregatePiRNAsatSpliceJunctions-eps-converted-to.pdf, id=31
-00, 415.5525pt x 188.705pt>
+92, 415.5525pt x 188.705pt>
 File: Figures/AppendixB/aggregatePiRNAsatSpliceJunctions-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -2408,7 +2423,7 @@ eps>
 (epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/AppendixB/piRNAPrecusorTXFeatures-eps-converted-to.pdf, id=3101, 415.5
+<Figures/AppendixB/piRNAPrecusorTXFeatures-eps-converted-to.pdf, id=3193, 415.5
 525pt x 221.82875pt>
 File: Figures/AppendixB/piRNAPrecusorTXFeatures-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2418,11 +2433,11 @@ Package pdftex.def Info: Figures/AppendixB/piRNAPrecusorTXFeatures-eps-converte
 d-to.pdf used on input line 63.
 (pdftex.def)             Requested size: 415.55148pt x 221.82819pt.
 )
-(./Appendices/AppendixC.tex [75
+(./Appendices/AppendixC.tex [77
 
- <./Figures/AppendixB/evidenceForPrecursorSplicing-eps-converted-to.pdf>] [76 <
+ <./Figures/AppendixB/evidenceForPrecursorSplicing-eps-converted-to.pdf>] [78 <
 ./Figures/AppendixB/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf> <./Figu
-res/AppendixB/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf>] [77 <./Figures/A
+res/AppendixB/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf>] [79 <./Figures/A
 ppendixB/aggregatePiRNAsatSpliceJunctions-eps-converted-to.pdf> <./Figures/Appe
 ndixB/piRNAPrecusorTXFeatures-eps-converted-to.pdf>]
 Appendix C.
@@ -2434,27 +2449,27 @@ File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
-) [78
+) [80
 
 ]
-[79] (./Tables/exampleLigamerAssemblerInput.tex
+[81] (./Tables/exampleLigamerAssemblerInput.tex
 Overfull \hbox (14.17502pt too wide) in paragraph at lines 15--28
 [][] 
  []
 
-) [80
+) [82
 
-] [81
+] [83
 
-] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
-[94] [95] [96] [97] [98]) [99]
+] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
+[96] [97] [98] [99] [100]) [101]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./RoyC_Umass_Thesis.v0.5.bbl [100
+(./RoyC_Umass_Thesis.v0.5.bbl [102
 
 
-] [101] [102]
+] [103]
 
 ! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
 
@@ -2462,25 +2477,26 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.301 ...rmination of Poly(A) Tail Length and 3′
+l.295 ...rmination of Poly(A) Tail Length and 3′
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114])
+[104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
+[116])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
-[115]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+[117]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (./RoyC_Umass_Thesis.v0.5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `RoyC_Umass_Thesis.v0.5.out' has not changed.
 
-(rerunfilecheck)             Checksum: 7EE4F9E93351CCA3EA4E21519769BABB;19983.
+(rerunfilecheck)             Checksum: E6A6664E7F83504275889352D9AD280A;23814.
 
 
 LaTeX Warning: There were undefined references.
@@ -2488,16 +2504,16 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 22804 strings out of 493308
- 364058 string characters out of 6137816
- 595547 words of memory out of 5000000
- 24257 multiletter control sequences out of 15000+600000
+ 22842 strings out of 493308
+ 364669 string characters out of 6137816
+ 595986 words of memory out of 5000000
+ 24282 multiletter control sequences out of 15000+600000
  75752 words of font info for 94 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,14n,45p,10451b,2190s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,14n,45p,10453b,2190s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
@@ -2519,10 +2535,10 @@ s/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/h
 elvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic
 /uhvro8a.pfb>
-Output written on RoyC_Umass_Thesis.v0.5.pdf (131 pages, 11419164 bytes).
+Output written on RoyC_Umass_Thesis.v0.5.pdf (134 pages, 11434060 bytes).
 PDF statistics:
- 4726 PDF objects out of 5155 (max. 8388607)
- 4173 compressed objects within 42 object streams
- 1536 named destinations out of 1728 (max. 500000)
- 968 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4822 PDF objects out of 5155 (max. 8388607)
+ 4265 compressed objects within 43 object streams
+ 1549 named destinations out of 1728 (max. 500000)
+ 1072 words of extra memory for PDF output out of 10000 (max. 10000000)
 

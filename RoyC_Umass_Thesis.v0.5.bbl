@@ -191,12 +191,6 @@ Besmer, P., Jr., R. C.~M., Caruthers, M.~H., Kumar, A., Minamoto, K., van~de
   phi80psu + 3 DNA.}
 \newblock {\em Journal of Molecular Biology}, 72:503--522.
 
-\bibitem[Bingham et~al., 2008]{Bingham2008a}
-Bingham, J.~L., Carrigan, P.~E., Miller, L.~J., and Srinivasan, S. (2008).
-\newblock {Extent and diversity of human alternative splicing established by
-  complementary database annotation and microarray analysis.}
-\newblock {\em Omics : a journal of integrative biology}, 12(1):83--92.
-
 \bibitem[Blencowe et~al., 2009]{Blencowe2009}
 Blencowe, B.~J., Ahmad, S., and Lee, L.~J. (2009).
 \newblock {Current-generation high-throughput sequencing: deepening insights
@@ -707,12 +701,6 @@ Kawaoka, S., Hara, K., Shoji, K., Kobayashi, M., Shimada, T., Sugano, S.,
 \newblock {The comprehensive epigenome map of piRNA clusters}.
 \newblock pages 1--10.
 
-\bibitem[Kelemen et~al., 2013]{Kelemen2013}
-Kelemen, O., Convertini, P., Zhang, Z., Wen, Y., Shen, M., Falaleeva, M., and
-  Stamm, S. (2013).
-\newblock {Function of alternative splicing.}
-\newblock {\em Gene}, 514(1):1--30.
-
 \bibitem[Kennard, 1927]{Kennard1927}
 Kennard, E.~H. (1927).
 \newblock {Zur Quantenmechanik einfacher Bewegungstypen}.
@@ -1120,6 +1108,13 @@ Pane, A., Wehr, K., and Sch\"{u}pbach, T. (2007).
   rasiRNA production in the Drosophila germline.}
 \newblock {\em Developmental cell}, 12(6):851--62.
 
+\bibitem[Park et~al., 2014]{Park2014}
+Park, H.~Y., Lim, H., Yoon, Y.~J., Follenzi, A., Nwokafor, C., Meng, X.,
+  Singer, R.~H., and Yoon, H. (2014).
+\newblock {Visualization of dynamics of single endogenous mRNA labeled in live
+  mouse.}
+\newblock {\em Science (New York, N.Y.)}, 343(6169):422--4.
+
 \bibitem[Park and Graveley, 2007]{Park2007}
 Park, J.~W. and Graveley, B.~R. (2007).
 \newblock {Complex alternative splicing}.
@@ -1160,15 +1155,10 @@ Peng, T., Xue, C., Bi, J., Li, T., Wang, X., Zhang, X., and Li, Y. (2008).
 \newblock {\em BMC Genomics}, 9(1):191.
 
 \bibitem[Plocik and Graveley, 2013]{Plocik2013}
-Plocik, A.~M. and Graveley, B.~R. (2013).
-\newblock {New Insights from Existing Sequence Data: Generating Breakthroughs
-  without a Pipette}.
-\newblock {\em Molecular Cell}, 49(4):605--617.
-
-\bibitem[Ponta et~al., 2003]{Ponta2003b}
-Ponta, H., Sherman, L., and Herrlich, P.~a. (2003).
-\newblock {CD44: from adhesion molecules to signalling regulators.}
-\newblock {\em Nature reviews. Molecular cell biology}, 4(1):33--45.
+Plocik, A. M.~A. and Graveley, B.~R. (2013).
+\newblock {New insights from existing sequence data: generating breakthroughs
+  without a pipette.}
+\newblock {\em Molecular cell}, 49(4):605--17.
 
 \bibitem[Purandare et~al., 2014]{Purandare2014b}
 Purandare, S.~R., Tenhumberg, B., and Brisson, J.~a. (2014).
@@ -1698,14 +1688,6 @@ Yabuta, Y., Ohta, H., Abe, T., Kurimoto, K., Chuma, S., and Saitou, M. (2011).
 \newblock {TDRD5 is required for retrotransposon silencing, chromatoid body
   assembly, and spermiogenesis in mice.}
 \newblock {\em The Journal of cell biology}, 192(5):781--95.
-
-\bibitem[Yamakawa et~al., 1998]{Yamakawa1998b}
-Yamakawa, K., Huot, Y.~K., Haendelt, M.~a., Hubert, R., Chen, X.~N., Lyons,
-  G.~E., and Korenberg, J.~R. (1998).
-\newblock {DSCAM: a novel member of the immunoglobulin superfamily maps in a
-  Down syndrome region and is involved in the development of the nervous
-  system.}
-\newblock {\em Human molecular genetics}, 7(2):227--37.
 
 \bibitem[Yang et~al., 2011]{Yang2011}
 Yang, Y., Zhan, L., Zhang, W., Sun, F., Wang, W., Tian, N., Bi, J., Wang, H.,

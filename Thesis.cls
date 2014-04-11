@@ -53,23 +53,23 @@
 %----------------------------------------------------------------------------------------
 %	MARGINS
 %----------------------------------------------------------------------------------------
-%\setmarginsrb  { 1.5in}  % left margin | Umass Corrected
-                        %{ 1.5in}  % top margin
-                        %{ 1.0in}  % right margin
-                        %{ 1.0in}  % bottom margin
-                        %{  20pt}  % head height
-                        %{0.25in}  % head sep
-                        %{   9pt}  % foot height
-                        %{ 0.3in}  % foot sep
-%----------------------------------------------------------------------------------------
-\setmarginsrb  { 0.5in}  % left margin | For Good Draft printing
-                        { 0.5in}  % top margin
-                        { 0.5in}  % right margin
-                        { 0.5in}  % bottom margin
+\setmarginsrb  { 1.5in}  % left margin | Umass Corrected
+                        { 1.5in}  % top margin
+                        { 1.0in}  % right margin
+                        { 1.0in}  % bottom margin
                         {  20pt}  % head height
                         {0.25in}  % head sep
                         {   9pt}  % foot height
                         { 0.3in}  % foot sep
+%----------------------------------------------------------------------------------------
+%\setmarginsrb  { 0.5in}  % left margin | For Good Draft printing
+%                        { 0.5in}  % top margin
+%                        { 0.5in}  % right margin
+%                        { 0.5in}  % bottom margin
+%                        {  20pt}  % head height
+%                        {0.25in}  % head sep
+%                        {   9pt}  % foot height
+%                        { 0.3in}  % foot sep
 %----------------------------------------------------------------------------------------
 
 \raggedbottom
@@ -171,127 +171,126 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{"Putting the pieces together: exons and piRNAs"} % Your thesis title - this is used in the title and abstract
+\thesistitle{"Putting the Pieces Together: Exons and piRNAs"} % Your thesis title
 %-------------------------------------------------  
 \supervisorOne{Melissa J. \textsc{Moore}} % You supervisor's name - this is used in the title page
 \supervisorTwo{Phillip D. \textsc{Zamore}} % You supervisor's name - this is used in the title page
-%-------------------------------------------------   
-\examiner{} % Your examiner's name - this is not currently used anywhere in the template, cite it with \examname if you want it
 %-------------------------------------------------   
 \degreeName{Doctor of Philosophy} % Your degree name - this is currently used in the title page and abstract
 %-------------------------------------------------   
 \authors{Christian K. \textsc{Roy}} % Your name - this is used in the title page and abstract
 %-------------------------------------------------   
-\addresses{} % Your address - this is not currently used anywhere in the template, cite it with \addressnames if you want it
 %-------------------------------------------------   
-\subject{} % Your subject area - this is not currently used anywhere in the template, cite it with \subjectname if you want it
+\subject{Biochemistry} 
 %-------------------------------------------------   
-\keywords{} % Keywords for your thesis - this is not currently used anywhere in the template, cite it with \keywordnames if you want it
+\keywords{Alternative Splicing, piRNA, Mammalian piRNA, SeqZip, Ligation, Transcriptome, High-throughput Sequencing}
 %-------------------------------------------------   
 \university{\texorpdfstring{\href{http://www.umassmed.edu} % Your university's URL
-                {UNIVERSITY OF MASSACHUSETTS}} % Your university's name - this is currently used in the title page
-                {UNIVERSITY OF MASSACHUSETTS}}
+                {UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL}} % Your university's name - this is currently used in the title page
+                {UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL}}
 %-------------------------------------------------   
-\UNIVERSITY{\texorpdfstring{\href{University Web Site URL Here (include http://)} % Your university's URL
-                {UNIVERSITY NAME (IN BLOCK CAPITALS)}} % Your university's name in capitals - this is currently used in the abstract page
-                {UNIVERSITY NAME (IN BLOCK CAPITALS)}}
+\UNIVERSITY{\texorpdfstring{\href{http://www.umassmed.edu)} % Your university's URL
+                {UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL}} % Your university's name in capitals - this is currently used in the abstract page
+                {UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL}}
 %-------------------------------------------------                
 \department{\texorpdfstring{\href{http://www.umassmed.edu/bmp/index.aspx(include http://)} % Your department's URL
                 {BIOCHEMISTRY AND MOLECULAR PHARMACOLOGY}} % Your department's name - used in the title page and abstract
                 {BIOCHEMISTRY AND MOLECULAR PHARMACOLOGY}}
 %-------------------------------------------------                
-\DEPARTMENT{\texorpdfstring{\href{Department or School Web Site URL Here (include http://)} % Your department's URL
-                {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}} % Your department's name in capitals - this is not currently used anywhere in the template, cite it with \DEPTNAME if you want it
-                {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
+\DEPARTMENT{\texorpdfstring{\href{http://www.umassmed.edu/bmp)} % Your department's URL
+                {BIOCHEMISTRY AND MOLECULAR PHARMACOLOGY}} % Your department's name in capitals - this is not currently used anywhere in the template, cite it with \DEPTNAME if you want it
+                {BIOCHEMISTRY AND MOLECULAR PHARMACOLOGY}}
 %-------------------------------------------------                
-\group{\texorpdfstring{\href{Research Group Web Site URL Here (include http://)} % Your research group's URL
-                {Research Group Name}} % Your research group's name - this is currently used in the title page 
-                {Research Group Name}}
+\group{\texorpdfstring{\href{http://www.umassmed.edu/rti/} % Your research group's URL
+                {RNA THERAPEUTICS INSTITUTE}} % Your research group's name - this is currently used in the title page 
+                {RNA THERAPEUTICS INSTITUTE}}
 %-------------------------------------------------                
-\GROUP{\texorpdfstring{\href{Research Group Web Site URL Here (include http://)} % Your research group's URL
-                {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}} % Your research group's name in capitals - this is not currently used anywhere in the template, cite it with \GROUPNAME if you want it
-                {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
+\GROUP{\texorpdfstring{\href{http://www.umassmed.edu/rti/} % Your research group's URL
+                {RNA THERAPEUTICS INSTITUTE}} % Your research group's name in capitals - this is not currently used anywhere in the template, cite it with \GROUPNAME if you want it
+                {RNA THERAPEUTICS INSTITUTE}}
 %-------------------------------------------------                
-\faculty{\texorpdfstring{\href{Faculty Web Site URL Here (include http://)} % Your faculty's URL
-                {Faculty Name}} % Your faculty's name - this is currently used in the abstract page
-                {Faculty Name}}
+\faculty{\texorpdfstring{\href{http://labs.umassmed.edu/moorelab/Moore_Lab_Website/home.html} % Your faculty's URL
+                {Moore Lab}} % Your faculty's name - this is currently used in the abstract page
+                {Moore Lab}}
 %-------------------------------------------------                
-\FACULTY{\texorpdfstring{\href{Faculty Web Site URL Here (include http://)} % Your faculty's URL
-                {FACULTY NAME (IN BLOCK CAPITALS)}} % Your faculty's name in capitals - this is not currently used anywhere in the template, cite it with \FACNAME if you want it
-                {FACULTY NAME (IN BLOCK CAPITALS)}}
+\FACULTY{\texorpdfstring{\href{http://labs.umassmed.edu/moorelab/Moore_Lab_Website/home.html} % Your faculty's URL
+                {MELISSA J. MOORE}} % Your faculty's name in capitals - this is not currently used anywhere in the template, cite it with \FACNAME if you want it
+                {MELISSA J. MOORE}}
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE DESIGN
 %----------------------------------------------------------------------------------------
 \newenvironment{abstract}
-{
-  \btypeout{Abstract Page}
-  \thispagestyle{empty}
-  \null\vfil
-  \begin{center}
-    \setlength{\parskip}{0pt}
-    {\normalsize \UNIVNAME \par} % University name in capitals
-    \bigskip
-    {\huge{\textit{Abstract}} \par}
-    \bigskip
-    {\normalsize \facname \par} % Faculty name
-    {\normalsize \deptname \par} % Department name
-    \bigskip
-    {\normalsize \degreename\par} % Degree name
-    \bigskip
-    {\normalsize\bf \@title \par} % Thesis title
-    \medskip
-    {\normalsize by \authornames \par} % Author name
-    \bigskip
-  \end{center}
-}
+  {
+    \btypeout{Abstract Page}
+    \thispagestyle{empty}
+    \null\vfil
+    \begin{center}
+      \setlength{\parskip}{0pt}
+      {\normalsize \UNIVNAME \par} % University name in capitals
+      \bigskip
+      {\huge{\textit{Abstract}} \par}
+      \bigskip
+      %{\normalsize \facname \par} % Faculty name
+      {\normalsize \deptname \par} % Department name
+      \bigskip
+      {\normalsize \degreename\par} % Degree name
+      \bigskip
+      {\normalsize\bf \@title \par} % Thesis title
+      \medskip
+      {\normalsize by \authornames \par} % Author name
+      \bigskip
+    \end{center}
+    }
 %----------------------------------------------------------------------------------------
 {
   \vfil\vfil\vfil\null
   \cleardoublepage
 }
+
 \addtocounter{secnumdepth}{1}
 \setcounter{tocdepth}{6}
 \newcounter{dummy}
 \newcommand\addtotoc[1]{
 \refstepcounter{dummy}
 \addcontentsline{toc}{chapter}{#1}}
+
 \renewcommand\tableofcontents{
-\btypeout{Table of Contents}
-\addtotoc{Contents}
-\begin{spacing}{1}{
-    \setlength{\parskip}{1pt}
-    \if@twocolumn
-      \@restonecoltrue\onecolumn
-    \else
-      \@restonecolfalse
-    \fi
-    \chapter*{\contentsname
-        \@mkboth{
-           \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}
-    \@starttoc{toc}
-    \if@restonecol\twocolumn\fi
-   \cleardoublepage
-}\end{spacing}
+  \btypeout{Table of Contents}
+  \addtotoc{Contents}
+  \begin{spacing}{1}{
+      \setlength{\parskip}{1pt}
+      \if@twocolumn
+        \@restonecoltrue\onecolumn
+      \else
+        \@restonecolfalse
+      \fi
+      \chapter*{\contentsname
+          \@mkboth{
+             \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}
+      \@starttoc{toc}
+      \if@restonecol\twocolumn\fi
+     \cleardoublepage
+  }\end{spacing}
 }
 
 \renewcommand\listoffigures{
-\btypeout{List of Figures}
-\addtotoc{List of Figures}
-\begin{spacing}{1}{
-    \setlength{\parskip}{1pt}
-    \if@twocolumn
-      \@restonecoltrue\onecolumn
-    \else
-      \@restonecolfalse
-    \fi
-    \chapter*{\listfigurename
-      \@mkboth{\MakeUppercase\listfigurename}
-              {\MakeUppercase\listfigurename}}
-    \@starttoc{lof}
-    \if@restonecol\twocolumn\fi
-    \cleardoublepage
-}\end{spacing}
-}
+  \btypeout{List of Figures}
+  \addtotoc{List of Figures}
+  \begin{spacing}{1}{
+      \setlength{\parskip}{1pt}
+      \if@twocolumn
+        \@restonecoltrue\onecolumn
+      \else
+        \@restonecolfalse
+      \fi
+      \chapter*{\listfigurename
+        \@mkboth{\MakeUppercase\listfigurename}
+                {\MakeUppercase\listfigurename}}
+      \@starttoc{lof}
+      \if@restonecol\twocolumn\fi
+      \cleardoublepage
+  }\end{spacing}
+  }
 
 \renewcommand\listoftables{
 \btypeout{List of Tables}
@@ -345,11 +344,12 @@
 \thispagestyle{plain}
 \begin{center}{\huge{\textit{Preface}} \par}\end{center}
 {\normalsize #1}
-\vfil\vfil\null
+%\vfil\vfil\null
 }
 
 \newcommand\dedicatory[1]{
-\btypeout{Dedicatory}
+\btypeout{Dedication}
+\addtotoc{Dedication}
 \thispagestyle{plain}
 \null\vfil
 \vskip 60\p@
@@ -357,6 +357,7 @@
 \vfil\null
 \cleardoublepage
 }
+
 \renewcommand\backmatter{
   \if@openright
     \cleardoublepage

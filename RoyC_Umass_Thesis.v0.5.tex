@@ -5,6 +5,7 @@
   \usepackage{float}  % For Figures
     \floatstyle{plain} \restylefloat{figure} % Figures with Captions below
     \floatstyle{plaintop} \restylefloat{table} % Table with captions above
+  \usepackage[font={footnotesize}]{caption} % Make Fonts of Captions Small
   \usepackage{pdflscape} % Rotate page; BOTH printing and viewing! \begin{landscape} \end{landscape}
   \usepackage{helvet} \renewcommand{\familydefault}{\sfdefault} % Pick Ariel Font  
   \usepackage[T1]{fontenc}   % Standardize output fonts
@@ -41,16 +42,15 @@
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
   \setstretch{1.3} % Line spacing of 1.3
   % Define the page headers using the FancyHdr package and set up for one-sided printing
-  \fancyhead{} % Clears all page headers and footers
-  \rhead{\thepage} % Sets the right side header to show the page number
-  \lhead{} % Clears the left side page header
-  \pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
-  \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+    \fancyhead{} % Clears all page headers and footers
+    \rhead{\thepage} % Sets the right side header to show the page number
+    \lhead{} % Clears the left side page header
+    \pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers  
   % PDF meta-data
-  \hypersetup{pdftitle={\ttitle}}
-	\hypersetup{pdfsubject=\subjectname}
-	\hypersetup{pdfauthor=\authornames}
-	\hypersetup{pdfkeywords=\keywordnames}
+    \hypersetup{pdftitle={\ttitle}}
+  	\hypersetup{pdfsubject=\subjectname}
+  	\hypersetup{pdfauthor=\authornames}
+  	\hypersetup{pdfkeywords=\keywordnames}
   \input{FrontMatter/titlePage}
   \input{FrontMatter/signaturePage}
   \input{FrontMatter/abstract}
@@ -71,13 +71,12 @@
   \input{Chapters/Chapter3-Roy2014}
   \input{Chapters/Chapter4-Li2013} 
   \input{Chapters/Chapter5-Disc} 
-  \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
   \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
   \label{hd:Appendicies}
+  \setstretch{1} % Line spacing of 1
   \input{Appendices/AppendixA}
   \input{Appendices/AppendixB}
   \input{Appendices/AppendixC}
-  \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 \backmatter
   \label{hd:Bibliography}
   \setstretch{1} % Line spacing of 1

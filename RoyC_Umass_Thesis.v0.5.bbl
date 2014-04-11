@@ -191,6 +191,12 @@ Besmer, P., Jr., R. C.~M., Caruthers, M.~H., Kumar, A., Minamoto, K., van~de
   phi80psu + 3 DNA.}
 \newblock {\em Journal of Molecular Biology}, 72:503--522.
 
+\bibitem[Bingham et~al., 2008]{Bingham2008}
+Bingham, J.~L., Carrigan, P.~E., Miller, L.~J., and Srinivasan, S. (2008).
+\newblock {Extent and diversity of human alternative splicing established by
+  complementary database annotation and microarray analysis}.
+\newblock {\em Omics: A Journal of Integrative Biology}, 12(1):83--92.
+
 \bibitem[Blencowe et~al., 2009]{Blencowe2009}
 Blencowe, B.~J., Ahmad, S., and Lee, L.~J. (2009).
 \newblock {Current-generation high-throughput sequencing: deepening insights
@@ -348,6 +354,13 @@ Core, L.~J., Waterfall, J.~J., and Lis, J.~T. (2008).
 \newblock {Nascent RNA sequencing reveals widespread pausing and divergent
   initiation at human promoters.}
 \newblock {\em Science}, 322:1845--1848.
+
+\bibitem[Cramer et~al., 1997]{Cramer1997}
+Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
+\newblock {Functional association between promoter structure and transcript
+  alternative splicing}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 94(21):11456
+  --11460.
 
 \bibitem[{De Fazio} et~al., 2011]{DeFazio2011}
 {De Fazio}, S., Bartonicek, N., {Di Giacomo}, M., Abreu-Goodger, C., Sankar,
@@ -577,6 +590,13 @@ Handler, D., Olivieri, D., Novatchkova, M., Gruber, F.~S., Meixner, K.,
 Hartig, J.~V., Tomari, Y., and F\"{o}rstemann, K. (2007).
 \newblock {piRNAs--the ancient hunters of genome invaders.}
 \newblock {\em Genes \& development}, 21(14):1707--13.
+
+\bibitem[Hattori et~al., 2009]{Hattori2009}
+Hattori, D., Chen, Y., Matthews, B.~J., Salwinski, L., Sabatti, C., Grueber,
+  W.~B., and Zipursky, S.~L. (2009).
+\newblock {Robust discrimination between self and non-self neurites requires
+  thousands of Dscam1 isoforms}.
+\newblock {\em Nature}, 461(7264):644--648.
 
 \bibitem[Hattori et~al., 2008]{Hattori2008}
 Hattori, D., Millard, S.~S., Wojtowicz, W.~M., and Zipursky, S.~L. (2008).
@@ -1095,6 +1115,12 @@ Osella, M., Bosia, C., Cor\'{a}, D., and Caselle, M. (2011).
 \newblock {The role of incoherent microRNA-mediated feedforward loops in noise
   buffering.}
 \newblock {\em PLoS computational biology}, 7(3):e1001101.
+
+\bibitem[Osheim et~al., 1985]{Osheim1985}
+Osheim, Y.~N., Miller, O.~L., and Beyer, a.~L. (1985).
+\newblock {RNP particles at splice junction sequences on Drosophila chorion
+  transcripts.}
+\newblock {\em Cell}, 43(1):143--51.
 
 \bibitem[Pan et~al., 2008]{Pan2008}
 Pan, Q., Shai, O., Lee, L.~J., Frey, B.~J., and Blencowe, B.~J. (2008).
@@ -1626,13 +1652,22 @@ Wang, L.~K., Lima, C.~D., and Shuman, S. (2002).
   enzyme.}
 \newblock {\em The EMBO journal}, 21(14):3873--80.
 
-\bibitem[Watanabe et~al., 2011]{Watanabe2011a}
+\bibitem[Watanabe et~al., 2011a]{Watanabe2011a}
 Watanabe, T., Chuma, S., Yamamoto, Y., Kuramochi-Miyagawa, S., Totoki, Y.,
   Toyoda, A., Hoki, Y., Fujiyama, A., Shibata, T., Sado, T., Noce, T., Nakano,
-  T., Nakatsuji, N., Lin, H., and Sasaki, H. (2011).
+  T., Nakatsuji, N., Lin, H., and Sasaki, H. (2011a).
 \newblock {MITOPLD Is a Mitochondrial Protein Essential for Nuage Formation and
   piRNA Biogenesis in the Mouse Germline}.
 \newblock {\em Developmental Cell}, 20(3):364--375.
+
+\bibitem[Watanabe et~al., 2011b]{Watanabe2011}
+Watanabe, T., Tomizawa, S.-i., Mitsuya, K., Totoki, Y., Yamamoto, Y.,
+  Kuramochi-Miyagawa, S., Iida, N., Hoki, Y., Murphy, P.~J., Toyoda, A., Gotoh,
+  K., Hiura, H., Arima, T., Fujiyama, A., Sado, T., Shibata, T., Nakano, T.,
+  Lin, H., Ichiyanagi, K., Soloway, P.~D., and Sasaki, H. (2011b).
+\newblock {Role for piRNAs and Noncoding RNA in de Novo DNA Methylation of the
+  Imprinted Mouse Rasgrf1 Locus}.
+\newblock {\em Science}, 332(6031):848 --852.
 
 \bibitem[Watson et~al., 2005]{Watson2005}
 Watson, F.~L., P\"{u}ttmann-Holgado, R., Thomas, F., Lamar, D.~L., Hughes, M.,

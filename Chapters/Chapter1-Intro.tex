@@ -7,7 +7,6 @@
 
   The 8th plague was a swarm of Locusts, described in Exodus 10: 14–15:
 
-
   \begin{quote}
     \itshape 
     \singlespacing
@@ -91,7 +90,7 @@
 
     RNA processing begins the moment the nascent RNA is exposed from the polymerase exit channel. Many methodologies have been developed that enrich RNA-Seq libraries for particular types of RNA. For example, measurement of nascent transcripts can be performed via GRO-Seq \citep{Core2008a}, and the extremely complicated process of RNA turnover (referring to the rates at which RNAs both are produced and degraded) has been examined \citep{Ghosh2010a, Tani2012}. RNA::Protein interactions can be measured with or without cross-linking the protein to the RNA, via CLIP or RIP, respectively. Once an RNA has been fully transcribed, known processing steps such as 5\textprime~ 7meG (CAP) formation and poly(A) tail formation can be measured using any of the Cap-Seq/CAGE methodologies \citep{Shiraki2003a}, or PAS/TAIL/PAL \citep{Shepard2011, Chang2014b, Subtelny2014}. With appropriate size-selection steps, small RNAs \citep{Ghildiyal2008} can also be captured into a sequencing library. Finally, traditional RNA-Seq, can effectively capture fragments of all of the above mentioned libraries, even though it is mainly associated with measurement of traditional mRNAs.
 
-    RNA-Seq and its associated flavors are also traditionally associated quantifying RNA obtained from \textit{many} tissue culture cells bulk pieces of a particular tissues. Recently, efforts to measure the RNA expression occurring in individual cells has gained attention \citep{Shapiro2013b}. Perhaps the most interesting concept when thinking about measurement of gene expression in a single cell is the \underline{biological uncertainty principle}, wherein it is possible to either know, or change \textemdash but not both \textemdash the RNA composition of a single cell. The name borrows from Heisenberg's uncertainty principle \citep{Kennard1927} and is often confused with the more appropriate ``Observer effect'' \citep{Riley2013}. Leaving that issue aside, measuring the unique transcriptome of a given cell among cells of a common tissue is surly an exciting and informative endeavor \citep{Marinov2013, Shalek2013b,Wills2013}. Compared to DNA, the diversity of RNA synthesis within living cells is potentially much more complicated \citep{Shendure2012}, and the ability to accurately measure RNA dynamics should allow us to make much more informative observations concerning biology then is currently possible \citep{Djebali2012}.
+    RNA-Seq and its associated flavors are also traditionally associated quantifying RNA obtained from \textit{many} tissue culture cells bulk pieces of a particular tissues. Recently, efforts to measure the RNA expression occurring in individual cells has gained attention \citep{Shapiro2013b}. Perhaps the most interesting concept when thinking about measurement of gene expression in a single cell is the ``biological uncertainty principle'', wherein it is possible to either know, or change \textemdash but not both\textemdash~the RNA composition of a single cell. The name borrows from Heisenberg's uncertainty principle \citep{Kennard1927} and is often confused with the more appropriate ``Observer effect'' \citep{Riley2013}. Leaving that issue aside, measuring the unique transcriptome of a given cell among cells of a common tissue is surly an exciting and informative endeavor \citep{Marinov2013, Shalek2013b,Wills2013}. Compared to DNA, the diversity of RNA synthesis within living cells is potentially much more complicated \citep{Shendure2012}, and the ability to accurately measure RNA dynamics should allow us to make much more informative observations concerning biology then is currently possible \citep{Djebali2012}.
 
   \subsection{Measuring RNA Expression via Sequencing}\label{sec: RNA Exp via HTS}
 
@@ -122,7 +121,7 @@
       \label{fig:numGenesAndNumSpliced}
       \end{figure}
 
-      Soon after the discovery of introns, it was reasoned that genes could be arranged in different combinations, greatly increasing the coding potential of a genome \citep{Gilbert1978a}. The process of rearranging genes, now known as alternative splicing (AS), has proven to be an integral phase of gene expression in most eukaryotes. In just 15 years, the number of genes estimated to be alternatively spliced has grown considerably. Phillip Sharp, Co-Nobel-prize winner for the discovery of splicing, stated that: “Approximately, one of every twenty genes is expressed by alternative pathways of RNA splicing in different cell types or growth states” \cite{Sharp2014}. Not long after the assembly of the first human genome, a number of groups combed through Expressed Sequence Tag (EST) databases to increase that estimate to 35\%-59\% \citep{Modrek2002}. Soon after, analysis using specially designed microarrays resulted in an increased estimate of 74\% \citep{Johnson2003}. However, in late 2008, three groups used RNA-Seq to demonstrate that between 86\% and 95\% of human multi-exon genes are subject to AS \citep{Pan2008, Wang2008, Sultan2008}. Not only did they demonstrate that almost all genes are alternatively spliced, they also showed that AS often occurs in a tissue- and cell type-specific manner. In combination with regulation of transcription itself, the study of AS is critical to our understanding of the connections between the comparably static genomic DNA sequence and the highly flexible and adaptive abilities of organisms.
+    Soon after the discovery of introns, it was reasoned that genes could be arranged in different combinations, greatly increasing the coding potential of a genome \citep{Gilbert1978a}. The process of rearranging genes, now known as alternative splicing (AS), has proven to be an integral phase of gene expression in most eukaryotes. In just 15 years, the number of genes estimated to be alternatively spliced has grown considerably. Phillip Sharp, Co-Nobel-prize winner for the discovery of splicing, stated that: “Approximately, one of every twenty genes is expressed by alternative pathways of RNA splicing in different cell types or growth states” \cite{Sharp2014}. Not long after the assembly of the first human genome, a number of groups combed through Expressed Sequence Tag (EST) databases to increase that estimate to 35\%-59\% \citep{Modrek2002}. Soon after, analysis using specially designed microarrays resulted in an increased estimate of 74\% \citep{Johnson2003}. However, in late 2008, three groups used RNA-Seq to demonstrate that between 86\% and 95\% of human multi-exon genes are subject to AS \citep{Pan2008, Wang2008, Sultan2008}. Not only did they demonstrate that almost all genes are alternatively spliced, they also showed that AS often occurs in a tissue- and cell type-specific manner. In combination with regulation of transcription itself, the study of AS is critical to our understanding of the connections between the comparably static genomic DNA sequence and the highly flexible and adaptive abilities of organisms.
 
   \subsection{Deciphering a splicing code}\label{sec: Splicing Code}
 
@@ -155,11 +154,10 @@
 
   \subsection{Coordination in splicing}\label{sec: Coordination in splicing}
 
-    % <Consider a leadin with this paper, Osheim YN, Miller OL Jr et al (1985) RNP particles at splice junction sequences on Drosophila chorion transcripts. Cell 43(1): 143–151> That shows spliceosomes associated with nascent RNA transcripts
+    The provocative ``Miller Spread'' showing spliceosomes associated with RNA transcripts likely ignited the first thought that transcription and splicing are intracately linked \citep{Osheim1985}. Twelve years later, the first observation that polymerase speed can affect downstream splicing decisions was reported \citep{Cramer1997}, spawning a new field of research into linked transcription and splicing. But how linked are these two processes? 
 
-    %< Also consider referencing and discussing the Mediator complex and its effect on downstream splicing - read this paper: Bieberstein NI, Carrillo Oesterreich F, Straube K et al (2012) First exon length controls active chromatin signatures and transcription. Cell Rep 2(1):62–68
-
-    There is precedence in the literature for genes known to display coordinated regions of AS. One of the clearest examples is mouse Fibronectin \fn{} (Figure \ref{fig:mouseFn1}) \citep{Schwarzbauer1983, White2011a}. In this gene, inclusion of the alternatively spliced Extra Domain A (EDI or EDA) region promotes splicing from one of three alternative 3\textprime~ Splice Site (3\textprime~ SS) in the type III homology connecting segment (IIICS) region, resulting in more frequent production of shorter transcripts \citep{Fededa2005}. This effect occurs over six constitutively expressed exons and 800 nt of sequence (5400 nt if introns are considered). \citep{Fededa2005} also analyzed EST databases, concluding that approximately 25\% of human genes contain multiple regions of AS. How many of these regions could show a coordinated effect, similar to that observed in Fibronectin? Providing some insight into this question, \citep{Fagnani2007} used microarrays designed to report on inclusion levels of cassette exons in mammalian central nervous system tissues \citep{Fagnani2007}. The results produced a set of 38 pairs of exons mapping to the same gene that showed a coordinated increase or decrease of inclusion levels. 
+     % Need to transition better here. Logic isn't great!
+    How would linkage between transcription and splicing manifest? One of the clearest examples is mouse Fibronectin \fn{} (Figure \ref{fig:mouseFn1}) \citep{Schwarzbauer1983, White2011a}. In this gene, inclusion of the alternatively spliced Extra Domain A (EDI or EDA) region promotes splicing from one of three alternative 3\textprime~ Splice Site (3\textprime~ SS) in the type III homology connecting segment (IIICS) region, resulting in more frequent production of shorter transcripts \citep{Fededa2005}. This effect occurs over six constitutively expressed exons and 800 nt of sequence (5400 nt if introns are considered). \citep{Fededa2005} also analyzed EST databases, concluding that approximately 25\% of human genes contain multiple regions of AS. How many of these regions could show a coordinated effect, similar to that observed in Fibronectin? Providing some insight into this question, \citep{Fagnani2007} used microarrays designed to report on inclusion levels of cassette exons in mammalian central nervous system tissues \citep{Fagnani2007}. The results produced a set of 38 pairs of exons mapping to the same gene that showed a coordinated increase or decrease of inclusion levels. 
 
     \begin{figure}[htbp] % Fibronectin Architecture Figure 
       \centering 
@@ -243,14 +241,14 @@
 
     During larval development, \dscam{} is expressed in the da neurons of the larval body wall. Da neurons create a uniform sensory feed, allowing the larva to respond to mechanical stimulus. Morphologicially da neurons resemble an oak tree growing in a sunny field, allowing the larvae to sense as much as possible. In order to maximize coverage of the field, every cell:cell interaction (i.e. every synapse) must be a productive one. Molecularly, this is accomplished via an extracellular handshake between two copies of DSCAM1. If this handskake feels too familiar, a stable, lasting, and *productive* synapse is actively discouraged until a new and different handshake is felt. 
 
-    The use of DSCAM1 to decern self from non-self determination is not unique to da nuerons, but is also essential on equally critical, and arguably more complex, nervous systems including the eye and brain. In the developing brain, \dscam{} is expressed in both axonal projections of neurons extend from their Kenyon cell bodies and bifurcate into two different mushroom body lobs \citep{Zhan2004}. 
+    The use of DSCAM1 to discern self from non-self determination is not unique to da nuerons, but is also essential on equally critical, and arguably more complex, nervous systems including the eye and brain. In the developing brain, \dscam{} is expressed in both axonal projections of neurons extend from their Kenyon cell bodies and bifurcate into two different mushroom body lobs \citep{Zhan2004}. 
 
     \begin{figure}[htbp] % Dscam Anatomy
       \centering 
       \includegraphics{Figures/Chapter1/DscamAnatomy.eps}
       \caption[Important \dscam{} expression during \flies{} life cycle]
       {
-        Important \dscam{} expression during \textit{Drosophila melanogaster life} cycle\\[0.25cm]
+        Important \dscam{} expression during \flies{} cycle\\[0.25cm]
         \dscam{} has been high-studied in four different regions/cell types. 1) Hemocytes of the immune system, where DSCAM1 is involved in antigen recognition; 2) In Class IV da neurons, which sense mechanical stimulation of the larval body wall; 3) In mushroom body neurons of the pupal developing brain; and 4) (not shown) in Tetrad neurons of the eyes.
         }
       \label{fig:DscamAnatomy}
@@ -264,12 +262,10 @@
 
     Having some functional purpose for \dscam{} diversity, the next area of research focused on mechanisms of mutually exon selection. \citet{Graveley2005b} observed a single ``docking site'' within the intronic sequence just 5\textprime~ to exon 6.1. This docking site was conserved among 15 insect species examined, from closely-related \textit{Drosophila simulans} to a distantly-related \textit{Tribolium castaneum} (Red flour beetle). Astonishingly, the docking site was complementary to ``selector sites'' within intronic regions just 5\textprime~ of each of the 48 variant exons.  A model is proposed where docking::selector site interactions is required to choosing which of the variant exons is included, while a splicing regulator protein, likely and hnRNP due to the repressive nature of the interaction \citep{Graveley2000}. Additional mechanisms have been reported for other clusters, including the \textit{iStem} \citep{Kreahling2005} in cluster 4, and the hnRNP protein hrp36 \citep{Olson2007}.
 
-    \citep{Neves2004} examined \dscam{} expression in hemocyte cells, and their results clearly show reduced variability in cluster 9 inclusion. Virtually all of the signal obtained from hemocyte cells for cluster 9 was seen in variants 9.[6,9,13,30,and 31]. \citep{Watson2005} also examined \dscam{} expression in hemocyte cells, comparing it to that of neuronal cells. They propose that secreted forms of \dscam{} are essential for a robust innate immune system in insects. These studies highlight how nature has applied one gene that produced extreme molecular diversity to multiple problems involving determing self from non-self \citep{Shi2012a, Hattori2008}.
+    \citep{Neves2004} examined \dscam{} expression in hemocyte cells, and their results clearly show reduced variability in cluster 9 inclusion. Virtually all of the signal obtained from hemocyte cells for cluster 9 was seen in variants 9.[6,9,13,30,and 31]. \citep{Watson2005} also examined \dscam{} expression in hemocyte cells, comparing it to that of neuronal cells. They propose that secreted forms of \dscam{} are essential for a robust innate immune system in insects. These studies highlight how nature has applied one gene that produced extreme molecular diversity to multiple problems involving determing self from non-self \citep{Shi2012a, Hattori2008}. \dscam{} use in these two very different biologically roles has been summarized previously \citep{Hemani2012}. 
 
-    \dscam{} use in two very different biologically roles has been summerized previously \citep{Hemani2012}. 
+    Beginning in 2005 Hattori series – Minimal require divsersity \citep{Hattori2005a,Hattori2008,Hattori2009}
 
-    %3. Umass guy Tzuman lee = \citep{Shi2007}
-    %8. Hattori series – Minimal require divsersity \citep{Hattori2005a,Hattori2008,Hattori2009}
     %9. The cell paper mattori 2013 – Diversity dynamics, bunch of other cool stuff. \citep{Miura2013b}
 
     % Need transition from Dscam to Rnl2!
@@ -341,22 +337,21 @@
 
     % Transition from Rnl2 to long RNAs/ piRNA precusors somehwow. 
 
-\section{Long Nucleic Acid Polymers}\label{hd: piRNA section}
+\section{Nucleic Acid Polymers}\label{hd: piRNA section}
 
-  \subsection{Mouse piRNAs are different}\label{sec:Mouse piRNAs}
+  \subsection{piRNAs original from very long PolII Transcripts}\label{sec:Mouse piRNAs}
 
-    % ! Incorporate salient points of the Resources paper into this section? At least the sections I worked on!
-    % Notes from Wei's Group meeting update on piRNAs.
-    % Mention the Saito 2006 Slicer activity, in vitro, of Piwi domain containing argonautes in flies. Then mention papers from Siomi and Brennecki, and Lin lab in 2009 about mutating the catalytic triad in the piwi proteins and there is no slicer activity. 
-    % A regulatory circuit for Piwi by the large…
-    % Transcriptional Silencing of Transposons
-    % Function of piwi(?) - Lin lab paper.
-    % Mention review in G&D by hannon title is state of piRNA in flies - says that the slicer activity of piwi proteins in flies has never been shown in vivo. 
-    % Mention Siomi Zuchi paper - they show in vitro evidence that the protein can take a 5' phosphate ssRNA and make something - a piRNA?
+    \subsubsection{Brief history of piRNAs}
 
-    Mammalian spermatogenesis is critical for the future of the species. Recently the importance a specific kind of small RNA\textemdash piRNAs\textemdash for proper spermatogenesis has become clear \citep{Siomi2011}. Even after >12 years since their discovery in \flies \citep{Aravin2001}, and >6 since their identification in rodents \citep{Girard2006, Lau2006}, the essential mechanisms of piRNA biogenesis to proper mammalian spermatogenesis remains largely unknown. These unknown mechanisms include: biogenesis from transcript to small RNA, physiological targets, and terminal function of sterility maintenance. What is known is that without a functioning piRNA pathway males are sterile. Studies in humans have also linked SNPs in the Argonaute proteins that bind piRNAs to decreased fertility \citep{Gu2010a}. 
+      % Notes from Wei's Group meeting update on piRNAs.
+      % Mention the Saito 2006 Slicer activity, in vitro, of Piwi domain containing argonautes in flies. Then mention papers from Siomi and Brennecki, and Lin lab in 2009 about mutating the catalytic triad in the piwi proteins and there is no slicer activity. 
+      % Function of piwi(?) - Lin lab paper.
+      % Mention review in G&D by hannon title is state of piRNA in flies - says that the slicer activity of piwi proteins in flies has never been shown in vivo. 
+      % Mention Siomi Zuchi paper - they show in vitro evidence that the protein can take a 5' phosphate ssRNA and make something - a piRNA?
 
-    \begin{figure}[htbp] % Flemenco Locus
+      Mammalian spermatogenesis is critical for the future of the species. Recently the importance a specific kind of small RNA\textemdash piRNAs\textemdash for proper spermatogenesis has become clear \citep{Siomi2011}. Even after >12 years since their discovery in \flies \citep{Aravin2001}, and >6 since their identification in rodents \citep{Girard2006, Lau2006}, the essential mechanisms of piRNA biogenesis to proper mammalian spermatogenesis remains largely unknown. These unknown mechanisms include: biogenesis from transcript to small RNA, physiological targets, and terminal function of sterility maintenance. What is known is that without a functioning piRNA pathway males are sterile. Studies in humans have also linked SNPs in the Argonaute proteins that bind piRNAs to decreased fertility \citep{Gu2010a}. 
+
+      \begin{figure}[htbp] % Flemenco Locus
       \centering 
       \includegraphics{Figures/Chapter1/FlamencoLocus.eps}
       \caption[Genetic evidence for long, continuous fly piRNA precursor transcripts]
@@ -366,9 +361,9 @@
       \label{fig:flamenco}
       \end{figure}
 
-    piRNAs are so-called because they bind PIWI proteins, a sub-group of the Argonaute protein family, whose other members utilize small RNA as guides to target nucleic acids for many forms of post-transcriptional regulation \citep{Siomi2011}. There are three PIWI proteins in mice, each displaying a distinct expression profile during development and an association with piRNAs of a specific length. The first PIWI protein expressed, even before a mouse is born, is MIWI2 \citep{Carmell2007}, followed quickly by the more consistent player, MILI (see Figure \ref{fig:Mammalian piRNA classes} \citep{Kuramochi-Miyagawa2004, Aravin2006}. It is during the ``fetal'' stage of piRNA biogenesis in mice that MIWI2 and MILI undergo ping-pong amplification, similar to that observed in flies, in order to silence expression of transposons during germ line formation \citep{Brennecke2007, Kuramochi-Miyagawa2008}. After birth, and during the ``neonatal stage'' only MILI is expressed, and piRNAs shift from mostly transposon-mapping to 3\textprime~ UTR mapping \citep{Robine2009}. Once the ``first wave'' of spermatogenesis \citep{Oakberg1956b, Laiho2013a} reaches meiosis, the pachytene piRNAs are expressed \citep{Girard2006, Lau2006, Li2013h}. Pachytene piRNAs tend to map to intergenic ``clusters'' of unique genomic sequence. These clusters, from here after called ``piRNA-generating genes'' appear to produce a single, continuous, relatively long, and un-spliced Pol II transcript \citep{Li2013h}. This is comparable to piRNA clusters in flies, such as flamenco, whose transcription can be abolished with a P-element insertion into a putative promoter, as measured by northern blot looking for piRNAs generated 168 kb downstream (see Figure \ref{fig:flamenco} \citep{Brennecke2007}. 
+      piRNAs are so-called because they bind PIWI proteins, a sub-group of the Argonaute protein family, whose other members utilize small RNA as guides to target nucleic acids for many forms of post-transcriptional regulation \citep{Siomi2011}. There are three PIWI proteins in mice, each displaying a distinct expression profile during development and an association with piRNAs of a specific length. The first PIWI protein expressed, even before a mouse is born, is MIWI2 \citep{Carmell2007}, followed quickly by the more consistent player, MILI (see Figure \ref{fig:Mammalian piRNA classes} \citep{Kuramochi-Miyagawa2004, Aravin2006}. It is during the ``fetal'' stage of piRNA biogenesis in mice that MIWI2 and MILI undergo ping-pong amplification, similar to that observed in flies, in order to silence expression of transposons during germ line formation \citep{Brennecke2007, Kuramochi-Miyagawa2008}. After birth, and during the ``neonatal stage'' only MILI is expressed, and piRNAs shift from mostly transposon-mapping to 3\textprime~ UTR mapping \citep{Robine2009}. Once the ``first wave'' of spermatogenesis \citep{Oakberg1956b, Laiho2013a} reaches meiosis, the pachytene piRNAs are expressed \citep{Girard2006, Lau2006, Li2013h}. Pachytene piRNAs tend to map to intergenic ``clusters'' of unique genomic sequence. These clusters, from here after called ``piRNA-generating genes'' appear to produce a single, continuous, relatively long, and un-spliced Pol II transcript \citep{Li2013h}. This is comparable to piRNA clusters in flies, such as flamenco, whose transcription can be abolished with a P-element insertion into a putative promoter, as measured by northern blot looking for piRNAs generated 168 kb downstream (see Figure \ref{fig:flamenco} \citep{Brennecke2007}. 
 
-    \begin{figure}[htbp] % Mammalian piRNA classes
+      \begin{figure}[htbp] % Mammalian piRNA classes
       \centering 
       \includegraphics{Figures/Chapter1/MammalianPiRNAClassesOverTime.eps}
       \caption[Different Classes of mammalian piRNAs]
@@ -377,40 +372,58 @@
         } \label{fig:Mammalian piRNA classes}
       \end{figure}
 
-    Mammalian piRNAs can be divided into three major classes (\#Figure of my own design on piRNAs) \citep{Kuramochi-Miyagawa2008}. The first, present before birth, are those of the \textit{fetal piRNAs}. These piRNAs tend to be short, bind the PIWI protein MILI2 in mice, and have sequences found in transposable elements (Carmell et al. 2007). The next class of piRNAs, historically but confusing grouped with the previous class, are called Pre-pachytene piRNAs. Pre-pachytene piRNAs are expressed just before birth, and continue to be expressed in functioning testes, often associated with spermotoXX and spermotXX, precursor cells to mature sperm(?), and tend to map to traditional, and annotated, protein coding genes. Finally, due to their unique sequence in the genome, the genetic origin of a millions of piRNAs belonging to the third class, the pachytene piRNAs, was immediately known. Pachytene piRNAs are extremely abundant after, not coincidently, the pachytene stage of meiosis I when (descriptor) chromosomes pair up, cross over, and rearrange their genetic material. Extremely abundant means XX fold enrichment of pachytene piRNAs compared to miRNAs, as compared to developmental time point just two days earlier. The genomic origins of these piRNAs, while unique in terms of sequence, are often in ‘gene deserts,’ unannotated, and devoid of intronic sequences. This gene architecture makes the pachytene piRNA loci some of the most interesting RNA-producing regions of the mammalian genome.
+    \subsubsection{Fly and Mouse piRNAs have important differences}
 
-    \begin{figure}[htbp] % Mammalian piRNA Pathway
+      piRNAs are small RNAs with lengths 24\textendash 31 nt long, making them longer than other small RNAs (eg. miRNAs or siRNAs). They are believed to derive from single-stranded RNA precursors because also unlike other small RNAs, their biogenesis does not require double-stranded RNA-specific ribonuclease Dicer \citep{Vagin2006, Houwing2007}. Yet, similar to other small RNAs, they bind a sub group of the Argonaute family of proteins, PIWI proteins, from which their name is derived (\textit{PIWI Interacting RNAs}. 
+
+      Mammalian piRNAs can be divided into three major classes (see Figure \ref{fig:Mammalian piRNA classes}. \textit{Fetal piRNAs} are present before birth. These piRNAs tend to be short, bind the PIWI protein MILI2 in mice, and have sequences found in transposable elements \citep{Carmell2007}. The next class of piRNAs, historically but confusing grouped with the previous class, are called \textit{Pre-pachytene piRNAs}. Pre-pachytene piRNAs are expressed just before birth, and continue to be expressed in functioning testes. These piRNAs tend to map to traditional, annotated, protein-coding genes. Finally, due to their unique sequence in the genome, the genetic origin of millions of piRNAs belonging to the third class, the \textit{pachytene piRNAs}, was immediately known. Pachytene piRNAs are extremely abundant after the pachytene stage of meiosis I when chromosomes pair up, cross over, and exchange genetic material. The genomic origin of these piRNAs, while unique in terms of sequence, are often in ``gene deserts''\textendash unannotated and devoid of introns. This gene architecture makes the pachytene piRNA loci some of the most interesting RNA-producing regions of the mammalian genome.
+
+      \begin{figure}[htbp]\small % Mammalian piRNA Pathway
       \centering 
       \includegraphics{Figures/Chapter1/mammalian_piRNA_pathway.png}
       \caption[A model for Mammalian piRNA biogenesis]
       {
-        Figure taken from \citep{Li2013e}: A model for piRNA biogenesis. Primary piRNA transcripts are transcribed by RNA polymerase II and contain 5\textprime~ caps, exons and introns and poly(A) tails. The transcription of pachytene piRNA genes is controlled by A-MYB; transcription factor(s) (TF) controlling pre-pachytene piRNA genes remain to be discovered. Current models of piRNA biogenesis propose that PLD6 determines the 5\textprime~ end of piRNA intermediates with lengths >30 nt. These intermediates are proposed to then be loaded into PIWI proteins. After PIWI binding, a nuclease is thought to trim the 3\textprime~ end of the piRNA to the length characteristic of the particular bound PIWI protein. Finally, further trimming is prevented by addition of a 2\textprime~-O-methyl group to the 3\textprime~ end of the mature piRNA by the S-adenosylmethionine-dependent methyltransferase HEN1
+        Figure taken from \citep{Li2013e}: A model for piRNA biogenesis. Primary piRNA transcripts are transcribed by RNA polymerase II and contain 5\textprime~ caps, exons and introns and poly(A) tails. The transcription of pachytene piRNA genes is controlled by A-MYB; transcription factor(s) (TF) controlling pre-pachytene piRNA genes remain to be discovered. Current models of piRNA biogenesis propose that PLD6 determines the 5\textprime~ end of piRNA intermediates with lengths >30 nt. These intermediates are proposed to then be loaded into PIWI proteins. After PIWI binding, a nuclease is thought to trim the 3\textprime~ end of the piRNA to the length characteristic of the particular bound PIWI protein. Finally, further trimming is prevented by addition of a 2\textprime~-O-methyl group to the 3\textprime~ end of the mature piRNA by the S-adenosylmethionine-dependent methyltransferase HEN1. Figure adapted from \citep{Li2013}.
         }
-        abel{fig:Mammalian piRNA BioGensis; MolCel2013 Review}
+        \label{fig:Mammalian piRNA BioGensis}
       \end{figure}
 
-    %!Known functions of mammalian piRNAs
-    \citet{Vourekas2012} demonstrated that many MIWI, as measured by ClIP, actually bind mRNAs directly, without a small RNA guide.
+    \subsubsection{Known functions of mammalian piRNAs}
 
-    Two studies \citep{DeFazio2011,Reuter2011} used point mutations in the catalytic triad of MIWI2, MILI to remove slicer activity. The MIWI2 and MILI studies found that the mice were sterile, and did not accumulate transposon-mapping piRNAs. \citet{DeFazio2011} found that the mice were also sterile, and demonstrated increased LINE1 transcript accumulation.  \citet{Reuter2011} states that much the biological activity of MIWI depends on its slicer activity.
+      Two studies \citep{DeFazio2011,Reuter2011} used point mutations in the catalytic triad of MIWI2, MILI to remove slicer activity. The MIWI2 and MILI studies found that the mice were sterile, and did not accumulate transposon-mapping piRNAs. \citet{DeFazio2011} found that the mice were also sterile, and demonstrated increased LINE1 transcript accumulation.  \citet{Reuter2011} states that much the biological activity of MIWI depends on its slicer activity.
 
-    %! Comparisons between fly and mammalian piRNA systems
-    The transposon-mapping nature of the fetal piRNA class made obvious comparisons to the fly piRNA system nature. In the fly system, primary piRNAs transcribed from discrete loci and fed into an amplification loop between two PIWI proteins PIWI(3) and AGO3 (‘the ping-pong’ cycle) (REF Brenneki cell paper 2007). It is believed that PIWI proteins loaded with piRNAs bind and silence transposon messages, using the cleaved transposon transcripts, in combination with primary piRNA transcripts, as a substrates in the Ping-Pong cycle %($REF some newer review demonstrating this activity). 
+      Mouse piRNAs have also been implicated in gene imprinting \citep{Watanabe2011}. 
 
-    %! Our annotation of the pachytene piRNAs and discovery of A-MYB
-    %However, annotation of the molecular RNA precursors to these polymers–the piRNA precursor transcripts–was a simple inclusion of large chunks of chromosomal coordinates. Using 6 different types of high-throughput sequencing datasets, we have accurately defined the genetic structure of 2124 piRNA-generating loci. With these annotations, investigation into the cause of coordinated expression of pachytene piRNAs–a highly abundant and experimentally tractable class of piRNAs–, became possible. Using transcriptional start sites, a motif for the transcription factor A-MYB was clearly observed within the promoters of most of pachytene piRNA-generating loci. Additionally, gene expression analysis of mice containing a mutant form of A-MYB revealed that A-MYB also coordinates the expression of many proteins involved, or associated with, proper piRNA biogensis and function. 
+      The transposon-mapping nature of the fetal piRNA class made obvious comparisons to the fly piRNA system nature. In the fly system, primary piRNAs transcribed from discrete loci and fed into an amplification loop between two PIWI proteins PIWI(3) and AGO3 (‘the ping-pong’ cycle) (REF Brenneki cell paper 2007). It is believed that PIWI proteins loaded with piRNAs bind and silence transposon messages, using the cleaved transposon transcripts, in combination with primary piRNA transcripts, as a substrates in the Ping-Pong cycle %($REF some newer review demonstrating this activity). 
 
-    %!Critical importance of integrating many different HTS datasets into mammalian piRNA study
-    %piRNAs lend themselves to study using HTS
-    %Require more datasets to work back to molecular precursors
-    %RNA-Seq does not give precision necessary for annotation of 5´ and 3´ ends.
-    %Cap-seq is too noisey to not have orthogonal dataset for comparison
-    %Precision of 5´ end is critical for proper measurement of proximity to suspected transcription factor binding motifs and experimentally-determined ChIP signal
-    %PAS-Seq challenging due to internal priming sites, difficulty of HTS platforms to read through homopolymers, and dynamic nature of 3´ end processing.
+    \subsubsection{Integration of multiple HTS datatypes of piRNA analysis}
+      
+      %Channel the Resources paper!
 
-    %!Current status and future of transcriptome assembly
-    %Reference most recent transcript assembly review.
-    %Most successful methods are guided by known annotations
-    %Unguided typically provide many discontinuous ‘contigs’ 
-    %Maybe assisted by deeper RNA-Seq
-    %Paired-end is critically important
+      + Critical importance of integrating many different HTS datasets into mammalian piRNA study
+      
+      + RNA-Seq does not give precision necessary for annotation of 5' and 3' ends.
+      
+      piRNAs lend themselves to study using HTS
+      
+      Require more datasets to work back to molecular precursors
+
+      Cap-seq is too noisey to not have orthogonal dataset for comparison
+      
+      Precision of 5\textprime~ end is critical for proper measurement of proximity to suspected transcription factor binding motifs and experimentally-determined ChIP signal
+    
+      PAS-Seq challenging due to internal priming sites, difficulty of HTS platforms to read through homopolymers, and dynamic nature of 3\textprime~ end processing.
+
+  \subsection{Assembling full length transcripts from Short read data}
+
+    + Current status and future of transcriptome assembly
+
+    + Reference most recent transcript assembly review.
+
+    + Most successful methods are guided by known annotations
+
+    + Unguided typically provide many discontinuous ‘contigs’ 
+
+    + Maybe assisted by deeper RNA-Seq
+
+    + Paired-end is critically important

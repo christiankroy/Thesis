@@ -1,142 +1,175 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{Abstract}}{iii}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{Abstract}}{ii}\relax 
 \doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-2}{}{Acknowledgements}}{iv}\relax 
 \doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-10002}{QQ2-1-3}{Contents}}{7}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-4}{}{List of Figures}}{x}\relax 
-\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-20003}{QQ2-1-5}{List of Figures}}{11}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-6}{}{List of Tables}}{xiii}\relax 
-\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-30004}{QQ2-1-7}{List of Tables}}{14}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-8}{}{Abreviations}}{xvi}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-9}{}{Symbols}}{xix}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-4}{}{List of Figures}}{xi}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-20003}{QQ2-1-5}{List of Figures}}{12}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-6}{}{List of Tables}}{xiv}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-30004}{QQ2-1-7}{List of Tables}}{15}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-8}{}{Abreviations}}{xvii}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-9}{}{Symbols}}{xx}\relax 
 \doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-10}{}{Definitions}}{xxiii}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-11}{}{Preface}}{xxvi}\relax 
-\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-12}{Introduction}}{2}\relax 
-\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-50001}{QQ2-1-13}{On the importance of gene expression}}{2}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-11}{}{Dedication}}{xxvi}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-12}{}{Preface}}{xxvii}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-13}{Introduction}}{2}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-50001}{QQ2-1-14}{Fixed Genomes and Flexible Genes}}{2}\relax 
 \doTocEntry\toclof{1.1}{\csname a:TocLink\endcsname{1}{x1-5001r1}{}{\ignorespaces The Solitary and Gregarious forms of \textit  {Schistocerca gregaria}{}}}{figure}\relax 
-\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-15}{Nucleic Acid Sequencing}}{5}\relax 
-\doTocEntry\tocsubsection{1.2.1}{\csname a:TocLink\endcsname{1}{x1-70001}{QQ2-1-16}{DNA Sequencing History}}{5}\relax 
-\doTocEntry\tocsubsection{1.2.2}{\csname a:TocLink\endcsname{1}{x1-80002}{QQ2-1-17}{History of High-throughput Sequencing}}{6}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-16}{Nucleic Acid Sequencing}}{7}\relax 
+\doTocEntry\tocsubsection{1.2.1}{\csname a:TocLink\endcsname{1}{x1-70001}{QQ2-1-17}{DNA Sequencing History}}{7}\relax 
+\doTocEntry\tocsubsection{1.2.2}{\csname a:TocLink\endcsname{1}{x1-80002}{QQ2-1-18}{History of High-throughput Sequencing}}{8}\relax 
 \doTocEntry\toclof{1.2}{\csname a:TocLink\endcsname{1}{x1-8001r2}{}{\ignorespaces Cost of sequencing the human genome over time}}{figure}\relax 
-\doTocEntry\tocsubsection{1.2.3}{\csname a:TocLink\endcsname{1}{x1-90003}{QQ2-1-19}{Deep-sequencing RNA methodologies}}{10}\relax 
+\doTocEntry\tocsubsection{1.2.3}{\csname a:TocLink\endcsname{1}{x1-90003}{QQ2-1-20}{Deep-sequencing of RNA}}{12}\relax 
 \doTocEntry\toclof{1.3}{\csname a:TocLink\endcsname{1}{x1-9001r3}{}{\ignorespaces Methods for High-throughput sequencing of RNA}}{figure}\relax 
-\doTocEntry\tocsubsection{1.2.4}{\csname a:TocLink\endcsname{1}{x1-100004}{QQ2-1-21}{Measuing RNA Expression via Sequencing}}{13}\relax 
-\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-110003}{QQ2-1-22}{Nucleic Acid Splicing}}{13}\relax 
-\doTocEntry\tocsubsection{1.3.1}{\csname a:TocLink\endcsname{1}{x1-120001}{QQ2-1-23}{Alternative Splicing}}{13}\relax 
-\doTocEntry\tocsubsection{1.3.2}{\csname a:TocLink\endcsname{1}{x1-130002}{QQ2-1-24}{Deciphering a splicing code}}{14}\relax 
-\doTocEntry\tocsubsection{1.3.3}{\csname a:TocLink\endcsname{1}{x1-140003}{QQ2-1-25}{The Isoform Problem}}{15}\relax 
-\doTocEntry\toclof{1.4}{\csname a:TocLink\endcsname{1}{x1-14001r4}{}{\ignorespaces HTS read lengths are not sufficient to maintain AS connectivity}}{figure}\relax 
-\doTocEntry\tocsubsection{1.3.4}{\csname a:TocLink\endcsname{1}{x1-150004}{QQ2-1-27}{Coordination in splicing}}{18}\relax 
-\doTocEntry\toclof{1.5}{\csname a:TocLink\endcsname{1}{x1-15001r5}{}{\ignorespaces Mouse \textit  {Fn1}{} contains multipe sites of Alternative Splicing}}{figure}\relax 
-\doTocEntry\tocsubsection{1.3.5}{\csname a:TocLink\endcsname{1}{x1-160005}{QQ2-1-29}{Many isoforms per gene}}{23}\relax 
-\doTocEntry\toclof{1.6}{\csname a:TocLink\endcsname{1}{x1-16001r6}{}{\ignorespaces Number of hg19 Alternative Event types per gene}}{figure}\relax 
-\doTocEntry\toclof{1.7}{\csname a:TocLink\endcsname{1}{x1-16002r7}{}{\ignorespaces Number of transcripts per \textit  {Drosophila melanogaster}{} gene}}{figure}\relax 
-\doTocEntry\toclot{1.1}{\csname a:TocLink\endcsname{1}{x1-16003r1}{}{\ignorespaces Fly genes with >2,000 assembled transcripts}}{table}\relax 
-\doTocEntry\tocsubsection{1.3.6}{\csname a:TocLink\endcsname{1}{x1-170006}{QQ2-1-33}{\textit  {Drosophila melanogaster}{} \textit  {Dscam1}{}}}{32}\relax 
-\doTocEntry\toclof{1.8}{\csname a:TocLink\endcsname{1}{x1-17001r8}{}{\ignorespaces The architecture of the \textit  {Drosophila melanogaster}{} gene \textit  {Dscam1}{}}}{figure}\relax 
-\doTocEntry\toclof{1.9}{\csname a:TocLink\endcsname{1}{x1-17002r9}{}{\ignorespaces Important \textit  {Dscam1}{} expression during \textit  {Drosophila melanogaster}{} life cycle}}{figure}\relax 
-\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-180004}{QQ2-1-36}{Nucleic Acid Ligation}}{38}\relax 
-\doTocEntry\tocsubsection{1.4.1}{\csname a:TocLink\endcsname{1}{x1-190001}{QQ2-1-37}{RNA Sequence investigation by ligation}}{38}\relax 
-\doTocEntry\toclof{1.10}{\csname a:TocLink\endcsname{1}{x1-19001r10}{}{\ignorespaces Mechanism of Rnl2 ATP-dependent ligation}}{figure}\relax 
-\doTocEntry\tocsubsection{1.4.2}{\csname a:TocLink\endcsname{1}{x1-200002}{QQ2-1-39}{T4 RNA Ligase 2 (Rnl2)}}{42}\relax 
-\doTocEntry\toclof{1.11}{\csname a:TocLink\endcsname{1}{x1-20001r11}{}{\ignorespaces Structure and active site of pre-adenylated of Rnl2}}{figure}\relax 
-\doTocEntry\toclof{1.12}{\csname a:TocLink\endcsname{1}{x1-20002r12}{}{\ignorespaces Active site of T4 RNA Ligase 2 with highlighted residues}}{figure}\relax 
-\doTocEntry\tocsection{1.5}{\csname a:TocLink\endcsname{1}{x1-210005}{QQ2-1-42}{Long Nucleic Acid Polymers}}{48}\relax 
-\doTocEntry\tocsubsection{1.5.1}{\csname a:TocLink\endcsname{1}{x1-220001}{QQ2-1-43}{Mouse piRNAs are different}}{48}\relax 
-\doTocEntry\toclof{1.13}{\csname a:TocLink\endcsname{1}{x1-22001r13}{}{\ignorespaces Genetic evidence for long, continuous fly piRNA precursor transcripts}}{figure}\relax 
-\doTocEntry\toclof{1.14}{\csname a:TocLink\endcsname{1}{x1-22002r14}{}{\ignorespaces Different Classes of mammalian piRNAs}}{figure}\relax 
-\doTocEntry\toclof{1.15}{\csname a:TocLink\endcsname{1}{x1-22003r15}{}{\ignorespaces A model for Mammalian piRNA biogenesis}}{figure}\relax 
-\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-230002}{QQ2-1-47}{SeqZip - Development and Applications}}{58}\relax 
-\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-240001}{QQ2-1-48}{SeqZip Overview}}{58}\relax 
-\doTocEntry\tocsubsection{2.1.1}{\csname a:TocLink\endcsname{1}{x1-250001}{QQ2-1-49}{Subsection 1}}{58}\relax 
-\doTocEntry\toclof{2.1}{\csname a:TocLink\endcsname{1}{x1-25001r1}{}{\ignorespaces Original SeqZip Diagram}}{figure}\relax 
-\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-260002}{QQ2-1-51}{Multiplex Gene Study}}{61}\relax 
-\doTocEntry\toclof{2.2}{\csname a:TocLink\endcsname{1}{x1-26001r2}{}{\ignorespaces 10 Gene Set schematic}}{figure}\relax 
-\doTocEntry\tocsubsection{2.2.1}{\csname a:TocLink\endcsname{1}{x1-270001}{QQ2-1-53}{Subsection 1}}{64}\relax 
-\doTocEntry\toclot{2.1}{\csname a:TocLink\endcsname{1}{x1-27001r1}{}{\ignorespaces Genes with big spans in between}}{table}\relax 
-\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-280003}{QQ2-1-55}{Determining RNA integrity using SeqZip}}{67}\relax 
-\doTocEntry\tocsubsection{2.3.1}{\csname a:TocLink\endcsname{1}{x1-290001}{QQ2-1-56}{Demonstration of Concept}}{67}\relax 
-\doTocEntry\toclof{2.3}{\csname a:TocLink\endcsname{1}{x1-29001r3}{}{\ignorespaces Ligation product tied to RNA integrity}}{figure}\relax 
-\doTocEntry\toclof{2.4}{\csname a:TocLink\endcsname{1}{x1-29002r4}{}{\ignorespaces Trans Transcript investigation}}{figure}\relax 
-\doTocEntry\tocsubsection{2.3.2}{\csname a:TocLink\endcsname{1}{x1-300002}{QQ2-1-59}{Investigating HIV viral genome integrity using SeqZip}}{73}\relax 
-\doTocEntry\tocsubsection{2.3.3}{\csname a:TocLink\endcsname{1}{x1-310003}{QQ2-1-60}{Design of HIV ligamers}}{73}\relax 
-\doTocEntry\toclof{2.5}{\csname a:TocLink\endcsname{1}{x1-31001r5}{}{\ignorespaces SeqZip can examine HIV transcript integrity}}{figure}\relax 
-\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-320004}{QQ2-1-62}{Continuity of piRNA precursor transcripts}}{76}\relax 
-\doTocEntry\toclof{2.6}{\csname a:TocLink\endcsname{1}{x1-32001r6}{}{\ignorespaces piRNA precursor locations}}{figure}\relax 
-\doTocEntry\toclot{2.2}{\csname a:TocLink\endcsname{1}{x1-32002r2}{}{\ignorespaces Just 9 piRNA genes create >50\% of mammalian piRNAs}}{table}\relax 
-\doTocEntry\toclof{2.7}{\csname a:TocLink\endcsname{1}{x1-32003r7}{}{\ignorespaces pRT Doesn't Work for piRNA precursors}}{figure}\relax 
-\doTocEntry\toclof{2.8}{\csname a:TocLink\endcsname{1}{x1-32004r8}{}{\ignorespaces Dst1 by SeqZip}}{figure}\relax 
-\doTocEntry\toclof{2.9}{\csname a:TocLink\endcsname{1}{x1-32005r9}{}{\ignorespaces Testes Specific RNA precursor expression}}{figure}\relax 
-\doTocEntry\toclof{2.10}{\csname a:TocLink\endcsname{1}{x1-32006r10}{}{\ignorespaces piRNA precursor analysis via SeqZip}}{figure}\relax 
-\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-330003}{QQ2-1-69}{SeqZip Publication}}{95}\relax 
-\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-340001}{QQ2-1-70}{Abstract}}{95}\relax 
-\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-350002}{QQ2-1-71}{Introduction}}{95}\relax 
-\doTocEntry\toclof{3.1}{\csname a:TocLink\endcsname{1}{x1-35001r1}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
-\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-360003}{QQ2-1-73}{Results}}{98}\relax 
-\doTocEntry\tocsubsection{3.3.1}{\csname a:TocLink\endcsname{1}{x1-370001}{QQ2-1-74}{Subsection 2}}{98}\relax 
-\doTocEntry\toclof{3.2}{\csname a:TocLink\endcsname{1}{x1-37001r2}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
-\doTocEntry\tocsubsection{3.3.2}{\csname a:TocLink\endcsname{1}{x1-380002}{QQ2-1-76}{Subsection 2}}{101}\relax 
-\doTocEntry\toclof{3.3}{\csname a:TocLink\endcsname{1}{x1-38001r3}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
-\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-390004}{QQ2-1-78}{Discussion}}{104}\relax 
-\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-400005}{QQ2-1-79}{Methods}}{104}\relax 
-\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-410006}{QQ2-1-80}{Supplemental Text}}{104}\relax 
-\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-420004}{QQ2-1-81}{MolCel2013}}{105}\relax 
-\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-430001}{QQ2-1-82}{INTRODUCTION}}{105}\relax 
-\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-440002}{QQ2-1-83}{RESULTS}}{106}\relax 
-\doTocEntry\tocsubsection{4.2.1}{\csname a:TocLink\endcsname{1}{x1-450001}{QQ2-1-84}{Defining piRNA-Producing Transcripts in the Mouse Testis}}{106}\relax 
-\doTocEntry\toclof{4.1}{\csname a:TocLink\endcsname{1}{x1-45001r1}{}{\ignorespaces piRNA Precursors are RNA Pol II Transcripts}}{figure}\relax 
-\doTocEntry\toclof{4.2}{\csname a:TocLink\endcsname{1}{x1-45002r2}{}{\ignorespaces The Major piRNA-Producing Genes of the Post-Partum Mouse Testis}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.2}{\csname a:TocLink\endcsname{1}{x1-460002}{QQ2-1-87}{piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}}{112}\relax 
-\doTocEntry\tocsubsection{4.2.3}{\csname a:TocLink\endcsname{1}{x1-470003}{QQ2-1-88}{A Transcript-based Set of piRNA Loci}}{112}\relax 
-\doTocEntry\tocsubsection{4.2.4}{\csname a:TocLink\endcsname{1}{x1-480004}{QQ2-1-89}{Three Classes of piRNAs During Post-Natal Spermatogenesis}}{113}\relax 
-\doTocEntry\toclof{4.3}{\csname a:TocLink\endcsname{1}{x1-48001r3}{}{\ignorespaces Three Classes of piRNA-Generating Loci}}{figure}\relax 
-\doTocEntry\toclof{4.4}{\csname a:TocLink\endcsname{1}{x1-48002r4}{}{\ignorespaces Pre-pachytene piRNAs Persist in Pachytene Spermatocytes}}{figure}\relax 
-\doTocEntry\toclof{4.5}{\csname a:TocLink\endcsname{1}{x1-48003r5}{}{\ignorespaces Examples of Pachytene piRNA Genes}}{figure}\relax 
-\doTocEntry\toclof{4.6}{\csname a:TocLink\endcsname{1}{x1-48004r6}{}{\ignorespaces Examples of Pre-Pachytene piRNA Genes}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.5}{\csname a:TocLink\endcsname{1}{x1-490005}{QQ2-1-94}{\textit  {A-Myb}{} Regulates Pachytene piRNA Precursor Transcription}}{125}\relax 
-\doTocEntry\toclof{4.7}{\csname a:TocLink\endcsname{1}{x1-49001r7}{}{\ignorespaces A-MYB Binds the Promoters of Pachytene piRNA Genes}}{figure}\relax 
-\doTocEntry\toclof{4.8}{\csname a:TocLink\endcsname{1}{x1-49002r8}{}{\ignorespaces ChIP-qPCR Confirms ChIP-seq Data}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.6}{\csname a:TocLink\endcsname{1}{x1-500006}{QQ2-1-97}{\textit  {A-Myb}{} Regulates Pachytene piRNA Production}}{132}\relax 
-\doTocEntry\toclof{4.9}{\csname a:TocLink\endcsname{1}{x1-50001r9}{}{\ignorespaces Pachytene piRNAs and Precursors Decrease in \textit  {A-Myb}{} Mutant Testes}}{figure}\relax 
-\doTocEntry\toclof{4.10}{\csname a:TocLink\endcsname{1}{x1-50002r10}{}{\ignorespaces Change in piRNA Expression in \textit  {Spo11}{}, \textit  {Miwi}{}, \textit  {Tdrd6}, and \textit  {Tdrd9} Mutants}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.7}{\csname a:TocLink\endcsname{1}{x1-510007}{QQ2-1-100}{\textit  {A-Myb}{} Regulates Expression of piRNA Biogenesis Factors}}{138}\relax 
-\doTocEntry\toclof{4.11}{\csname a:TocLink\endcsname{1}{x1-51001r11}{}{\ignorespaces Examples of the Effect of the \textit  {A-Myb}{} Mutation on piRNA Expression}}{figure}\relax 
-\doTocEntry\toclof{4.12}{\csname a:TocLink\endcsname{1}{x1-51002r12}{}{\ignorespaces Pachytene piRNA Precursor Abundance in \textit  {A-Myb}{}, \textit  {Miwi}{}, and \textit  {Trip13} Mutants}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.8}{\csname a:TocLink\endcsname{1}{x1-520008}{QQ2-1-103}{A-MYB and the Pachytene piRNA Regulatory Circuitry}}{145}\relax 
-\doTocEntry\toclof{4.13}{\csname a:TocLink\endcsname{1}{x1-52001r13}{}{\ignorespaces A-MYB Regulates Expression of mRNAs Encoding piRNA Pathway Proteins}}{figure}\relax 
-\doTocEntry\toclof{4.14}{\csname a:TocLink\endcsname{1}{x1-52002r14}{}{\ignorespaces \textit  {A-Myb}{} mutants, but Not \textit  {Miwi}{} Mutants, Change the Expression of RNA Silencing Pathway Genes}}{figure}\relax 
-\doTocEntry\tocsubsection{4.2.9}{\csname a:TocLink\endcsname{1}{x1-530009}{QQ2-1-106}{Feed-Forward Regulation of piRNA Production is Evolutionarily Conserved}}{152}\relax 
-\doTocEntry\toclof{4.15}{\csname a:TocLink\endcsname{1}{x1-53001r15}{}{\ignorespaces Feed-Forward Regulation of piRNA Biogenesis by A-MYB is Conserved in Rooster}}{figure}\relax 
-\doTocEntry\toclof{4.16}{\csname a:TocLink\endcsname{1}{x1-53002r16}{}{\ignorespaces Genomic Locations of piRNA Clusters in the Rooster (Gallus gallus) Testis.}}{figure}\relax 
-\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-540003}{QQ2-1-109}{DISCUSSION}}{158}\relax 
-\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-550004}{QQ2-1-110}{EXPERIMENTAL PROCEDURES}}{159}\relax 
-\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-560005}{QQ2-1-111}{Discussion}}{165}\relax 
-\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-570001}{QQ2-1-112}{Future of Dynamic long RNAs}}{165}\relax 
-\doTocEntry\tocsubsection{5.1.1}{\csname a:TocLink\endcsname{1}{x1-580001}{QQ2-1-113}{The Known Knowns}}{165}\relax 
-\doTocEntry\tocsubsection{5.1.2}{\csname a:TocLink\endcsname{1}{x1-590002}{QQ2-1-114}{The Known Unknowns}}{166}\relax 
-\doTocEntry\tocsubsection{5.1.3}{\csname a:TocLink\endcsname{1}{x1-600003}{QQ2-1-115}{The Unknown Unknowns}}{166}\relax 
-\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-610002}{QQ2-1-116}{Ligation-based investigation of long RNAs}}{166}\relax 
-\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-620001}{QQ2-1-117}{SeqZip Other Applications}}{166}\relax 
-\doTocEntry\tocsubsection{5.2.2}{\csname a:TocLink\endcsname{1}{x1-630002}{QQ2-1-118}{SeqZip Technical Improvements}}{166}\relax 
-\doTocEntry\tocsubsection{5.2.3}{\csname a:TocLink\endcsname{1}{x1-640003}{QQ2-1-119}{SeqZip Alternatives}}{167}\relax 
-\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-650003}{QQ2-1-120}{Mammalian piRNA-precursors, a special type of long RNA}}{167}\relax 
-\doTocEntry\tocsubsection{5.3.1}{\csname a:TocLink\endcsname{1}{x1-660001}{QQ2-1-121}{What are they doing?}}{167}\relax 
-\doTocEntry\tocsubsection{5.3.2}{\csname a:TocLink\endcsname{1}{x1-670002}{QQ2-1-122}{How are they generated?}}{167}\relax 
-\doTocEntry\tocsubsection{5.3.3}{\csname a:TocLink\endcsname{1}{x1-680003}{QQ2-1-123}{Why should we care?}}{167}\relax 
-\doTocEntry\tocappendix{A}{\csname a:TocLink\endcsname{1}{x1-69000A}{QQ2-1-124}{Appendix - Misc Information}}{168}\relax 
-\doTocEntry\tocsection{A.1}{\csname a:TocLink\endcsname{1}{x1-700001}{QQ2-1-125}{Buffers}}{168}\relax 
-\doTocEntry\toclot{A.1}{\csname a:TocLink\endcsname{1}{x1-70001r1}{}{\ignorespaces SeqZip Hybridization and Ligation Buffer}}{table}\relax 
-\doTocEntry\tocsection{A.2}{\csname a:TocLink\endcsname{1}{x1-710002}{QQ2-1-127}{Equations}}{171}\relax 
-\doTocEntry\tocsubsection{A.2.1}{\csname a:TocLink\endcsname{1}{x1-720001}{QQ2-1-128}{f}}{171}\relax 
-\doTocEntry\tocsubsection{A.2.2}{\csname a:TocLink\endcsname{1}{x1-730002}{QQ2-1-129}{b}}{171}\relax 
-\doTocEntry\tocsubsection{A.2.3}{\csname a:TocLink\endcsname{1}{x1-740003}{QQ2-1-130}{Normalize oxidized small RNA libraries size to time-matched unoxidized library}}{172}\relax 
-\doTocEntry\tocsection{A.3}{\csname a:TocLink\endcsname{1}{x1-750003}{QQ2-1-131}{PCR Programs}}{172}\relax 
-\doTocEntry\tocsection{A.4}{\csname a:TocLink\endcsname{1}{x1-760004}{QQ2-1-132}{Source Code}}{172}\relax 
-\doTocEntry\tocappendix{B}{\csname a:TocLink\endcsname{1}{x1-77000B}{QQ2-1-133}{Appendix B: piRNA precurors are spliced}}{174}\relax 
-\doTocEntry\tocsection{B.1}{\csname a:TocLink\endcsname{1}{x1-780001}{QQ2-1-134}{Evidence for spliced piRNA precusor transcripts}}{174}\relax 
-\doTocEntry\toclof{B.1}{\csname a:TocLink\endcsname{1}{x1-78001r1}{}{\ignorespaces RNA-Seq evidence for piRNA precursor splicing}}{figure}\relax 
-\doTocEntry\toclof{B.2}{\csname a:TocLink\endcsname{1}{x1-78002r2}{}{\ignorespaces Lack of piRNAs within precusor introns}}{figure}\relax 
-\doTocEntry\toclof{B.3}{\csname a:TocLink\endcsname{1}{x1-78003r3}{}{\ignorespaces piRNAs map to Splice Junctions of precursor transcripts}}{figure}\relax 
-\doTocEntry\toclof{B.4}{\csname a:TocLink\endcsname{1}{x1-78004r4}{}{\ignorespaces \textit  {A-Myb}{} Mutants produce no splice-junction mapping piRNAs}}{figure}\relax 
-\doTocEntry\toclof{B.5}{\csname a:TocLink\endcsname{1}{x1-78005r5}{}{\ignorespaces General features of piRNA transcripts}}{figure}\relax 
-\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-140}{}{Bibliography}}{190}\relax 
-\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-790009}{QQ2-1-141}{Bibliography}}{191}\relax 
+\doTocEntry\tocsubsection{1.2.4}{\csname a:TocLink\endcsname{1}{x1-100004}{QQ2-1-22}{Measuring RNA Expression via Sequencing}}{15}\relax 
+\doTocEntry\tocsubsection{1.2.5}{\csname a:TocLink\endcsname{1}{x1-110005}{QQ2-1-23}{Assembling Transcripts from Short Reads}}{16}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-120003}{QQ2-1-24}{Nucleic Acid Splicing}}{16}\relax 
+\doTocEntry\tocsubsection{1.3.1}{\csname a:TocLink\endcsname{1}{x1-130001}{QQ2-1-25}{Alternative Splicing}}{16}\relax 
+\doTocEntry\toclof{1.4}{\csname a:TocLink\endcsname{1}{x1-13001r4}{}{\ignorespaces Estimates of number of human genes, and percentage alternatively spliced over time}}{figure}\relax 
+\doTocEntry\tocsubsection{1.3.2}{\csname a:TocLink\endcsname{1}{x1-140002}{QQ2-1-27}{Deciphering a splicing code}}{19}\relax 
+\doTocEntry\tocsubsection{1.3.3}{\csname a:TocLink\endcsname{1}{x1-150003}{QQ2-1-28}{The Isoform Problem}}{20}\relax 
+\doTocEntry\toclof{1.5}{\csname a:TocLink\endcsname{1}{x1-15001r5}{}{\ignorespaces HTS read lengths are not sufficient to maintain AS connectivity}}{figure}\relax 
+\doTocEntry\tocsubsection{1.3.4}{\csname a:TocLink\endcsname{1}{x1-160004}{QQ2-1-30}{Coordination in splicing}}{24}\relax 
+\doTocEntry\toclof{1.6}{\csname a:TocLink\endcsname{1}{x1-16001r6}{}{\ignorespaces Mouse \textit  {Fn1}{} contains multipe sites of Alternative Splicing}}{figure}\relax 
+\doTocEntry\tocsubsection{1.3.5}{\csname a:TocLink\endcsname{1}{x1-170005}{QQ2-1-32}{Many isoforms per gene}}{29}\relax 
+\doTocEntry\toclof{1.7}{\csname a:TocLink\endcsname{1}{x1-17001r7}{}{\ignorespaces Number of hg19 Alternative Event types per gene}}{figure}\relax 
+\doTocEntry\toclof{1.8}{\csname a:TocLink\endcsname{1}{x1-17002r8}{}{\ignorespaces Number of transcripts per \textit  {Drosophila melanogaster}{} gene}}{figure}\relax 
+\doTocEntry\toclot{1.1}{\csname a:TocLink\endcsname{1}{x1-17003r1}{}{\ignorespaces Fly genes with >2,000 assembled transcripts}}{table}\relax 
+\doTocEntry\tocsubsection{1.3.6}{\csname a:TocLink\endcsname{1}{x1-180006}{QQ2-1-36}{\textit  {Drosophila melanogaster}{} \textit  {Dscam1}{}}}{38}\relax 
+\doTocEntry\toclof{1.9}{\csname a:TocLink\endcsname{1}{x1-18001r9}{}{\ignorespaces The architecture of the \textit  {Drosophila melanogaster}{} gene \textit  {Dscam1}{}}}{figure}\relax 
+\doTocEntry\toclof{1.10}{\csname a:TocLink\endcsname{1}{x1-18002r10}{}{\ignorespaces Important \textit  {Dscam1}{} expression during \textit  {Drosophila melanogaster}{} life cycle}}{figure}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-190004}{QQ2-1-39}{Nucleic Acid Ligation}}{47}\relax 
+\doTocEntry\tocsubsection{1.4.1}{\csname a:TocLink\endcsname{1}{x1-200001}{QQ2-1-40}{RNA Sequence investigation by ligation}}{47}\relax 
+\doTocEntry\toclof{1.11}{\csname a:TocLink\endcsname{1}{x1-20001r11}{}{\ignorespaces Mechanism of Rnl2 ATP-dependent ligation}}{figure}\relax 
+\doTocEntry\tocsubsection{1.4.2}{\csname a:TocLink\endcsname{1}{x1-210002}{QQ2-1-42}{T4 RNA Ligase 2 (Rnl2)}}{51}\relax 
+\doTocEntry\toclof{1.12}{\csname a:TocLink\endcsname{1}{x1-21001r12}{}{\ignorespaces Structure and active site of pre-adenylated of Rnl2}}{figure}\relax 
+\doTocEntry\toclof{1.13}{\csname a:TocLink\endcsname{1}{x1-21002r13}{}{\ignorespaces Active site of T4 RNA Ligase 2 with highlighted residues}}{figure}\relax 
+\doTocEntry\tocsection{1.5}{\csname a:TocLink\endcsname{1}{x1-220005}{QQ2-1-45}{Nucleic Acid Polymers}}{58}\relax 
+\doTocEntry\tocsubsection{1.5.1}{\csname a:TocLink\endcsname{1}{x1-230001}{QQ2-1-46}{piRNAs original from very long PolII Transcripts}}{58}\relax 
+\doTocEntry\tocsubsubsection{1.5.1.1}{\csname a:TocLink\endcsname{1}{x1-240001}{QQ2-1-47}{Brief history of piRNAs}}{59}\relax 
+\doTocEntry\toclof{1.14}{\csname a:TocLink\endcsname{1}{x1-24001r14}{}{\ignorespaces Genetic evidence for long, continuous fly piRNA precursor transcripts}}{figure}\relax 
+\doTocEntry\toclof{1.15}{\csname a:TocLink\endcsname{1}{x1-24002r15}{}{\ignorespaces Different Classes of mammalian piRNAs}}{figure}\relax 
+\doTocEntry\tocsubsubsection{1.5.1.2}{\csname a:TocLink\endcsname{1}{x1-250002}{QQ2-1-50}{Fly and Mouse piRNAs have important differences}}{65}\relax 
+\doTocEntry\toclof{1.16}{\csname a:TocLink\endcsname{1}{x1-25001r16}{}{\ignorespaces A model for Mammalian piRNA biogenesis}}{figure}\relax 
+\doTocEntry\tocsubsubsection{1.5.1.3}{\csname a:TocLink\endcsname{1}{x1-260003}{QQ2-1-52}{Known functions of mammalian piRNAs}}{68}\relax 
+\doTocEntry\tocsubsubsection{1.5.1.4}{\csname a:TocLink\endcsname{1}{x1-270004}{QQ2-1-53}{Integration of multiple HTS datatypes of piRNA analysis}}{68}\relax 
+\doTocEntry\tocsubsection{1.5.2}{\csname a:TocLink\endcsname{1}{x1-280002}{QQ2-1-54}{Assembling full length transcripts from Short read data}}{69}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-290002}{QQ2-1-55}{SeqZip - Development and Applications}}{70}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-300001}{QQ2-1-56}{SeqZip Overview}}{70}\relax 
+\doTocEntry\toclof{2.1}{\csname a:TocLink\endcsname{1}{x1-30001r1}{}{\ignorespaces Original SeqZip Diagram}}{figure}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-310002}{QQ2-1-58}{Multiplex Gene Study}}{73}\relax 
+\doTocEntry\toclot{2.1}{\csname a:TocLink\endcsname{1}{x1-31001r1}{}{\ignorespaces Genes with big spans in between}}{table}\relax 
+\doTocEntry\toclof{2.2}{\csname a:TocLink\endcsname{1}{x1-31002r2}{}{\ignorespaces 10 Gene Set schematic}}{figure}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-320003}{QQ2-1-61}{Determining RNA integrity using SeqZip}}{80}\relax 
+\doTocEntry\tocsubsection{2.3.1}{\csname a:TocLink\endcsname{1}{x1-330001}{QQ2-1-62}{Demonstration of Concept}}{80}\relax 
+\doTocEntry\toclof{2.3}{\csname a:TocLink\endcsname{1}{x1-33001r3}{}{\ignorespaces Ligation product tied to RNA integrity}}{figure}\relax 
+\doTocEntry\toclof{2.4}{\csname a:TocLink\endcsname{1}{x1-33002r4}{}{\ignorespaces Trans Transcript investigation}}{figure}\relax 
+\doTocEntry\tocsubsection{2.3.2}{\csname a:TocLink\endcsname{1}{x1-340002}{QQ2-1-65}{Investigating HIV viral genome integrity using SeqZip}}{86}\relax 
+\doTocEntry\tocsubsection{2.3.3}{\csname a:TocLink\endcsname{1}{x1-350003}{QQ2-1-66}{Design of HIV ligamers}}{86}\relax 
+\doTocEntry\toclof{2.5}{\csname a:TocLink\endcsname{1}{x1-35001r5}{}{\ignorespaces SeqZip can examine HIV transcript integrity}}{figure}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-360004}{QQ2-1-68}{Continuity of piRNA precursor transcripts}}{90}\relax 
+\doTocEntry\toclof{2.6}{\csname a:TocLink\endcsname{1}{x1-36001r6}{}{\ignorespaces piRNA precursor locations}}{figure}\relax 
+\doTocEntry\toclot{2.2}{\csname a:TocLink\endcsname{1}{x1-36002r2}{}{\ignorespaces Just 9 piRNA genes create >50\% of mammalian piRNAs}}{table}\relax 
+\doTocEntry\toclof{2.7}{\csname a:TocLink\endcsname{1}{x1-36003r7}{}{\ignorespaces pRT Doesn't Work for piRNA precursors}}{figure}\relax 
+\doTocEntry\toclof{2.8}{\csname a:TocLink\endcsname{1}{x1-36004r8}{}{\ignorespaces Dst1 by SeqZip}}{figure}\relax 
+\doTocEntry\toclof{2.9}{\csname a:TocLink\endcsname{1}{x1-36005r9}{}{\ignorespaces Three sites of AS in \textit  {Fn1}{} by SeqZip}}{figure}\relax 
+\doTocEntry\toclof{2.10}{\csname a:TocLink\endcsname{1}{x1-36006r10}{}{\ignorespaces Testes Specific RNA precursor expression}}{figure}\relax 
+\doTocEntry\toclof{2.11}{\csname a:TocLink\endcsname{1}{x1-36007r11}{}{\ignorespaces piRNA precursor analysis via SeqZip}}{figure}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-370003}{QQ2-1-76}{SeqZip Publication}}{112}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-380001}{QQ2-1-77}{Abstract}}{112}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-390002}{QQ2-1-78}{Introduction}}{112}\relax 
+\doTocEntry\toclof{3.1}{\csname a:TocLink\endcsname{1}{x1-39001r1}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-400003}{QQ2-1-80}{Results}}{115}\relax 
+\doTocEntry\tocsubsection{3.3.1}{\csname a:TocLink\endcsname{1}{x1-410001}{QQ2-1-81}{Subsection 2}}{115}\relax 
+\doTocEntry\toclof{3.2}{\csname a:TocLink\endcsname{1}{x1-41001r2}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
+\doTocEntry\tocsubsection{3.3.2}{\csname a:TocLink\endcsname{1}{x1-420002}{QQ2-1-83}{Subsection 2}}{118}\relax 
+\doTocEntry\toclof{3.3}{\csname a:TocLink\endcsname{1}{x1-42001r3}{}{\ignorespaces SeqZip Diagram}}{figure}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-430004}{QQ2-1-85}{Discussion}}{121}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-440005}{QQ2-1-86}{Methods}}{121}\relax 
+\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-450006}{QQ2-1-87}{Supplemental Text}}{121}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-460004}{QQ2-1-88}{An Ancient Transcription Factor Initiates the Burst of piRNA Production during Early Meiosis in Mouse Testes}}{122}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-470001}{QQ2-1-89}{INTRODUCTION}}{122}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-480002}{QQ2-1-90}{RESULTS}}{123}\relax 
+\doTocEntry\tocsubsection{4.2.1}{\csname a:TocLink\endcsname{1}{x1-490001}{QQ2-1-91}{Defining piRNA-Producing Transcripts in the Mouse Testis}}{123}\relax 
+\doTocEntry\toclof{4.1}{\csname a:TocLink\endcsname{1}{x1-49001r1}{}{\ignorespaces piRNA Precursors are RNA Pol II Transcripts}}{figure}\relax 
+\doTocEntry\toclof{4.2}{\csname a:TocLink\endcsname{1}{x1-49002r2}{}{\ignorespaces The Major piRNA-Producing Genes of the Post-Partum Mouse Testis}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.2}{\csname a:TocLink\endcsname{1}{x1-500002}{QQ2-1-94}{piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}}{132}\relax 
+\doTocEntry\tocsubsection{4.2.3}{\csname a:TocLink\endcsname{1}{x1-510003}{QQ2-1-95}{A Transcript-based Set of piRNA Loci}}{133}\relax 
+\doTocEntry\tocsubsection{4.2.4}{\csname a:TocLink\endcsname{1}{x1-520004}{QQ2-1-96}{Three Classes of piRNAs During Post-Natal Spermatogenesis}}{133}\relax 
+\doTocEntry\toclof{4.3}{\csname a:TocLink\endcsname{1}{x1-52001r3}{}{\ignorespaces Three Classes of piRNA-Generating Loci}}{figure}\relax 
+\doTocEntry\toclof{4.4}{\csname a:TocLink\endcsname{1}{x1-52002r4}{}{\ignorespaces Pre-pachytene piRNAs Persist in Pachytene Spermatocytes}}{figure}\relax 
+\doTocEntry\toclof{4.5}{\csname a:TocLink\endcsname{1}{x1-52003r5}{}{\ignorespaces Examples of Pachytene piRNA Genes}}{figure}\relax 
+\doTocEntry\toclof{4.6}{\csname a:TocLink\endcsname{1}{x1-52004r6}{}{\ignorespaces Examples of Pre-Pachytene piRNA Genes}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.5}{\csname a:TocLink\endcsname{1}{x1-530005}{QQ2-1-101}{\textit  {A-Myb}{} Regulates Pachytene piRNA Precursor Transcription}}{151}\relax 
+\doTocEntry\toclof{4.7}{\csname a:TocLink\endcsname{1}{x1-53001r7}{}{\ignorespaces A-MYB Binds the Promoters of Pachytene piRNA Genes}}{figure}\relax 
+\doTocEntry\toclof{4.8}{\csname a:TocLink\endcsname{1}{x1-53002r8}{}{\ignorespaces ChIP-qPCR Confirms ChIP-seq Data}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.6}{\csname a:TocLink\endcsname{1}{x1-540006}{QQ2-1-104}{\textit  {A-Myb}{} Regulates Pachytene piRNA Production}}{158}\relax 
+\doTocEntry\toclof{4.9}{\csname a:TocLink\endcsname{1}{x1-54001r9}{}{\ignorespaces Pachytene piRNAs and Precursors Decrease in \textit  {A-Myb}{} Mutant Testes}}{figure}\relax 
+\doTocEntry\toclof{4.10}{\csname a:TocLink\endcsname{1}{x1-54002r10}{}{\ignorespaces Change in piRNA Expression in \textit  {Spo11}{}, \textit  {Miwi}{}, \textit  {Tdrd6}, and \textit  {Tdrd9} Mutants}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.7}{\csname a:TocLink\endcsname{1}{x1-550007}{QQ2-1-107}{\textit  {A-Myb}{} Regulates Expression of piRNA Biogenesis Factors}}{164}\relax 
+\doTocEntry\toclof{4.11}{\csname a:TocLink\endcsname{1}{x1-55001r11}{}{\ignorespaces Examples of the Effect of the \textit  {A-Myb}{} Mutation on piRNA Expression}}{figure}\relax 
+\doTocEntry\toclof{4.12}{\csname a:TocLink\endcsname{1}{x1-55002r12}{}{\ignorespaces Pachytene piRNA Precursor Abundance in \textit  {A-Myb}{}, \textit  {Miwi}{}, and \textit  {Trip13} Mutants}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.8}{\csname a:TocLink\endcsname{1}{x1-560008}{QQ2-1-110}{A-MYB and the Pachytene piRNA Regulatory Circuitry}}{172}\relax 
+\doTocEntry\toclof{4.13}{\csname a:TocLink\endcsname{1}{x1-56001r13}{}{\ignorespaces A-MYB Regulates Expression of mRNAs Encoding piRNA Pathway Proteins}}{figure}\relax 
+\doTocEntry\toclof{4.14}{\csname a:TocLink\endcsname{1}{x1-56002r14}{}{\ignorespaces \textit  {A-Myb}{} mutants, but Not \textit  {Miwi}{} Mutants, Change the Expression of RNA Silencing Pathway Genes}}{figure}\relax 
+\doTocEntry\tocsubsection{4.2.9}{\csname a:TocLink\endcsname{1}{x1-570009}{QQ2-1-113}{Feed-Forward Regulation of piRNA Production is Evolutionarily Conserved}}{180}\relax 
+\doTocEntry\toclof{4.15}{\csname a:TocLink\endcsname{1}{x1-57001r15}{}{\ignorespaces Feed-Forward Regulation of piRNA Biogenesis by A-MYB is Conserved in Rooster}}{figure}\relax 
+\doTocEntry\toclof{4.16}{\csname a:TocLink\endcsname{1}{x1-57002r16}{}{\ignorespaces Genomic Locations of piRNA Clusters in the Rooster (Gallus gallus) Testis.}}{figure}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-580003}{QQ2-1-116}{DISCUSSION}}{188}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-590004}{QQ2-1-117}{EXPERIMENTAL PROCEDURES}}{190}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-600005}{QQ2-1-118}{Discussion}}{198}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-610001}{QQ2-1-119}{The Future of Dynamic long RNAs}}{198}\relax 
+\doTocEntry\tocsubsection{5.1.1}{\csname a:TocLink\endcsname{1}{x1-620001}{QQ2-1-120}{The Known Knowns}}{198}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.1}{\csname a:TocLink\endcsname{1}{x1-630001}{QQ2-1-121}{Alternative Splicing turns gene expression into a game of cards}}{199}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.2}{\csname a:TocLink\endcsname{1}{x1-640002}{QQ2-1-122}{Pervasive transcription}}{199}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.3}{\csname a:TocLink\endcsname{1}{x1-650003}{QQ2-1-123}{Tissue and cell specificity}}{199}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.4}{\csname a:TocLink\endcsname{1}{x1-660004}{QQ2-1-124}{Function of long RNAs}}{199}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.5}{\csname a:TocLink\endcsname{1}{x1-670005}{QQ2-1-125}{Chromatin regulation}}{199}\relax 
+\doTocEntry\tocsubsubsection{5.1.1.6}{\csname a:TocLink\endcsname{1}{x1-680006}{QQ2-1-126}{PTGS}}{199}\relax 
+\doTocEntry\tocsubsection{5.1.2}{\csname a:TocLink\endcsname{1}{x1-690002}{QQ2-1-127}{The Known Unknowns}}{200}\relax 
+\doTocEntry\tocsubsubsection{5.1.2.1}{\csname a:TocLink\endcsname{1}{x1-700001}{QQ2-1-128}{How are they important?}}{200}\relax 
+\doTocEntry\tocsubsubsection{5.1.2.2}{\csname a:TocLink\endcsname{1}{x1-710002}{QQ2-1-129}{What regulates their tissue-specific expression?}}{200}\relax 
+\doTocEntry\tocsubsubsection{5.1.2.3}{\csname a:TocLink\endcsname{1}{x1-720003}{QQ2-1-130}{Technological Improvements}}{200}\relax 
+\doTocEntry\tocsubsection{5.1.3}{\csname a:TocLink\endcsname{1}{x1-730003}{QQ2-1-131}{The Unknown Unknowns}}{200}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-740002}{QQ2-1-132}{Future SeqZip development and use}}{200}\relax 
+\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-750001}{QQ2-1-133}{Assay Modifications}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.1}{\csname a:TocLink\endcsname{1}{x1-760001}{QQ2-1-134}{Rnl2 T29A mutation}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.2}{\csname a:TocLink\endcsname{1}{x1-770002}{QQ2-1-135}{Thermostable Ligases}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.3}{\csname a:TocLink\endcsname{1}{x1-780003}{QQ2-1-136}{LNA-containing Ligamers}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.4}{\csname a:TocLink\endcsname{1}{x1-790004}{QQ2-1-137}{Ribose-containing Ligamers}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.5}{\csname a:TocLink\endcsname{1}{x1-800005}{QQ2-1-138}{Repurposing the SOLiD Platform}}{201}\relax 
+\doTocEntry\tocsubsubsection{5.2.1.6}{\csname a:TocLink\endcsname{1}{x1-810006}{QQ2-1-139}{Others}}{201}\relax 
+\doTocEntry\tocsubsection{5.2.2}{\csname a:TocLink\endcsname{1}{x1-820002}{QQ2-1-140}{An ideal SeqZip experiment to query coordinated splicing}}{202}\relax 
+\doTocEntry\tocsubsection{5.2.3}{\csname a:TocLink\endcsname{1}{x1-830003}{QQ2-1-141}{SeqZip and single-molecule FISH}}{202}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-840003}{QQ2-1-142}{In the haystack: piRNA precursor transcripts surrounded by RNA}}{203}\relax 
+\doTocEntry\tocsubsection{5.3.1}{\csname a:TocLink\endcsname{1}{x1-850001}{QQ2-1-143}{In vivo chemical labeling of precursor piRNA transcripts}}{203}\relax 
+\doTocEntry\tocsubsection{5.3.2}{\csname a:TocLink\endcsname{1}{x1-860002}{QQ2-1-144}{In vivo imaging of precursor piRNA transcripts}}{203}\relax 
+\doTocEntry\tocsubsection{5.3.3}{\csname a:TocLink\endcsname{1}{x1-870003}{QQ2-1-145}{What are they doing?}}{204}\relax 
+\doTocEntry\tocsubsection{5.3.4}{\csname a:TocLink\endcsname{1}{x1-880004}{QQ2-1-146}{How are they generated?}}{204}\relax 
+\doTocEntry\tocsubsection{5.3.5}{\csname a:TocLink\endcsname{1}{x1-890005}{QQ2-1-147}{Why should we care?}}{204}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-900004}{QQ2-1-148}{Lingering Questions for \textit  {Dscam1}{}}}{204}\relax 
+\doTocEntry\tocsection{5.5}{\csname a:TocLink\endcsname{1}{x1-910005}{QQ2-1-149}{Final thoughts}}{204}\relax 
+\doTocEntry\tocsubsection{5.5.1}{\csname a:TocLink\endcsname{1}{x1-920001}{QQ2-1-150}{Why did I want to study AS?}}{204}\relax 
+\doTocEntry\tocsubsection{5.5.2}{\csname a:TocLink\endcsname{1}{x1-930002}{QQ2-1-151}{Biologists need Computation Biological Skills}}{205}\relax 
+\doTocEntry\tocsubsection{5.5.3}{\csname a:TocLink\endcsname{1}{x1-940003}{QQ2-1-152}{Science versus Engineering: Two thoughts in one school}}{206}\relax 
+\doTocEntry\tocsubsection{5.5.4}{\csname a:TocLink\endcsname{1}{x1-950004}{QQ2-1-153}{Dealing with the data deluge}}{208}\relax 
+\doTocEntry\tocappendix{A}{\csname a:TocLink\endcsname{1}{x1-96000A}{QQ2-1-154}{Appendix - Misc Information}}{209}\relax 
+\doTocEntry\tocsection{A.1}{\csname a:TocLink\endcsname{1}{x1-970001}{QQ2-1-155}{Buffers}}{209}\relax 
+\doTocEntry\toclot{A.1}{\csname a:TocLink\endcsname{1}{x1-97001r1}{}{\ignorespaces SeqZip Hybridization and Ligation Buffer}}{table}\relax 
+\doTocEntry\tocsection{A.2}{\csname a:TocLink\endcsname{1}{x1-980002}{QQ2-1-157}{Equations}}{212}\relax 
+\doTocEntry\tocsubsection{A.2.1}{\csname a:TocLink\endcsname{1}{x1-990001}{QQ2-1-158}{f}}{212}\relax 
+\doTocEntry\tocsubsection{A.2.2}{\csname a:TocLink\endcsname{1}{x1-1000002}{QQ2-1-159}{b}}{212}\relax 
+\doTocEntry\tocsubsection{A.2.3}{\csname a:TocLink\endcsname{1}{x1-1010003}{QQ2-1-160}{Normalize oxidized small RNA libraries size to time-matched unoxidized library}}{213}\relax 
+\doTocEntry\tocsection{A.3}{\csname a:TocLink\endcsname{1}{x1-1020003}{QQ2-1-161}{PCR Programs}}{213}\relax 
+\doTocEntry\tocappendix{B}{\csname a:TocLink\endcsname{1}{x1-103000B}{QQ2-1-162}{Appendix B: piRNA precurors are spliced}}{215}\relax 
+\doTocEntry\tocsection{B.1}{\csname a:TocLink\endcsname{1}{x1-1040001}{QQ2-1-163}{Evidence for spliced piRNA precusor transcripts}}{215}\relax 
+\doTocEntry\toclof{B.1}{\csname a:TocLink\endcsname{1}{x1-104001r1}{}{\ignorespaces RNA-Seq evidence for piRNA precursor splicing}}{figure}\relax 
+\doTocEntry\toclof{B.2}{\csname a:TocLink\endcsname{1}{x1-104002r2}{}{\ignorespaces Lack of piRNAs within precusor introns}}{figure}\relax 
+\doTocEntry\toclof{B.3}{\csname a:TocLink\endcsname{1}{x1-104003r3}{}{\ignorespaces piRNAs map to Splice Junctions of precursor transcripts}}{figure}\relax 
+\doTocEntry\toclof{B.4}{\csname a:TocLink\endcsname{1}{x1-104004r4}{}{\ignorespaces \textit  {A-Myb}{} Mutants produce no splice-junction mapping piRNAs}}{figure}\relax 
+\doTocEntry\toclof{B.5}{\csname a:TocLink\endcsname{1}{x1-104005r5}{}{\ignorespaces General features of piRNA transcripts}}{figure}\relax 
+\doTocEntry\tocappendix{C}{\csname a:TocLink\endcsname{1}{x1-105000C}{QQ2-1-169}{Automated Ligamer Assembly}}{231}\relax 
+\doTocEntry\tocsection{C.1}{\csname a:TocLink\endcsname{1}{x1-1060001}{QQ2-1-170}{Installation}}{231}\relax 
+\doTocEntry\tocsection{C.2}{\csname a:TocLink\endcsname{1}{x1-1070002}{QQ2-1-171}{Example Input Format}}{232}\relax 
+\doTocEntry\tocsection{C.3}{\csname a:TocLink\endcsname{1}{x1-1080003}{QQ2-1-172}{Ligamer Assmebly Source Code}}{240}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-173}{}{Bibliography}}{241}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-10900010}{QQ2-1-174}{Bibliography}}{242}\relax 

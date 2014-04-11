@@ -2,6 +2,10 @@
 /* start css.sty */
 .cmr-5{font-size:41%;}
 .cmsy-5{font-size:41%;}
+.ectt-1000{font-size:83%; font-family: monospace;}
+.ectt-1000{ font-family: monospace;}
+.ectt-1000{ font-family: monospace;}
+.phvr8t-x-x-120{ font-family: sans-serif;}
 .phvr8t-x-x-120{ font-family: sans-serif;}
 .phvr8t-x-x-120{ font-family: sans-serif;}
 .phvr8t-x-x-120{ font-family: sans-serif;}
@@ -12,7 +16,9 @@
 .phvr8t-x-x-248{ font-family: sans-serif;}
 .phvr8t-x-x-248{ font-family: sans-serif;}
 .phvr8t-x-x-248{ font-family: sans-serif;}
+.phvr8t-x-x-248{ font-family: sans-serif;}
 .phvr8t-x-x-144{font-size:120%; font-family: sans-serif;}
+.phvr8t-x-x-144{ font-family: sans-serif;}
 .phvr8t-x-x-144{ font-family: sans-serif;}
 .phvr8t-x-x-144{ font-family: sans-serif;}
 .phvr8t-x-x-144{ font-family: sans-serif;}
@@ -23,7 +29,9 @@
 .phvro8t-x-x-248{ font-family: sans-serif;    font-style: oblique;}
 .phvro8t-x-x-248{ font-family: sans-serif;    font-style: oblique;}
 .phvb8t-x-x-120{font-family: sans-serif; font-weight: bold;}
+.phvb8t-x-x-120{font-family: sans-serif; font-weight: bold;}
 .phvrc8t-x-x-120{  font-family:sans-serif;}
+.ectt-1200{ font-family: monospace;}
 .ectt-1200{ font-family: monospace;}
 .ectt-1200{ font-family: monospace;}
 .phvro8t-x-x-120{ font-family: sans-serif;    font-style: oblique;}
@@ -49,6 +57,7 @@
 .phvr8t-x-x-109{ font-family: sans-serif;}
 .phvr8t-x-x-109{ font-family: sans-serif;}
 .phvr8t-x-x-109{ font-family: sans-serif;}
+.phvr8t-x-x-109{ font-family: sans-serif;}
 .phvro8t-x-x-172{font-size:143%; font-family: sans-serif;    font-style: oblique;}
 .phvro8t-x-x-172{ font-family: sans-serif;    font-style: oblique;}
 .phvro8t-x-x-172{ font-family: sans-serif;    font-style: oblique;}
@@ -59,13 +68,23 @@
 .phvro8t-x-x-109{ font-family: sans-serif;    font-style: oblique;}
 .phvro8t-x-x-109{ font-family: sans-serif;    font-style: oblique;}
 .phvro8t-x-x-109{ font-family: sans-serif;    font-style: oblique;}
+.ectt-1095{font-size:83%; font-family: monospace;}
+.ectt-1095{ font-family: monospace;}
+.ectt-1095{ font-family: monospace;}
+.phvb8t-x-x-109{font-size:90%;font-family: sans-serif; font-weight: bold;}
+.phvb8t-x-x-109{font-family: sans-serif; font-weight: bold;}
 .phvr8t-x-x-60{font-size:50%; font-family: sans-serif;}
 .phvr8t-x-x-60{ font-family: sans-serif;}
 .phvr8t-x-x-60{ font-family: sans-serif;}
 .phvr8t-x-x-60{ font-family: sans-serif;}
 .phvr8t-x-x-60{ font-family: sans-serif;}
-.ectt-1095{font-size:83%; font-family: monospace;}
-.ectt-1095{ font-family: monospace;}
+.phvr8t-x-x-60{ font-family: sans-serif;}
+.phvr8t-{font-size:83%; font-family: sans-serif;}
+.phvr8t-{ font-family: sans-serif;}
+.phvr8t-{ font-family: sans-serif;}
+.phvr8t-{ font-family: sans-serif;}
+.phvr8t-{ font-family: sans-serif;}
+.phvr8t-{ font-family: sans-serif;}
 .small-caps{font-variant: small-caps; }
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
@@ -240,5 +259,7 @@ span#textcolor31{background-color:#FFFF00}
 span#textcolor32{background-color:#FFFF00}
 span#textcolor33{background-color:#FFFF00}
 span#textcolor34{background-color:#FFFF00}
+span#textcolor35{background-color:#FFFF00}
+span#textcolor36{background-color:#FFFF00}
 /* end css.sty */
 

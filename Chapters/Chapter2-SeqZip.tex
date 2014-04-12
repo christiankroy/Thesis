@@ -61,7 +61,12 @@
 
 \section{Determining RNA integrity using SeqZip}\label{sec: SeqZip Integrity}
 
+  An exciting use of SeqZip would be rapid quantification of the integrity of RNA molecules. Integrity here is defined as the faction of molecules that are a continuous and unbroken nucleic acid polymers, from the original site of transcript to 3\textprime~ -processed end. Quantification of integrity has many uses including: quanlity control of RNA before downstream analysis such as RT or sequencing, and 2) (discussed below) implications of infectivity for viruses that package and RNA genome in the virion.
+
+
   \subsection{Demonstration of Concept}
+
+  In order to demonstrate the feasibility of the SeqZip assay toward performing these type of analysis, I in vitro transcribed a 9,800 nt long RNA that I digested using ZnCl$_{2}$ at two different concentrations and times (see Figure \ref{fig:Ligation product and RNA integrity}. The RNA was probed using 3 ligamers, 2 to the very edges of the RNA, and one that looped out the intervening 8,000 nt. Theoretically, the amount of ligamer product observed would be directly tied to the abundance of the full length product.
 
 	  \begin{figure}[htbp] % Degraded RNA measurement by SeqZip
     	\centering 
@@ -69,10 +74,16 @@
     	\caption[Ligation product tied to RNA integrity]
     	{
 		    Ligation product tied to RNA integrity\\
-      	\hl{figure Caption}
+      	Top) Schematic demonstrating the experimental design. A middle ligamer (L), that hybridizes to the edges of a 8,000 nt section of RNA should only ligate to flanking ligamers when the template RNA is intact, and not when hydrolyzed using ZnCl$_{2}$. \\
+        Middle) Intensity of PCR products ampilified using end-labeled primers such that the intensities of all bands can be quantitatively compared (i.e. semi-quantitative PCR). \\
+        Bottom) A denature agarose gel stained with EtBr showing the intactness of the template RNA used in position-matched ligation reactions in the middle panel. Time and concentrations of ZnCl$_{2}$ are shown.
     		}
     	\label{fig:Ligation product and RNA integrity}
   		\end{figure}
+
+    Figure \ref{fig:Ligation product and RNA integrity} produced promising results in that the aparent intesity of the bands shown in (middle) was tied to the amount of intact RNA seen in (bottom). However, the lanes where the RNA was degraded for 2m with 10 mM ZnCl$_{2}$ compared to 30s with 100 mM ZnCl$_{2}$ were not in good agreement, with clearly less intact RNA in the 2m lane, but just as much ligaiton product. We hypothesized that this was due to inherent secondary strucutre in the template we used (a section of the HIV genome, discussed below in section \ref{subsec: HIV}). 
+
+    To see how well the SeqZip assay could distinguish a pool of containing RNA fragments from full-length templates, two different pools of ligamers were used on the same template as that used in Figure \ref{fig:Ligation product and RNA integrity}. At what concentratio of template does the ``long'' ligamer generate ligation products from fragments of the template message? Using pools of ligamers targeting fragments and a complete message, the SeqZip assay was performed using a 1:1 ratio of RNA fragments. The results of the experiment are shown in Figure \ref{fig: trans Tx for degregation}.
 
   	\begin{figure}[htbp] % Trans RNA with SeqZip
     	\centering 
@@ -80,19 +91,24 @@
     	\caption[Trans Transcript investigation]
     	{
 	      Trans Transcript investigation\\
-  	    \hl{figure Caption}
+  	    Left) Schematic of experimental design: Three pools of ligamers were used. Two of them (labeled ``3'' and ``5'' hybridize to the 5\textprime~ and 3\textprime~ sections of a 9,800 nt template RNA. The last, labeled ``L'' connects these two regions via a long longer with target 5\textprime~ and 3\textprime~ regions of complementarity. \\
+        Right Top) Combinations of the ligamer pools were used with different concentrations of template RNA in the SeqZip assay. Ligation products were amplified with end-labeled PCR primers and amplified using radioactive PCR. Shown are low (left column) and high (right column) verions of two different exposure times (1x on bottom and 6x on top). \\
+        Right Bottom) Quantification of the bands shown in the gel above, grouped by input template RNA concentration. The fold difference in band intensity between the lowest signal ``5'' or ``3'' ligamer pool and the ``L'' pool is indicated. Y-Axis is the raw band intensity.
 		    }
-   	 \label{fig:Ligation product and RNA integrity}
+   	 \label{fig: trans Tx for degregation}
 	 	 \end{figure}
+
+     Results shown that the SeqZip assay accurately reports on the presence of fragments, and not full length transcripts at concentrations less than 1 nM template. This is in good agreement with results presented in Chapter \ref{Chapter3}. 
+
+     These results are encouraging, but bear repeating in order to address the issus of potential secondary stucture and repetitive regions inherent to the template RNA used. The should be repeated with a template RNA of mRNA original, instead of a highly-structured and repetive template such as the HIV genome used in the experiments described above.
 
   \subsection{Investigating HIV viral genome integrity using SeqZip}\label{subsec: HIV}
 
-	  %! Base the discussion off the introduction in the HIV paper (Serquiña et al. 2013)
-    % Should cite paper that came out today \citep{Gregersen2014} about MOV10 being a 5' to 3' exonuclease associated w/ UPF1
+    In late 2010, early 2011, a Graduate student in the \href{http://profiles.umassmed.edu/profiles/display/133484}{Gottlinger} lab, Anna Kristina Serquiña obervered that a cell line expressing ATPase-defective forms of the SF1 helicase UPF1 \citep{Bhattacharya2000} did not infect a reporter cell line to the same degree as control. A previous Mass-spec study had reported MOV10, another SF1 family helicase \citep{Gregersen2014} was packed in extracellular viral particles. She hypothezied that the decrease in infectivity was due to a problem with RT of the genetic material injected into the target cells. The results of this study were recently published \citep{Serquina2013a}.
 
-  	MOV10 is implicated in HIV genome stability and intactness. We sought to measure the effects of a point mutant in the ATPase domain of MOV10L1 on the ‘intactness’ of the HIV genome. Viral particles contain two copies of the ssRNA HIV genome. Proteomics studies have measured MOV10L1 and Upf1 in viral particles, implicated these proteins, which are known helicases, in the maintained and infectivity of HIV.
+    Anna was interested in using the SeqZip methodology to quanitfy the amount of intact HIV virus in virus-producing cells and extracellular virions. The first step in applying SeqZip to HIV was to design ligamers.
 
-1	\subsection{Design of HIV ligamers}
+	\subsection{Design of HIV ligamers}
 
 	  Research into the integrity of the HIV RNA genome using SeqZip began with designing a set of ligamers against two different clones. The first clone, targeting transcripts from the M19921 plasmid (so called ``M'' clone), and transcripts from the K03455 clone contain nearly identical sequences with respect to the genome itself, and differ mostly in plasmid originating sequences. We targeted a difference in sequence for one site of ligation (Fig3-11A). Three different pools of ligamers were created initially: a Five(5) ligamer pool, with three ligamers design to test for the presence of sequence in the first 1,140 nt of the HIV genome, importantly the first site of ligation in the 5 region pool should contain a mismatch in the K clone sequence; a three(3) pool, testing the last 1,210 nt of the genome, and a Long (L) ligamer pool, also containing three ligamers, but the middle ligamer of which would span the 5 and 3 regions, looping out 8,633 nt of sequence in the middle of the HIV genome. In vitro transcripts were created using both the K and M clone plasmids. These transcripts were added to a background of total MEF RNA, and the SeqZIp assay was performed. Ligation products were successfully amplified from all ligamer pools when using the M clone transcript and all three ligamer pools. Also the abundance of these ligation products, as measured by endpoint PCR, seemed to be spike-concentration dependent. Notably, Ligation products were not obtained from the K clone using either the 5 or L ligamer pools, likely due to the mismatch between the transcript and the ligamers at the site of ligation. Also of note was the appearance of ligation products from purified endogenous virons of the M clone from all three ligamer pools, and the absence of products from virions purified from plasmids containing a defective protein, Gag, essential for viral packaging. 
 
@@ -102,12 +118,19 @@
     	\caption[SeqZip can examine HIV transcript integrity]
     	{
 	      SeqZip can examine HIV transcript integrity\\
-      	\hl{figure Caption}
+      	A) Schematic demonstrating the experimental design. Three different pools are used to probe for connectivity on the 5\textprime~ (Five(5)) and 3\textprime~ (Three(3)) ennds. Additionally, a Long (L) ligamer is used to check for connectivity between the two ends. We used two different clones of the HIV genome, described in the text and denoted as ``M'' and ``K''. Important here is that the ``K'' contains difference base at a ligation site of the 5 ligamer pool.
+        B) A series of end-point PCR gels showing amplified ligation products templated with in vitro transcribed RNA at 10 nM or 10 pM of either the K or M clones, or from purified virions of (M clone origin). Show are two different end points of PCR, 12 cycles (top) or 22 cycles (bottom). Also shown is a legend of expected ligation products lengths
     		}
     	\label{fig:Hiv tx via SeqZip}
   		\end{figure}
 
+The results shown in Figure \ref{fig:Hiv tx via SeqZip} clearly show that the SeqZip assay, and these three pools of ligamers can be used to profile HIV in vitro transcripts, and RNA from puried virions. Important features of the figure are 1) Ligation products are \textit{not} observed for ligation reactions using the K clone template RNA and the Five(5) pool of ligamers, verifying the specificty of the ligamers to the different base containined in the M clone; and 2) That the amount of product from reactions using the L pool of ligamers required more cycles (22 vs 12) in order to be visualized, as would be expected given the physical constrain of hybridizing to two sequences seperated by >8,000 nt. 
+
+Again, while these results were encouraging, access to purified material and a general push to publish Anna's UPF1 story lead the Gottlinger lab to substatiate the viral genome intregrity claims effecting infectivity using a traditional northern blot \citep{Serquina2013a}. However, this work clearly warrents additional optimization and application
+
 \section{Continuity of piRNA precursor transcripts}\label{sec: precursor TX}
+
+  \todo[inline]{Write more SeqZip experiment work}
 
   \begin{figure}[htbp] % Precursor Transcript Summary
     \centering 

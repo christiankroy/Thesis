@@ -92,24 +92,15 @@
 
     RNA-Seq and its associated flavors are also traditionally associated quantifying RNA obtained from \textit{many} tissue culture cells bulk pieces of a particular tissues. Recently, efforts to measure the RNA expression occurring in individual cells has gained attention \citep{Shapiro2013b}. Perhaps the most interesting concept when thinking about measurement of gene expression in a single cell is the ``biological uncertainty principle'', wherein it is possible to either know, or change \textemdash but not both\textemdash~the RNA composition of a single cell. The name borrows from Heisenberg's uncertainty principle \citep{Kennard1927} and is often confused with the more appropriate ``Observer effect'' \citep{Riley2013}. Leaving that issue aside, measuring the unique transcriptome of a given cell among cells of a common tissue is surly an exciting and informative endeavor \citep{Marinov2013, Shalek2013b,Wills2013}. Compared to DNA, the diversity of RNA synthesis within living cells is potentially much more complicated \citep{Shendure2012}, and the ability to accurately measure RNA dynamics should allow us to make much more informative observations concerning biology then is currently possible \citep{Djebali2012}.
 
-  \subsection{Measuring RNA Expression via Sequencing}\label{sec: RNA Exp via HTS}
-
-    % Here you need to talk about the Encode paper, which you left off with in the last section
-
-    The encode project revealed that most of the genome is transcribed into RNA. This was done in cancerous cell lines, and while it revealed the potential for transcription, it did not reveal much biology beyond cells in culture simply perpetuating their existence. 
-
-  \subsection{Assembling Transcripts from Short Reads}\label{sec: Assembling Transcripts}
-
-   %This paper that I just read,  Blower2014 PLOS, is a good starter for the use of multiple types of libraries to create a valuable reference transcriptome. It uses CAP-Seq and Poly-A Seq to capture more complete mRNAs.
-
 \section{Nucleic Acid Splicing}\label{hd: Nucleic Acid Splicing}
 
   \subsection{Alternative Splicing}\label{sec: AS}
 
-    % See this Review for good information 
+    \todo[inline]{Insert information on RNASeq looking for splicing!}
+
     \citep{Kelemen2013}
-    % Mention the pair of papers in science, dec 2012 that discuss evolution using RNA-Seq 
-    \citep{Barbosa-Morais2012,Merkin2012} 
+
+    \citep{Barbosa-Morais2012,Merkin2012}  % Pair of papers in science, dec 2012 that discuss evolution using RNA-Seq 
 
     \begin{figure}[htbp] % # of Genes and % Alternatively Spliced
       \centering 
@@ -156,7 +147,7 @@
 
     The provocative ``Miller Spread'' showing spliceosomes associated with RNA transcripts likely ignited the first thought that transcription and splicing are intracately linked \citep{Osheim1985}. Twelve years later, the first observation that polymerase speed can affect downstream splicing decisions was reported \citep{Cramer1997}, spawning a new field of research into linked transcription and splicing. But how linked are these two processes? 
 
-     % Need to transition better here. Logic isn't great!
+    \todo{Need to transition better here. Logic isn't great!}
     How would linkage between transcription and splicing manifest? One of the clearest examples is mouse Fibronectin \fn{} (Figure \ref{fig:mouseFn1}) \citep{Schwarzbauer1983, White2011a}. In this gene, inclusion of the alternatively spliced Extra Domain A (EDI or EDA) region promotes splicing from one of three alternative 3\textprime~ Splice Site (3\textprime~ SS) in the type III homology connecting segment (IIICS) region, resulting in more frequent production of shorter transcripts \citep{Fededa2005}. This effect occurs over six constitutively expressed exons and 800 nt of sequence (5400 nt if introns are considered). \citep{Fededa2005} also analyzed EST databases, concluding that approximately 25\% of human genes contain multiple regions of AS. How many of these regions could show a coordinated effect, similar to that observed in Fibronectin? Providing some insight into this question, \citep{Fagnani2007} used microarrays designed to report on inclusion levels of cassette exons in mammalian central nervous system tissues \citep{Fagnani2007}. The results produced a set of 38 pairs of exons mapping to the same gene that showed a coordinated increase or decrease of inclusion levels. 
 
     \begin{figure}[htbp] % Fibronectin Architecture Figure 
@@ -172,7 +163,7 @@
 
     There have been a few studies that investigate forms of splicing coordination between adjacent exons present in mRNA. The vertebrate genes 4.1B and 4.1R, members of the protein 4.1 family encoding for cytoskeletal adaptor proteins, both undergo splicing of upstream 5\textprime~ first exons to distal 3\textprime~ second exons, skipping a stronger proximal 3\textprime~ second exon \citep{Parra2008, Parra2012}. This is accomplished through ``intrasplicing'' involving an intronic sequence element (the ``intraexon'') only present when transcription begins at the upstream 5\textprime~ exon, allowing the exon to ligate do the weaker distal 3\textprime~ second exon via an intermediate splicing event. Importantly, this type of splicing would be similar, but different from recursive splicing seen in drosophila \citep{Burnette2005a}. Another example of the importance of intron sequence elements on AS is observed in the equine $\beta$-casin gene, where the authors propose a model involving an intronic splicing enhancer bound to the exit channel of the elongating polymerase, promoting inclusion of downstream cassette exons \citep{Lenasi2006}. Taking a more genome-wide approach Peng et al. examined human and mouse EST data looking for correlations between adjacent AS cassette exons \citep{Peng2008}. The authors note that positively correlated pairs of adjacent cassette exons typically resemble constitutive exons in splice strength, whereas negatively, or weakly correlated pairs are likely to be newly emerging exons, whose strength of splicing has not evolved enough to be constitutively included. 
 
-    % Figure idea - insert my version of the chromatin figure
+    \missingfigure{insert my version of the chromatin figure}
 
     The last, most current, and thorough study of intra-gene splicing coordination involves the \worms{} gene \slo{} \citep{Glauser2011, Johnson2011}. \slo{} is the \worms{} orthologue of the human BK channel gene \kcnma{}, also known to undergo extensive alternative splicing \citep{Nilsen2010} via 13 cassette exons, potentially coding for over 1,000 different isoforms. \kcnma{} is highly developmentally, spatially, and tissue regulated. It is involved in a diverse range of cellular processes, including hearing, circadian rhythms, urinary function, and vasoregulation \citep{Fodor2009a}. While the gene is highly conserved, as organism complexity grows, so does the apparent transcriptional diversity of this gene. In worms, \slo{} can produce up to 12 different isoforms. Glauser et al. used QPCR to demonstrate individual, AS region inclusion frequencies do not correspond to complete isoform frequencies, when measured via a TaqMan probe approach. They go on to describe a interdependent-splicing model that best fits the data, and support interdependence via mutations at one sight altering splicing at both upstream and downstream sites of AS, separated by atleast one other splicing event. After measuring the biophysical properties of the isoforms \citep{Johnson2011}, they conclude that coordinated AS is critical for proper BK channel function in vivo. It is interesting to note that this study also identified an intronic sequence element that displayed some type of coordinated, or co-regulated effect on AS. 
 
@@ -264,11 +255,12 @@
 
     \citep{Neves2004} examined \dscam{} expression in hemocyte cells, and their results clearly show reduced variability in cluster 9 inclusion. Virtually all of the signal obtained from hemocyte cells for cluster 9 was seen in variants 9.[6,9,13,30,and 31]. \citep{Watson2005} also examined \dscam{} expression in hemocyte cells, comparing it to that of neuronal cells. They propose that secreted forms of \dscam{} are essential for a robust innate immune system in insects. These studies highlight how nature has applied one gene that produced extreme molecular diversity to multiple problems involving determing self from non-self \citep{Shi2012a, Hattori2008}. \dscam{} use in these two very different biologically roles has been summarized previously \citep{Hemani2012}. 
 
-    Beginning in 2005 Hattori series – Minimal require divsersity \citep{Hattori2005a,Hattori2008,Hattori2009}
+    In 2005 the Zipersky lab published \citep{Hattori2005a} the first in a series of quality reports describing the function and diversity of \dscam{} from a genetic approach. \citep{Hattori2008,Hattori2009} 
+    \todo[inline]{Insert Hattori Series Summary}
 
-    %9. The cell paper mattori 2013 – Diversity dynamics, bunch of other cool stuff. \citep{Miura2013b}
+    Finally, in another tour-de-force of genetic manipulation, once again the Zipersky lab advanced our understanding of \dscam{}. \citep{Miura2013b} used a collection of \dscam{} mutants allowing for visualization via GFP of specific cluster 4.X variants being used in real time. This was accomplished by creating frame shifting mutations when any varaint other than the one designer in the given mutant was included by the cell. This allowed \citet{Miura2013b} to make the following conclusions: 1) 
 
-    % Need transition from Dscam to Rnl2!
+    \todo[inline]{Need transition from Dscam to Rnl2!}
 
 \section{Nucleic Acid Ligation}\label{hd:Nucleic Acid Ligation}
 
@@ -333,9 +325,10 @@
 
     Ligation of hybrid substrates (eg. DNA-templated RNA:DNA vs DNA-templated DNA:DNA) have revealed general substrate preferences. DNA ligases appear to prefer the residue bearing the 5\textprime~ phosphate on the 3\textprime~ side of the nick to be 2\textprime~ deoxyribose, and have a relaxed requirement for the sugar on the 5\textprime~ side of the nick. RNA ligases have the reverse preference, demonstrating higher activities when the 5\textprime~ strand, 3\textprime~ OH residue also bears a 2\textprime OH. Rnl2 has an additional preference for an RNA residue at the penultimate 3\textprime~ side of a nick \citep{Ho2002b,Ho2004, Nandakumar2004a, Nandakumar2006}. The two base requirement for RNA at the 5\textprime~ side of the double stranded nick biases Rnl2 to join RNA:[RNA/DNA] strands. Independent labs have measured this preference and have reported that the RNA-templated DNA:DNA joining activity of Rnl2 is below assay limits of detection \citep{Bullard2006}. However, results discussed in this work clearly show that with enough enzyme, and sensitive downstream measurements, Rnl2 will catalyze RNA-templated DNA:DNA ligation (see Chapter \ref{Chapter2}. Previous reports of Rnl2 lacking this activity are likely due to a single turnover mechanism in this reaction, owning to the poor dissociation rate of nucleic acid-interacting enzymes.
 
-    % Need to add reference to this paper - \cite{Reuveni2014} where they talk about the importance of enzyme unbinding to the speed of reactions. That doesn't get at a reference that talks about slow dissociation of nucleic-acid interacting proteins, for which even Wee said he didn't know a fantastic reference.
+    \todo[inline]{Discuss \cite{Reuveni2014} on importance of enzyme unbinding to the speed of reactions.} 
+    %That doesn't get at a reference that talks about slow dissociation of nucleic-acid interacting proteins, for which even Wee said he didn't know a fantastic reference.
 
-    % Transition from Rnl2 to long RNAs/ piRNA precusors somehwow. 
+    \todo[inline]{Transition from Rnl2 to long RNAs/ piRNA precusors somehow.}
 
 \section{Nucleic Acid Polymers}\label{hd: piRNA section}
 
@@ -343,6 +336,7 @@
 
     \subsubsection{Brief history of piRNAs}
 
+      \todo[inline]{piRNA section needs major work}
       % Notes from Wei's Group meeting update on piRNAs.
       % Mention the Saito 2006 Slicer activity, in vitro, of Piwi domain containing argonautes in flies. Then mention papers from Siomi and Brennecki, and Lin lab in 2009 about mutating the catalytic triad in the piwi proteins and there is no slicer activity. 
       % Function of piwi(?) - Lin lab paper.
@@ -394,11 +388,11 @@
 
       Mouse piRNAs have also been implicated in gene imprinting \citep{Watanabe2011}. 
 
-      The transposon-mapping nature of the fetal piRNA class made obvious comparisons to the fly piRNA system nature. In the fly system, primary piRNAs transcribed from discrete loci and fed into an amplification loop between two PIWI proteins PIWI(3) and AGO3 (‘the ping-pong’ cycle) (REF Brenneki cell paper 2007). It is believed that PIWI proteins loaded with piRNAs bind and silence transposon messages, using the cleaved transposon transcripts, in combination with primary piRNA transcripts, as a substrates in the Ping-Pong cycle %($REF some newer review demonstrating this activity). 
+      The transposon-mapping nature of the fetal piRNA class made obvious comparisons to the fly piRNA system nature. In the fly system, primary piRNAs transcribed from discrete loci and fed into an amplification loop between two PIWI proteins PIWI(3) and AGO3 (‘the ping-pong’ cycle) (REF Brenneki cell paper 2007). It is believed that PIWI proteins loaded with piRNAs bind and silence transposon messages, using the cleaved transposon transcripts, in combination with primary piRNA transcripts, as a substrates in the Ping-Pong cycle \todo[fancyline]{REF some newer review demonstrating this activity}. 
 
     \subsubsection{Integration of multiple HTS datatypes of piRNA analysis}
       
-      %Channel the Resources paper!
+      \todo[inline]{\Channel the Resources paper!}%Channel the Resources paper!
 
       + Critical importance of integrating many different HTS datasets into mammalian piRNA study
       
@@ -414,16 +408,12 @@
     
       PAS-Seq challenging due to internal priming sites, difficulty of HTS platforms to read through homopolymers, and dynamic nature of 3\textprime~ end processing.
 
-  \subsection{Assembling full length transcripts from Short read data}
+  \subsection{From short reads to full-length transcripts}\label{subsec: Tx Assembly}
 
-    + Current status and future of transcriptome assembly
+    Assembly of full length transcripts is difficult for at least 3 reasons. 1) The transcriptome is expressed across many 5 orders of magnitude, with an RNA-Seq library containg many reads from a few highly-expressed genes, and much fewer reads from many lowly-expressed genes \citep{Blencowe2009}; 2) RNA-Seq libraries are often not created from a completely pure source of mRNA and can contain reads from other RNA classes (e.g. tRNAs) or intronic reads from pre-mRNAs; and 3) Reads are often much shorter than a typical mRNA, making it difficult to assign which read goes to which isoform of a given gene (see the ``connectivity problem'' discussed in section \ref{sec:Isoform Problem}. With these challenges in mind, what is the current state of transcript reconsuction (herein transcript assembly). 
 
-    + Reference most recent transcript assembly review.
+    Computational transcriptome assembly of short reads is currently performed in one of two modes: genome-guided and genome-independent \citep{Garber2011a}. The difference between these two approaches is use of a high-quality genome during the reconsruction process. Popular assembly programs such as Cufflinks \citep{Trapnell2010} and Scripture \citep{Guttman2010a}, use genome-aligned short reads as the bases for 
 
-    + Most successful methods are guided by known annotations
+    Constraints imposed by the huge dynamic range of mRNA expression is the source of the biggest issue with current transcript assembly approaches: they frequently generate short transcript fragments, or contigs, due to poor coverage on long and lowly-expressed transcripts. Merging these contigs into a continuous annotation is a major goal. Improvements will surely come from greater sequencing depth, longer reads, and mRNA enrichment schemes. Longer-term barriers include repetive sequences, transcript secondary structure \citep{Wan2014}, and mRNA processing including hydrolysis and RT processivity \citep{Sharon2013}. 
 
-    + Unguided typically provide many discontinuous ‘contigs’ 
-
-    + Maybe assisted by deeper RNA-Seq
-
-    + Paired-end is critically important
+    \todo[inline]{Use Blower2014 to continue/refine discussion}

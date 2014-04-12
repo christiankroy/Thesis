@@ -470,6 +470,12 @@ Gan, H., Lin, X., Zhang, Z., Zhang, W., Liao, S., Wang, L., and Han, C. (2011).
 \newblock {piRNA profiling during specific stages of mouse spermatogenesis}.
 \newblock {\em RNA}.
 
+\bibitem[Garber et~al., 2011]{Garber2011a}
+Garber, M., Grabherr, M.~G., Guttman, M., and Trapnell, C. (2011).
+\newblock {Computational methods for transcriptome annotation and
+  quantification using RNA-seq.}
+\newblock {\em Nature Methods}, 8(6):469--477.
+
 \bibitem[Ghildiyal et~al., 2008]{Ghildiyal2008}
 Ghildiyal, M., Seitz, H., Horwich, M.~D., Li, C., Du, T., Lee, S., Xu, J.,
   Kittler, E. L.~W., Zapp, M.~L., Weng, Z., and Zamore, P.~D. (2008).
@@ -978,6 +984,13 @@ Mettus, R.~V., Litvin, J., Wali, A., Toscani, A., Latham, K., Hatton, K., and
   expression.}
 \newblock {\em Oncogene}, 9(10):3077--86.
 
+\bibitem[Miura et~al., 2013]{Miura2013b}
+Miura, S.~K., Martins, A., Zhang, K.~X., Graveley, B.~R., and Zipursky, S.~L.
+  (2013).
+\newblock {Probabilistic splicing of Dscam1 establishes identity at the level
+  of single neurons.}
+\newblock {\em Cell}, 155(5):1166--77.
+
 \bibitem[Modrek and Lee, 2002]{Modrek2002}
 Modrek, B. and Lee, C. (2002).
 \newblock {A genomic view of alternative splicing}.
@@ -1212,6 +1225,13 @@ Reuter, M., Chuma, S., Tanaka, T., Franz, T., Stark, A., and Pillai, R.~S.
   activates transposons and alters the Mili-associated small RNA profile.}
 \newblock {\em Nature structural \& molecular biology}, 16(6):639--46.
 
+\bibitem[Reuveni et~al., 2014]{Reuveni2014}
+Reuveni, S., Urbakh, M., and Klafter, J. (2014).
+\newblock {Role of substrate unbinding in Michaelis-Menten enzymatic
+  reactions.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 111(12).
+
 \bibitem[Richardson, 1965]{Richardson1965a}
 Richardson, C. (1965).
 \newblock {Phosphorylation of Nucleic Acid by and Enzyme from T4
@@ -1254,10 +1274,6 @@ Romanienko, P.~J. and Camerini-Otero, R.~D. (2000).
 Ronaghi, M., Uhl\'{e}n, M., and Nyr\'{e}n, P. (1998).
 \newblock {A sequencing method based on real-time pyrophosphate.}
 \newblock {\em Science}, 281:363, 365.
-
-\bibitem[Rumsfeld, 2011]{Rumsfeld2011}
-Rumsfeld, D. (2011).
-\newblock {Known and unknown: a memoir}.
 
 \bibitem[Saito et~al., 2009]{Saito2009}
 Saito, K., Inagaki, S., Mituyama, T., Kawamura, Y., Ono, Y., Sakota, E.,
@@ -1338,6 +1354,11 @@ Shapiro, E., Biezuner, T., and Linnarsson, S. (2013).
 \newblock {Single-cell sequencing-based technologies will revolutionize
   whole-organism science.}
 \newblock {\em Nature reviews. Genetics}, 14(9):618--630.
+
+\bibitem[Sharon et~al., 2013]{Sharon2013}
+Sharon, D., Tilgner, H., Grubert, F., and Snyder, M. (2013).
+\newblock {A single-molecule long-read survey of the human transcriptome.}
+\newblock {\em Nature biotechnology}, 31(11):1009--1014.
 
 \bibitem[Sharp, 2014]{Sharp2014}
 Sharp, P.~A. (2014).
@@ -1639,6 +1660,13 @@ Vourekas, A., Zheng, Q., Alexiou, P., Maragkakis, M., Kirino, Y., Gregory,
 \newblock {Mili and Miwi target RNA repertoire reveals piRNA biogenesis and
   function of Miwi in spermiogenesis}.
 \newblock {\em Nature Structural \& Molecular Biology}, 19(8):773--781.
+
+\bibitem[Wan et~al., 2014]{Wan2014}
+Wan, Y., Qu, K., Zhang, Q.~C., Flynn, R.~a., Manor, O., Ouyang, Z., Zhang, J.,
+  Spitale, R.~C., Snyder, M.~P., Segal, E., and Chang, H.~Y. (2014).
+\newblock {Landscape and variation of RNA secondary structure across the human
+  transcriptome.}
+\newblock {\em Nature}, 505(7485):706--9.
 
 \bibitem[Wang et~al., 2008]{Wang2008}
 Wang, E.~T., Sandberg, R., Luo, S., Khrebtukova, I., Zhang, L., Mayr, C.,

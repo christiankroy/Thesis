@@ -19,6 +19,16 @@ My 2014 UMMS Thesis
 + Primes - use `5\textprime~` or any version therefor. The tilde at the end is required to insert a space after the prime signal. `\usepackage{flexisym}` required.
 + ~ can (and should be) inserted with `\textasciitilde`
 
+### Comments ###
+
++ See this article http://tex.stackexchange.com/questions/68530/making-corrections-during-review-of-other-people-latex-article
++ Insert a Figure request w/ `\missingfigure{Comment Text}``
++ Insert a Comment box w/
+    * `\todo[prepend]{Comment text}`
++ Insert On own line w/ `\todo[inline]{Comment Text}`
++ Insert with line pointing to specific point w/ `\todo[fancyline]{Comment Text}`
++ Insert a Editing bar w/ `\begin{changebar}` and `\end{changebar}`
+
 ### Code Folding ###
 
 + Sections are Flush with side
@@ -49,14 +59,22 @@ My 2014 UMMS Thesis
 
 Drop to terminal and type `htlatex thesis.tex`
 
-### Introduction #
+### Chatper 1 - Introduction #
 
-+ Clean up the transitions in the introduction
-    * I feel pretty good about the Locust lead in. I think I should stop working on that part now.
+Priority of work:
+
+1. piRNA seciton
+2. Dscam1 Hattori section needs work
+3. Beginning of Nucleic acid splicing section needs work
+
 
 ### Chapter 2 - SeqZip methodology #
 
-### Chapter 3 - SeqZip paper
++ Continue filling in the experimental descriptions
+
+### Chapter 3 - SeqZip paper ###
+
++ Insert the current draft on 2014-04-18
 
 ### Chapter 4 - MolCel2013 #
 
@@ -65,9 +83,11 @@ Drop to terminal and type `htlatex thesis.tex`
 
 ### Chapter 5 - Discussion ###
 
-### Appendix B #
- 
- piRNA resources paper.
++ Needs to most work!
++ Write up the SeqZip assay improvements
++ Read Papers from Akiko about single molecule Fish
+    + How to apply this to the precursors? 
+
 
 
 

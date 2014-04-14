@@ -1,0 +1,204 @@
+\chapter{SeqZip - Development and Applications} \label{SeqZipMethod} 
+\lhead{Chapter 4. \emph{SeqZip - Development and Applications}} 
+%----------------------------------------------------------------------------------------
+\section{SeqZip Overview}\label{sec: SeqZip Overview}
+
+  Development of the SeqZip methodology began with an attempt to circumvent an obvious shortcoming in second generation HTS\textemdash the short nature of the reads. Until second generation HTS (i.e. reads <100nt on either the Illumina or SOLiD platforms), most sequencing was done using cloned fragments, stored in a bacteria, and analyzed using dideoxy Sanger Sequencing ( see \ref{sec:DNA Sequencing History}. Indeed, this is how most \hyperref[hd:abrevs]{EST}s where analyzed. An extremely powerful feature of these ESTs is that as they represented the sequence of a single clone, from a single original molecule of RNA, the connectivity between sequences that were far apart (>1,000 nt) in the original sequence was maintained. It is this very feature, the continuity of sequence, that allowed whole genome shotgun sequenced to be used, and ESTs to be assembled, into complete genomes, despite sometimes lengthly, and highly repetitive, sretches of DNA (see \ref{sec:DNA Sequencing History}). Once research transitioned over to heavy use of the second generation HTS, all of that connectivity was lost, and all the inherent information with it.
+
+  Second generation HTS can be supplemented with other technologies. This has been demonstrated perhaps most successfully with long-read assisted genome assembly \citep{Koren2012a}. Why not supplemental the disconnected nature of short reads with another technilogy? To that end, Phillip Zamore proposed an RNA-templated DNA to DNA ligation approach as drawn in Figure \ref{fig:Original SeqZip Diagram} (see also US Patent application \href{http://1.usa.gov/PTG9BB}{12/906,678}). Using this approach, 2 or more distant sequences of RNA are investigated using short DNA oligonucleotides that hybridize to target sequences, forcing the intervening sequences to loop out. Incorporation of the hybridized DNA via ligation with those of DNAs adjacently hybridized generates a positive read out of sequence presence.
+
+  \begin{figure}[htbp] % Original SeqZip Diagram
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/OriginalSeqZipDiagram.eps}
+    \caption[Original SeqZip Diagram]
+    {
+      Original SeqZip Diagram\\
+      This is the original concept diagram of the SeqZip methodology. (A) Specific DNA oligos target an mRNA and loop out the RNA sequence. Ligases is added to join the DNA oligos together; (B) \& (C) Two different possibilities of ligation products templated from the RNA in (A), where Exon 2 is an cassette exon.
+    	}
+    \label{fig:Original SeqZip Diagram}
+  	\end{figure}
+
+  Along with Patent \href{http://1.usa.gov/PTG9BB}{12/906,678}, Chapter \ref{SeqZipPaper} presents much of the early and important developmental work demonstrating reduction to practice of this method (termed ``SeqZip"), and its application to investgating connectivity of sequence content in biologically-interesting genes \fn{} and \dscam{}. 
+
+  Presented in this Chapter are experiences demonstrating SeqZip application to the following questions and issues:
+
+  \begin{itemize} % Itemized list of sections
+    \item Section \ref{sec: Multiplex Gene Study}: Investgation of 10 genes, simultaneously ("Multiplex") for connected AS decisions
+    \item Section \ref{sec: SeqZip Integrity}: Using SeqZip to investigate the interigy of RNA molecules
+     \item Section \ref{sec: precursor TX}: Using SeqZip to demonstrate the presence of long, continuous piRNA precusors
+	  \end{itemize}
+
+  The three sections contrast with Chapter \ref{SeqZipPaper} in some important ways. First, Section \ref{sec: Multiplex Gene Study} demonstrates that the SeqZip method can not only be used to investigate one, extremely complex Alternatively splice gene, such as \dscam{} in a c comprehensive manner, but can also be applied to looking at multiple genes at once. Seciton \ref{sec: SeqZip Integrity} expoits an important subtle feature of the method\textemdash that the RNA must be intact in order to produce a ligation product. This can be used to report on a fraction of RNA that is intact, and deduce meaningful information such as the amount of RNA virus that is intact (see \ref{subsec: HIV}), or the existance of as-yet unobserved mega transcripts, like mammalian piRNA precursors (see \ref{sec: precursor TX} and \citep{Li2013h,Li2013}).
+
+\section{Multiplex Gene Study}\label{sec: Multiplex Gene Study}
+
+  Is the coordination discussed in section \ref{sec: Coordination in splicing} a general phenomenon? One of the major goals of developing the SeqZip methodology was investigating potential coordination genome-wide. By genome-wide, what we really mean is to analyze many (or all) of the RNA transcripts in a tissue for evidence of coordinated splicing decisions. When development of the method reached the point that it could be applied in a multiplex study, I did not posses the bioinformatic skills necessary to 1) design ligamers in an automated and high-throughput fashion and 2) identify target transcripts, exons, and sequences to investigate for potential connectivity. Both of these points are discussed later(see \ref{AppendixC}\ref{Discussion}. 
+
+  In order to make some progress on applying the technique to multiple genes at once, I used data presented by \citet{Fagnani2007}. This paper identified genes displaying tissue-specific splicing patterns, focusing on those with CNS-specific patterns. Once section focused on ``Coordination between AS events belonging to the same genes,'' and seemed to be the exact type of data we were interested in applying the SeqZip method too. Five hundred of the 3,044 genes investigated by their microarrays contained 2\textendash 5 alternative exons. \citet{Fagnani2007} contained an additional data file listing all pair-wise combinations of alternative exons in the same gene (with that gene having significant expression in >20 different tissues), along with the standard and partial spearman correlations. 
+
+  It is important to note that the genes above also contain alternative first exons, a prominant type of AS (see figure \ref{fig:asEventsBarChart}). Indeed, from microarrays studies, it has been estimated that approximately 16\%\textendash 23\% of all AS events involve alternative first and last exons \citep{Bingham2008}. It is known that, through alternative use of first and last exons, cells can fine-tune a transcript’s untranslated region (UTR) and control many aspects of mRNA regulation including nuclear export, localization, expression, and stability \citep{Hughes2006}. In support of the importance of alternative UTRs in tuning of gene expression, a landmark RNA-Seq study demonstrated a high occurrence of alternative first and last exon splicing, with alternative tandem 3\textprime~ UTR usage being the most highly tissue-dependent form of AS observed \citep{Wang2008}. The current model of spatial proximity between 5\textprime~ and 3\textprime~ UTRs is suggestive of their possible interdependence. In our multiplez analysis, we included genes potentially displaying interdependence between first and last exons. Discovery of interdependence would lead to many questions into how specific combinations of UTRs can influence mRNA processing downstream of AS.
+
+  Using the \citet{Fagnani2007} data, I filtered exon pairs to those with a distance >350 nt in the final pre-mRNA. I also visualized their transcript achetecture, and EST evidence using NCBIs AceView tool \citep{Thierry-Mieg2006}. For example, the exons with strong correlation of expression in \textit{Chl1} are in the beginning (second exon) and end (fourth from last exon, accession BC060216) with plenty of supporting evidence for these exons being expressed and skipped. After combing through \citep{Fagnani2007} data for a group of 11 genes. The genes examined are presented in Table \ref{table: BigSpanGenes}.
+
+  \input{Tables/BigSpanGenes.tex}
+
+  I hand-designed ligamers to observe potentially coordinated splicing decisions. These oligos were then ordered from IDT in a 96-well plate format, pooled according to gene, and used to develop a multiplex approach to applying SeqZip, as well as investigate coordination between these exons, in these genes, using mouse total RNA from brains.
+
+  \begin{figure}[htbp] % 11 Gene Set Schematic
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/10GeneSetSchematic.eps}
+    \caption[10 Gene Set schematic]
+    {
+      10 Gene set schematic\\
+      \hl{caption next}
+	    }
+    \label{fig:Multiplex Study Design}
+  	\end{figure}
+
+  After attempts at performing the SeqZip assay on all 10 genes in one ligation failed, I reverted back to per-gene ligation reactions in order to trouble shoot and optimize the assay. Once I had obtained ligaiton products from per-gene ligation reactions for both the individual and combination ligamers pools, I pooled all the ligation products and amplified them via PCR. Amplified products were sent for PE100 sequencing on the Illumina GEIIx platform. 
+
+  After considerable delay and optimization from the Umass Sequencing Core (likely due to little sequence diversity in the library), the analyzed data demonstrated little alternative splicing in the genes examined. Put another way- most of the transcripts observed via SeqZip were uniform in exon inclusion, and showed little variability for cassette exon inclusion. These results were disappointing, and forced us to rethink a better way to apply the SeqZip methodology to multiple genes, or complex alternative splicing (i.e. \dscam{}; see \ref{Chapter3}. For a discussion of an ``ideal'' multiplex study, see section \ref{subsec: Ideal multiplex study}.
+
+\section{Determining RNA integrity using SeqZip}\label{sec: SeqZip Integrity}
+
+  An exciting use of SeqZip would be rapid quantification of the integrity of RNA molecules. Integrity here is defined as the faction of molecules that are a continuous and unbroken nucleic acid polymers, from the original site of transcript to 3\textprime~ -processed end. Quantification of integrity has many uses including: quanlity control of RNA before downstream analysis such as RT or sequencing, and 2) (discussed below) implications of infectivity for viruses that package and RNA genome in the virion.
+
+
+  \subsection{Demonstration of Concept}
+
+  In order to demonstrate the feasibility of the SeqZip assay toward performing these type of analysis, I in vitro transcribed a 9,800 nt long RNA that I digested using ZnCl$_{2}$ at two different concentrations and times (see Figure \ref{fig:Ligation product and RNA integrity}. The RNA was probed using 3 ligamers, 2 to the very edges of the RNA, and one that looped out the intervening 8,000 nt. Theoretically, the amount of ligamer product observed would be directly tied to the abundance of the full length product.
+
+	  \begin{figure}[htbp] % Degraded RNA measurement by SeqZip
+    	\centering 
+    	\includegraphics{Figures/SeqZipMethod/DegreadedRNABySeqZip.eps}
+    	\caption[Ligation product tied to RNA integrity]
+    	{
+		    Ligation product tied to RNA integrity\\
+      	Top) Schematic demonstrating the experimental design. A middle ligamer (L), that hybridizes to the edges of a 8,000 nt section of RNA should only ligate to flanking ligamers when the template RNA is intact, and not when hydrolyzed using ZnCl$_{2}$. \\
+        Middle) Intensity of PCR products ampilified using end-labeled primers such that the intensities of all bands can be quantitatively compared (i.e. semi-quantitative PCR). \\
+        Bottom) A denature agarose gel stained with EtBr showing the intactness of the template RNA used in position-matched ligation reactions in the middle panel. Time and concentrations of ZnCl$_{2}$ are shown.
+    		}
+    	\label{fig:Ligation product and RNA integrity}
+  		\end{figure}
+
+    Figure \ref{fig:Ligation product and RNA integrity} produced promising results in that the aparent intesity of the bands shown in (middle) was tied to the amount of intact RNA seen in (bottom). However, the lanes where the RNA was degraded for 2m with 10 mM ZnCl$_{2}$ compared to 30s with 100 mM ZnCl$_{2}$ were not in good agreement, with clearly less intact RNA in the 2m lane, but just as much ligaiton product. We hypothesized that this was due to inherent secondary strucutre in the template we used (a section of the HIV genome, discussed below in section \ref{subsec: HIV}). 
+
+    To see how well the SeqZip assay could distinguish a pool of containing RNA fragments from full-length templates, two different pools of ligamers were used on the same template as that used in Figure \ref{fig:Ligation product and RNA integrity}. At what concentratio of template does the ``long'' ligamer generate ligation products from fragments of the template message? Using pools of ligamers targeting fragments and a complete message, the SeqZip assay was performed using a 1:1 ratio of RNA fragments. The results of the experiment are shown in Figure \ref{fig: trans Tx for degregation}.
+
+  	\begin{figure}[htbp] % Trans RNA with SeqZip
+    	\centering 
+    	\includegraphics{Figures/SeqZipMethod/TransRNAWithSeqZip.eps}
+    	\caption[Trans Transcript investigation]
+    	{
+	      Trans Transcript investigation\\
+  	    Left) Schematic of experimental design: Three pools of ligamers were used. Two of them (labeled ``3'' and ``5'' hybridize to the 5\textprime~ and 3\textprime~ sections of a 9,800 nt template RNA. The last, labeled ``L'' connects these two regions via a long longer with target 5\textprime~ and 3\textprime~ regions of complementarity. \\
+        Right Top) Combinations of the ligamer pools were used with different concentrations of template RNA in the SeqZip assay. Ligation products were amplified with end-labeled PCR primers and amplified using radioactive PCR. Shown are low (left column) and high (right column) verions of two different exposure times (1x on bottom and 6x on top). \\
+        Right Bottom) Quantification of the bands shown in the gel above, grouped by input template RNA concentration. The fold difference in band intensity between the lowest signal ``5'' or ``3'' ligamer pool and the ``L'' pool is indicated. Y-Axis is the raw band intensity.
+		    }
+   	 \label{fig: trans Tx for degregation}
+	 	 \end{figure}
+
+     Results shown that the SeqZip assay accurately reports on the presence of fragments, and not full length transcripts at concentrations less than 1 nM template. This is in good agreement with results presented in Chapter \ref{Chapter3}. 
+
+     These results are encouraging, but bear repeating in order to address the issus of potential secondary stucture and repetitive regions inherent to the template RNA used. The should be repeated with a template RNA of mRNA original, instead of a highly-structured and repetive template such as the HIV genome used in the experiments described above.
+
+  \subsection{Investigating HIV viral genome integrity using SeqZip}\label{subsec: HIV}
+
+    In late 2010, early 2011, a Graduate student in the \href{http://profiles.umassmed.edu/profiles/display/133484}{Gottlinger} lab, Anna Kristina Serquiña obervered that a cell line expressing ATPase-defective forms of the SF1 helicase UPF1 \citep{Bhattacharya2000} did not infect a reporter cell line to the same degree as control. A previous Mass-spec study had reported MOV10, another SF1 family helicase \citep{Gregersen2014} was packed in extracellular viral particles. She hypothezied that the decrease in infectivity was due to a problem with RT of the genetic material injected into the target cells. The results of this study were recently published \citep{Serquina2013a}.
+
+    Anna was interested in using the SeqZip methodology to quanitfy the amount of intact HIV virus in virus-producing cells and extracellular virions. The first step in applying SeqZip to HIV was to design ligamers.
+
+	\subsection{Design of HIV ligamers}
+
+	  Research into the integrity of the HIV RNA genome using SeqZip began with designing a set of ligamers against two different clones. The first clone, targeting transcripts from the M19921 plasmid (so called ``M'' clone), and transcripts from the K03455 clone contain nearly identical sequences with respect to the genome itself, and differ mostly in plasmid originating sequences. We targeted a difference in sequence for one site of ligation (Fig3-11A). Three different pools of ligamers were created initially: a Five(5) ligamer pool, with three ligamers design to test for the presence of sequence in the first 1,140 nt of the HIV genome, importantly the first site of ligation in the 5 region pool should contain a mismatch in the K clone sequence; a three(3) pool, testing the last 1,210 nt of the genome, and a Long (L) ligamer pool, also containing three ligamers, but the middle ligamer of which would span the 5 and 3 regions, looping out 8,633 nt of sequence in the middle of the HIV genome. In vitro transcripts were created using both the K and M clone plasmids. These transcripts were added to a background of total MEF RNA, and the SeqZIp assay was performed. Ligation products were successfully amplified from all ligamer pools when using the M clone transcript and all three ligamer pools. Also the abundance of these ligation products, as measured by endpoint PCR, seemed to be spike-concentration dependent. Notably, Ligation products were not obtained from the K clone using either the 5 or L ligamer pools, likely due to the mismatch between the transcript and the ligamers at the site of ligation. Also of note was the appearance of ligation products from purified endogenous virons of the M clone from all three ligamer pools, and the absence of products from virions purified from plasmids containing a defective protein, Gag, essential for viral packaging. 
+
+	  \begin{figure}[htbp] % HIV Via SeqZip
+  	  \centering 
+	    \includegraphics{Figures/SeqZipMethod/HIVviaSeqZip.eps}
+    	\caption[SeqZip can examine HIV transcript integrity]
+    	{
+	      SeqZip can examine HIV transcript integrity\\
+      	A) Schematic demonstrating the experimental design. Three different pools are used to probe for connectivity on the 5\textprime~ (Five(5)) and 3\textprime~ (Three(3)) ennds. Additionally, a Long (L) ligamer is used to check for connectivity between the two ends. We used two different clones of the HIV genome, described in the text and denoted as ``M'' and ``K''. Important here is that the ``K'' contains difference base at a ligation site of the 5 ligamer pool.
+        B) A series of end-point PCR gels showing amplified ligation products templated with in vitro transcribed RNA at 10 nM or 10 pM of either the K or M clones, or from purified virions of (M clone origin). Show are two different end points of PCR, 12 cycles (top) or 22 cycles (bottom). Also shown is a legend of expected ligation products lengths
+    		}
+    	\label{fig:Hiv tx via SeqZip}
+  		\end{figure}
+
+  The results shown in Figure \ref{fig:Hiv tx via SeqZip} clearly show that the SeqZip assay, and these three pools of ligamers can be used to profile HIV in vitro transcripts, and RNA from puried virions. Important features of the figure are 1) Ligation products are \textit{not} observed for ligation reactions using the K clone template RNA and the Five(5) pool of ligamers, verifying the specificty of the ligamers to the different base containined in the M clone; and 2) That the amount of product from reactions using the L pool of ligamers required more cycles (22 vs 12) in order to be visualized, as would be expected given the physical constrain of hybridizing to two sequences seperated by >8,000 nt. 
+
+  Again, while these results were encouraging, access to purified material and a general push to publish Anna's UPF1 story lead the Gottlinger lab to substatiate the viral genome intregrity claims effecting infectivity using a traditional northern blot \citep{Serquina2013a}. However, this work clearly warrents additional optimization and application
+
+\section{Continuity of piRNA precursor transcripts}\label{sec: precursor TX}
+
+  \todo[inline]{Write more SeqZip experiment work}
+
+  \begin{figure}[htbp] % Precursor Transcript Summary
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/PrecursorLocations.eps}
+    \caption[piRNA precursor locations]
+    {
+      piRNA precursor locations\\
+      \hl{figure Caption}
+   	 }
+    \label{fig:Hiv tx via SeqZip}
+ 	 \end{figure}
+
+  \input{Tables/matchedClusterValues} % Top 5 Promoters generate >50% of 14.5 dpp piRNAs
+
+  \begin{figure}[htbp] % RT doesn't work for piRNA precursor Transcripts
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/RTDoesntWork.eps}
+    \caption[pRT Doesn't Work for piRNA precursors]
+    {
+      RT Doesn't Work for piRNA precursors\\
+      \hl{figure Caption}
+    	}
+    \label{fig:Hiv tx via SeqZip}
+  	\end{figure}
+
+  \begin{figure}[htbp] % SeqZip does work for Dst1 transcripts
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/dst1.eps}
+    \caption[Dst1 by SeqZip]
+    {
+      Dst1 by SeqZip\\
+      \hl{figure Caption}
+    	}
+    \label{fig:Hiv tx via SeqZip}
+  	\end{figure}
+
+  \begin{figure}[htbp] % Investgating Three sites of FN1 using SeqZip
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/fn1ThreeSite.eps}
+    \caption[Three sites of AS in \fn{} by SeqZip]
+    {
+      Capturing AS at three sites and >2kb of mRNA\\
+      \hl{figure Caption}
+	    }
+    \label{fig:Hiv tx via SeqZip}
+  	\end{figure}
+
+  \begin{figure}[htbp] % Precursors Transcripts are Testes Specific
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/testesSpecificRnaseqPrecursors.eps}
+    \caption[Testes Specific RNA precursor expression]
+    {
+      Testes Specific RNA precursor expression\\
+      \hl{figure Caption}
+    	}
+    \label{fig:Hiv tx via SeqZip}
+  	\end{figure}
+
+  \begin{figure}[htbp] % Analysis of Precursors by SeqZip
+    \centering 
+    \includegraphics{Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip.eps}
+    \caption[piRNA precursor analysis via SeqZip]
+    {
+      piRNA precursor analysis via SeqZip\\
+      \hl{figure Caption}
+    	}
+    \label{fig:Hiv tx via SeqZip}
+  	\end{figure}
+
+
+

@@ -1,4 +1,4 @@
-\chapter{Discussion} \label{Chapter 5} 
+\chapter{Discussion} \label{Discussion}
 \lhead{Chapter 5. \emph{Discussion}} 
 %----------------------------------------------------------------------------------------
 
@@ -10,8 +10,6 @@
 
   In the past 5 years, biologists have started to think way beyond mRNAs and small RNAs. The former captured out interest for 30+ years \citep{Furuichi1975,Wei1975}, and the later has been on a run-away train since capturing out attention in 1998 \citep{Fire1998}. HTS has added long RNAs to these classes of gene products. However, many biologically-trained and minded Scientists find themselves overwhelmed by the complete different methods and approaches to tackling the ``big data'' created by modern genome-wide experiments. Experimental training does not currently provide students with the required skills in statistics, computer programing, and experimental design that are needed to work with genome-wide data (see section \ref{subsec: Biologists need Comp Skills}. The richness of this data often leaves many unasked (and unanswered) test-able hypothesis just sitting in public repositories \citep{Plocik2013}.
 
-  % See Writing Fragments for Rumseld lead in! \input{Fragments/Rumsfeld}
-
   At this point, it is important to remember that in this document \textit{long RNAs} may also refer to products containing characteristics of traditional mRNAs, that is a 5\textprime~m7G Cap, ligated exons, and a Poly(A) tail. However, many of these long mRNAs are extremely dynamic. So much so that until HTS and RNA-Seq, comprehensive investigation of their complexity was not possible.
 
   \subsection{Pervasive transcription}
@@ -21,69 +19,143 @@
     \todo[line]{ Insert ENCODE References and Graur References} 
     The ENCODE papers from late 2012 suggested that 95\% of the genome is functional ($REF$). \citet{Djebali2012} focused on issues of transcription in these cell lines, as discussed in section \ref{sec:IsoformsPerGene}. The ENCODE studies were performed an human cancerous cell lines from different sources, and they still saw tremendous transcriptional diversity. Will better HTS tools and resolution, we should fully expect ever more diversity from the transcriptome once we can accurate catalogue and assemble transcripts from tissues, cells, and single single cells \textit{over time}.
 
-  \subsection{Tissue and cell specificity}
-    Your feelings on Specificity of long RNA expression
-
-  \subsection{Function of long RNAs}
-    We \textit{know} that some long RNAs are functional. What are these?
-
-  \subsection{Chromatin regulation}
-    We also know that some long RNAs regulation Chromatin structure. What are your feelings as to the importance of this fact?
-
-  \subsection{PTGS}
-    Long RNAs ability to do post transcriptional gene regulation, including piRNAs, and Xist, etc....
-
   \subsection{Accurate and complete transcript annotation}
+
     A deck of cards has only 52 cards, but can delt into $2,598,960$ different 5 cards hands, as when playing Poker. There are $1,098,240$ different single-pair combinations, with a probability of obtaining one being almost 50\%. Compare this to ``Royal Flush'', for which there are only 4 options, and a probability of $649,739:1 or 1.54 * 10^{-6}$ !. It is these numbers that makes possible to play Poker for hours on end. Long ago, biologic evolved to arrange genes into unique and rare combinations, especially in eukaryotic organisms. Indeed the process of splicing is closely correlated with organism complexity. The process of AS is even more closely tied to organism complexity (see figure \ref{fig:numGenesAndNumSpliced}).
 
-   Accurate determination and assembly of each card (exon) that comprises a hand (transcript) is a major known unknown of research into long RNA. The current state of the field is described in section \ref{subsec: Tx Assembly}. This field is in its infancy. Each gain in resolution or sensitivity reveals more complexity. Yet transcript assembly algorithms only provide predictions and probabilities for the existence of real molecules. Until RNA can be directly sequenced, in their entirety, from single cells, researchers will always be making compromises for transcript annotation and quantification. Once technology advances to the point where a transcriptome can be as accurately and quickly determined as a genome, extremely exiting research into the more subtle and nuanced complexity (e.g. what makes one twin molecularly different from another?) of biology can be unlocked.
+    Accurate determination and assembly of each card (exon) that comprises a hand (transcript) is a major known unknown of research into long RNA. The current state of the field is described in section \ref{subsec: Tx Assembly}. This field is in its infancy. Each gain in resolution or sensitivity reveals more complexity. Yet transcript assembly algorithms only provide predictions and probabilities for the existence of real molecules. Until RNA can be directly sequenced, in their entirety, from single cells, researchers will always be making compromises for transcript annotation and quantification. Once technology advances to the point where a transcriptome can be as accurately and quickly determined as a genome, extremely exiting research into the more subtle and nuanced complexity (e.g. what makes one twin molecularly different from another?) of biology can be unlocked.
 
-  \subsection{How are they important?}
-    Conservation of these things is not obvious - if they are not conserved - are they important? Maybe talk about how MALAT1 is highly expressed, but seems to be dispensable.
+    \todo[inline]{What is required to better transcript annotation?} % **************************
 
-  \subsection{What regulates their tissue-specific expression?}
-    Do they important some of the special sauce that makes tissues different from one other, more so then the mRNAs changes which can be extreme, but not terribly so....
+  \subsection{Tissue and cell specificity}
 
-    What determines AS splicing decisions? It is not connectivity in splicing, and it seems to be SR and hnRNP proteins. Splicing is tissue specific. So is it the tissue-specific expression of SR and hnRNP proteins the is the main determinant of AS outcomes? How does chromatin state and organization play into AS decisions? 
+    \todo[inline]{Your feelings on tissue Specificity of long RNA expression} % **************************
 
-  \subsection{Technological Improvements}
-    How does one perform deep and broad analysis of mRNAs using second-generation HTS give the tremendous log-range over which they are expressed?
+\section{Lingering Questions for \dscam{}}
 
-    This is the area of knowledge keeps many motivated to perform basic research every day. What secrets does the transcriptome have in store that we haven't even \textit{thought} about? Only through pushing the boundaries of the last two sections can we begin to think beyond the edge of map and formulate testable hypothesis. Here I propose a few outlandish ideas for Unknown Unknowns. 
+  What controls the stochastic and probabilistic splicing of \dscam{}? Why is it different between hemocytes and neurons? Why would hemocytes need less apparent diversity, given the range of antigen they could potentially encounter?
 
-\section{Future SeqZip development and use}
+\section{In the haystack: piRNA precursor transcripts surrounded by RNA}
 
-  \subsection{Assay Modifications}
 
-    \subsubsection{Rnl2 T29A mutation}
+  Chapter \ref{MolCel} describes efforts to annotate XX transcripts from XX loci that account for XX\% of the total piRNAs in 14.5 dpp mice. 
+  \todo[fancyline]{Insert these values} % **************************
+  Also descibed is how these transcripts are typical Pol II transcripts, possesing all the archetypical molecular signatures including 5\textprime~MeGppp caps, introns, and poly(A) tails. Yet RNA from these molecules appears to be rapidly consumed and processed into millions of unique 24\textendash32 nt species. How does the cell partition long RNAs for translation by the ribosome (as the case for most mRNAs) or cleavage and maturation into piRNAs? The sections below propose experiments aimed toward answering this question.
 
-    % That boils down to 3 things
-      % 1) Use of T39A which (all from \citep{Nandakumar2006} (
-      % 2) Use of an LNA at the penultimate base on the 5\textprime~ side of the nick.
-      % 3) Use of a ribose on the 5\textprime~ most residue on the 3\textprime~ side of the nick.
+  \subsection{How are they generated?}
 
-    One of the most potentially exciting improvements in the SeqZip assay comes from a mutant discussed in \citet{Nandakumar2006}. In this, and past studies, the T39A mutation alleviates structural constrains on having a penultimate 2\textprime~ OH on the 3\textprime~ side of the nick. 
+    % From the resources paper: Indeed, two isoforms of pi-Wdfy3 are transcribed from different promoters in the testis (Figure S2D). The short isoform is transcribed from a low CpG promoter bound by A-MYB, while the long isoform is transcribed from a high CpG with no detectable A-MYB binding. piRNAs derive from the genomic region corresponding to the short transcript. In an A-Myb mutant, piRNA from the pi-Wdfy3 loci are reduced 165-fold (31.6 rpkm in heterozygotes versus 0.191 in mutants). The abundance of long isoform transcripts did not decrease (2.08 rpkm in heterozygotes versus 3.86 rpkm in mutant), while the small isoforms became undetectable (10.0 rpkm versus 0 rpkm), consistent with the idea that the short, but not the long, Wdfy3 transcript is a piRNA precursor RNA. Little is known about the regulation of genic piRNAs, because only seven genic piRNA loci are A-MYB-dependent (Li, et al., accompanying manuscript). We do not yet know if such differential regulation of transcript isoforms occurs more generally for genic piRNA loci.
 
-    Use of T39A mutation to alleviate penultimate 2\textprime~ OH requirement of T4 Rnl2 (See Nandakumar...Lima, Cell 2006)
+    %How does cell partition prepachytene transcripts to mRNA or piRNA use?
+    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome ($REF$), so why is it that precursors are given a different lot in life?
 
-    Make a note into the future directions that you would like to explore LNA’s at the 3  extprime~OH position of all ligation results, leading to increased ligation efficiency
+    \begin{figure}[htbp] % pi-Wdfy3 expresses both mRNA and piRNA precursor transcript
+      \centering 
+      \includegraphics{Figures/Discussion/pi-wdfy3.eps}
+      \caption[\wdfy{} locus expresses both mRNA and piRNA precusor form in testes]
+      {\wdfy{} locus expresses both mRNA and piRNA precusor form in testes\\
+        The mouse genomic locus \wdfy{} expresses both a traditional mRNA form, originating from an upstream TSS, and a piRNA precursor transcript from a downstream TSS. The piRNA precursor form appears to originate from an A-MYB-bound promoter, and is expressed in \amyb{} heterzygous mice. Also smalll RNAs (piRNAs) mapping to this locus are only observed in \amyb{} heterzygous mice, and not in \amyb{} mutant mice.
+        }
+      \label{fig:wdfy3}
+      \end{figure}
 
-    however both this and the use of penultimate 2  extprime OH (Ribosome) suger in your ligamers would lead to added costs, and the latter maybe better served with a T39A mutation. Giggity
+    %Interaction w/ ribosomes?
 
-    \subsubsection{Thermostable Ligases}
+  \subsection{What are they doing?}
 
-    Use of thermostable ligase, allowing for multiple rounds of ligation. Need a good reference, DO NOT USE Ref 27 from Conze et al 2009! Also Elevated ligation temperatures, minimizing blut-ended NTL events
+    \todo[inline]{What are piRNAs doing in Mammals?} % **************************
 
-    \subsubsection{Repurposing the SOLiD Platform}
+  \subsection{In vivo chemical labeling of precursor piRNA transcripts}
 
-    \subsubsection{Quantifying ligation and PCR events}
+    % From Resources Paper: Despite sharing many features with protein-coding genes, intergenic piRNA loci stand out as a unique class of transcriptional units. Almost half contain no introns
+
+    % Need section here on the chemical modification - what were you thinking? Azide? Par-Clip?  Maybe a CLASH-like assay?  What about what Mihir is developing?
+    
+    SeqZip accurately reports on the presence of multiple, distant sequences contained in the same RNA molecule (see Chapters \ref{Chapter2} and \ref{Chapter3}). Yet I was not able to observe ligation products templated off some of the most highly-expressed precursor transcripts (see section \ref{sec: precursor TX}. We hypothesize that the most likely explanation for being unable to observe ligation products for these transcripts, but successfully observing those for a very long, but lowly expressed gene   extit{Dst}, suggests that precursor transcripts are rapidly processed into mature piRNAs. What if this is not the case if we could hybridize ligamers to precursor transcripts in vivo? Put another way  extemdash What if the steady-state amount of precursor transcript is very low due to rapid processing, but when visualized in real time, the transcripts are of sufficient abundance for FISH? Ligamers could be engineered to contain different combinations of fluorescent dyes, and the proximity and intensity of the signal could be used to infer precursor transcripts. Importantly, this approach could distinguish long, continuous precursor transcripts from processing intermediates and mature piRNAs.
+
+  \subsection{In vivo imaging of precursor piRNA transcripts}
+
+    %Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
+    The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{c3-intro}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the \hl{semineferous tubues} and into the $SPERM ANATOMY$. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
+
+    The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies ($REF$) or another structure similar to Drosophila Nuage ($REF$) near the mitochondrial cement ($REF$). Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. \todo[prepend]{Need Chromatoid References}
+
+    I can think of two broadly different ways in which we could pinpoint the physical location of mature piRNA generation. The first is to chemically label, in some manner, primary piRNA transcripts. The label would need to 1) not interfere with processing and 2) be durable to later methods used to analyze the presence or absence of the modification. A second way to identify the location of mature piRNA processing would be to actually observe, through in vivo \hyperref[hd:abrevs]{FISH}, the various products and by-products of biogenesis. In this particular approach, SeqZip maybe useful.
+
+    % MS2 lopp introduction into piRNA precursor transcripts.
+    Another idea here would be to use the MCP x MBS mouse as published by the Singer lab \citep{Park2014}. In this paper they insert multiple MS2 binding loops into the 3  extprime~-UTR of the $beta$-actin gene, and cross it with another mouse that has MCP (MS2 Bacteriophage capsid protein) fused to GFP. Using this system they can visualize   \textit{endogenous} mRNAs in cultured MEF cells, and brain sections. How could we apply this to imaging of piRNA precursor transcripts? If we inserted an MS2 loop into the tail end of transcripts, what would we see? It is certainly worth it!
+
+\section{Future uses of SeqZip}
+
+  SeqZip can be used to many different forms of RNA sequence characterization. An incomplete illustration of these applications is shown in Figure \ref{fig: Panel of SeqZip Applications}. The three novel applications are discussed below:
+
+  \begin{figure}[htbp] % SeqZip uses Panel
+    \centering 
+    \includegraphics{Figures/Discussion/SeqZipUses.eps}
+    \caption[Proposed uses of the SeqZip methodology]
+    {Proposed uses of the SeqZip methodology \\
+      Shown here are general applications of the SeqZip method to profiling RNA sequences. Top row examples are substantiated by experiements described on Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod}, the middle and lower rows are hypothetical but logical extensions of the method.
+      }
+    \label{fig: Panel of SeqZip Applications}
+    \end{figure}
+
+  \subsection{Multi-site SNP detection}
+
+    \todo[inline]{Mention Which side to put the Mismatch} % **************************
+    % Cite the newest Shuman paper, and the Shuman crystal papers
+
+  \subsection{Introduction of destruction sequences}
+
+    \todo[inline]{Discuss Type III restriction enzymes, etc} % **************************
+
+  \subsection{Multi-site SNP probes}
+
+    % What about applying the Church lab's new technique of in situ sequencing? Would this help us differentiate transcripts from mature piRNAs?  
+
+\section{SeqZip Assay Improvements}
+
+  The SeqZip methodology as developed and described in Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod} works adequately and robustly for characterization of relatively simple (\cd{}) to extremely complex (\dscam{}) genes. However, there is still substantial room for method optimization. Two obvious areas of improvement include the reduction of ligation time and NTL product formation. The improvements and modifications discussed below should assist in achieving these two (among other) goals.
+
+  \subsection{LNA-containing ligamers and T39A Rnl2} 
+
+    The use of an RNA-base on the 5\textprime~ side of the nick encourages a C3\textprime~\textit{endo} sugar pucker for the base, placing the 3\textprime~OH in an apical orientation relative to the the AMP leaving group (see Figure \ref{fig:Rnl2 and suger pucker}) \citep{Nandakumar2006}.
+
+    \begin{figure}[htbp] % Rnl2 Suger Pucker
+      \centering 
+      \includegraphics{Figures/Discussion/Rnl2_and_suger_pucker.eps}
+      \caption[Suger pucker in Rnl2 structures]
+      {Suger pucker in Rnl2 structures \\
+        Using two different nucleic acid substrate combinations crystallized with Rnl2, \citet{Nandakumar2006} demonstrates the effect of 3\textprime~ and 2\textprime~ identify of the base at the 5\textprime~ side of the nick: Left) The crystal structure (PDB: 2HVS), containing a 2\textprime~ position deoxy residue, displays a DNA-like C2\textprime~\textit{endo} sugar pucker. In contrast to Right) where the crystal structure (2HVR) contains a 2\textprime~ hydroxyl and displays an RNA-like C3\textprime~\textit{endo} sugar pucker.
+        }
+        \label{fig:Rnl2 and suger pucker}
+        \end{figure}
+
+    With lowered costs of oligo synthesis, incorporation of 2\textprime~OMe at the penultimate and ultimate bases of the 5\textprime~ nick ligamers should greatly increase ligaiton efficiency, as these are the primary substrate-specificity determinants of Rnl2 \citep{Nandakumar2004a, Nandakumar2006}.
+
+    Interestingly, \citet{Nandakumar2004a} demonstrated that the ribosome at the penultimate position, evidenced by a 50-fold reduction in turnover number for 2\textprime~H substitutions at this position, compared to full activity for 2\textprime~OMe. \citet{Nandakumar2006} (see Figure \ref{fig:Rnl2 and suger pucker} shows that Threonine 39 (T39) hydrogen bonds with both the 2\textprime~OMe and 3\textprime~O of the penultimate suger. A T39A mutation did not phenocopy the 2\textprime~H substitution on the penultimate suger, indicating that suger pucker is the structural constraint on ligation efficiency. These results indicate that a T39A mutant of Rnl2 may demonstrate increased RNA-templated DNA:DNA ligation efficiency, as it would have one less molecular requirement for RNA.
+
+    Future versions of the SeqZip assay could use a combination of LNA modified bases \citep{You2006} at either the penultimate or terminal residues on the 5\textprime~side of the nick in order to increase 1) specificity, and 2) enzyme efficiency. The combination of these modifications in the ligamers could be combined with a T39A mutant form of Rnl2 for a potentially greatly enhanced ligation rate.
+
+  \subsubsection{Thermostable Ligases}
+
+    The use of LNA-containing brings up issues involving off-target hybridization. Future iterations of the SeqZip methodology could use directed protein evolution of Rnl2 \citep{Stemmer1994, Romero2009a} to develop a thermostable variant of Rnl2, similar to variations of DNA ligase that have been used for years \citep{Barany1991}. Use of LNAs and elevated ligation temperatures could alviate off-target hybridization events reducing both nonproductive hybridization and non-templated ligation events. This would also allow for use of reduced overall ligamer concentrations, in line with the optimal SeqZip experiment described in section \ref{subsec: Ideal multiplex study} and synthesis on microarrays.
+
+  \subsection{Re-purposing the SOLiD Platform}
+
+    \todo[inline]{SOLiD Application of SeqZip} % **************************
+
+    The ability to incorporate custom sequuences into ligations, which subsequently are incorporated into ligation products provides tremendous opportunities for downstream analysis (see figure \ref{fig: Panel of SeqZip Applications}).
+
+  \subsection{Quantifying ligation and PCR events}
+
     Digital PCR of the PCR products ala \citep{Shiroguchi2012a}. 
 
-    \subsubsection{Reducing required input RNA and ligamer concentration}
+  \subsection{Reducing required input RNA and ligamer concentration}
 
     SeqZip on single-cell RNA samples.
 
-  \subsection{An ideal SeqZip experiment to query coordinated splicing} \label{subsec: Ideal multiplex study}
+  \subsection{An ideal SeqZip experiment to query coordinated splicing}
+    \label{subsec: Ideal multiplex study}
 
     If I could go back in time 4 years and still possess the knowledge and abilities that I do now, I would have approached a genome-wide study of coordination in splicing using SeqZip much differently. First, I would have focused on alternative first exon (or promoter, or TSS) and potential coordination with downstream cassette exons. I would have mined newly-generated RNA-Seq data \citep{Wang2008, Pan2008} for alternative first exons and cassette exons of sufficient expression. Then, I would have used my automated ligamer design software (see Appendix \ref{AppendixC}), to create a database of the required ligamers. As this would require at least 3 ligamers per event, with very little duplicated use of ligamers, the number of ligamers would make standard synthesis, even using 384-well plates, impossible. Therefore, I would have pursued printing the ligamers on a custom microarray, and cleaved them into solution, similar to products offered by \href{http://www.nimblegen.com/}{Nimblogen{. These ligamers would be barcoded and priming sequences included such that short (50nt) paired-end reads could reliably identify the templating first and cassette exons. Using this pool of ligamers, I would have performed the SeqZip assay, including a barcoding scheme to quantify the number of ligation events per {alt first exon::cassette exon} pair. Also, the libraries would have been amplified via digital PCR allowing me to check for PCR jackpots \citep{Shiroguchi2012a}. Finally, the data would be aligned against a reference of all {alt first exon::cassette exon} pairs, and any potential coordination determined.
 
@@ -91,50 +163,17 @@
 
   \subsection{SeqZip and single-molecule FISH}
 
-    The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies ($REF$) or another structure similar to Drosophila Nuage ($REF$) near the mitochondrial cement ($REF$). Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. \todo[prepend]{Need Chromatoid References}
-
-    I can think of two broadly different ways in which we could pinpoint the physical location of mature piRNA generation. The first is to chemically label, in some manner, primary piRNA transcripts. The label would need to 1) not interfere with processing and 2) be durable to later methods used to analyze the presence or absence of the modification. A second way to identify the location of mature piRNA processing would be to actually observe, through in vivo \hyperref[hd:abrevs]{FISH}, the various products and by-products of biogenesis. In this particular approach, SeqZip maybe useful.
-
-    % MS2 lopp introduction into piRNA precursor transcripts.
-    Another idea here would be to use the MCP x MBS mouse as published by the Singer lab \citep{Park2014}. In this paper they insert multiple MS2 binding loops into the 3  extprime~-UTR of the $beta$-actin gene, and cross it with another mouse that has MCP (MS2 Bacteriophage capsid protein) fused to GFP. Using this system they can visualize   extit{endogenous} mRNAs in cultured MEF cells, and brain sections. How could we apply this to imaging of piRNA precursor transcripts? If we inserted an MS2 loop into the tail end of transcripts, what would we see? It is certainly worth it!
-
-    % What about applying the Church lab's new technique of in situ sequencing? Would this help us differentiate transcripts from mature piRNAs?  
-
-\section{In the haystack: piRNA precursor transcripts surrounded by RNA}
-
-  \subsection{In vivo chemical labeling of precursor piRNA transcripts}
-    % Need section here on the chemical modification - what were you thinking? Azide? Par-Clip?  Maybe a CLASH-like assay?  What about what Mihir is developing?
-    
-    SeqZip accurately reports on the presence of multiple, distant sequences contained in the same RNA molecule (see Chapters \ref{Chapter2} and \ref{Chapter3}). Yet I was not able to observe ligation products templated off some of the most highly-expressed precursor transcripts (see section \ref{sec: precursor TX}. We hypothesize that the most likely explanation for being unable to observe ligation products for these transcripts, but successfully observing those for a very long, but lowly expressed gene   extit{Dst}, suggests that precursor transcripts are rapidly processed into mature piRNAs. What if this is not the case if we could hybridize ligamers to precursor transcripts in vivo? Put another way  extemdash What if the steady-state amount of precursor transcript is very low due to rapid processing, but when visualized in real time, the transcripts are of sufficient abundance for FISH? Ligamers could be engineered to contain different combinations of fluorescent dyes, and the proximity and intensity of the signal could be used to infer precursor transcripts. Importantly, this approach could distinguish long, continuous precursor transcripts from processing intermediates and mature piRNAs.
-
-  \subsection{In vivo imaging of precursor piRNA transcripts}
-    %Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
-    The most important question for mammalian   extit{pachytene} piRNAs is   extit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{c4-intro}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the \hl{semineferous tubues} and into the $SPERM ANATOMY$. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
-  %Unanswered questions/issues of the resources paper?
-
-  % What about the work that MJM asked  you to do considering the mRNAs that change over spermatogensis?
-
-  \subsection{What are they doing?}
-
-    %Interaction w/ ribosomes?
-
-  \subsection{How are they generated?}
-
-    %Interaction w/ ribosomes?
-    %How does cell partition prepachytene transcripts to mRNA or piRNA use?
-
-    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome ($REF$), so why is it that precursors are given a different lot in life?
-
-  \subsection{Why should we care?}
-    %-----------------------------------
-
-\section{Lingering Questions for \dscam{}}
-
-  What controls the stochastic and probabilistic splicing of \dscam{}? Why is it different between hemocytes and neurons? Why would hemocytes need less apparent diversity, given the range of antigen they could potentially encounter?
+    \begin{figure}[htbp] % Multi-site Fish using SeqZip
+      \centering 
+      \includegraphics{Figures/Discussion/MultiSiteFish.eps}
+      \caption[Multi-Site smFISH using flourophore-containg ligamers]
+      {Multi-Site smFISH using flourophore-containg ligamers \\
+        \hl{Insert Caption Here}
+        }
+      \label{fig:MultiSite FISH using SeqZip}
+      \end{figure}
 
 \section{Final thoughts}
-
-  % See Fragment on Highschool biology class - not sure if it belongs here. \input{Fragments/HighSchool}
 
   \subsection{Biologists need Computation Biological Skills}\label{subsec: Biologists need Comp Skills}
 
@@ -165,7 +204,6 @@
       \end{quote}
 
     A common schism between technically-oriented individuals is whether or not they identify themselves as an engineer or a scientist. The first quote, from an article published in Nature, communicates a clear bias in academic circles of the importance of the   extit{why} over the   extit{how}. In essence, how one priorities these questions may categories individuals as a scientists (why is important) or an engineer (how is more important). The second quote, from the first man to walk on the Moon, Neil Armstrong, highlights what motivates a self described ”engineer” and ”geek.” How does a single graduate system, training PhDs for careers in life science, educate individuals who fall into these two fundamentally different belief systems?
-
     In short  extemdash not well. When searching for a lab to call home, I told professors that I wanted to work on a technology development project. A typical response was, “That's not what we do here.” As someone who is first interested in the ``how'' over the ``why,'' this began a brief period when I thought I had made the wrong choice in leaving industry to go back to graduate school. What was the basis for this aversion to technology development? The same article in Nature states that this feeling toward engineering may be attributed:
 
     \begin{quote} 

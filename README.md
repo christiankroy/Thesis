@@ -19,15 +19,22 @@ My 2014 UMMS Thesis
 + Primes - use `5\textprime~` or any version therefor. The tilde at the end is required to insert a space after the prime signal. `\usepackage{flexisym}` required.
 + ~ can (and should be) inserted with `\textasciitilde`
 
+### Marking Text ###
+
++ Highlighting = `\underline{Text}`
++ Bold = `textbf{Bold Text}`
++ Italics = `\textit{Italicized Text}`
+
 ### Comments ###
 
 + See this article http://tex.stackexchange.com/questions/68530/making-corrections-during-review-of-other-people-latex-article
-+ Insert a Figure request w/ `\missingfigure{Comment Text}``
++ Insert a Figure request w/ `\missingfigure{Comment Text}`
 + Insert a Comment box w/
     * `\todo[prepend]{Comment text}`
 + Insert On own line w/ `\todo[inline]{Comment Text}`
 + Insert with line pointing to specific point w/ `\todo[fancyline]{Comment Text}`
 + Insert a Editing bar w/ `\begin{changebar}` and `\end{changebar}`
++ Highlight text w/ `\hl{Highlighted Text}`
 
 ### Code Folding ###
 
@@ -43,7 +50,8 @@ My 2014 UMMS Thesis
 
 ### References ###
 
-1. Internal by number = `\ref{labelName}``
+1. Internal by Name = `\ref{labelName}``
+    + **Don't reference by number! Hard to change later!**
 2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
 3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
 4. Insert a bare, but clickable url = `\url{http://www.place.com}`
@@ -54,10 +62,24 @@ My 2014 UMMS Thesis
 1. Always construct in Illustrator, save as `*.ai` file. This is the Master
 2. Always save and insert as `*.eps` according to max dementions of margin.
 3. Use of `*.eps` allows you to easily make an HTML version of the document
+4. Use the following code structure for inserting figures
 
-### Make a webpage from thesis LaTex ###
+
+    \begin{figure}[htbp] % FIGURE COMMENT NAME  
+      \centering  
+      \includegraphics{Figures/FIGURE_PATH.eps}  
+      \caption[FIGURE TOC NAME]  
+      {FIGURE CAPTION TITLE \\  
+        FIGURE CAPTION TEXT  
+        }  
+      \label{fig:FIGURE LINK NAME}  
+      \end{figure}  
+
+
+### Make a webpage/Word Doc from thesis LaTex ###
 
 Drop to terminal and type `htlatex thesis.tex`
+Once this is done, open HTML in Word
 
 ### Chatper 1 - Introduction #
 
@@ -67,19 +89,18 @@ Priority of work:
 2. Dscam1 Hattori section needs work
 3. Beginning of Nucleic acid splicing section needs work
 
-
-### Chapter 2 - SeqZip methodology #
-
-+ Continue filling in the experimental descriptions
-
-### Chapter 3 - SeqZip paper ###
+### Chapter 2 - SeqZip paper ###
 
 + Insert the current draft on 2014-04-18
 
-### Chapter 4 - MolCel2013 #
+### Chapter 3 - MolCel2013 #
 
 + What to do with tables[1–3] For MolCel2013?
-    * Currently 'hl{table #}' in the text
+    * Currently `\hl{table #}` in the text
+
+### Chapter 4 - SeqZip methodology #
+
++ Continue filling in the experimental descriptions
 
 ### Chapter 5 - Discussion ###
 

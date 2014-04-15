@@ -9,6 +9,7 @@ My 2014 UMMS Thesis
 
 1. Obtain a good text editor. I used Sublime Text 2 with some packages installed
     * LaTeXTools | Adds some LaTeX functality
+      * Change the cite panel format to `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
     * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
 2. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
 3. Fill out the folder structure.
@@ -18,6 +19,7 @@ My 2014 UMMS Thesis
 + To make a quote, use the characters `This is a ``quoted'' Word`. That is two backticks followed by the word(s) to be quoted, and then two single quotes.  LaTeX will turn this into a quotes openning and closing quotes when compiled
 + Primes - use `5\textprime~` or any version therefor. The tilde at the end is required to insert a space after the prime signal. `\usepackage{flexisym}` required.
 + ~ can (and should be) inserted with `\textasciitilde`
++ ˚ can (and should be) inserted with `\degree
 
 ### Marking Text ###
 

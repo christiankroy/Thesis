@@ -1,3 +1,4 @@
+% !TEX root = /Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex
 \chapter{Discussion} \label{Discussion}
 \lhead{Chapter 5. \emph{Discussion}} 
 %----------------------------------------------------------------------------------------
@@ -18,6 +19,9 @@
 
     \todo[line]{ Insert ENCODE References and Graur References} 
     The ENCODE papers from late 2012 suggested that 95\% of the genome is functional ($REF$). \citet{Djebali2012} focused on issues of transcription in these cell lines, as discussed in section \ref{sec:IsoformsPerGene}. The ENCODE studies were performed an human cancerous cell lines from different sources, and they still saw tremendous transcriptional diversity. Will better HTS tools and resolution, we should fully expect ever more diversity from the transcriptome once we can accurate catalogue and assemble transcripts from tissues, cells, and single single cells \textit{over time}.
+
+    Additionally, GENCODE version 7 includes 9,640 manually curated lncRNA loci \citep{Derrien2012}. 
+    % Insert additional thoughts from the Tomari Review in EMBO Reports.
 
   \subsection{Accurate and complete transcript annotation}
 
@@ -78,7 +82,7 @@
     %Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
     The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{c3-intro}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the \hl{semineferous tubues} and into the $SPERM ANATOMY$. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
 
-    The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies ($REF$) or another structure similar to Drosophila Nuage ($REF$) near the mitochondrial cement ($REF$). Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. \todo[prepend]{Need Chromatoid References}
+    The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies \citep{Meikar2014} or another structure similar to Drosophila Nuage ($REF$) near the mitochondrial cement ($REF$). Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. 
 
     I can think of two broadly different ways in which we could pinpoint the physical location of mature piRNA generation. The first is to chemically label, in some manner, primary piRNA transcripts. The label would need to 1) not interfere with processing and 2) be durable to later methods used to analyze the presence or absence of the modification. A second way to identify the location of mature piRNA processing would be to actually observe, through in vivo \hyperref[hd:abrevs]{FISH}, the various products and by-products of biogenesis. In this particular approach, SeqZip maybe useful.
 
@@ -229,3 +233,5 @@
     How do we work with all this data? Mention LabKey, GenomeBridge, Define the scope of the problem, etc...
 
     I would love to have a database of complete transcripts of a cell - think about how you were panning the data for the MolCel paper, and you could see ChIP marks, Pol II occupancy, RNA-Seq, and piRNA data. It would be great to be able to do that more often, and we greater precision
+
+  \bibliography{Bibliography/library.bib} % References  stored in the file named "library.bib.bib"

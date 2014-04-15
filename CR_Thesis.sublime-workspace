@@ -52,10 +52,10 @@
 	"buffers":
 	[
 		{
-			"file": "RoyC_Umass_Thesis.v0.5.tex",
+			"file": "RoyC_Umass_Thesis.v0.6.tex",
 			"settings":
 			{
-				"buffer_size": 4281,
+				"buffer_size": 4496,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,23 +63,15 @@
 			"file": "Chapters/Chapter1-Intro.tex",
 			"settings":
 			{
-				"buffer_size": 73313,
+				"buffer_size": 73227,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Chapters/Chapter2-SeqZip.tex",
+			"file": "Chapters/Chapter2-Roy2014.tex",
 			"settings":
 			{
-				"buffer_size": 15698,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter3-Roy2014.tex",
-			"settings":
-			{
-				"buffer_size": 2419,
+				"buffer_size": 2262,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +79,7 @@
 			"file": "Chapters/Chapter4-Li2013.tex",
 			"settings":
 			{
-				"buffer_size": 69101,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,7 +87,7 @@
 			"file": "Chapters/Chapter5-Disc.tex",
 			"settings":
 			{
-				"buffer_size": 26968,
+				"buffer_size": 30784,
 				"line_ending": "Unix"
 			}
 		},
@@ -103,7 +95,7 @@
 			"file": "Thesis.cls",
 			"settings":
 			{
-				"buffer_size": 14360,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -111,7 +103,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 2269,
+				"buffer_size": 3575,
 				"line_ending": "Unix"
 			}
 		},
@@ -127,7 +119,7 @@
 			"file": "FrontMatter/abreviations.tex",
 			"settings":
 			{
-				"buffer_size": 1845,
+				"buffer_size": 1846,
 				"line_ending": "Unix"
 			}
 		}
@@ -135,7 +127,7 @@
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 47.0,
 		"selected_items":
 		[
 			[
@@ -227,7 +219,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -244,9 +236,18 @@
 	},
 	"file_history":
 	[
-		"/Users/royc/Google_Drive/Thesis/CR_Thesis.sublime-project",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/CheckBounce/CheckBounce.sublime-settings",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Li2013.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Roy2014.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-SeqZip.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.v0.5.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter5-Disc.tex",
+		"/Users/royc/Google_Drive/Thesis/CR_Thesis.sublime-project",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/CheckBounce/CheckBounce.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/dedication.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-Li2013.tex",
@@ -275,7 +276,6 @@
 		"/Users/royc/Dropbox/Thesis/Tables/FlyGenesWith1000sofTx.tex",
 		"/Users/royc/Dropbox/Thesis/Bibliography/library.bib",
 		"/Users/royc/Dropbox/Thesis/FrontMatter/abreviations.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/royc/Dropbox/Thesis/FrontMatter/definitions.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZip.tex",
 		"/Users/royc/Dropbox/Thesis/LaTeXConfig/shortcuts.tex",
@@ -283,7 +283,6 @@
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZipMethodology.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-Introduction.tex",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-MolCel2013.tex",
 		"/Users/royc/Dropbox/Thesis/thesis.v0.14.tex",
 		"/Users/royc/Dropbox/Thesis/Appendices/AppendixB.tex",
@@ -303,7 +302,6 @@
 		"/Users/royc/Dropbox/Thesis/FrontMatter/signaturePage.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter5-Discussion.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/ChapterTemplate.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
@@ -337,7 +335,6 @@
 		"/Users/royc/Desktop/LetterToMJMAboutSeqZip.md",
 		"/Users/royc/Dropbox/Thesis/makeAltEventsPerGene.md",
 		"/Users/royc/Dropbox/Thesis/Figures/02-Research Chapters/Chapter1-SeqZip/genesWithBigDistancesBetweenAsExons.md",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
 		"/Users/royc/Desktop/# HiTS-RAP manuscript Review.md",
 		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVQ.pml",
@@ -366,12 +363,7 @@
 		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394165017/ghpcc/home/cr90w/bin/uniq.reads+",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/ghpcc",
 		"/Users/royc/Dropbox/Thesis/Markdowns/ghpcc.sftp-config.json",
-		"/Users/royc/Dropbox/Thesis/Markdowns/sftp-config.json",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Bold and Italic Markers.tmPreferences",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/README.md",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
-		"/Users/royc/Dropbox/Thesis/Markdowns/test.md"
+		"/Users/royc/Dropbox/Thesis/Markdowns/sftp-config.json"
 	],
 	"find":
 	{
@@ -575,38 +567,36 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "RoyC_Umass_Thesis.v0.5.tex",
+					"file": "RoyC_Umass_Thesis.v0.6.tex",
 					"settings":
 					{
-						"buffer_size": 4281,
+						"buffer_size": 4496,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								866,
-								866
+								4479,
+								4383
 							]
 						],
 						"settings":
 						{
 							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
+							"enable_checkbounce_spelling": true,
+							"spell_tag": 1.0,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 136.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -616,15 +606,15 @@
 					"file": "Chapters/Chapter1-Intro.tex",
 					"settings":
 					{
-						"buffer_size": 73313,
+						"buffer_size": 73227,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								998,
-								998
+								38080,
+								38080
 							]
 						],
 						"settings":
@@ -639,50 +629,47 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5134.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "Chapters/Chapter2-SeqZip.tex",
+					"file": "Chapters/Chapter2-Roy2014.tex",
 					"settings":
 					{
-						"buffer_size": 15698,
+						"buffer_size": 2262,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2303,
-								2303
+								2261,
+								2261
 							]
 						],
 						"settings":
 						{
 							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
+							"enable_checkbounce_spelling": true,
+							"spell_tag": 2.0,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 256.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "Chapters/Chapter3-Roy2014.tex",
+					"file": "Chapters/Chapter4-Li2013.tex",
 					"settings":
 					{
-						"buffer_size": 2419,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -701,7 +688,8 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -711,66 +699,31 @@
 				},
 				{
 					"buffer": 4,
-					"file": "Chapters/Chapter4-Li2013.tex",
-					"settings":
-					{
-						"buffer_size": 69101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "Chapters/Chapter5-Disc.tex",
 					"settings":
 					{
-						"buffer_size": 26968,
+						"buffer_size": 30784,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2550,
+								2550
 							]
 						],
 						"settings":
 						{
 							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
+							"enable_checkbounce_spelling": true,
+							"spell_tag": 5.0,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -782,11 +735,11 @@
 			"sheets":
 			[
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "Thesis.cls",
 					"settings":
 					{
-						"buffer_size": 14360,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -815,19 +768,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 2269,
+						"buffer_size": 3575,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								208,
-								208
+								1564,
+								1564
 							]
 						],
 						"settings":
@@ -837,7 +790,9 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -846,7 +801,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "Bibliography/library.bib",
 					"settings":
 					{
@@ -877,11 +832,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "FrontMatter/abreviations.tex",
 					"settings":
 					{
-						"buffer_size": 1845,
+						"buffer_size": 1846,
 						"regions":
 						{
 						},

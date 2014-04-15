@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RoyC_Umass_Thesis.aux
+The style file: Bibliography/apalike.bst
+Illegal, another \bibdata command---line 1084 of file RoyC_Umass_Thesis.aux
+ : \bibdata
+ :         {Bibliography/library.bib}
+I'm skipping whatever remains of this command
+Reallocated field_info (elt_size=4) to 11688 items from 5000.
+Database file #1: Bibliography/library.bib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "Kelemen2013"
+Warning--I didn't find a database entry for "Ponta2003b"
+Warning--I didn't find a database entry for "Yamakawa1998b"
+Warning--I didn't find a database entry for "Guttman2010a"
+Warning--I didn't find a database entry for "Notredame2000"
+Warning--I didn't find a database entry for "Waterhouse2009"
+Warning--I didn't find a database entry for "Hannon2008"
+Warning--I didn't find a database entry for "Bhattacharya2000"
+Warning--I didn't find a database entry for "Gregersen2014"
+Warning--I didn't find a database entry for "Serquina2013a"
+Warning--I didn't find a database entry for "Derrien2012"
+Warning--I didn't find a database entry for "Meikar2014"
+Warning--I didn't find a database entry for "You2006"
+Warning--I didn't find a database entry for "Stemmer1994"
+Warning--I didn't find a database entry for "Romero2009a"
+Warning--I didn't find a database entry for "Barany1991"
+Warning--empty publisher in Calarco2007
+Warning--empty journal in Kawaoka2012
+Warning--empty journal in Riley2013
+Warning--there's a number but no volume in Vagin2004
+You've used 288 entries,
+            1935 wiz_defined-function locations,
+            2276 strings with 81629 characters,
+and the built_in function-call counts, 163448 in all, are:
+= -- 14825
+> -- 11888
+< -- 87
++ -- 4425
+- -- 4418
+* -- 16679
+:= -- 29139
+add.period$ -- 862
+call.type$ -- 288
+change.case$ -- 3647
+chr.to.int$ -- 281
+cite$ -- 292
+duplicate$ -- 4113
+empty$ -- 8390
+format.name$ -- 4812
+if$ -- 30104
+int.to.chr$ -- 8
+int.to.str$ -- 0
+missing$ -- 288
+newline$ -- 1441
+num.names$ -- 864
+pop$ -- 3056
+preamble$ -- 1
+purify$ -- 3649
+quote$ -- 0
+skip$ -- 3071
+stack$ -- 0
+substring$ -- 9857
+swap$ -- 381
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1724
+warning$ -- 4
+while$ -- 1110
+width$ -- 0
+write$ -- 3731
+(There was 1 error message)

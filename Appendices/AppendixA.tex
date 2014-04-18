@@ -1,89 +1,82 @@
-% Appendix A
+% !TEX root = /Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex
+\chapter{Appendix - Misc Information} \label{AppendixMisc:Appendix: Misc Info} 
+\lhead{Appendix A. \emph{Appendix: Misc Information}} 
 
-\chapter{Appendix - Misc Information} % Main appendix title
 
-\label{AppendixA} % For referencing this appendix elsewhere, use \ref{AppendixA}
+\section{Buffers}\label{AppendixMisc:sec:Buffers}
 
-\lhead{Appendix A. \emph{Appendix: Misc Information}} % header
+  \renewcommand{\arraystretch}{1}
+    \begin{table}[ht]
+    \centering
+      \begin{tabular}[c]{c|c}
+      Component & Concentration \\
+        \hline
+      Tris-HCl  & 50 mM         \\
+        \hline
+      MgCl2     & 2 mM          \\
+        \hline
+      DTT       & 1 mM          \\
+        \hline
+      ATP       & 400 $\mu$M        \\
+        \hline
+      pH        & 7.5 @ 25\degree~C   
+      \end{tabular}
+    \caption[SeqZip Hybridization and Ligation Buffer]
+      {
+      SeqZip Hybridization and Ligation Buffer
+      }
+    \label{AppendixMisc:tbl: Rnl2 Buffer}
+    \end{table}
 
-%----------------------------------------------------------------------------------------
-\section{Buffers}\label{sec:Buffers}
-%----------------------------------------------------------------------------------------
-
-\renewcommand{\arraystretch}{1}
-  \begin{table}[ht]
-  \centering
-    \begin{tabular}[c]{c|c}
-    Component & Concentration \\
-      \hline
-    Tris-HCl  & 50 mM         \\
-      \hline
-    MgCl2     & 2 mM          \\
-      \hline
-    DTT       & 1 mM          \\
-      \hline
-    ATP       & 400 $\mu$M        \\
-      \hline
-    pH        & 7.5 @ 25\degree~C   
-    \end{tabular}
-  \caption[SeqZip Hybridization and Ligation Buffer]
-    {
-    SeqZip Hybridization and Ligation Buffer
-    }
-  \label{tbl: Rnl2 Buffer}
-\end{table}
-
-%----------------------------------------------------------------------------------------
-\section{Equations}\label{sec: Equations}
-%----------------------------------------------------------------------------------------
+\section{Equations}\label{AppendixMisc:sec: Equations}
 
 \subsection{Determining [RNA] from $^{32}$P-$\alpha$-UTP used during vitro transcription}
 
-{\tiny{
-\begin{eqnarray*}
-\mu \mbox{M} = \left( \frac{\mbox{pmol}}{\mu\mbox{L}}\right)
-      = \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)
-      \times \left( \frac{\mbox{mol UTP in original reaction}}{\mbox{Reaction Volume }} \right) \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
-\end{eqnarray*}
-}
+{
+  \tiny{
+    \begin{eqnarray*}
+    \mu \mbox{M} = \left( \frac{\mbox{pmol}}{\mu\mbox{L}}\right)
+          = \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)
+          \times \left( \frac{\mbox{mol UTP in original reaction}}{\mbox{Reaction Volume }} \right) \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
+    \end{eqnarray*}
+  }
 }
 %Or you can write the above equation as 
 
 %\begin{eqnarray*}
 %\mu \mbox{M}  =  \left( \frac{\mbox{pmol}}{\mu\mbox{L}}\right)
-     %& = & \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)\\
+%     & = & \left( \frac{\mbox{cpm after purification} \times \mbox{dilution factor}}{\mbox{cpm before purification} \times \mbox{dilution factor}} \right)\\
 %      && \times \left( \frac{\mbox{mol UTP in original reaction}}{\mbox{Reaction Volume}} \right)\\
- %     && \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
+%      && \times \left( \frac{1}{\mbox{Number UTPs in transcript}} \right) \times 10^{-12} 
 %\end{eqnarray*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \subsection{Determining [RNA] based on A$_{260}$}
 
-
-$$
-\mbox{[RNA in M]} = \left( \frac{\mbox{A}_{260} \times \mbox{Dilution Factor}}
-                           {10,313 < \mbox{note 1}> \times \mbox{ nucleotides in message}} \right) 
-$$
-note 1: This value represents an average RNA extinction ($\epsilon$) coefficient value \\
+  $$
+  \mbox{[RNA in M]} = \left( \frac{\mbox{A}_{260} \times \mbox{Dilution Factor}}
+                             {10,313 < \mbox{note 1}> \times \mbox{ nucleotides in message}} \right) 
+  $$
+  
+  note 1: This value represents an average RNA extinction ($\epsilon$) coefficient value \\
 
 \subsection{Normalize oxidized small RNA libraries size to time-matched unoxidized library}
 
 NB: this equation assumes calibration against a specific time-point ,
 in this case data obtained from 6 week-old testes.
 
-\begin{eqnarray*}
-     \mbox{unox }\tau \mbox{ norm}_1 & = & \left(         
-                        \frac{\left( \frac{\displaystyle\sum \mbox{miRNA reads } \tau}{\displaystyle \sum \mbox{miRNA reads 6wk} } \right) \times \mbox{ depth 6wk} }{1,000,000}              
-                                          \right)\\
-\mbox{ox }\tau \mbox{ norm}_1 & = &   \mbox{unox }\tau \mbox{ norm}_1 \times
-                                 \left(
-                                  \frac{\displaystyle \sum \mbox{oxidized shared } \ge \mbox{23 nt reads}}{\displaystyle \sum \mbox{unoxidized shared } \ge \mbox{23 nt reads}}
-                                 \right)                                         
-\end{eqnarray*}
+  \begin{eqnarray*}
+    \mbox{unox }\tau \mbox{ norm}_1 & = & \left(         
+                          \frac{\left( \frac{\displaystyle\sum \mbox{miRNA reads } \tau}{\displaystyle \sum \mbox{miRNA reads 6wk} } \right) \times \mbox{ depth 6wk} }{1,000,000}              
+                                            \right)\\
+    \mbox{ox }\tau \mbox{ norm}_1 & = &   \mbox{unox }\tau \mbox{ norm}_1 \times
+                                   \left(
+                                    \frac{\displaystyle \sum \mbox{oxidized shared } \ge \mbox{23 nt reads}}{\displaystyle \sum \mbox{unoxidized shared } \ge \mbox{23 nt reads}}
+                                   \right)                                         
+    \end{eqnarray*}
 
-%----------------------------------------------------------------------------------------
-\section{PCR Programs}\label{apx: PCR Programs}
-%----------------------------------------------------------------------------------------
+\section{PCR Programs}\label{AppendixMisc:sec:PCR Programs}
+
 \textbf{Ligamer Hybridization}
 ROY-H2 | Ligamer Hybridization\\
   Steps 1–9 are 10 minute incubations at the following temperatures:\\

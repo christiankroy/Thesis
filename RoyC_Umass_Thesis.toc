@@ -3,12 +3,12 @@
 \contentsline {chapter}{Contents}{vi}{dummy.3}
 \contentsline {chapter}{List of Figures}{x}{dummy.5}
 \contentsline {chapter}{List of Tables}{xiii}{dummy.7}
-\contentsline {chapter}{Todo list}{xv}{chapter*.9}
-\contentsline {chapter}{Abbreviations}{xvi}{dummy.10}
-\contentsline {chapter}{Symbols}{xvii}{dummy.11}
-\contentsline {chapter}{Definitions}{xviii}{dummy.12}
-\contentsline {chapter}{Dedication}{xx}{dummy.13}
-\contentsline {chapter}{Preface}{xxi}{dummy.14}
+\contentsline {chapter}{Todo list}{xiv}{chapter*.9}
+\contentsline {chapter}{Abbreviations}{xv}{dummy.10}
+\contentsline {chapter}{Symbols}{xvi}{dummy.11}
+\contentsline {chapter}{Definitions}{xvii}{dummy.12}
+\contentsline {chapter}{Dedication}{xix}{dummy.13}
+\contentsline {chapter}{Preface}{xx}{dummy.14}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.15}
 \contentsline {section}{\numberline {1.1}Fixed Genomes and Flexible Genes}{1}{section.16}
 \contentsline {section}{\numberline {1.2}Nucleic Acid Sequencing}{4}{section.18}
@@ -17,95 +17,102 @@
 \contentsline {subsection}{\numberline {1.2.3}Deep-sequencing of RNA}{6}{subsection.22}
 \contentsline {section}{\numberline {1.3}Nucleic Acid Splicing}{9}{section.24}
 \contentsline {subsection}{\numberline {1.3.1}Alternative Splicing}{9}{subsection.25}
-\contentsline {subsection}{\numberline {1.3.2}Deciphering a splicing code}{10}{subsection.28}
+\contentsline {subsection}{\numberline {1.3.2}Deciphering a splicing code}{10}{subsection.27}
 \contentsline {subsection}{\numberline {1.3.3}The Isoform Problem}{11}{subsection.29}
 \contentsline {subsection}{\numberline {1.3.4}Coordination in splicing}{14}{subsection.31}
 \contentsline {subsection}{\numberline {1.3.5}Many isoforms per gene}{16}{subsection.34}
-\contentsline {subsection}{\numberline {1.3.6}\textit {Drosophila melanogaster}{} \textit {Dscam1}{}}{17}{subsection.38}
-\contentsline {section}{\numberline {1.4}Nucleic Acid Ligation}{23}{section.43}
-\contentsline {subsection}{\numberline {1.4.1}RNA Sequence investigation by ligation}{23}{subsection.44}
-\contentsline {subsection}{\numberline {1.4.2}T4 RNA Ligase 2 (Rnl2)}{26}{subsection.46}
-\contentsline {section}{\numberline {1.5}Nucleic Acid Polymers}{29}{section.51}
-\contentsline {subsection}{\numberline {1.5.1}piRNAs original from very long PolII Transcripts}{29}{subsection.52}
-\contentsline {subsubsection}{\numberline {1.5.1.1}Brief history of piRNAs}{29}{subsubsection.53}
-\contentsline {subsubsection}{\numberline {1.5.1.2}Fly and Mouse piRNAs have important differences}{31}{subsubsection.57}
-\contentsline {subsubsection}{\numberline {1.5.1.3}Known functions of mammalian piRNAs}{32}{subsubsection.59}
-\contentsline {subsubsection}{\numberline {1.5.1.4}Integration of multiple HTS datatypes of piRNA analysis}{32}{subsubsection.61}
-\contentsline {subsection}{\numberline {1.5.2}From short reads to full-length transcripts}{34}{subsection.63}
-\contentsline {chapter}{\numberline {2}Simultaneous analysis of multiple site alternative splicing via RNA-templated DNA-to-DNA ligation}{35}{chapter.65}
-\contentsline {section}{\numberline {2.1}Introduction}{35}{section.66}
-\contentsline {section}{\numberline {2.2}Results}{37}{section.68}
-\contentsline {subsection}{\numberline {2.2.1}Method development and validation}{37}{subsection.69}
-\contentsline {subsection}{\numberline {2.2.2}Trans-transcript hybridization and ligation is minimal}{38}{subsection.75}
-\contentsline {subsection}{\numberline {2.2.3}SeqZip is comparable to RT for endogenous mRNA isoform quantitation}{40}{subsection.77}
-\contentsline {subsection}{\numberline {2.2.4}SeqZip maintains connectivity and abundance between many sites of AS}{42}{subsection.79}
-\contentsline {subsection}{\numberline {2.2.5}\textit {Dscam1}{} analysis by high-throughput sequencing}{43}{subsection.80}
-\contentsline {subsection}{\numberline {2.2.6}Analysis of \textit {Dscam1}{} transcripts}{49}{subsection.93}
-\contentsline {section}{\numberline {2.3}Discussion}{52}{section.101}
-\contentsline {subsection}{\numberline {2.3.1}Deconvoluting \textit {Dscam1}{}}{52}{subsection.102}
-\contentsline {subsection}{\numberline {2.3.2}Other applications of SeqZip}{54}{subsection.103}
-\contentsline {section}{\numberline {2.4}Materials and Methods}{55}{section.104}
-\contentsline {section}{\numberline {2.5}End Matter}{59}{section.106}
-\contentsline {chapter}{\numberline {3}An Ancient Transcription Factor Initiates the Burst of piRNA Production during Early Meiosis in Mouse Testes}{60}{chapter.107}
-\contentsline {section}{\numberline {3.1}INTRODUCTION}{60}{section.109}
-\contentsline {section}{\numberline {3.2}RESULTS}{62}{section.110}
-\contentsline {subsection}{\numberline {3.2.1}Defining piRNA-Producing Transcripts in the Mouse Testis}{62}{subsection.111}
-\contentsline {subsection}{\numberline {3.2.2}piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}{65}{subsection.114}
-\contentsline {subsection}{\numberline {3.2.3}A Transcript-based Set of piRNA Loci}{65}{subsection.115}
-\contentsline {subsection}{\numberline {3.2.4}Three Classes of piRNAs During Post-Natal Spermatogenesis}{66}{subsection.116}
-\contentsline {subsection}{\numberline {3.2.5}\textit {A-Myb}{} Regulates Pachytene piRNA Precursor Transcription}{72}{subsection.121}
-\contentsline {subsection}{\numberline {3.2.6}\textit {A-Myb}{} Regulates Pachytene piRNA Production}{76}{subsection.124}
-\contentsline {subsection}{\numberline {3.2.7}\textit {A-Myb}{} Regulates Expression of piRNA Biogenesis Factors}{78}{subsection.127}
-\contentsline {subsection}{\numberline {3.2.8}A-MYB and the Pachytene piRNA Regulatory Circuitry}{82}{subsection.130}
-\contentsline {subsection}{\numberline {3.2.9}Feed-Forward Regulation of piRNA Production is Evolutionarily Conserved}{82}{subsection.133}
-\contentsline {section}{\numberline {3.3}DISCUSSION}{88}{section.136}
-\contentsline {section}{\numberline {3.4}EXPERIMENTAL PROCEDURES}{90}{section.137}
-\contentsline {chapter}{\numberline {4}SeqZip - Development and Applications}{97}{chapter.138}
-\contentsline {section}{\numberline {4.1}SeqZip Overview}{97}{section.139}
-\contentsline {section}{\numberline {4.2}Multiplex Gene Study}{99}{section.141}
-\contentsline {section}{\numberline {4.3}Determining RNA integrity using SeqZip}{101}{section.144}
-\contentsline {subsection}{\numberline {4.3.1}Demonstration of Concept}{102}{subsection.145}
-\contentsline {subsection}{\numberline {4.3.2}Investigating HIV viral genome integrity using SeqZip}{103}{subsection.148}
-\contentsline {subsection}{\numberline {4.3.3}Design of HIV ligamers}{104}{subsection.149}
-\contentsline {section}{\numberline {4.4}Continuity of piRNA precursor transcripts}{105}{section.151}
-\contentsline {chapter}{\numberline {5}Discussion}{111}{chapter.160}
-\contentsline {section}{\numberline {5.1}The Future of Dynamic long RNAs}{111}{section.161}
-\contentsline {subsection}{\numberline {5.1.1}Pervasive transcription}{112}{subsection.162}
-\contentsline {subsection}{\numberline {5.1.2}Accurate and complete transcript annotation}{112}{subsection.164}
-\contentsline {subsection}{\numberline {5.1.3}Tissue and cell specificity}{113}{subsection.166}
-\contentsline {section}{\numberline {5.2}Lingering Questions for \textit {Dscam1}{}}{113}{section.168}
-\contentsline {section}{\numberline {5.3}In the haystack: piRNA precursor transcripts surrounded by RNA}{113}{section.169}
-\contentsline {subsection}{\numberline {5.3.1}How are they generated?}{114}{subsection.171}
-\contentsline {subsection}{\numberline {5.3.2}What are they doing?}{114}{subsection.173}
-\contentsline {subsection}{\numberline {5.3.3}In vivo chemical labeling of precursor piRNA transcripts}{114}{subsection.175}
-\contentsline {subsection}{\numberline {5.3.4}In vivo imaging of precursor piRNA transcripts}{115}{subsection.176}
-\contentsline {section}{\numberline {5.4}Future uses of SeqZip}{116}{section.177}
-\contentsline {subsection}{\numberline {5.4.1}Multi-site SNP detection}{116}{subsection.179}
-\contentsline {subsection}{\numberline {5.4.2}Introduction of destruction sequences}{116}{subsection.181}
-\contentsline {subsection}{\numberline {5.4.3}Multi-site SNP probes}{116}{subsection.183}
-\contentsline {section}{\numberline {5.5}SeqZip Assay Improvements}{116}{section.184}
-\contentsline {subsection}{\numberline {5.5.1}LNA-containing ligamers and T39A Rnl2}{117}{subsection.185}
-\contentsline {subsubsection}{\numberline {5.5.1.1}Thermostable Ligases}{119}{subsubsection.187}
-\contentsline {subsection}{\numberline {5.5.2}Re-purposing the SOLiD Platform}{119}{subsection.188}
-\contentsline {subsection}{\numberline {5.5.3}Quantifying ligation and PCR events}{119}{subsection.190}
-\contentsline {subsection}{\numberline {5.5.4}Reducing required input RNA and ligamer concentration}{119}{subsection.191}
-\contentsline {subsection}{\numberline {5.5.5}An ideal SeqZip experiment to query coordinated splicing}{119}{subsection.192}
-\contentsline {subsection}{\numberline {5.5.6}SeqZip and single-molecule FISH}{120}{subsection.193}
-\contentsline {section}{\numberline {5.6}Final thoughts}{120}{section.195}
-\contentsline {subsection}{\numberline {5.6.1}Biologists need Computation Biological Skills}{120}{subsection.196}
-\contentsline {subsection}{\numberline {5.6.2}Science versus Engineering: Two thoughts in one school}{121}{subsection.197}
-\contentsline {subsection}{\numberline {5.6.3}Dealing with the data deluge}{123}{subsection.199}
-\contentsline {chapter}{\numberline {A}Appendix - Misc Information}{151}{appendix.202}
-\contentsline {section}{\numberline {A.1}Buffers}{151}{section.203}
-\contentsline {section}{\numberline {A.2}Equations}{151}{section.205}
-\contentsline {subsection}{\numberline {A.2.1}Determining [RNA] from $^{32}$P-$\alpha $-UTP used during vitro transcription}{151}{subsection.206}
-\contentsline {subsection}{\numberline {A.2.2}Determining [RNA] based on A$_{260}$}{152}{subsection.207}
-\contentsline {subsection}{\numberline {A.2.3}Normalize oxidized small RNA libraries size to time-matched unoxidized library}{152}{subsection.208}
-\contentsline {section}{\numberline {A.3}PCR Programs}{152}{section.209}
-\contentsline {chapter}{\numberline {B}Appendix B: piRNA precurors are spliced}{153}{appendix.210}
-\contentsline {section}{\numberline {B.1}Evidence for spliced piRNA precusor transcripts}{153}{section.211}
-\contentsline {chapter}{\numberline {C}Automated Ligamer Assembly}{157}{appendix.217}
-\contentsline {section}{\numberline {C.1}Installation}{157}{section.218}
-\contentsline {section}{\numberline {C.2}Example Input Format}{158}{section.239}
-\contentsline {section}{\numberline {C.3}Ligamer Assmebly Source Code}{160}{section.240}
-\contentsline {chapter}{Bibliography}{183}{dummy.1218}
+\contentsline {subsection}{\numberline {1.3.6}\textit {Drosophila melanogaster}{} \textit {Dscam1}{}}{18}{subsection.38}
+\contentsline {subsection}{\numberline {1.3.7}HTS and gene expression}{22}{subsection.41}
+\contentsline {section}{\numberline {1.4}Nucleic Acid Ligation}{23}{section.42}
+\contentsline {subsection}{\numberline {1.4.1}RNA Sequence investigation by ligation}{23}{subsection.43}
+\contentsline {subsection}{\numberline {1.4.2}T4 RNA Ligase 2 (Rnl2)}{26}{subsection.45}
+\contentsline {subsection}{\numberline {1.4.3}Ligases as molecular tools}{29}{subsection.48}
+\contentsline {section}{\numberline {1.5}Nucleic Acid Polymers}{29}{section.49}
+\contentsline {subsection}{\numberline {1.5.1}piRNAs original from very long PolII Transcripts}{29}{subsection.50}
+\contentsline {subsubsection}{\numberline {1.5.1.1}Brief history of piRNAs}{29}{subsubsection.51}
+\contentsline {subsubsection}{\numberline {1.5.1.2}Fly and Mouse piRNAs have important differences}{31}{subsubsection.55}
+\contentsline {subsubsection}{\numberline {1.5.1.3}Known functions of mammalian piRNAs}{32}{subsubsection.57}
+\contentsline {subsubsection}{\numberline {1.5.1.4}Integration of multiple HTS datatypes of piRNA analysis}{33}{subsubsection.59}
+\contentsline {subsection}{\numberline {1.5.2}From short reads to full-length transcripts}{34}{subsection.61}
+\contentsline {section}{\numberline {1.6}A unique time in ``'OMICS''}{35}{section.62}
+\contentsline {chapter}{\numberline {2}Simultaneous analysis of multiple site alternative splicing via RNA-templated DNA-to-DNA ligation}{36}{chapter.63}
+\contentsline {section}{\numberline {2.1}Introduction}{36}{section.64}
+\contentsline {section}{\numberline {2.2}Results}{38}{section.66}
+\contentsline {subsection}{\numberline {2.2.1}Method development and validation}{38}{subsection.67}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Caption for Figure \ref {SeqZipPaper:fig:Roy2014 F2}}{40}{subsubsection.69}
+\contentsline {subsection}{\numberline {2.2.2}Trans-transcript hybridization and ligation is minimal}{41}{subsection.70}
+\contentsline {subsection}{\numberline {2.2.3}SeqZip is comparable to RT for endogenous mRNA isoform quantitation}{42}{subsection.71}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Figure \ref {SeqZipPaper:fig:Roy2014 F3} Caption}{42}{subsubsection.73}
+\contentsline {subsection}{\numberline {2.2.4}SeqZip maintains connectivity and abundance between many sites of AS}{44}{subsection.74}
+\contentsline {subsection}{\numberline {2.2.5}\textit {Dscam1}{} analysis by high-throughput sequencing}{45}{subsection.75}
+\contentsline {subsection}{\numberline {2.2.6}Analysis of \textit {Dscam1}{} transcripts}{51}{subsection.80}
+\contentsline {section}{\numberline {2.3}Discussion}{55}{section.84}
+\contentsline {subsection}{\numberline {2.3.1}Deconvoluting \textit {Dscam1}{}}{55}{subsection.85}
+\contentsline {subsection}{\numberline {2.3.2}Other applications of SeqZip}{57}{subsection.86}
+\contentsline {section}{\numberline {2.4}Materials and Methods}{58}{section.87}
+\contentsline {section}{\numberline {2.5}End Matter}{62}{section.88}
+\contentsline {chapter}{\numberline {3}An Ancient Transcription Factor Initiates the Burst of piRNA Production during Early Meiosis in Mouse Testes}{63}{chapter.89}
+\contentsline {section}{\numberline {3.1}Preface}{63}{section.90}
+\contentsline {section}{\numberline {3.2}Introduction}{64}{section.91}
+\contentsline {section}{\numberline {3.3}Results}{65}{section.92}
+\contentsline {subsection}{\numberline {3.3.1}Defining piRNA-Producing Transcripts in the Mouse Testis}{65}{subsection.93}
+\contentsline {subsection}{\numberline {3.3.2}piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}{68}{subsection.96}
+\contentsline {subsection}{\numberline {3.3.3}A Transcript-based Set of piRNA Loci}{69}{subsection.97}
+\contentsline {subsection}{\numberline {3.3.4}Three Classes of piRNAs During Post-Natal Spermatogenesis}{69}{subsection.98}
+\contentsline {subsection}{\numberline {3.3.5}\textit {A-Myb}{} Regulates Pachytene piRNA Precursor Transcription}{76}{subsection.103}
+\contentsline {subsection}{\numberline {3.3.6}\textit {A-Myb}{} Regulates Pachytene piRNA Production}{80}{subsection.106}
+\contentsline {subsection}{\numberline {3.3.7}\textit {A-Myb}{} Regulates Expression of piRNA Biogenesis Factors}{82}{subsection.109}
+\contentsline {subsection}{\numberline {3.3.8}A-MYB and the Pachytene piRNA Regulatory Circuitry}{86}{subsection.112}
+\contentsline {subsection}{\numberline {3.3.9}Feed-Forward Regulation of piRNA Production is Evolutionarily Conserved}{86}{subsection.115}
+\contentsline {section}{\numberline {3.4}Discussion}{92}{section.118}
+\contentsline {section}{\numberline {3.5}Experimental Procedures}{94}{section.119}
+\contentsline {chapter}{\numberline {4}SeqZip - Development and Applications}{101}{chapter.120}
+\contentsline {section}{\numberline {4.1}SeqZip Overview}{101}{section.121}
+\contentsline {section}{\numberline {4.2}Multiplex Gene Study}{103}{section.123}
+\contentsline {section}{\numberline {4.3}Determining RNA integrity using SeqZip}{106}{section.126}
+\contentsline {subsection}{\numberline {4.3.1}Demonstration of Concept}{106}{subsection.127}
+\contentsline {subsection}{\numberline {4.3.2}Investigating HIV viral genome integrity using SeqZip}{108}{subsection.130}
+\contentsline {subsection}{\numberline {4.3.3}Design of HIV ligamers}{109}{subsection.131}
+\contentsline {section}{\numberline {4.4}Continuity of piRNA precursor transcripts}{111}{section.133}
+\contentsline {subsection}{\numberline {4.4.1}Mammalian loci of piRNA precursor transcription}{111}{subsection.134}
+\contentsline {subsection}{\numberline {4.4.2}Evidence for spliced piRNA precursor transcripts}{112}{subsection.142}
+\contentsline {chapter}{\numberline {5}Discussion}{121}{chapter.148}
+\contentsline {section}{\numberline {5.1}The Future of Dynamic long RNAs}{121}{section.149}
+\contentsline {subsection}{\numberline {5.1.1}Pervasive transcription}{122}{subsection.150}
+\contentsline {subsection}{\numberline {5.1.2}Accurate and complete transcript annotation}{122}{subsection.151}
+\contentsline {subsection}{\numberline {5.1.3}Tissue and cell specificity}{123}{subsection.153}
+\contentsline {section}{\numberline {5.2}Lingering Questions for \textit {Dscam1}{}}{123}{section.155}
+\contentsline {section}{\numberline {5.3}In the haystack: piRNA precursor transcripts surrounded by RNA}{123}{section.157}
+\contentsline {subsection}{\numberline {5.3.1}How are they generated?}{124}{subsection.158}
+\contentsline {subsection}{\numberline {5.3.2}What are they doing?}{124}{subsection.160}
+\contentsline {subsection}{\numberline {5.3.3}In vivo chemical labeling of precursor piRNA transcripts}{125}{subsection.162}
+\contentsline {subsection}{\numberline {5.3.4}In vivo imaging of precursor piRNA transcripts}{125}{subsection.163}
+\contentsline {subsection}{\numberline {5.3.5}FISSEQ of piRNA precursor transcripts}{126}{subsection.164}
+\contentsline {section}{\numberline {5.4}Future uses of SeqZip}{126}{section.166}
+\contentsline {subsection}{\numberline {5.4.1}Multi-site SNP detection}{126}{subsection.168}
+\contentsline {subsection}{\numberline {5.4.2}Introduction of destruction sequences}{126}{subsection.170}
+\contentsline {subsection}{\numberline {5.4.3}Multi-site FISH probes}{127}{subsection.172}
+\contentsline {section}{\numberline {5.5}SeqZip Assay Improvements}{127}{section.173}
+\contentsline {subsection}{\numberline {5.5.1}LNA-containing ligamers and T39A Rnl2}{128}{subsection.174}
+\contentsline {subsubsection}{\numberline {5.5.1.1}Thermostable Ligases}{129}{subsubsection.176}
+\contentsline {subsection}{\numberline {5.5.2}Re-purposing the SOLiD Platform}{129}{subsection.177}
+\contentsline {subsection}{\numberline {5.5.3}Quantifying ligation and PCR events}{129}{subsection.179}
+\contentsline {subsection}{\numberline {5.5.4}Reducing required input RNA and ligamer concentration}{129}{subsection.180}
+\contentsline {subsection}{\numberline {5.5.5}An ideal SeqZip experiment to query coordinated splicing}{130}{subsection.181}
+\contentsline {subsection}{\numberline {5.5.6}SeqZip and single-molecule FISH}{130}{subsection.182}
+\contentsline {section}{\numberline {5.6}Final thoughts}{130}{section.184}
+\contentsline {subsection}{\numberline {5.6.1}Biologists need Computation Biological Skills}{130}{subsection.185}
+\contentsline {subsection}{\numberline {5.6.2}Science versus Engineering: Two thoughts in one school}{132}{subsection.186}
+\contentsline {subsection}{\numberline {5.6.3}Dealing with the data deluge}{134}{subsection.188}
+\contentsline {chapter}{\numberline {A}Appendix - Misc Information}{135}{appendix.190}
+\contentsline {section}{\numberline {A.1}Buffers}{135}{section.191}
+\contentsline {section}{\numberline {A.2}Equations}{135}{section.193}
+\contentsline {subsection}{\numberline {A.2.1}Determining [RNA] from $^{32}$P-$\alpha $-UTP used during vitro transcription}{135}{subsection.194}
+\contentsline {subsection}{\numberline {A.2.2}Determining [RNA] based on A$_{260}$}{136}{subsection.195}
+\contentsline {subsection}{\numberline {A.2.3}Normalize oxidized small RNA libraries size to time-matched unoxidized library}{136}{subsection.196}
+\contentsline {section}{\numberline {A.3}PCR Programs}{136}{section.197}
+\contentsline {chapter}{\numberline {B}Appendix B: Automated Ligamer Assembly}{138}{appendix.198}
+\contentsline {section}{\numberline {B.1}Installation}{138}{section.199}
+\contentsline {section}{\numberline {B.2}Example Input Format}{139}{section.220}
+\contentsline {section}{\numberline {B.3}Ligamer Assembler Source Code}{141}{section.221}
+\contentsline {chapter}{Bibliography}{161}{dummy.1198}

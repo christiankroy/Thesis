@@ -1,72 +1,64 @@
-\chapter{Appendix B: piRNA precurors are spliced} \label{AppendixB} 
-\lhead{Appendix B. \emph{piRNA precurors are spliced}} 
+\chapter{Appendix B: Automated Ligamer Assembly}\label{Appendix:AutoMatedLigamerAssembly} 
+\lhead{Appendix B. \emph{Perl Script for Automated Ligamer Assembly}} 
 
-\section{Evidence for spliced piRNA precusor transcripts}
+\section{Installation}
 
-%% ############# FIGURE
-\begin{figure}[htbp]
-	\centering 
-	\includegraphics{Figures/AppendixB/evidenceForPrecursorSplicing.eps}
-	\caption[RNA-Seq evidence for piRNA precursor splicing]
-	{
-		RNA-Seq evidence for piRNA precursor splicing]\\
-		\hl{Insert Figure Text}
-	}
-	\label{fig:evidence for precusor splicing}
-\end{figure}
-%% ############# FIGURE
+Major Steps:
+\begin{itemize}
+	\item  Create an input csv file with required information
+	\item  Run this information sequentially through the scripts
+	\item  Use the results to order oligos from IDT
+\end{itemize}
 
-%% ############# FIGURE
-\begin{figure}[htbp]
-	\centering 
-	\includegraphics{Figures/AppendixB/noPiRNAswithinPrecusorIntrons.eps}
-	\caption[Lack of piRNAs within precusor introns]
-	{
-		Lack of piRNAs within precusor introns\\
-		\hl{Insert Figure Text}
-	}
-	\label{fig:no piRNAs withing Precursor Introns}
-\end{figure}
-%% ############# FIGURE
+Required Tools:
+\begin{itemize}
+	\item  Perl
+	\item  BioPerl
+	\item  Ensembl Perl APIs
+	\item  String::Random Perl Package
+\end{itemize}
 
-%% ############# FIGURE
-\begin{figure}[htbp]
-	\centering 
-	\includegraphics{Figures/AppendixB/smallRNAsMapToPrecursorSJ.eps}
-	\caption[piRNAs map to Splice Junctions of precursor transcripts]
-	{
-		piRNAs map to Splice Junctions of precursor transcripts\\
-		\hl{Insert Figure Text}
-	}
-	\label{fig: piRNAs map to SJ}
-\end{figure}
-%% ############# FIGURE
+Items to future improvements
+\begin{itemize}
+	\item Use Ensembl Database to initilize queries
+	\item Make the use of BioPerl more flexible
+	\item Make more web-friedly
+\end{itemize}
 
-%% ############# FIGURE
-\begin{figure}[htbp]
-	\centering 
-	\includegraphics{Figures/AppendixB/aggregatePiRNAsatSpliceJunctions.eps}
-	\caption[\amyb{} Mutants produce no splice-junction mapping piRNAs]
-	{
-		\amyb{} Mutants produce no splice-junction mapping piRNAs\\
-		\hl{Insert Figure Text}
-	}
-	\label{fig: amyb makes SJ mapping}
-\end{figure}
-%% ############# FIGURE
+Helpful hints on installing BioPerl and Emsembl Perl APIs:
 
+\lstset{language=BASH}
+\begin{lstlisting}
+	## Install BioPerl, use git
+	    cpan App::cpanminus # First prep cpan
+	    cpanm DBI ## Install necessary DBI perl module
+	    mkdir ~/src; cd ~/src
+	    git clone git://github.com/bioperl/bioperl-live.git
+	    cp ~/.bash_profile ~/.bash_profile.bak
+	    echo -e 'PERL5LIB=$HOME/src/bioperl-live:$PERL5LIB' >> ~/.bash_profile
+	    source ~/.bash_profile
+	# Install ensembl perl apis
+	    mkdir ~/src; cd ~/src
+	    wget ftp://ftp.ensembl.org/pub/ensembl-api.tar.gz
+	    tar xvfz ensembl-api.tar.gz
+	# Add locations to perlfile libs to $PATH
+	    echo -e '
+	    PERL5LIB=${PERL5LIB}:${HOME}/src/ensembl/modules
+	    PERL5LIB=${PERL5LIB}:${HOME}/src/ensembl-compara/modules
+	    PERL5LIB=${PERL5LIB}:${HOME}/src/ensembl-variation/modules
+	    PERL5LIB=${PERL5LIB}:${HOME}/src/ensembl-functgenomics/modules
+	    export PERL5LIB' >> ~/.bash_profile
+\end{lstlisting}
+%----------------------------------------------------------------------------------------
+\section{Example Input Format}
+%----------------------------------------------------------------------------------------
+\begin{landscape}
+Here is an example input file to create ligamers investigating the \textit{Gria3} gene in Rats:
+\input{Tables/exampleLigamerAssemblerInput.tex}
+\end{landscape}
+%----------------------------------------------------------------------------------------
+\section{Ligamer Assembler Source Code}\label{apx: Ligamer Assmembler}
+%----------------------------------------------------------------------------------------
 
-
-%% ############# FIGURE
-\begin{figure}[htbp]
-	\centering 
-	\includegraphics{Figures/AppendixB/piRNAPrecusorTXFeatures.eps}
-	\caption[General features of piRNA transcripts]
-	{
-		General features of piRNA transcripts\\
-		\hl{Insert Figure Text}
-	}
-	\label{fig:piRNA precusor Tx features}
-\end{figure}
-%% ############# FIGURE
+\lstinputlisting[language=PERL]{Appendices/ligamerAssembler.pl}
 

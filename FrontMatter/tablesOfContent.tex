@@ -1,3 +1,4 @@
+% !TEX root = /Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex
 %----------------------------------------------------------------------------------------
 %	LIST OF CONTENTS/FIGURES/TABLES PAGES
 %----------------------------------------------------------------------------------------
@@ -5,12 +6,12 @@
 % now use the "fancy" headers as defined before to bring them back
 \pagestyle{fancy} 
 \lhead{\emph{Contents}} % Set the left side page header to "Contents"
-	\tableofcontents % Write out the Table of Contents
+\setcounter{tocdepth}{2}  % Limits to print UP TO AND INCLUDING \subsection 
+\tableofcontents % Write out the Table of Contents
 \lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
 	\listoffigures % Write out the List of Figures
 \lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
 	\listoftables % Write out the List of Tables
-
 % Comment this out before final run
 \lhead{\emph{List of Todos!}} % Set the left side page header to 'List of Tables"
   \listoftodos % Write out the List of Todos

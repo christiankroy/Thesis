@@ -7,12 +7,18 @@ My 2014 UMMS Thesis
 
 ### Getting Setup ###
 
-1. Obtain a good text editor. I used Sublime Text 2 with some packages installed
+1. Obtain a good text editor. I used Sublime Text 2 with some packages installed:
+    * `Monokai Extended` | Color Scheme for coding editing
     * LaTeXTools | Adds some LaTeX functality
       * Change the cite panel format to `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
     * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
+    * Markdown Extended | Allows for Syntax Markdown Highlighting in Sublime Text
 2. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
 3. Fill out the folder structure.
+
+### Table of contents
+
+I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP TO AND INCLUDING* `\subsection` **ONLY** using this command: `\setcounter{tocdepth}{2}` in  the file `FrontMatter/tablesOfContent.tex`
 
 ### Symbols ###
 
@@ -27,7 +33,7 @@ My 2014 UMMS Thesis
 + Bold = `textbf{Bold Text}`
 + Italics = `\textit{Italicized Text}`
 
-### Comments ###
+### Inserting Comments and Todos ###
 
 + See this article http://tex.stackexchange.com/questions/68530/making-corrections-during-review-of-other-people-latex-article
 + Insert a Figure request w/ `\missingfigure{Comment Text}`
@@ -54,6 +60,10 @@ My 2014 UMMS Thesis
 
 1. Internal by Name = `\ref{labelName}``
     + **Don't reference by number! Hard to change later!**
+    + Pick a strucutre and stick to it!
+      + Example would be :
+      1. `\label{Intro:sec:piRNAs}`
+      2. `\label{Intro:subsec:piRNA precurors are long}`      
 2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
 3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
 4. Insert a bare, but clickable url = `\url{http://www.place.com}`
@@ -66,8 +76,8 @@ My 2014 UMMS Thesis
 3. Use of `*.eps` allows you to easily make an HTML version of the document
 4. Use the following code structure for inserting figures
 
-
-    \begin{figure}[htbp] % FIGURE COMMENT NAME  
+```TeX
+    \begin{figure} % FIGURE COMMENT NAME  
       \centering  
       \includegraphics{Figures/FIGURE_PATH.eps}  
       \caption[FIGURE TOC NAME]  
@@ -76,41 +86,12 @@ My 2014 UMMS Thesis
         }  
       \label{fig:FIGURE LINK NAME}  
       \end{figure}  
-
+```
 
 ### Make a webpage/Word Doc from thesis LaTex ###
 
 Drop to terminal and type `htlatex thesis.tex`
 Once this is done, open HTML in Word
-
-### Chatper 1 - Introduction #
-
-Priority of work:
-
-1. piRNA seciton
-2. Dscam1 Hattori section needs work
-3. Beginning of Nucleic acid splicing section needs work
-
-### Chapter 2 - SeqZip paper ###
-
-+ Insert the current draft on 2014-04-18
-
-### Chapter 3 - MolCel2013 #
-
-+ What to do with tables[1–3] For MolCel2013?
-    * Currently `\hl{table #}` in the text
-
-### Chapter 4 - SeqZip methodology #
-
-+ Continue filling in the experimental descriptions
-
-### Chapter 5 - Discussion ###
-
-+ Needs to most work!
-+ Write up the SeqZip assay improvements
-+ Read Papers from Akiko about single molecule Fish
-    + How to apply this to the precursors? 
-
 
 
 

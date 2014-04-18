@@ -16,9 +16,10 @@
   \usepackage{gensymb} % For degree '\degree'
   \usepackage[square, comma, sort&compress]{natbib}  % For Referencing
     \setlength{\bibsep}{0.0pt} % Reduce size of bibliography
+  \usepackage{bibentry} % For inserting Full Citation into preface
+    \nobibliography* % Required to use the \usepackage(bibentry) above
   \usepackage{hyperref} % For internal referencing
     \hypersetup{urlcolor=blue, colorlinks=true}  % Colors hyperlinks in blue
-  
   \usepackage{soul} % Highlight things use \hl{text}
   \usepackage[colorinlistoftodos]{todonotes} % To inserting Comments w/ \todo[prepend]{Comment text}
   \usepackage{changebar} % For putting bar in margin for review w/ \begin{changebar} & \end{changebar}
@@ -32,7 +33,9 @@
       language=Perl, % Change as needed locally w/ \lstset{language=LANG} where LANG=language of choice (i.e. PERL)
       aboveskip=3mm,belowskip=3mm,
       showstringspaces=false,columns=flexible,
-      basicstyle={\small\ttfamily},numbers=none,numberstyle=\tiny\color{gray},
+      basicstyle={\footnotesize\ttfamily},
+      numbers=none,
+      numberstyle=\tiny\color{gray},
       keywordstyle=\color{blue},
       commentstyle=\color{dkgreen},
       stringstyle=\color{mauve},
@@ -43,7 +46,7 @@
   \title{\ttitle} % Defines the thesis title - don't touch this
   \begin{document}
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
-  \setstretch{1.3} % Line spacing of 1.3
+  \setstretch{1} % Line spacing of 1
   % Define the page headers using the FancyHdr package and set up for one-sided printing
     \fancyhead{} % Clears all page headers and footers
     \rhead{\thepage} % Sets the right side header to show the page number
@@ -54,11 +57,12 @@
   	\hypersetup{pdfsubject=\subjectname}
   	\hypersetup{pdfauthor=\authornames}
   	\hypersetup{pdfkeywords=\keywordnames}
-  \input{FrontMatter/titlePage} \input{FrontMatter/signaturePage}
+  \input{FrontMatter/titlePage} 
+  \input{FrontMatter/signaturePage}
   \input{FrontMatter/abstract}
   \input{FrontMatter/acknowledgements}
   \input{FrontMatter/tablesOfContent}
-  \input{FrontMatter/abreviations}
+  \input{FrontMatter/abbreviations}
   \input{FrontMatter/symbols}
   \input{FrontMatter/definitions}
   \input{FrontMatter/dedication}
@@ -78,7 +82,7 @@
   \setstretch{1} % Line spacing of 1
   \input{Appendices/AppendixA}
   \input{Appendices/AppendixB}
-  \input{Appendices/AppendixC}
+  %\input{Appendices/AppendixC}
 \backmatter
   \label{hd:Bibliography}
   \setstretch{1} % Line spacing of 1

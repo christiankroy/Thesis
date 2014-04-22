@@ -488,6 +488,12 @@ Core, L.~J., Waterfall, J.~J., and Lis, J.~T. (2008).
   initiation at human promoters.}
 \newblock {\em Science}, 322:1845--1848.
 
+\bibitem[Cox et~al., 2000]{Cox2000}
+Cox, D.~N., Chao, A., and Lin, H. (2000).
+\newblock piwi encodes a nucleoplasmic factor whose activity modulates the
+  number and division rate of germline stem cells.
+\newblock {\em Development (Cambridge, England)}, 127:503--514.
+
 \bibitem[Cramer et~al., 1997]{Cramer1997}
 Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
 \newblock {Functional association between promoter structure and transcript
@@ -807,6 +813,13 @@ Guenther, M.~G., Levine, S.~S., Boyer, L.~A., Jaenisch, R., and Young, R.~A.
   in human cells.}
 \newblock {\em Cell}, 130:77--88.
 
+\bibitem[Gunawardane et~al., 2007]{Gunawardane2007}
+Gunawardane, L.~S., Saito, K., Nishida, K.~M., Miyoshi, K., Kawamura, Y.,
+  Nagami, T., Siomi, H., and Siomi, M.~C. (2007).
+\newblock {A slicer-mediated mechanism for repeat-associated siRNA 5' end
+  formation in Drosophila.}
+\newblock {\em Science (New York, N.Y.)}, 315(5818):1587--90.
+
 \bibitem[Gupta et~al., 2007]{Gupta2007}
 Gupta, S., Stamatoyannopoulos, J.~a., Bailey, T.~L., and Noble, W.~S. (2007).
 \newblock {Quantifying similarity between motifs.}
@@ -935,6 +948,13 @@ Horvath, G.~C., Kistler, M.~K., and Kistler, W.~S. (2009).
   mouse spermatogenesis}.
 \newblock {\em BMC Developmental Biology}, 9(1):63.
 
+\bibitem[Horwich et~al., 2007]{Horwich2007}
+Horwich, M.~D., Li, C., Matranga, C., Vagin, V., Farley, G., Wang, P., and
+  Zamore, P.~D. (2007).
+\newblock {The Drosophila RNA Methyltransferase, DmHen1, Modifies Germline
+  piRNAs and Single-Stranded siRNAs in RISC}.
+\newblock {\em Current Biology}, 17:1265--1272.
+
 \bibitem[Hosokawa et~al., 2007]{Hosokawa2007}
 Hosokawa, M., Shoji, M., Kitamura, K., Tanaka, T., Noce, T., Chuma, S., and
   Nakatsuji, N. (2007).
@@ -1026,6 +1046,18 @@ Kawaoka, S., Hara, K., Shoji, K., Kobayashi, M., Shimada, T., Sugano, S.,
 \newblock {The comprehensive epigenome map of piRNA clusters}.
 \newblock pages 1--10.
 
+\bibitem[Kawaoka et~al., 2009]{Kawaoka2009}
+Kawaoka, S., Hayashi, N., Suzuki, Y., Abe, H., Sugano, S., Tomari, Y., Shimada,
+  T., and Katsuma, S. (2009).
+\newblock {The Bombyx ovary-derived cell line endogenously expresses
+  PIWI/PIWI-interacting RNA complexes.}
+\newblock {\em RNA (New York, N.Y.)}, 15(7):1258--64.
+
+\bibitem[Kawaoka et~al., 2011]{Kawaoka2011}
+Kawaoka, S., Izumi, N., Katsuma, S., and Tomari, Y. (2011).
+\newblock {3' end formation of PIWI-interacting RNAs in vitro.}
+\newblock {\em Molecular cell}, 43(6):1015--22.
+
 \bibitem[Kennard, 1927]{Kennard1927}
 Kennard, E.~H. (1927).
 \newblock {Zur Quantenmechanik einfacher Bewegungstypen}.
@@ -1049,6 +1081,20 @@ Khalil, A.~M., Guttman, M., Huarte, M., Garber, M., Raj, A., {Rivea Morales},
 Kim, V.~N., Han, J., and Siomi, M.~C. (2009).
 \newblock {Biogenesis of small RNAs in animals.}
 \newblock {\em Nature reviews. Molecular cell biology}, 10(2):126--39.
+
+\bibitem[Kirino and Mourelatos, 2007]{Kirino2007}
+Kirino, Y. and Mourelatos, Z. (2007).
+\newblock {The mouse homolog of HEN1 is a potential methylase for
+  Piwi-interacting RNAs.}
+\newblock {\em RNA (New York, N.Y.)}, 13(9):1397--401.
+
+\bibitem[Klattenhoff et~al., 2009]{Klattenhoff2009}
+Klattenhoff, C., Xi, H., Li, C., Lee, S., Xu, J., Khurana, J.~S., Zhang, F.,
+  Schultz, N., Koppetsch, B.~S., Nowosielska, A., Seitz, H., Zamore, P.~D.,
+  Weng, Z., and Theurkauf, W.~E. (2009).
+\newblock {The Drosophila HP1 Homolog Rhino Is Required for Transposon
+  Silencing and piRNA Production by Dual-Strand Clusters}.
+\newblock {\em Cell}, 138(6):1137--1149.
 
 \bibitem[Kleppe et~al., 1970]{Kleppe1970b}
 Kleppe, K., {Van de Sande}, J.~H., and Khorana, H.~G. (1970).
@@ -1261,6 +1307,13 @@ Licatalosi, D.~D., Mele, A., Fak, J.~J., Ule, J., Kayikci, M., Chi, S.~W.,
   processing}.
 \newblock {\em Nature}, 456(7221):464--469.
 
+\bibitem[Lim and Kai, 2007]{Lim2007}
+Lim, A.~K. and Kai, T. (2007).
+\newblock {Unique germ-line organelle, nuage, functions to repress selfish
+  genetic elements in Drosophila melanogaster.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 104:6714--6719.
+
 \bibitem[Lister et~al., 2008]{Lister2008}
 Lister, R., O'Malley, R.~C., Tonti-Filippini, J., Gregory, B.~D., Berry, C.~C.,
   Millar, A.~H., and Ecker, J.~R. (2008).
@@ -1285,6 +1338,12 @@ Long, J.~C. and Caceres, J.~F. (2009).
 Luco, R.~F., Allo, M., Schor, I.~E., Kornblihtt, A.~R., and Misteli, T. (2011).
 \newblock {Epigenetics in alternative pre-mRNA splicing.}
 \newblock {\em Cell}, 144(1):16--26.
+
+\bibitem[Luteijn and Ketting, 2013]{Luteijn2013}
+Luteijn, M.~J. and Ketting, R.~F. (2013).
+\newblock {PIWI-interacting RNAs: from generation to transgenerational
+  epigenetics}.
+\newblock {\em Nature Reviews Genetics}, (June):1--12.
 
 \bibitem[Lynch, 2004]{Lynch2004}
 Lynch, K.~W. (2004).
@@ -1326,12 +1385,22 @@ Maxam, A.~M. and Gilbert, W. (1992).
 \newblock {A new method for sequencing DNA. 1977.}
 \newblock {\em Biotechnology (Reading, Mass.)}, 24(2):99--103.
 
+\bibitem[Meikar et~al., 2011]{Meikar2011}
+Meikar, O., {Da Ros}, M., Korhonen, H., and Kotaja, N. (2011).
+\newblock {Chromatoid body and small RNAs in male germ cells.}
+\newblock {\em Reproduction (Cambridge, England)}, 142(2):195--209.
+
 \bibitem[Meikar et~al., 2014]{Meikar2014}
 Meikar, O., Vagin, V.~V., Chalmel, F., S\~{o}star, K., Lardenois, A., Hammell,
   M., Jin, Y., {Da Ros}, M., Wasik, K.~a., Toppari, J., Hannon, G.~J., and
   Kotaja, N. (2014).
 \newblock {An atlas of chromatoid body components.}
 \newblock {\em RNA (New York, N.Y.)}, 20(4):483--95.
+
+\bibitem[Meister, 2013]{Meister2013}
+Meister, G. (2013).
+\newblock {Argonaute proteins: functional insights and emerging roles.}
+\newblock {\em Nature reviews. Genetics}, 14(7):447--59.
 
 \bibitem[Mercer et~al., 2014]{Mercer2014}
 Mercer, T.~R., Clark, M.~B., Crawford, J., Brunck, M.~E., Gerhardt, D.~J.,

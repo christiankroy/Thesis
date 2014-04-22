@@ -1,71 +1,71 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces The Solitary and Gregarious forms of \textit {Schistocerca gregaria}{}}}{3}{figure.17}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Cost of sequencing the human genome over time}}{6}{figure.21}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Methods for High-throughput sequencing of RNA}}{8}{figure.23}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Estimates of number of human genes, and percentage alternatively spliced over time}}{10}{figure.26}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces HTS read lengths are not sufficient to maintain AS connectivity}}{12}{figure.30}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Mouse \textit {Fn1}{} contains multipe sites of Alternative Splicing}}{15}{figure.32}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Number of hg19 Alternative Event types per gene}}{17}{figure.35}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Number of transcripts per \textit {Drosophila melanogaster}{} gene}}{18}{figure.36}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces The architecture of the \textit {Drosophila melanogaster}{} gene \textit {Dscam1}{}}}{18}{figure.39}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces Important \textit {Dscam1}{} expression during \textit {Drosophila melanogaster}{} life cycle}}{21}{figure.40}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Mechanism of Rnl2 ATP-dependent ligation}}{24}{figure.44}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces Structure and active site of pre-adenylated of Rnl2}}{27}{figure.46}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Active site of T4 RNA Ligase 2 with highlighted residues}}{28}{figure.47}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces Genetic evidence for long, continuous fly piRNA precursor transcripts}}{30}{figure.53}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces Different Classes of mammalian piRNAs}}{31}{figure.54}
-\contentsline {figure}{\numberline {1.16}{\ignorespaces A model for Mammalian piRNA biogenesis}}{33}{figure.56}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The Solitary and Gregarious forms of \textit {Schistocerca gregaria}{}}}{3}{figure.16}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Cost of sequencing the human genome over time}}{6}{figure.20}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Methods for High-throughput sequencing of RNA}}{8}{figure.22}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Estimates of number of human genes, and percentage alternatively spliced over time}}{10}{figure.25}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces HTS read lengths are not sufficient to maintain AS connectivity}}{12}{figure.28}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Mouse \textit {Fn1}{} contains multiple sites of Alternative Splicing}}{15}{figure.30}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Number of hg19 Alternative Event types per gene}}{17}{figure.32}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Number of transcripts per \textit {Drosophila melanogaster}{} gene}}{18}{figure.33}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces The architecture of the \textit {Drosophila melanogaster}{} gene \textit {Dscam1}{}}}{19}{figure.36}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Important \textit {Dscam1}{} expression during \textit {Drosophila melanogaster}{} life cycle}}{21}{figure.37}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Mechanism of Rnl2 ATP-dependent ligation}}{25}{figure.40}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Structure and active site of pre-adenylated of Rnl2}}{28}{figure.42}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Active site of T4 RNA Ligase 2 with highlighted residues}}{29}{figure.43}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Different Classes of mammalian piRNAs}}{31}{figure.47}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces A model for Mammalian piRNA biogenesis}}{33}{figure.49}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Genetic evidence for long, continuous fly piRNA precursor transcripts}}{34}{figure.50}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Principles of the SeqZip Assay}}{38}{figure.65}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces T4 RNA Ligase 2 will catalyze RNA-templated DNA-to-DNA ligation}}{39}{figure.68}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces SeqZip on endogenously expressed RNAs}}{43}{figure.72}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Analysis of \textit {Dscam1}{} isoforms via High-Throughput Sequencing}}{47}{figure.76}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces HTS Analysis of \textit {Dscam1}{} in vitro transcripts}}{48}{figure.77}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces SeqZip in vitro \textit {Dscam1}{} controls and near-cognate ligation}}{50}{figure.78}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Cognate and Nearest-Near cognate folding energies for \textit {Dscam1}{} exon 6}}{51}{figure.79}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Roy et al 2014 Figure S4}}{52}{figure.81}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces \textit {Dscam1}{} individual exon usage measured by SeqZip}}{53}{figure.82}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Comparison between SeqZip and CAMSeq analysis of \textit {Dscam1}{} isoforms in S2 cells}}{54}{figure.83}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Principles of the SeqZip Assay}}{39}{figure.59}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces T4 RNA Ligase 2 will catalyze RNA-templated DNA-to-DNA ligation}}{40}{figure.62}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces SeqZip on endogenously expressed RNAs}}{44}{figure.66}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Analysis of \textit {Dscam1}{} isoforms via High-Throughput Sequencing}}{48}{figure.70}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces HTS Analysis of \textit {Dscam1}{} in vitro transcripts}}{49}{figure.71}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces SeqZip in vitro \textit {Dscam1}{} controls and near-cognate ligation}}{51}{figure.72}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Cognate and Nearest-Near cognate folding energies for \textit {Dscam1}{} exon 6}}{52}{figure.73}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Roy et al 2014 Figure S4}}{53}{figure.75}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \textit {Dscam1}{} individual exon usage measured by SeqZip}}{54}{figure.76}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Comparison between SeqZip and CAMSeq analysis of \textit {Dscam1}{} isoforms in S2 cells}}{55}{figure.77}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces piRNA Precursors are RNA Pol II Transcripts}}{66}{figure.94}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces The Major piRNA-Producing Genes of the Post-Partum Mouse Testis}}{67}{figure.95}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Three Classes of piRNA-Generating Loci}}{71}{figure.99}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Pre-pachytene piRNAs Persist in Pachytene Spermatocytes}}{72}{figure.100}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Examples of Pachytene piRNA Genes}}{74}{figure.101}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Examples of Pre-Pachytene piRNA Genes}}{75}{figure.102}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces A-MYB Binds the Promoters of Pachytene piRNA Genes}}{77}{figure.104}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces ChIP-qPCR Confirms ChIP-seq Data}}{78}{figure.105}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Pachytene piRNAs and Precursors Decrease in \textit {A-Myb}{} Mutant Testes}}{81}{figure.107}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Change in piRNA Expression in \textit {Spo11}{}, \textit {Miwi}{}, \textit {Tdrd6}, and \textit {Tdrd9} Mutants}}{82}{figure.108}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Examples of the Effect of the \textit {A-Myb}{} Mutation on piRNA Expression}}{84}{figure.110}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Pachytene piRNA Precursor Abundance in \textit {A-Myb}{}, \textit {Miwi}{}, and \textit {Trip13} Mutants}}{85}{figure.111}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces A-MYB Regulates Expression of mRNAs Encoding piRNA Pathway Proteins}}{87}{figure.113}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces \textit {A-Myb}{} mutants, but Not \textit {Miwi}{} Mutants, Change the Expression of RNA Silencing Pathway Genes}}{88}{figure.114}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Feed-Forward Regulation of piRNA Biogenesis by A-MYB is Conserved in Rooster}}{90}{figure.116}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Genomic Locations of piRNA Clusters in the Rooster (Gallus gallus) Testis.}}{91}{figure.117}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces piRNA Precursors are RNA Pol II Transcripts}}{67}{figure.88}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The Major piRNA-Producing Genes of the Post-Partum Mouse Testis}}{68}{figure.89}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Three Classes of piRNA-Generating Loci}}{72}{figure.93}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pre-pachytene piRNAs Persist in Pachytene Spermatocytes}}{73}{figure.94}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Examples of Pachytene piRNA Genes}}{75}{figure.95}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Examples of Pre-Pachytene piRNA Genes}}{76}{figure.96}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces A-MYB Binds the Promoters of Pachytene piRNA Genes}}{78}{figure.98}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ChIP-qPCR Confirms ChIP-seq Data}}{79}{figure.99}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Pachytene piRNAs and Precursors Decrease in \textit {A-Myb}{} Mutant Testes}}{82}{figure.101}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Change in piRNA Expression in \textit {Spo11}{}, \textit {Miwi}{}, \textit {Tdrd6}, and \textit {Tdrd9} Mutants}}{83}{figure.102}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Examples of the Effect of the \textit {A-Myb}{} Mutation on piRNA Expression}}{85}{figure.104}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Pachytene piRNA Precursor Abundance in \textit {A-Myb}{}, \textit {Miwi}{}, and \textit {Trip13} Mutants}}{86}{figure.105}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces A-MYB Regulates Expression of mRNAs Encoding piRNA Pathway Proteins}}{88}{figure.107}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces \textit {A-Myb}{} mutants, but Not \textit {Miwi}{} Mutants, Change the Expression of RNA Silencing Pathway Genes}}{89}{figure.108}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Feed-Forward Regulation of piRNA Biogenesis by A-MYB is Conserved in Rooster}}{91}{figure.110}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Genomic Locations of piRNA Clusters in the Rooster (Gallus gallus) Testis.}}{92}{figure.111}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Original SeqZip Diagram}}{102}{figure.122}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 10 Gene Set study schematic}}{105}{figure.125}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Measuring \textit {Apbb1} via SeqZip in multiplex study}}{106}{figure.126}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Ligation product tied to RNA integrity}}{108}{figure.129}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Trans Transcript investigation}}{109}{figure.130}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces SeqZip can examine HIV transcript integrity}}{111}{figure.133}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Pachytene piRNA precursor locations in mice}}{113}{figure.136}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces General features of piRNA transcripts}}{114}{figure.139}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces pRT Doesn't Work for piRNA precursors}}{116}{figure.140}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Dst1 by SeqZip}}{117}{figure.142}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Three sites of AS in \textit {Fn1}{} by SeqZip}}{118}{figure.143}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Testes-specific ligation product signal from piRNA precursor}}{119}{figure.145}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces SeqZip signal from piRNA-producing loci \textit {17-qA3.3-27363.1}}}{120}{figure.146}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces SeqZip signal from piRNA precursor transcripts decreases with loop length}}{120}{figure.147}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Example small RNA and RNA-Seq data aligned to a piRNA-generating loci}}{122}{figure.149}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Introns in mammalian piRNA precusors}}{123}{figure.150}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces piRNAs map to Splice Junctions of precursor transcripts}}{124}{figure.151}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces \textit {A-Myb}{} Mutants produce no splice-junction mapping piRNAs for genic piRNA-producing loci}}{125}{figure.152}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Original SeqZip Diagram}}{103}{figure.116}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 10 Gene Set study schematic}}{106}{figure.119}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Measuring \textit {Apbb1} via SeqZip in multiplex study}}{107}{figure.120}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Ligation product tied to RNA integrity}}{109}{figure.123}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Trans Transcript investigation}}{110}{figure.124}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces SeqZip can examine HIV transcript integrity}}{112}{figure.127}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Pachytene piRNA precursor locations in mice}}{114}{figure.130}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces General features of piRNA transcripts}}{115}{figure.133}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces pRT Doesn't Work for piRNA precursors}}{117}{figure.134}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Dst1 by SeqZip}}{118}{figure.136}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Three sites of AS in \textit {Fn1}{} by SeqZip}}{119}{figure.137}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Testes-specific ligation product signal from piRNA precursor}}{120}{figure.139}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces SeqZip signal from piRNA-producing loci \textit {17-qA3.3-27363.1}}}{121}{figure.140}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces SeqZip signal from piRNA precursor transcripts decreases with loop length}}{121}{figure.141}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Example small RNA and RNA-Seq data aligned to a piRNA-generating loci}}{123}{figure.143}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Introns in mammalian piRNA precusors}}{124}{figure.144}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces piRNAs map to Splice Junctions of precursor transcripts}}{125}{figure.145}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces \textit {A-Myb}{} Mutants produce no splice-junction mapping piRNAs for genic piRNA-producing loci}}{126}{figure.146}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces \textit {wdfy3}{} locus expresses both mRNA and piRNA precusor form in testes}}{129}{figure.165}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Proposed uses of the SeqZip methodology}}{132}{figure.173}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Suger pucker in Rnl2 structures}}{133}{figure.181}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Multi-Site smFISH using flourophore-containg ligamers}}{136}{figure.189}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \textit {wdfy3}{} locus expresses both mRNA and piRNA precusor form in testes}}{130}{figure.160}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Proposed uses of the SeqZip methodology}}{133}{figure.168}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Suger pucker in Rnl2 structures}}{134}{figure.176}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Multi-Site smFISH using flourophore-containg ligamers}}{137}{figure.184}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

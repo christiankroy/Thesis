@@ -311,22 +311,28 @@
 }\end{spacing}
 }
 
-\newcommand\listAbbreviations{
-\btypeout{Abbreviations}
-\addtotoc{Abbreviations}
-\begin{center}{\large{\textit{List of Abbreviations}} \par}\end{center}
+%\newcommand\listAbbreviations{
+%\btypeout{Abbreviations}
+%\addtotoc{Abbreviations}
+%\begin{center}{\large{\textit{List of Abbreviations}} \par}\end{center}
+%}
+
+%\newcommand\listSymbols{
+%\btypeout{Symbols}
+%\addtotoc{Symbols}
+%\begin{center}{\large{\textit{List of Symbols}} \par}\end{center}
+%}
+
+\newcommand\listAbbreviationsAndSymbols{
+\btypeout{Abbreviations and Symbols}
+\addtotoc{Abbreviations and Symbols}
+\begin{center}{\large{\textit{List of Abbreviations and Symbols}} \par}\end{center}
 }
 
 \newcommand\listDefinitions{
 \btypeout{Definitions}
 \addtotoc{Definitions}
 \begin{center}{\large{\textit{Definitions}} \par}\end{center}
-}
-
-\newcommand\listSymbols{
-\btypeout{Symbols}
-\addtotoc{Symbols}
-\begin{center}{\large{\textit{List of Symbols}} \par}\end{center}
 }
 
 \newcommand\acknowledgements[1]{

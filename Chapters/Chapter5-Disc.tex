@@ -2,8 +2,8 @@
 \chapter{Discussion} \label{Disc}
 \lhead{Chapter 5. \emph{Discussion}} 
 %----------------------------------------------------------------------------------------
-
-\section{The Future of Dynamic long RNAs}\label{Disc:sec:Future of Dynamic long RNAs}
+\section{The Future of Dynamic long RNAs}
+  \label{Disc:sec:Future of Dynamic long RNAs}
 
   Deep sequencing of transcriptomes has revolutionized biology. Previously, transcript discovery was a cumbersome task. Transcript identification and characterization involved significant labor, cost, and materials. In the mid-90's, microarray technology \citep{Schena1995a} gave us a tantalizing glimpse into how genes were expressed, but were limited to probed, and therefore known, sequences. Yet, the green and red landscapes of a microarray analysis hinted at incredible complexity \textemdash a complexity that would have to wait for technology to catch up.
 
@@ -13,30 +13,35 @@
 
   At this point, it is important to remember that in this document \textit{long RNAs} may also refer to products containing characteristics of traditional mRNAs, that is a 5\textprime~m7G Cap, ligated exons, and a Poly(A) tail. However, many of these long mRNAs are extremely dynamic. So much so that until HTS and RNA-Seq, comprehensive investigation of their complexity was not possible.
 
-  \subsection{Pervasive transcription}\label{Disc:subsec:Pervasive Tx}
+  \subsection{Pervasive transcription}
+    \label{Disc:subsec:Pervasive Tx}
 
     The encode project revealed that most of the genome is transcribed into RNA. This was done in cancerous cell lines, and while it revealed the potential for transcription, it did not reveal much biology beyond cells in culture simply perpetuating their existence. 
 
     
-    The ENCODE papers from late 2012 suggested that 95\% of the genome is functional \citep{Dunham2012}, a finding that continues to be heavily debated \citep{Graur2013,Bhattacharjee2014}. \citet{Djebali2012} and focused on issues of transcription in these cell lines, as discussed in section \ref{sec:IsoformsPerGene}. The ENCODE studies were performed an human cancerous cell lines from different sources, and they still saw tremendous transcriptional diversity. With better HTS tools and resolution, we should fully expect ever increasing estimates of transcriptome diversity once accurate catalogues and assemblies from tissues, cells, and single single cells are possible.
+    The ENCODE papers from late 2012 suggested that 95\% of the genome is functional \citep{Dunham2012}, a finding that continues to be heavily debated \citep{Graur2013,Bhattacharjee2014}. \citet{Djebali2012} and focused on issues of transcription in these cell lines, as discussed in section \ref{Intro:subsec:IsoformsPerGene}. The ENCODE studies were performed an human cancerous cell lines from different sources, and they still saw tremendous transcriptional diversity. With better HTS tools and resolution, we should fully expect ever increasing estimates of transcriptome diversity once accurate catalogues and assemblies from tissues, cells, and single single cells are possible.
 
     Additionally, GENCODE version 7 includes 9,640 manually curated lncRNA loci \citep{Derrien2012}. 
     % Insert additional thoughts from the Tomari Review in EMBO Reports.
 
-  \subsection{Accurate and complete transcript annotation}\label{Disc:subsec:Accurate and complete Tx annotation}
+  \subsection{Accurate and complete transcript annotation}
+    \label{Disc:subsec:Accurate and complete Tx annotation}
 
-    A deck of cards has only 52 cards, but can delt into $2,598,960$ different 5 cards hands, as when playing Poker. There are $1,098,240$ different single-pair combinations, with a probability of obtaining one being almost 50\%. Compare this to ``Royal Flush'', for which there are only 4 options, and a probability of $649,739:1$ or $1.54 * 10^{-6}$ !. It is these numbers that makes possible to play Poker for hours on end. Long ago, biologic evolved to arrange genes into unique and rare combinations, especially in eukaryotic organisms. Indeed the process of splicing is closely correlated with organism complexity. The process of AS is even more closely tied to organism complexity (see figure \ref{Disc:fig:numGenesAndNumSpliced}).
-
+    A deck of cards has only 52 cards, but can delt into $2,598,960$ different 5 cards hands, as when playing Poker. There are $1,098,240$ different single-pair combinations, with a probability of obtaining one being almost 50\%. Compare this to ``Royal Flush'', for which there are only 4 options, and a probability of $649,739:1$ or $1.54 * 10^{-6}$ !. It is these numbers that makes possible to play Poker for hours on end. Long ago, biologic evolved to arrange genes into unique and rare combinations, especially in eukaryotic organisms. Indeed the process of splicing is closely correlated with organism complexity. The process of AS is even more closely tied to organism complexity (see Figure 
+    \todo[inline]{Insert Figure Reference} % **************************).
+    )
     Accurate determination and assembly of each card (exon) that comprises a hand (transcript) is a major known unknown of research into long RNA. The current state of the field is described in section \ref{subsec: Tx Assembly}. This field is in its infancy. Each gain in resolution or sensitivity reveals more complexity. Yet transcript assembly algorithms only provide predictions and probabilities for the existence of real molecules. Until RNA can be directly sequenced, in their entirety, from single cells, researchers will always be making compromises for transcript annotation and quantification. Once technology advances to the point where a transcriptome can be as accurately and quickly determined as a genome, extremely exiting research into the more subtle and nuanced complexity (e.g. what makes one twin molecularly different from another?) of biology can be unlocked.
 
     \todo[inline]{What is required to better transcript annotation?} % **************************
 
-  \subsection{Tissue and cell specificity}\label{Disc:subsec:Tissue-specific Tx expression}
+  \subsection{Tissue and cell specificity}
+    \label{Disc:subsec:Tissue-specific Tx expression}
 
     \todo[inline]{Discuss feelings of tissue-specific RNA expression} % **************************
     % Include ideas from Brown2014 that states that AS is actually tissue-specific splicing.
 
-\section{Lingering Questions for \dscam{}}\label{Disc:sec:Dscam}
+\section{Lingering Questions for \dscam{}}
+  \label{Disc:sec:Dscam}
 
   What controls the stochastic and probabilistic splicing of \dscam{}? Why is it different between hemocytes and neurons? Why would hemocytes need less apparent diversity, given the range of antigen they could potentially encounter?
 
@@ -44,7 +49,8 @@
 
   \todo[inline]{Mention RNACapture \citep{Mercer2014}} % **************************
 
-\section{In the haystack: piRNA precursor transcripts surrounded by RNA}\label{Disc:sec:piRNA precursors}
+\section{In the haystack: piRNA precursor transcripts surrounded by RNA}
+  \label{Disc:sec:piRNA precursors}
 
 
   Chapter \ref{MolCel} describes efforts to annotate 467 transcripts from 214 loci that account for 95\% of the total piRNAs in 14.5 dpp mice. Also described is how these transcripts are typical Pol II transcripts, possessing all the archetypical molecular signatures including 5\textprime~MeGppp caps, introns, and poly(A) tails. Yet RNA from these molecules appears to be rapidly consumed and processed into millions of unique 24\textendash32 nt species. How does the cell partition long RNAs for translation by the ribosome (as the case for most mRNAs) or cleavage and maturation into piRNAs? The sections below propose experiments aimed toward answering this question.
@@ -83,7 +89,7 @@
   \subsection{In vivo imaging of precursor piRNA transcripts}\label{Disc:subsec:Imaging of precursors}
 
     %Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
-    The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{c3-intro}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the \hl{semineferous tubues} and into the $SPERM ANATOMY$. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
+    The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{MolCel:sec:Introduction}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the \hl{semineferous tubues} and into the $SPERM ANATOMY$. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
 
     The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies \citep{Meikar2014} or another structure similar to Drosophila Nuage ($REF$) near the mitochondrial cement ($REF$). Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. 
 
@@ -115,7 +121,8 @@
     %[1] J.H. Lee et al., “Highly multiplexed subcellular RNA sequencing in situ,” Science, 343:1360–3, Feb. 27, 2014.
     %[2] R. Ke et al., “In situ sequencing for RNA analysis in preserved tissue and cells,” Nat Meth, 10:857–60, 2013.
 
-\section{Future uses of SeqZip}\label{Disc:sec:Future Uses of SeqZip}
+\section{Future uses of SeqZip}
+  \label{Disc:sec:Future Uses of SeqZip}
 
   SeqZip can be used to many different forms of RNA sequence characterization. An incomplete illustration of these applications is shown in Figure \ref{Disc:fig: Panel of SeqZip Applications}. The three novel applications are discussed below:
 
@@ -142,11 +149,13 @@
 
     % What about applying the Church lab's new technique of in situ sequencing? Would this help us differentiate transcripts from mature piRNAs?  
 
-\section{SeqZip Assay Improvements}\label{Disc:sec:SeqZip Improvements}
+\section{SeqZip Assay Improvements}
+  \label{Disc:sec:SeqZip Improvements}
 
   The SeqZip methodology as developed and described in Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod} works adequately and robustly for characterization of relatively simple (\cd{}) to extremely complex (\dscam{}) genes. However, there is still substantial room for method optimization. Two obvious areas of improvement include the reduction of ligation time and NTL product formation. The improvements and modifications discussed below should assist in achieving these two (among other) goals.
 
-  \subsection{LNA-containing ligamers and T39A Rnl2}\label{Disc:subsec:LNA-Containing ligamers and T39A Rnk2}
+  \subsection{LNA-containing ligamers and T39A Rnl2}
+    \label{Disc:subsec:LNA-Containing ligamers and T39A Rnk2}
 
     The use of an RNA-base on the 5\textprime~side of the nick encourages a C3\textprime~\textit{endo} sugar pucker for the base, placing the 3\textprime~OH in an apical orientation relative to the the AMP leaving group (see Figure \ref{Disc:fig:Rnl2 and suger pucker}) \citep{Nandakumar2006}.
 
@@ -166,32 +175,37 @@
 
     Future versions of the SeqZip assay could use a combination of LNA modified bases \citep{You2006} at either the penultimate or terminal residues on the 5\textprime~side of the nick in order to increase 1) specificity, and 2) enzyme efficiency. The combination of these modifications in the ligamers could be combined with a T39A mutant form of Rnl2 for a potentially greatly enhanced ligation rate.
 
-  \subsubsection{Thermostable Ligases}\label{Disc:subsec:Thermostable Ligases}
+  \subsubsection{Thermostable Ligases}
+    \label{Disc:subsec:Thermostable Ligases}
 
-    The use of LNA-containing brings up issues involving off-target hybridization. Future iterations of the SeqZip methodology could use directed protein evolution of Rnl2 \citep{Stemmer1994, Romero2009a} to develop a thermostable variant of Rnl2, similar to variations of DNA ligase that have been used for years \citep{Barany1991}. Use of LNAs and elevated ligation temperatures could alviate off-target hybridization events reducing both nonproductive hybridization and non-templated ligation events. This would also allow for use of reduced overall ligamer concentrations, in line with the optimal SeqZip experiment described in section \ref{subsec: Ideal multiplex study} and synthesis on microarrays.
+    The use of LNA-containing brings up issues involving off-target hybridization. Future iterations of the SeqZip methodology could use directed protein evolution of Rnl2 \citep{Stemmer1994, Romero2009a} to develop a thermostable variant of Rnl2, similar to variations of DNA ligase that have been used for years \citep{Barany1991}. Use of LNAs and elevated ligation temperatures could alviate off-target hybridization events reducing both nonproductive hybridization and non-templated ligation events. This would also allow for use of reduced overall ligamer concentrations, in line with the optimal SeqZip experiment described in section \ref{Disc:subsec: Ideal multiplex study} and synthesis on microarrays.
 
-  \subsection{Re-purposing the SOLiD Platform}\label{Disc:subsec:SOLiD Platform for SeqZip}
+  \subsection{Re-purposing the SOLiD Platform}
+    \label{Disc:subsec:SOLiD Platform for SeqZip}
 
     \todo[inline]{SOLiD Application of SeqZip} % **************************
 
     The ability to incorporate custom sequuences into ligations, which subsequently are incorporated into ligation products provides tremendous opportunities for downstream analysis (see figure \ref{Disc:fig: Panel of SeqZip Applications}).
 
-  \subsection{Quantifying ligation and PCR events}\label{Disc:subsec:SeqZip and QPCR}
+  \subsection{Quantifying ligation and PCR events}
+    \label{Disc:subsec:SeqZip and QPCR}
 
     Digital PCR of the PCR products ala \citep{Shiroguchi2012a}. 
 
-  \subsection{Reducing required input RNA and ligamer concentration}\label{Disc:subsec:Reducing Input RNA and Ligamer Conc.}
+  \subsection{Reducing required input RNA and ligamer concentration}
+    \label{Disc:subsec:Reducing Input RNA and Ligamer Conc.}
 
     SeqZip on single-cell RNA samples.
 
-  \subsection{An ideal SeqZip experiment to query coordinated splicing}\label{Disc:subsec: Ideal SeqZip exp. to look for Coordination}
-    \label{Disc:subsec: Ideal multiplex study}
+  \subsection{An ideal SeqZip experiment to query coordinated splicing}
+    \label{Disc:subsec: Ideal SeqZip exp. to look for Coordination}
 
     If I could go back in time 4 years and still possess the knowledge and abilities that I do now, I would have approached a genome-wide study of coordination in splicing using SeqZip much differently. First, I would have focused on alternative first exon (or promoter, or TSS) and potential coordination with downstream cassette exons. I would have mined newly-generated RNA-Seq data \citep{Wang2008, Pan2008} for alternative first exons and cassette exons of sufficient expression. Then, I would have used my automated ligamer design software (see Appendix \ref{Appendix:AutoMatedLigamerAssembly}), to create a database of the required ligamers. As this would require at least 3 ligamers per event, with very little duplicated use of ligamers, the number of ligamers would make standard synthesis, even using 384-well plates, impossible. Therefore, I would have pursued printing the ligamers on a custom microarray, and cleaved them into solution, similar to products offered by \href{http://www.nimblegen.com/}{Nimblogen}. These ligamers would be barcoded and priming sequences included such that short (50nt) paired-end reads could reliably identify the templated first and cassette exons. Using this pool of ligamers, I would have performed the SeqZip assay, including a barcoding scheme to quantify the number of ligation events per {alt first exon::cassette exon} pair. Also, the libraries would have been amplified via digital PCR allowing me to check for PCR jackpots \citep{Shiroguchi2012a}. Finally, the data would be aligned against a reference of all \{alt first exon::cassette exon\} pairs, and any potential coordination determined.
 
     If I could have done the experiment designed above, I feel the full potential and utility of the SeqZip method could have been realized and generated new and valuable knowledge for the field of gene expression.
 
-  \subsection{SeqZip and single-molecule FISH}\label{Disc:subsec:SeqZip and Single-Molecule FISH}
+  \subsection{SeqZip and single-molecule FISH}
+    \label{Disc:subsec:SeqZip and Single-Molecule FISH}
 
     \begin{figure} % Multi-site Fish using SeqZip
       \centering 
@@ -203,15 +217,17 @@
       \label{Disc:fig:MultiSite FISH using SeqZip}
       \end{figure}
 
-\section{Final thoughts}\label{Disc:sec:Final Thoughts}
+\section{Final thoughts}
+  \label{Disc:sec:Final Thoughts}
 
-  \subsection{Biologists need Computation Biological Skills}\label{Disc:subsec:Biologists need Comp Skills}
+  \subsection{Biologists need Computation Biological Skills}
+    \label{Disc:subsec:Biologists need Comp Skills}
 
     Just 10 years ago,  Graduate students and PhDs in the fields of Molecular Biology or Biochemistry need not venture far from data analysis within Excel or perhaps a statistical program with an advanced graphical interface (examples include Prism or Graphpad). Software knowledge that stops at these tools and the rest of the Microsoft Office suite of tools is no longer enough to generate big strides in Biomedical research.
 
     Working with tens of even hundreds of lines of data within a spreadsheet is manageable and computers from 20 years ago had more then enough computing power to process the data. Yet, this type of data is longer then endpoint of most cutting edge projects. Many students and post docs often find that they are unable to analyze the data generated from months or years of tireless bench work. Faced with learning what is effectively a collection of new languages and awash in a sea of acronyms (LINUX, BASH, GNU, PERL, R) they reach out for help from a ``Bioinformatics person.'' Perhaps the relationship and interaction with this personal is productive, leading to a collaboration and exciting new knowledge. Sometimes it isn't, and the bench scientist shifts into one of three modes: 1) Wait; 2) Find another bioinformati1c-minded collaborator; or 3) collect more data.
 
-    In my experience, the most often chosen mode is ``wait.'' This is also the most damaging, as it delays the progress of one's work, and the advancement of science in general. Personally, I did not want to fall into this mode, and once the multiplex study described in section \ref{sec: Multiplex Gene Study} reached a point where I had millions of sequencing reads, but I could not find anyone to help me analyze the data, that I decided to educate myself on the basic principles of Linux, the command line, and analysis of HTS data.
+    In my experience, the most often chosen mode is ``wait.'' This is also the most damaging, as it delays the progress of one's work, and the advancement of science in general. Personally, I did not want to fall into this mode, and once the multiplex study described in section \ref{SeqZipMethod:sec:Multiplex Gene Study} reached a point where I had millions of sequencing reads, but I could not find anyone to help me analyze the data, that I decided to educate myself on the basic principles of Linux, the command line, and analysis of HTS data.
 
     A Biologically-train individual who posses the knowledge of analysis of HTS datasets is an extremely powerful and empowering situation. This was recently commucated in \citet{Plocik2013}:
 
@@ -223,7 +239,8 @@
 
     The fact is that no one will care about a project as much as the Graduate student or PostDoc who is the main project driver. Learning and training of computational skills bent on analyzing large datasets should be central to the education in Biomedical sciences in the future.
 
-  \subsection{Science versus Engineering: Two thoughts in one school}\label{Disc:subsec:Science and Engineering}
+  \subsection{Science versus Engineering: Two thoughts in one school}
+    \label{Disc:subsec:Science and Engineering}
 
     \begin{quote}
       \itshape 
@@ -252,7 +269,8 @@
     
     \todo[inline]{Need transition or concluding paragraph} % **************************
     
-  \subsection{Dealing with the data deluge}\label{Disc:subsec:Dealing with Data Deluge}
+  \subsection{Dealing with the data deluge}
+    \label{Disc:subsec:Dealing with Data Deluge}
 
     \todo[inline]{Writing about HTS data management}
 

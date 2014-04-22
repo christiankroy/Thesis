@@ -223,11 +223,81 @@ Bhattacharya, A., Czaplinski, K., Trifillis, P., He, F., Jacobson, A., and
   gene product that is involved in nonsense-mediated mRNA decay.}
 \newblock {\em RNA (New York, N.Y.)}, 6:1226--1235.
 
+\bibitem[Bieberstein et~al., 2012]{Bieberstein2012}
+Bieberstein, N.~I., {Carrillo Oesterreich}, F., Straube, K., and Neugebauer,
+  K.~M. (2012).
+\newblock {First exon length controls active chromatin signatures and
+  transcription.}
+\newblock {\em Cell reports}, 2(1):62--8.
+
 \bibitem[Bingham et~al., 2008]{Bingham2008}
 Bingham, J.~L., Carrigan, P.~E., Miller, L.~J., and Srinivasan, S. (2008).
 \newblock {Extent and diversity of human alternative splicing established by
   complementary database annotation and microarray analysis}.
 \newblock {\em Omics: A Journal of Integrative Biology}, 12(1):83--92.
+
+\bibitem[Birney et~al., 2007]{Birney2007}
+Birney, E., Stamatoyannopoulos, J.~A., Dutta, A., Guig|[oacute]|, R., Gingeras,
+  T.~R., Margulies, E.~H., Weng, Z., Snyder, M., Dermitzakis, E.~T., Thurman,
+  R.~E., Kuehn, M.~S., Taylor, C.~M., Neph, S., Koch, C.~M., Asthana, S.,
+  Malhotra, A., Adzhubei, I., Greenbaum, J.~A., Andrews, R.~M., Flicek, P.,
+  Boyle, P.~J., Cao, H., Carter, N.~P., Clelland, G.~K., Davis, S., Day, N.,
+  Dhami, P., Dillon, S.~C., Dorschner, M.~O., Fiegler, H., Giresi, P.~G.,
+  Goldy, J., Hawrylycz, M., Haydock, A., Humbert, R., James, K.~D., Johnson,
+  B.~E., Johnson, E.~M., Frum, T.~T., Rosenzweig, E.~R., Karnani, N., Lee, K.,
+  Lefebvre, G.~C., Navas, P.~A., Neri, F., Parker, S. C.~J., Sabo, P.~J.,
+  Sandstrom, R., Shafer, A., Vetrie, D., Weaver, M., Wilcox, S., Yu1, M.,
+  Collins, F.~S., Dekker, J., Lieb, J.~D., Tullius, T.~D., Crawford, G.~E.,
+  Sunyaev, S., Noble, W.~S., Dunham, I., Denoeud, F., Reymond, A., Kapranov,
+  P., Rozowsky, J., Zheng, D., Castelo, R., Frankish, A., Harrow, J., Ghosh,
+  S., Sandelin, A., Hofacker, I.~L., Baertsch, R., Keefe, D., Dike, S., Cheng,
+  J., Hirsch, H.~A., Sekinger, E.~A., Lagarde, J., Abril, J.~F., Shahab, A.,
+  Flamm, C., Fried, C., Hackerm|[uuml]|ller, J., Hertel, J., Lindemeyer, M.,
+  Missal, K., Tanzer, A., Washietl, S., Korbel, J., Emanuelsson, O., Pedersen,
+  J.~S., Holroyd, N., Taylor, R., Swarbreck, D., Matthews, N., Dickson, M.~C.,
+  Thomas, D.~J., Weirauch, M.~T., Gilbert, J., Drenkow, J., Bell, I., Zhao, X.,
+  Srinivasan, K., Sung, W.-K., Ooi, H.~S., Chiu, K.~P., Foissac, S., Alioto,
+  T., Brent, M., Pachter, L., Tress, M.~L., Valencia, A., Choo, S.~W., Choo,
+  C.~Y., Ucla, C., Manzano, C., Wyss, C., Cheung, E., Clark, T.~G., Brown,
+  J.~B., Ganesh, M., Patel, S., Tammana, H., Chrast, J., Henrichsen, C.~N.,
+  Kai, C., Kawai, J., Nagalakshmi, U., Wu, J., Lian, Z., Lian, J., Newburger,
+  P., Zhang, X., Bickel, P., Mattick, J.~S., Carninci, P., Hayashizaki, Y.,
+  Weissman, S., Hubbard, T., Myers, R.~M., Rogers, J., Stadler, P.~F., Lowe,
+  T.~M., Wei, C.-L., Ruan, Y., Struhl, K., Gerstein, M., Antonarakis, S.~E.,
+  Fu, Y., Green, E.~D., Kara|[ouml]|z, U., Siepel, A., Taylor, J., Liefer,
+  L.~A., Wetterstrand, K.~A., Good, P.~J., Feingold, E.~A., Guyer, M.~S.,
+  Cooper, G.~M., Asimenos, G., Dewey, C.~N., Hou, M., Nikolaev, S.,
+  Montoya-Burgos, J.~I., L|[ouml]|ytynoja, A., Whelan, S., Pardi, F.,
+  Massingham, T., Huang, H., Zhang, N.~R., Holmes, I., Mullikin, J.~C.,
+  Ureta-Vidal, A., Paten, B., Seringhaus, M., Church, D., Rosenbloom, K., Kent,
+  W.~J., Stone, E.~A., Batzoglou, S., Goldman, N., Hardison, R.~C., Haussler,
+  D., Miller, W., Sidow, A., Trinklein, N.~D., Zhang, Z.~D., Barrera, L.,
+  Stuart, R., King, D.~C., Ameur, A., Enroth, S., Bieda, M.~C., Kim, J.,
+  Bhinge, A.~A., Jiang, N., Liu, J., Yao, F., Vega, V.~B., Lee, C.~W., Ng, P.,
+  Yang, A., Moqtaderi, Z., Zhu, Z., Xu, X., Squazzo, S., Oberley, M.~J., Inman,
+  D., Singer, M.~A., Richmond, T.~A., Munn, K.~J., Rada-Iglesias, A.,
+  Wallerman, O., Komorowski, J., Fowler, J.~C., Couttet, P., Bruce, A.~W.,
+  Dovey, O.~M., Ellis, P.~D., Langford, C.~F., Nix, D.~A., Euskirchen, G.,
+  Hartman, S., Urban, A.~E., Kraus, P., Calcar, S.~V., Heintzman, N., Kim,
+  T.~H., Wang, K., Qu, C., Hon, G., Luna, R., Glass, C.~K., Rosenfeld, M.~G.,
+  Aldred, S.~F., Cooper, S.~J., Halees, A., Lin, J.~M., Shulha, H.~P., Zhang,
+  X., Xu, M., Haidar, J. N.~S., Yu, Y., Birney*, E., Iyer, V.~R., Green, R.~D.,
+  Wadelius, C., Farnham, P.~J., Ren, B., Harte, R.~A., Hinrichs, A.~S.,
+  Trumbower, H., Clawson, H., Hillman-Jackson, J., Zweig, A.~S., Smith, K.,
+  Thakkapallayil, A., Barber, G., Kuhn, R.~M., Karolchik, D., Armengol, L.,
+  Bird, C.~P., de~Bakker, P. I.~W., Kern, A.~D., Lopez-Bigas, N., Martin,
+  J.~D., Stranger, B.~E., Woodroffe, A., Davydov, E., Dimas, A., Eyras, E.,
+  Hallgr|[iacute]|msd|[oacute]|ttir, I.~B., Huppert, J., Zody, M.~C., Abecasis,
+  G.~R., Estivill, X., Bouffard, G.~G., Guan, X., Hansen, N.~F., Idol, J.~R.,
+  Maduro, V.~V., Maskeri, B., McDowell, J.~C., Park, M., Thomas, P.~J., Young,
+  A.~C., Blakesley, R.~W., Muzny, D.~M., Sodergren, E., Wheeler, D.~A., Worley,
+  K.~C., Jiang, H., Weinstock, G.~M., Gibbs, R.~A., Graves, T., Fulton, R.,
+  Mardis, E.~R., Wilson, R.~K., Clamp, M., Cuff, J., Gnerre, S., Jaffe, D.~B.,
+  Chang, J.~L., Lindblad-Toh, K., Lander, E.~S., Koriabine, M., Nefedov, M.,
+  Osoegawa, K., Yoshinaga, Y., Zhu, B., and de~Jong, P.~J. (2007).
+\newblock {Identification and analysis of functional elements in 1\% of the
+  human genome by the ENCODE pilot project}.
+\newblock {\em Nature}, 447(7146):799--816.
 
 \bibitem[Blencowe et~al., 2009]{Blencowe2009}
 Blencowe, B.~J., Ahmad, S., and Lee, L.~J. (2009).
@@ -289,6 +359,11 @@ Brown, J.~B., Boley, N., Eisman, R., May, G.~E., Stoiber, M.~H., Duff, M.~O.,
   Graveley, B.~R., and Celniker, S.~E. (2014).
 \newblock {Diversity and dynamics of the Drosophila transcriptome}.
 \newblock {\em Nature}, pages 1--7.
+
+\bibitem[Brown et~al., 2012]{Brown2012}
+Brown, S.~J., Stoilov, P., and Xing, Y. (2012).
+\newblock {Chromatin and epigenetic regulation of pre-mRNA processing.}
+\newblock {\em Human molecular genetics}, 21(R1):R90--6.
 
 \bibitem[Bullard and Bowater, 2006]{Bullard2006}
 Bullard, D. and Bowater, R. (2006).
@@ -479,6 +554,12 @@ Djebali, S., Kapranov, P., Foissac, S., Lagarde, J., Reymond, A., Ucla, C.,
 \newblock {Efficient targeted transcript discovery via array-based
   normalization of RACE libraries}.
 \newblock {\em Nat Meth}, 5(7):629--635.
+
+\bibitem[Dong et~al., 2006]{Dong2006}
+Dong, Y., Taylor, H.~E., and Dimopoulos, G. (2006).
+\newblock {AgDscam, a hypervariable immunoglobulin domain-containing receptor
+  of the Anopheles gambiae innate immune system}.
+\newblock {\em PLoS Biology}, 4:1137--1146.
 
 \bibitem[Dunham et~al., 2012]{Dunham2012}
 Dunham, I., Kundaje, A., Aldred, S.~F., Collins, P.~J., Davis, C.~a., Doyle,
@@ -731,6 +812,15 @@ Gupta, S., Stamatoyannopoulos, J.~a., Bailey, T.~L., and Noble, W.~S. (2007).
 \newblock {Quantifying similarity between motifs.}
 \newblock {\em Genome biology}, 8(2):R24.
 
+\bibitem[Guttman et~al., 2009]{Guttman2009}
+Guttman, M., Amit, I., Garber, M., French, C., Lin, M.~F., Feldser, D., Huarte,
+  M., Zuk, O., Carey, B.~W., Cassady, J.~P., Cabili, M.~N., Jaenisch, R.,
+  Mikkelsen, T.~S., Jacks, T., Hacohen, N., Bernstein, B.~E., Kellis, M.,
+  Regev, A., Rinn, J.~L., and Lander, E.~S. (2009).
+\newblock {Chromatin signature reveals over a thousand highly conserved large
+  non-coding RNAs in mammals}.
+\newblock {\em Nature}, 458(7235):223--227.
+
 \bibitem[Guttman et~al., 2010]{Guttman2010}
 Guttman, M., Garber, M., Levin, J.~Z., Donaghey, J., Robinson, J., Adiconis,
   X., Fan, L., Koziol, M.~J., Gnirke, A., Nusbaum, C., Rinn, J.~L., Lander,
@@ -808,6 +898,11 @@ Hemani, Y. and Soller, M. (2012).
 \newblock {Mechanisms of Drosophila Dscam mutually exclusive splicing
   regulation.}
 \newblock {\em Biochemical Society transactions}, 40(4):804--9.
+
+\bibitem[Hirose et~al., 2014]{Hirose2014}
+Hirose, T., Mishima, Y., and Tomari, Y. (2014).
+\newblock {Elements and machinery of non-coding RNAs : toward their taxonomy}.
+\newblock {\em EMBO reports}, pages 1--19.
 
 \bibitem[Ho et~al., 1997]{Ho1997b}
 Ho, C.~K., Etten, J. L.~V., and Shuman, S. (1997).
@@ -941,6 +1036,15 @@ Kent, W.~J. (2002).
 \newblock {BLAT---The BLAST-Like Alignment Tool}.
 \newblock {\em Genome Research}, 12(4):656--664.
 
+\bibitem[Khalil et~al., 2009]{Khalil2009}
+Khalil, A.~M., Guttman, M., Huarte, M., Garber, M., Raj, A., {Rivea Morales},
+  D., Thomas, K., Presser, A., Bernstein, B.~E., van Oudenaarden, A., Regev,
+  A., Lander, E.~S., and Rinn, J.~L. (2009).
+\newblock {Many human large intergenic noncoding RNAs associate with
+  chromatin-modifying complexes and affect gene expression}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 106(28):11667
+  --11672.
+
 \bibitem[Kim et~al., 2009]{Kim2009}
 Kim, V.~N., Han, J., and Siomi, M.~C. (2009).
 \newblock {Biogenesis of small RNAs in animals.}
@@ -961,6 +1065,13 @@ Kojima, K., Kuramochi-Miyagawa, S., Chuma, S., Tanaka, T., Nakatsuji, N.,
   integrated subcellular localization in murine male germ cells.}
 \newblock {\em Genes to cells : devoted to molecular \& cellular mechanisms},
   14(10):1155--65.
+
+\bibitem[Kolasinska-Zwierz et~al., 2009]{Kolasinska-Zwierz2009}
+Kolasinska-Zwierz, P., Down, T., Latorre, I., Liu, T., Liu, X.~S., and
+  Ahringer, J. (2009).
+\newblock {Differential chromatin marking of introns and expressed exons by
+  H3K36me3}.
+\newblock {\em Nat Genet}, 41(3):376--381.
 
 \bibitem[Koren et~al., 2012]{Koren2012a}
 Koren, S., Schatz, M.~C., Walenz, B.~P., Martin, J., Howard, J.~T., Ganapathy,
@@ -1170,6 +1281,11 @@ Long, J.~C. and Caceres, J.~F. (2009).
   expression.}
 \newblock {\em The Biochemical journal}, 417(1):15--27.
 
+\bibitem[Luco et~al., 2011]{Luco2011a}
+Luco, R.~F., Allo, M., Schor, I.~E., Kornblihtt, A.~R., and Misteli, T. (2011).
+\newblock {Epigenetics in alternative pre-mRNA splicing.}
+\newblock {\em Cell}, 144(1):16--26.
+
 \bibitem[Lynch, 2004]{Lynch2004}
 Lynch, K.~W. (2004).
 \newblock {Consequences of regulated pre-mRNA splicing in the immune system}.
@@ -1223,6 +1339,11 @@ Mercer, T.~R., Clark, M.~B., Crawford, J., Brunck, M.~E., Gerhardt, D.~J.,
 \newblock {Targeted sequencing for gene discovery and quantification using RNA
   CaptureSeq}.
 \newblock {\em Nature Protocols}, 9(5):989--1009.
+
+\bibitem[Merkhofer et~al., 2014]{Merkhofer2014}
+Merkhofer, E.~C., Hu, P., and Johnson, T.~L. (2014).
+\newblock {Introduction to cotranscriptional RNA splicing.}
+\newblock {\em Methods in molecular biology (Clifton, N.J.)}, 1126:83--96.
 
 \bibitem[Merkin et~al., 2012]{Merkin2012}
 Merkin, J., Russell, C., Chen, P., and Burge, C.~B. (2012).
@@ -1630,6 +1751,12 @@ Schoenmakers, S., Wassenaar, E., Hoogerbrugge, J.~W., Laven, J. S.~E.,
   Grootegoed, J.~A., and Baarends, W.~M. (2009).
 \newblock {Female meiotic sex chromosome inactivation in chicken.}
 \newblock {\em PLoS genetics}, 5(5):e1000466.
+
+\bibitem[Schwartz and Ast, 2010]{Schwartz2010}
+Schwartz, S. and Ast, G. (2010).
+\newblock {Chromatin density and splicing destiny: on the cross-talk between
+  chromatin structure and splicing.}
+\newblock {\em The EMBO journal}, 29(10):1629--36.
 
 \bibitem[Schwarzbauer et~al., 1983]{Schwarzbauer1983}
 Schwarzbauer, J.~E., Tamkun, J.~W., Lemischka, I.~R., and Hynes, R.~O. (1983).

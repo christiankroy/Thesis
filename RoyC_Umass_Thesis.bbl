@@ -1061,11 +1061,6 @@ Lau, N.~C., Seto, A.~G., Kim, J., Kuramochi-Miyagawa, S., Nakano, T., Bartel,
 \newblock {Characterization of the piRNA complex from rat testes}.
 \newblock {\em Science (New York, N.Y.)}, 313(5785):363--367.
 
-\bibitem[{Lawrence Zipursky} et~al., 2013]{LawrenceZipursky2013}
-{Lawrence Zipursky}, S., Grueber, W.~B., and Zipursky, S.~L. (2013).
-\newblock {The molecular basis of self-avoidance.}
-\newblock {\em Annual review of neuroscience}, 36(1):547--68.
-
 \bibitem[Lee et~al., 2010]{Lee2010b}
 Lee, C., Kim, N., Roy, M., and Graveley, B.~R. (2010).
 \newblock {Massive expansions of Dscam splicing diversity via staggered
@@ -1141,6 +1136,11 @@ Li, X.~Z., Roy, C.~K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B.~W., Xu,
 Li, X.~Z., Roy, C.~K., Moore, M.~J., and Zamore, P.~D. (2013c).
 \newblock {Defining piRNA primary transcripts.}
 \newblock {\em Cell cycle (Georgetown, Tex.)}, 12(11):1657--8.
+
+\bibitem[Licatalosi and Darnell, 2006]{Licatalosi2006}
+Licatalosi, D.~D. and Darnell, R.~B. (2006).
+\newblock {Splicing Regulation in Neurologic Disease}.
+\newblock {\em Neuron}, 52(1):93--101.
 
 \bibitem[Licatalosi et~al., 2008]{Licatalosi2008}
 Licatalosi, D.~D., Mele, A., Fak, J.~J., Ule, J., Kayikci, M., Chi, S.~W.,
@@ -2190,5 +2190,10 @@ Zhu, J., Shendure, J., Mitra, R.~D., and Church, G.~M. (2003).
 Zikherman, J. and Weiss, A. (2008).
 \newblock {Alternative Splicing of CD45: The Tip of the Iceberg}.
 \newblock {\em Immunity}, 29(6):839--841.
+
+\bibitem[Zipursky and Grueber, 2013]{LawrenceZipursky2013}
+Zipursky, S.~L. and Grueber, W.~B. (2013).
+\newblock {The molecular basis of self-avoidance.}
+\newblock {\em Annual review of neuroscience}, 36(1):547--68.
 
 \end{thebibliography}

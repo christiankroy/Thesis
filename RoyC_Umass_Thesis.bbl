@@ -416,11 +416,17 @@ Cenik, E.~S. and Zamore, P.~D. (2011).
 \newblock {Argonaute proteins.}
 \newblock {\em Current biology : CB}, 21(12):R446--9.
 
-\bibitem[Chang et~al., 2014]{Chang2014b}
-Chang, H., Lim, J., Ha, M., and Kim, V. (2014).
+\bibitem[Chang et~al., 2014a]{Chang2014b}
+Chang, H., Lim, J., Ha, M., and Kim, V. (2014a).
 \newblock {TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3′
   End Modifications}.
 \newblock {\em Molecular Cell}, pages 1--9.
+
+\bibitem[Chang et~al., 2014b]{Chang2014c}
+Chang, Z., Wang, Z., and Li, G. (2014b).
+\newblock {The Impacts of Read Length and Transcriptome Complexity for De Novo
+  Assembly: A Simulation Study.}
+\newblock {\em PloS one}, 9(4):e94825.
 
 \bibitem[Chauhan et~al., 2004]{Chauhan2004}
 Chauhan, A.~K., Iaconcig, A., Baralle, F.~E., and Muro, A.~F. (2004).
@@ -481,6 +487,13 @@ Conze, T., Shetye, A., Tanaka, Y., Gu, J., Larsson, C., G\"{o}ransson, J.,
 \newblock {Analysis of genes, transcripts, and proteins via DNA ligation.}
 \newblock {\em Annual review of analytical chemistry (Palo Alto, Calif.)},
   2:215--39.
+
+\bibitem[Cora et~al., 2014]{Cora2014}
+Cora, E., Pandey, R.~R., Xiol, J., Taylor, J., Sachidanandam, R., Mccarthy,
+  A.~A., and Pillai, R.~S. (2014).
+\newblock {The MID-PIWI module of Piwi proteins specifies nucleotide- and
+  strand-biases of piRNAs}.
+\newblock {\em RNA}, 2014.
 
 \bibitem[Core et~al., 2008]{Core2008a}
 Core, L.~J., Waterfall, J.~J., and Lis, J.~T. (2008).
@@ -747,6 +760,12 @@ Glauser, D.~A., Johnson, B.~E., Aldrich, R.~W., and Goodman, M.~B. (2011).
   Caenorhabditis elegans slo-1 gene function.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 108(51):20790--5.
+
+\bibitem[Goriaux et~al., 2014]{Goriaux2014}
+Goriaux, C., Desset, S., Renaud, Y., Vaury, C., and Brasset, E. (2014).
+\newblock {Transcriptional properties and splicing of the flamenco piRNA
+  cluster.}
+\newblock {\em EMBO reports}, 15(4):411--8.
 
 \bibitem[Grabherr et~al., 2011]{Grabherr2011}
 Grabherr, M.~G., Haas, B.~J., Yassour, M., Levin, J.~Z., Thompson, D.~A., Amit,
@@ -1035,6 +1054,11 @@ Johnson, J.~M., Castle, J., Garrett-Engele, P., Kan, Z., Loerch, P.~M., Armour,
   Junction Microarrays}.
 \newblock {\em Science}, 302(5653):2141--2144.
 
+\bibitem[Jones, 1999]{Jones1999}
+Jones, R.~C. (1999).
+\newblock {To store or mature spermatozoa? The primary role of the epididymis.}
+\newblock {\em International journal of andrology}, 22:57--67.
+
 \bibitem[Judo et~al., 1998]{Judo1998}
 Judo, M.~S., Wedel, a.~B., and Wilson, C. (1998).
 \newblock {Stimulation and suppression of PCR-mediated recombination.}
@@ -1140,11 +1164,11 @@ Kreahling, J.~M. and Graveley, B.~R. (2005).
   efficient exon inclusion in the Drosophila Dscam pre-mRNA}.
 \newblock {\em Molecular and Cellular Biology}, 25(23):10251--60.
 
-\bibitem[Kuhn and Frank‐Kamenetskii, 2005]{Kuhn2005}
-Kuhn, H. and Frank‐Kamenetskii, M.~D. (2005).
-\newblock {Template‐independent ligation of single‐stranded DNA by T4 DNA
-  ligase}.
-\newblock {\em FEBS Journal}, 272(23):5991--6000.
+\bibitem[Kuhn and Frank-Kamenetskii, 2005]{Kuhn2005}
+Kuhn, H. and Frank-Kamenetskii, M.~D. (2005).
+\newblock {Template-independent ligation of single-stranded DNA by T4 DNA
+  ligase.}
+\newblock {\em The FEBS journal}, 272(23):5991--6000.
 
 \bibitem[Kumar and Carmichael, 1998]{Kumar1998}
 Kumar, M. and Carmichael, G.~G. (1998).
@@ -1342,8 +1366,8 @@ Luco, R.~F., Allo, M., Schor, I.~E., Kornblihtt, A.~R., and Misteli, T. (2011).
 \bibitem[Luteijn and Ketting, 2013]{Luteijn2013}
 Luteijn, M.~J. and Ketting, R.~F. (2013).
 \newblock {PIWI-interacting RNAs: from generation to transgenerational
-  epigenetics}.
-\newblock {\em Nature Reviews Genetics}, (June):1--12.
+  epigenetics.}
+\newblock {\em Nature reviews. Genetics}, 14(8):523--34.
 
 \bibitem[Lynch, 2004]{Lynch2004}
 Lynch, K.~W. (2004).
@@ -1354,6 +1378,11 @@ Lynch, K.~W. (2004).
 Macilwain, C. (2010).
 \newblock {Scientists vs engineers: this time it's financial.}
 \newblock {\em Nature}, 467(7318):885.
+
+\bibitem[Malone and Hannon, 2009]{Malone2009}
+Malone, C.~D. and Hannon, G.~J. (2009).
+\newblock {Small RNAs as guardians of the genome}.
+\newblock {\em Cell}, 136(4):656--668.
 
 \bibitem[Mangan and Alon, 2003]{Mangan2003}
 Mangan, S. and Alon, U. (2003).
@@ -1530,6 +1559,13 @@ NEBEL, B.~R., AMAROSE, A.~P., and HACKET, E.~M. (1961).
 \newblock {Calendar of gametogenic development in the prepuberal male mouse.}
 \newblock {\em Science (New York, N.Y.)}, 134(3482):832--3.
 
+\bibitem[Nell\aa~ker et~al., 2012]{Nellaker2012}
+Nell\aa~ker, C., Keane, T.~M., Yalcin, B., Wong, K., Agam, A., Belgard, T.~G.,
+  Flint, J., Adams, D.~J., Frankel, W.~N., and Ponting, C.~P. (2012).
+\newblock {The genomic landscape shaped by selection on transposable elements
+  across 18 mouse strains.}
+\newblock {\em Genome biology}, 13(6):R45.
+
 \bibitem[Neves et~al., 2004]{Neves2004}
 Neves, G., Zucker, J., Daly, M., and Chess, A. (2004).
 \newblock {Stochastic yet biased expression of multiple Dscam splice variants
@@ -1565,6 +1601,12 @@ Nishimasu, H., Ishizu, H., Saito, K., Fukuhara, S., Kamatani, M.~K., Bonnefond,
 \newblock {Structure and function of Zucchini endoribonuclease in piRNA
   biogenesis.}
 \newblock {\em Nature}, 491(7423):284--7.
+
+\bibitem[North, 2006]{North2006}
+North, A.~J. (2006).
+\newblock {Seeing is believing? A beginners' guide to practical pitfalls in
+  image acquisition.}
+\newblock {\em The Journal of cell biology}, 172(1):9--18.
 
 \bibitem[Notredame et~al., 2000]{Notredame2000}
 Notredame, C., Higgins, D.~G., and Heringa, J. (2000).
@@ -1608,6 +1650,11 @@ Osheim, Y.~N., Miller, O.~L., and Beyer, a.~L. (1985).
   transcripts.}
 \newblock {\em Cell}, 43(1):143--51.
 
+\bibitem[Ozsolak and Milos, 2010]{Ozsolak2010}
+Ozsolak, F. and Milos, P.~M. (2010).
+\newblock {RNA sequencing: advances, challenges and opportunities}.
+\newblock {\em Nature Reviews Genetics}, 12(2):87--98.
+
 \bibitem[Pan et~al., 2008]{Pan2008}
 Pan, Q., Shai, O., Lee, L.~J., Frey, B.~J., and Blencowe, B.~J. (2008).
 \newblock {Deep surveying of alternative splicing complexity in the human
@@ -1645,6 +1692,11 @@ Parra, M.~K., Tan, J.~S., Mohandas, N., and Conboy, J.~G. (2008).
 \newblock {Intrasplicing coordinates alternative first exons with alternative
   splicing in the protein 4.1R gene}.
 \newblock {\em EMBO J}, 27(1):122--131.
+
+\bibitem[Pauli et~al., 2011]{Pauli2011}
+Pauli, A., Rinn, J.~L., and Schier, A.~F. (2011).
+\newblock {Non-coding RNAs as regulators of embryogenesis.}
+\newblock {\em Nature reviews. Genetics}, 12(2):136--49.
 
 \bibitem[Peirson, 2003]{Peirson2003}
 Peirson, S.~N. (2003).
@@ -1692,6 +1744,12 @@ Quinlan, A.~R. and Hall, I.~M. (2010).
 \bibitem[{R Development Core Team}, 2011]{RDevelopmentCoreTeam2011}
 {R Development Core Team}, R. (2011).
 \newblock {R: A Language and Environment for Statistical Computing}.
+
+\bibitem[Rehrauer et~al., 2013]{Rehrauer2013}
+Rehrauer, H., Opitz, L., Tan, G., Sieverling, L., and Schlapbach, R. (2013).
+\newblock {Blind spots of quantitative RNA-seq: the limits for assessing
+  abundance, differential expression, and isoform switching.}
+\newblock {\em BMC bioinformatics}, 14:370.
 
 \bibitem[Reuter and Mathews, 2010]{Reuter2010}
 Reuter, J.~S. and Mathews, D.~H. (2010).
@@ -1761,12 +1819,23 @@ Ronaghi, M., Uhl\'{e}n, M., and Nyr\'{e}n, P. (1998).
 \newblock {A sequencing method based on real-time pyrophosphate.}
 \newblock {\em Science}, 281:363, 365.
 
+\bibitem[Rumsfeld, 2011]{Rumsfeld2011}
+Rumsfeld, D. (2011).
+\newblock {Known and unknown: a memoir}.
+
 \bibitem[Saito et~al., 2009]{Saito2009}
 Saito, K., Inagaki, S., Mituyama, T., Kawamura, Y., Ono, Y., Sakota, E.,
   Kotani, H., Asai, K., Siomi, H., and Siomi, M.~C. (2009).
 \newblock {A regulatory circuit for piwi by the large Maf gene traffic jam in
   Drosophila.}
 \newblock {\em Nature}, 461(7268):1296--9.
+
+\bibitem[Saito et~al., 2010]{Saito2010}
+Saito, K., Ishizu, H., Komai, M., Kotani, H., Kawamura, Y., Nishida, K.~M.,
+  Siomi, H., and Siomi, M.~C. (2010).
+\newblock {Roles for the Yb body components Armitage and Yb in primary piRNA
+  biogenesis in Drosophila.}
+\newblock {\em Genes \& development}, 24(22):2493--8.
 
 \bibitem[Salehi-Ashtiani et~al., 2008]{Salehi-Ashtiani2008}
 Salehi-Ashtiani, K., Yang, X., Derti, A., Tian, W., Hao, T., Lin, C., Makowski,

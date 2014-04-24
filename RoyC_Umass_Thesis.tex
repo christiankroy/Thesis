@@ -16,7 +16,6 @@
     \titleformat{\chapter}[display]
     {\normalfont\huge\bfseries\centering}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
   \usepackage{flexisym} % Lets me use prime symbols
-  \usepackage{gensymb} % For degree '\degree'
   \usepackage[square, comma, sort&compress]{natbib}  % For Referencing
     \setlength{\bibsep}{0.0pt} % Reduce size of bibliography
   \usepackage{bibentry} % For inserting Full Citation into preface
@@ -45,6 +44,11 @@
       breaklines=true,breakatwhitespace=true
       tabsize=2}
   \usepackage{lipsum} % Generate Fill text w/ \lipsum[#] where #=paragraph num
+  \usepackage{selinput} % For Anna's name
+    \SelectInputMappings{
+    aacute={á},
+    ntilde={ñ}
+    }
   \input{LaTeXConfig/shortcuts} % Load macro/shortcuts for organism and gene names
   \title{\ttitle} % Defines the thesis title - don't touch this
   \begin{document}
@@ -54,7 +58,7 @@
     \fancyhead{} % Clears all page headers and footers
     \rhead{\thepage} % Sets the right side header to show the page number
     \lhead{} % Clears the left side page header
-    \pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers  
+    \pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers   
   % PDF meta-data
     \hypersetup{pdftitle={\ttitle}}
   	\hypersetup{pdfsubject=\subjectname}

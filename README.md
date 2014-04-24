@@ -8,7 +8,7 @@
 
 1. Obtain a good text editor. I used Sublime Text 2 with some packages installed:
     * `Monokai Extended` | Color Scheme for coding editing
-    * LaTeXTools | Adds some LaTeX functality
+    * LaTeXTools | Adds some LaTeX functionality
       * Change the cite panel format to `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
     * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
     + Table Cleaner | Useful to make the `LaTeX` tables look clean by pressing `alt + ;` that's ALT and SemiColon.
@@ -18,7 +18,7 @@
 
 ### File and Folder Structure ###
 
-For purposes of organisation, use the following folder setup:
+For purposes of organization, use the following folder setup:
 
 ```
 Thesis
@@ -51,7 +51,7 @@ Contents of each directory are explained here:
 * Chapters: Contains, as individual `*.tex` files, the chapters of the thesis.
 * Figures: Contains subdirectores, one per thesis chapter
   * Figures/Chapter# : contains the `*.eps` and converted `*.pdf` files that are actually inserted into the final document
-    * Figures/Chapter#/IllustratorFiles: Contains the original `*.ai` file with all the original information for each fiures.
+    * Figures/Chapter#/IllustratorFiles: Contains the original `*.ai` file with all the original information for each figures.
 * Forms: the necessary GSBS forms for graduating
 * Front Matter: Signature pages, abbreviations, etc... All the individual elements (in `*.tex`) form that make up the FrontMatter.
 * LaTeXConfig: Contains two very important files. 1) `Thesis.cls` is the `\documentclass{}` file used by the master `Thesis.tex` file. Contains important formating information for the LaTeX engine. See here for Margin and macro information. Also contains the `shortcuts.tex` file, where you can keep all the gene name macros used in the thesis.
@@ -72,10 +72,20 @@ I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP 
 
 ### Symbols ###
 
-+ To make a quote, use the characters `This is a ``quoted'' Word`. That is two backticks followed by the word(s) to be quoted, and then two single quotes.  LaTeX will turn this into a quotes openning and closing quotes when compiled
++ To make a quote, use the characters `This is a ``quoted'' Word`. That is two back ticks followed by the word(s) to be quoted, and then two single quotes.  LaTeX will turn this into a quotes opening and closing quotes when compiled
 + Primes - use `5\textprime~` or any version therefor. The tilde at the end is required to insert a space after the prime signal. `\usepackage{flexisym}` required.
 + ~ can (and should be) inserted with `\textasciitilde`
-+ ˚ can (and should be) inserted with `\degree`
++ ˚ can (and should be) inserted with `$\,^{\circ}`
++ ˚C inserted with `$\,^{\circ}\mathrm{C}$`
++ ΔG˚ inserted w/ `$\Delta G^{\circ}$`
+
+### Dashes ###
+
+`-` = dash || in LaTeX type `-`
+`–` = endash || in LaTeX type `--`
+`—` = emdash || in LaTeX type `---`
+
+Options for `\textendash` and `\textemdash` limit line breaks near the dash.
 
 ### Marking Text ###
 
@@ -85,10 +95,9 @@ I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP 
 
 ### Inserting Comments and Todos ###
 
-+ See this article http://tex.stackexchange.com/questions/68530/making-corrections-during-review-of-other-people-latex-article
++ See this [article](http://tex.stackexchange.com/questions/68530/making-corrections-during-review-of-other-people-latex-article)
 + Insert a Figure request w/ `\missingfigure{Comment Text}`
-+ Insert a Comment box w/
-    * `\todo[prepend]{Comment text}`
++ Insert a Comment box w/ `\todo[prepend]{Comment text}`
 + Insert On own line w/ `\todo[inline]{Comment Text}`
 + Insert with line pointing to specific point w/ `\todo[fancyline]{Comment Text}`
 + Insert a Editing bar w/ `\begin{changebar}` and `\end{changebar}`
@@ -110,13 +119,13 @@ I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP 
 
 1. Internal by Name = `\ref{labelName}``
     + **Don't reference by number! Hard to change later!**
-    + Pick a strucutre and stick to it!
+    + Pick a structure and stick to it!
       + Example would be :
       1. `\label{Intro:sec:piRNAs}`
       2. `\label{Intro:subsec:piRNA precurors are long}`      
 2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
 3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
-4. Insert a bare, but clickable url = `\url{http://www.place.com}`
+4. Insert a bare, but click able url = `\url{http://www.place.com}`
 
 
 ### Designing Figures ###
@@ -124,13 +133,12 @@ I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP 
 * Save an Illustrator file (`.ai`)
 * Do not exceed 5.75” wide x 8” high
 * Always construct in Illustrator, save as `*.ai` file. This is the Master
-* Always save and insert as `*.eps` according to max dementions of margin.
-  * Use of `*.eps` allows you to easily make an HTML version of the document
+* Always save and insert as `*.eps`.
 
 ### Inserting Figures ###
 
-* NO PERIODS IN FIGURE FILE NAMES! LaTeX infers extention after the first period.
-*. Use the following code structure for inserting figures:
+* NO PERIODS IN FIGURE FILE NAMES! LaTeX infers extension after the first period.
+* Use the following code structure for inserting figures:
 
 ```TeX
     \begin{figure} % FIGURE COMMENT NAME  
@@ -144,9 +152,9 @@ I have modified the `LaTeXConfig/Thesis.cls` so that it only shows sections *UP 
       \end{figure}  
 ```
 
-### Inserting Figures
+### Inserting Tables
 
-To insert a figure, which can look really last in LaTeX format, put into a seperate file, stored in the `$ROOT/Tables` subdirectory, a `*.tex` file containing the LaTeX table information with the following structure:
+To insert a figure, which can look really awful in LaTeX format, put into a separate file, stored in the `$ROOT/Tables` subdirectory, a `*.tex` file containing the LaTeX table information with the following structure:
 
 ```TeX
 \begin{tabular}
@@ -169,8 +177,14 @@ Then, in the main text where you want the table inserted, use the following synt
 
 ### Make a webpage/Word Doc from thesis LaTex ###
 
-Drop to terminal and type `htlatex thesis.tex`
-Once this is done, open HTML in Word
+Drop to terminal and type:
+
+```bash
+htlatex RoyC_Umass_Thesis.tex "-dHTML" "--interaction=nonstopmode"
+```
+You will have to enter through *numerous* errors.
+
+Once this is done, open HTML in Word.
 
 
 

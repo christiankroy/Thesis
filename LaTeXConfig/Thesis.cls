@@ -24,19 +24,6 @@
 \LoadClass{\baseclass}
 \newcommand\bhrule{\typeout{------------------------------------------------------------------------------}}
 
-\newcommand\Declaration[1]{
-\btypeout{Declaration of Authorship}
-\addtotoc{Declaration of Authorship}
-\thispagestyle{plain}
-\null\vfil
-%\vskip 60\p@
-\begin{center}{\huge\bf Declaration of Authorship\par}\end{center}
-%\vskip 60\p@
-{\normalsize #1}
-\vfil\vfil\null
-%\cleardoublepage
-}
-
 \newcommand\btypeout[1]{\bhrule\typeout{\space #1}\bhrule}
 \def\today{\ifcase\month\or
   January\or February\or March\or April\or May\or June\or
@@ -47,8 +34,6 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{2.0ex plus0.5ex minus0.2ex}
 \usepackage{vmargin}
-
-\RequirePackage[utf8]{inputenc} % Allows the use of international characters (e.g. Umlauts)
 
 %----------------------------------------------------------------------------------------
 %	MARGINS
@@ -332,7 +317,7 @@
 \newcommand\listDefinitions{
 \btypeout{Definitions}
 \addtotoc{Definitions}
-\begin{center}{\large{\textit{Definitions}} \par}\end{center}
+%\begin{center}{\large{\textit{Definitions}} \par}\end{center}
 }
 
 \newcommand\acknowledgements[1]{
@@ -355,11 +340,18 @@
 
 \newcommand\dedicatory[1]{
 \btypeout{Dedication}
-\addtotoc{Dedication}
+%\addtotoc{Dedication}
 \thispagestyle{plain}
 \null\vfil
 \vskip 60\p@
-\begin{center}{\Large \sl #1}\end{center}
+%\begin{left}  {\Large \sl #1} \end{left}
+  \begin{quote}
+    \centering
+    \itshape
+    \singlespacing
+    \large
+    #1
+    \end{quote}
 \vfil\null
 \cleardoublepage
 }

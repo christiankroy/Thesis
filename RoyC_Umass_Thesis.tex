@@ -1,100 +1,33 @@
-%	Preamble
-  \documentclass[12pt, letterpaper, oneside]{LaTeXConfig/Thesis} 
-  \usepackage{setspace} % For picking line spacing *within* sections
-  \usepackage{parskip} % For changing spacing between heads, lets me use linebreaks for spacing between paragraphs
-  \usepackage{float}  % For Figures
-    \floatstyle{plain} \restylefloat{figure} % Figures with Captions below
-    \floatstyle{plaintop} \restylefloat{table} % Table with captions above
-  % For Tables
-    \usepackage{longtable} % For long tables that span many pages. | use \begin{longtable}
-    \usepackage{booktabs}
-  \usepackage[font={footnotesize}]{caption} % Make Fonts of Captions Small
-  \usepackage{pdflscape} % Rotate page; BOTH printing and viewing! \begin{landscape} \end{landscape}
-  \usepackage{helvet} \renewcommand{\familydefault}{\sfdefault} % Pick Ariel Font  
-  \usepackage[T1]{fontenc}   % Standardize output fonts
-  \usepackage{titlesec} % Center the Chapter and heading titles 
-    \titleformat{\chapter}[display]
-    {\normalfont\huge\bfseries\centering}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-  \usepackage{flexisym} % Lets me use prime symbols
-  \usepackage[square, comma, sort&compress]{natbib}  % For Referencing
-    \setlength{\bibsep}{0.0pt} % Reduce size of bibliography
-  \usepackage{bibentry} % For inserting Full Citation into preface
-    \nobibliography* % Required to use the \usepackage(bibentry) above
-  \usepackage{hyperref} % For internal referencing
-    \hypersetup{urlcolor=blue, colorlinks=true}  % Colors hyperlinks in blue
-  \usepackage{soul} % Highlight things use \hl{text}
-  \usepackage[colorinlistoftodos]{todonotes} % To inserting Comments w/ \todo[prepend]{Comment text}
-  \usepackage{changebar} % For putting bar in margin for review w/ \begin{changebar} & \end{changebar}
-  \usepackage{listings} % For code inclusions
-  \usepackage{color} % For code inclusions
-    \definecolor{dkgreen}{rgb}{0,0.6,0} 
-    \definecolor{gray}{rgb}{0.5,0.5,0.5}
-    \definecolor{mauve}{rgb}{0.58,0,0.82}
-    \lstset{
-      frame=tb,
-      language=Perl, % Change as needed locally w/ \lstset{language=LANG} where LANG=language of choice (i.e. PERL)
-      aboveskip=3mm,belowskip=3mm,
-      showstringspaces=false,columns=flexible,
-      basicstyle={\footnotesize\ttfamily},
-      numbers=none,
-      numberstyle=\tiny\color{gray},
-      keywordstyle=\color{blue},
-      commentstyle=\color{dkgreen},
-      stringstyle=\color{mauve},
-      breaklines=true,breakatwhitespace=true
-      tabsize=2}
-  \usepackage{lipsum} % Generate Fill text w/ \lipsum[#] where #=paragraph num
-  \usepackage{selinput} % For Anna's name
-    \SelectInputMappings{
-    aacute={á},
-    ntilde={ñ}
-    }
-  \input{LaTeXConfig/shortcuts} % Load macro/shortcuts for organism and gene names
-  \title{\ttitle} % Defines the thesis title - don't touch this
-  \begin{document}
-\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
-  \setstretch{1} % Line spacing of 1
-  % Define the page headers using the FancyHdr package and set up for one-sided printing
-    \fancyhead{} % Clears all page headers and footers
-    \rhead{\thepage} % Sets the right side header to show the page number
-    \lhead{} % Clears the left side page header
-    \pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers   
-  % PDF meta-data
-    \hypersetup{pdftitle={\ttitle}}
-  	\hypersetup{pdfsubject=\subjectname}
-  	\hypersetup{pdfauthor=\authornames}
-  	\hypersetup{pdfkeywords=\keywordnames}
+\documentclass{LaTeXConfig/Thesis}
+\input{LaTeXConfig/shortcuts} % Load macro/shortcuts for organism and gene names
+\begin{document}
+\frontmatter 
+  \pagestyle{fancy} 
+  \setstretch{1}
   \input{FrontMatter/titlePage} 
   \input{FrontMatter/signaturePage}
   \input{FrontMatter/abstract}
   \input{FrontMatter/acknowledgements}
   \input{FrontMatter/tablesOfContent}
   \input{FrontMatter/abbreviationsAndSymbols}
-  %\input{FrontMatter/abbreviations}
-  %\input{FrontMatter/symbols}
   \input{FrontMatter/definitions}
   \input{FrontMatter/dedication}
   \input{FrontMatter/preface}
-\mainmatter % Begin numeric (1,2,3...) page numbering
-  \pagestyle{fancy} % Return the page headers back to the "fancy" style
-  %\setstretch{2} % Line spacing of 2
-  \setstretch{1} % Line spacing of 1
-  \label{hd:Chapters}
+\mainmatter \label{hd:Chapters}
+  \pagestyle{fancy}
+  \setstretch{2}
   \input{Chapters/Chapter1-Intro}
   \input{Chapters/Chapter2-Roy2014}
   \input{Chapters/Chapter3-Li2013}
   \input{Chapters/Chapter4-SeqZip}
   \input{Chapters/Chapter5-Disc} 
-  \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
-  \label{hd:Appendicies}
-  \setstretch{1} % Line spacing of 1
+\appendix \label{hd:Appendicies}
+  \setstretch{1}
   \input{Appendices/AppendixA}
   \input{Appendices/AppendixB}
-  %\input{Appendices/AppendixC}
-\backmatter
-  \label{hd:Bibliography}
-  \setstretch{1} % Line spacing of 1
-  \lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
-  \bibliographystyle{Bibliography/apalike} % Use this bibtex style; compatable w/ natbib package
-  \bibliography{Bibliography/library.bib} % References  stored in the file named "library.bib.bib"
-  \end{document}
+\backmatter \label{hd:Bibliography}
+  \setstretch{1} 
+  \lhead{\emph{Bibliography}}
+  \bibliographystyle{Bibliography/apalike}
+  \bibliography{Bibliography/library.bib}
+\end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  24 APR 2014 11:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.25)  24 APR 2014 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,7 +7,7 @@ entering extended mode
 LaTeX2e <2011/06/27>
 Babel <3.9j> and hyphenation patterns for 78 languages loaded.
 (./LaTeXConfig/Thesis.cls
-Document Class: LaTeXConfig/Thesis 2007/22/02 v1.0 LaTeX document class
+Document Class: LaTeXConfig/Thesis 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/bk12.clo
@@ -26,143 +26,13 @@ File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/vmargin/vmargin.sty
-Package: vmargin 2004/07/15 V2.5 set document margins (VK)
-
-Package: vmargin 2004/07/15 V2.5 set document margins (VK)
-\PaperWidth=\dimen103
-\PaperHeight=\dimen104
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip43
-\f@ncyO@elh=\skip44
-\f@ncyO@erh=\skip45
-\f@ncyO@olh=\skip46
-\f@ncyO@orh=\skip47
-\f@ncyO@elf=\skip48
-\f@ncyO@erf=\skip49
-\f@ncyO@olf=\skip50
-\f@ncyO@orf=\skip51
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip52
-
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks14
-\ex@=\dimen105
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen106
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count89
-\leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count91
-\DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen107
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
-\dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
-\tag@help=\toks15
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
-\andhelp@=\toks16
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks17
-\multlinegap=\skip53
-\multlinetaggap=\skip54
-\mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amscd.sty
-Package: amscd 1999/11/29 v2.0
-\athelp@=\toks19
-\minaw@=\dimen114
-\bigaw@=\dimen115
-\minCDarrowwidth=\dimen116
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks20
-\thm@bodyfont=\toks21
-\thm@headfont=\toks22
-\thm@notefont=\toks23
-\thm@headpunct=\toks24
-\thm@preskip=\skip55
-\thm@postskip=\skip56
-\thm@headsep=\skip57
-\dth@everypar=\toks25
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
-)
-\c@example=\count100
-\c@theorem=\count101
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks26
-)
-\captionmargin=\dimen117
-\captionmargin@=\dimen118
-\captionwidth=\dimen119
-\caption@tempdima=\dimen120
-\caption@indent=\dimen121
-\caption@parindent=\dimen122
-\caption@hangindent=\dimen123
-)
-\c@ContinuedFloat=\count102
-)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
@@ -183,10 +53,10 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count103
+\Gread@gobject=\count88
 ))
-\Gin@req@height=\dimen124
-\Gin@req@width=\dimen125
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
@@ -240,218 +110,70 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen126
-\lightrulewidth=\dimen127
-\cmidrulewidth=\dimen128
-\belowrulesep=\dimen129
-\belowbottomsep=\dimen130
-\aboverulesep=\dimen131
-\abovetopsep=\dimen132
-\cmidrulesep=\dimen133
-\cmidrulekern=\dimen134
-\defaultaddspace=\dimen135
-\@cmidla=\count104
-\@cmidlb=\count105
-\@aboverulesep=\dimen136
-\@belowrulesep=\dimen137
-\@thisruleclass=\count106
-\@lastruleclass=\count107
-\@thisrulewidth=\dimen138
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/rotating/rotating.sty
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
 )
-\c@r@tfl@t=\count108
-\rotFPtop=\skip58
-\rotFPbot=\skip59
-\rot@float@box=\box28
-\rot@mess@toks=\toks27
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count109
-\lst@gtempboxa=\box29
-\lst@token=\toks28
-\lst@length=\count110
-\lst@currlwidth=\dimen139
-\lst@column=\count111
-\lst@pos=\count112
-\lst@lostspace=\dimen140
-\lst@width=\dimen141
-\lst@newlines=\count113
-\lst@lineno=\count114
-\lst@maxwidth=\dimen142
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
-\c@lstnumber=\count115
-\lst@skipnumbers=\count116
-\lst@framebox=\box30
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2014/03/04 1.5c listings configuration
-))
-Package: listings 2014/03/04 1.5c (Carsten Heinz)
-
-(./LaTeXConfig/lstpatch.sty
-
-***
-*** This is a patch for listings 1.3, but you're using
-*** version 1.5c.
-***
- *** Patch file not loaded.
-***
-
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
-)
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen143
-\Hy@linkcounter=\count117
-\Hy@pagecounter=\count118
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
-)
-\Hy@SavedSpaceFactor=\count119
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
-.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 4319.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
-Package hyperref Info: Option `unicode' set `true' on input line 4319.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
-)
-Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count120
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen144
-\Fld@menulength=\count121
-\Field@Width=\dimen145
-\Fld@charsize=\dimen146
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring ON on input line 6313.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count122
-\c@Item=\count123
-\c@Hfootnote=\count124
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count125
-\c@bookmark@seq@number=\count126
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip60
-)
-\c@dummy=\count127
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2001/04/09 non-zero parskip adjustments
+\c@ContinuedFloat=\count89
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count128
-\float@exts=\toks29
-\float@box=\box31
-\@float@everytoks=\toks30
-\@floatcapt=\box32
+\c@float@type=\count90
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
 )
-\@float@every@figure=\toks31
-\@float@every@table=\toks32
+\@float@every@figure=\toks17
+\@float@every@table=\toks18
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip61
-\LTright=\skip62
-\LTpre=\skip63
-\LTpost=\skip64
-\LTchunksize=\count129
-\LTcapwidth=\dimen147
-\LT@head=\box33
-\LT@firsthead=\box34
-\LT@foot=\box35
-\LT@lastfoot=\box36
-\LT@cols=\count130
-\LT@rows=\count131
-\c@LT@tables=\count132
-\c@LT@chunks=\count133
-\LT@p@ftn=\toks33
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count91
+\LTcapwidth=\dimen112
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count92
+\LT@rows=\count93
+\c@LT@tables=\count94
+\c@LT@chunks=\count95
+\LT@p@ftn=\toks19
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count96
+\@cmidlb=\count97
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count98
+\@lastruleclass=\count99
+\@thisrulewidth=\dimen125
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
@@ -460,10 +182,10 @@ Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -471,608 +193,24 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box37
-\beforetitleunit=\skip65
-\aftertitleunit=\skip66
-\ttl@plus=\dimen148
-\ttl@minus=\dimen149
-\ttl@toksa=\toks34
-\titlewidth=\dimen150
-\titlewidthlast=\dimen151
-\titlewidthfirst=\dimen152
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/flexisym.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/expl3.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3names.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
-Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
-)
-Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count134
-)
-Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3basics.sty
-Package: l3basics 2014/01/04 v4642 L3 Basic definitions
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3expan.sty
-Package: l3expan 2014/01/04 v4642 L3 Argument expansion
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3tl.sty
-Package: l3tl 2013/12/27 v4625 L3 Token lists
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3seq.sty
-Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
-Package: l3int 2013/08/02 v4583 L3 Integers
-\c_max_int=\count135
-\l_tmpa_int=\count136
-\l_tmpb_int=\count137
-\g_tmpa_int=\count138
-\g_tmpb_int=\count139
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
-Package: l3quark 2013/12/14 v4623 L3 Quarks
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
-Package: l3prg 2014/01/04 v4642 L3 Control structures
-\g__prg_map_int=\count140
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
-Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3token.sty
-Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prop.sty
-Package: l3prop 2013/12/14 v4623 L3 Property lists
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3msg.sty
-Package: l3msg 2013/07/28 v4581 L3 Messages
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
-Package: l3file 2013/10/13 v4596 L3 File and I/O operations
-\l_iow_line_count_int=\count141
-\l__iow_target_count_int=\count142
-\l__iow_current_line_int=\count143
-\l__iow_current_word_int=\count144
-\l__iow_current_indentation_int=\count145
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
-Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
-\c_zero_dim=\dimen153
-\c_max_dim=\dimen154
-\l_tmpa_dim=\dimen155
-\l_tmpb_dim=\dimen156
-\g_tmpa_dim=\dimen157
-\g_tmpb_dim=\dimen158
-\c_zero_skip=\skip67
-\c_max_skip=\skip68
-\l_tmpa_skip=\skip69
-\l_tmpb_skip=\skip70
-\g_tmpa_skip=\skip71
-\g_tmpb_skip=\skip72
-\c_zero_muskip=\muskip12
-\c_max_muskip=\muskip13
-\l_tmpa_muskip=\muskip14
-\l_tmpb_muskip=\muskip15
-\g_tmpa_muskip=\muskip16
-\g_tmpb_muskip=\muskip17
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
-Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count146
-\l_keys_choice_int=\count147
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
-Package: l3fp 2014/01/04 v4642 L3 Floating points
-\c__fp_leading_shift_int=\count148
-\c__fp_middle_shift_int=\count149
-\c__fp_trailing_shift_int=\count150
-\c__fp_big_leading_shift_int=\count151
-\c__fp_big_middle_shift_int=\count152
-\c__fp_big_trailing_shift_int=\count153
-\c__fp_Bigg_leading_shift_int=\count154
-\c__fp_Bigg_middle_shift_int=\count155
-\c__fp_Bigg_trailing_shift_int=\count156
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
-Package: l3box 2013/07/28 v4581 L3 Experimental boxes
-\c_empty_box=\box38
-\l_tmpa_box=\box39
-\l_tmpb_box=\box40
-\g_tmpa_box=\box41
-\g_tmpb_box=\box42
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3coffins.sty
-Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
-\l__coffin_internal_box=\box43
-\l__coffin_internal_dim=\dimen159
-\l__coffin_offset_x_dim=\dimen160
-\l__coffin_offset_y_dim=\dimen161
-\l__coffin_x_dim=\dimen162
-\l__coffin_y_dim=\dimen163
-\l__coffin_x_prime_dim=\dimen164
-\l__coffin_y_prime_dim=\dimen165
-\c_empty_coffin=\box44
-\l__coffin_aligned_coffin=\box45
-\l__coffin_aligned_internal_coffin=\box46
-\l_tmpa_coffin=\box47
-\l_tmpb_coffin=\box48
-\l__coffin_display_coffin=\box49
-\l__coffin_display_coord_coffin=\box50
-\l__coffin_display_pole_coffin=\box51
-\l__coffin_display_offset_dim=\dimen166
-\l__coffin_display_x_dim=\dimen167
-\l__coffin_display_y_dim=\dimen168
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3color.sty
-Package: l3color 2012/08/29 v4156 L3 Experimental color support
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
-Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count157
-\g__cctab_stack_int=\count158
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
-Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen169
-\l__box_bottom_dim=\dimen170
-\l__box_left_dim=\dimen171
-\l__box_right_dim=\dimen172
-\l__box_top_new_dim=\dimen173
-\l__box_bottom_new_dim=\dimen174
-\l__box_left_new_dim=\dimen175
-\l__box_right_new_dim=\dimen176
-\l__box_internal_box=\box52
-\l__coffin_bounding_shift_dim=\dimen177
-\l__coffin_left_corner_dim=\dimen178
-\l__coffin_right_corner_dim=\dimen179
-\l__coffin_bottom_corner_dim=\dimen180
-\l__coffin_top_corner_dim=\dimen181
-\l__coffin_scaled_total_height_dim=\dimen182
-\l__coffin_scaled_width_dim=\dimen183
-))
-Package: flexisym 2013/03/16 v0.97c Make math characters macros
-LaTeX Info: Redefining \textprime on input line 296.
-LaTeX Info: Redefining \not on input line 354.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/cmbase.sym
-File: cmbase.sym 2007/12/19 v0.92
-LaTeX Info: Redefining \hbar on input line 323.
-LaTeX Info: Redefining \surd on input line 325.
-LaTeX Info: Redefining \angle on input line 333.
-LaTeX Info: Redefining \neq on input line 334.
-LaTeX Info: Redefining \mapsto on input line 335.
-LaTeX Info: Redefining \cong on input line 336.
-LaTeX Info: Redefining \notin on input line 339.
-LaTeX Info: Redefining \rightleftharpoons on input line 340.
-LaTeX Info: Redefining \doteq on input line 341.
-LaTeX Info: Redefining \hookrightarrow on input line 342.
-LaTeX Info: Redefining \hookleftarrow on input line 343.
-LaTeX Info: Redefining \bowtie on input line 344.
-LaTeX Info: Redefining \models on input line 345.
-LaTeX Info: Redefining \Longrightarrow on input line 346.
-LaTeX Info: Redefining \longrightarrow on input line 347.
-LaTeX Info: Redefining \Longleftarrow on input line 348.
-LaTeX Info: Redefining \longleftarrow on input line 349.
-LaTeX Info: Redefining \longmapsto on input line 350.
-LaTeX Info: Redefining \longleftrightarrow on input line 351.
-LaTeX Info: Redefining \Longleftrightarrow on input line 352.
-LaTeX Info: Redefining \cdots on input line 356.
-LaTeX Info: Redefining \vdots on input line 359.
-LaTeX Info: Redefining \ddots on input line 364.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mathstyle.sty
-Package: mathstyle 2011/08/03 v0.90 Tracking mathstyle implicitly
-LaTeX Info: Redefining \displaystyle on input line 81.
-LaTeX Info: Redefining \textstyle on input line 83.
-LaTeX Info: Redefining \scriptstyle on input line 85.
-LaTeX Info: Redefining \scriptscriptstyle on input line 87.
-LaTeX Info: Redefining \genfrac on input line 121.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip73
-\bibsep=\skip74
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count159
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/bibentry.sty
-Package: bibentry 2007/10/30 1.5 (PWD)
-)
-(./RoyC_Umass_Thesis.bbl)
-Package hyperref Info: Option `colorlinks' set `true' on input line 24.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/soul/soul.sty
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks35
-\SOUL@lasttoken=\toks36
-\SOUL@cmds=\toks37
-\SOUL@buffer=\toks38
-\SOUL@token=\toks39
-\SOUL@spaceskip=\skip75
-\SOUL@ttwidth=\dimen184
-\SOUL@uldp=\dimen185
-\SOUL@ulht=\dimen186
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks40
-\XKV@tempa@toks=\toks41
-\XKV@depth=\count160
-File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
-\pgfutil@everybye=\toks42
-\pgfutil@tempdima=\dimen187
-\pgfutil@tempdimb=\dimen188
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box53
-(/usr/local/texlive/2013/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
-))
-Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks43
-\pgfkeys@temptoks=\toks44
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
-\pgfkeys@tmptoks=\toks45
-))
-\pgf@x=\dimen189
-\pgf@y=\dimen190
-\pgf@xa=\dimen191
-\pgf@ya=\dimen192
-\pgf@xb=\dimen193
-\pgf@yb=\dimen194
-\pgf@xc=\dimen195
-\pgf@yc=\dimen196
-\w@pgf@writea=\write3
-\r@pgf@reada=\read1
-\c@pgf@counta=\count161
-\c@pgf@countb=\count162
-\c@pgf@countc=\count163
-\c@pgf@countd=\count164
-\t@pgf@toka=\toks46
-\t@pgf@tokb=\toks47
-\t@pgf@tokc=\toks48
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count165
-\pgfsyssoftpath@bigbuffer@items=\count166
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen197
-\pgfmath@count=\count167
-\pgfmath@box=\box54
-\pgfmath@toks=\toks49
-\pgfmath@stack@operand=\toks50
-\pgfmath@stack@operation=\toks51
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count168
-))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen198
-\pgf@picmaxx=\dimen199
-\pgf@picminy=\dimen200
-\pgf@picmaxy=\dimen201
-Normal \dimen register pool exhausted, switching to extended pool.
-\pgf@pathminx=\dimen256
-\pgf@pathmaxx=\dimen257
-\pgf@pathminy=\dimen258
-\pgf@pathmaxy=\dimen259
-\pgf@xx=\dimen260
-\pgf@xy=\dimen261
-\pgf@yx=\dimen262
-\pgf@yy=\dimen263
-\pgf@zx=\dimen264
-\pgf@zy=\dimen265
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen266
-\pgf@path@lasty=\dimen267
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
-\pgf@shorten@end@additional=\dimen268
-\pgf@shorten@start@additional=\dimen269
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count169
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
-\pgflinewidth=\dimen270
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
-\pgf@pt@x=\dimen271
-\pgf@pt@y=\dimen272
-\pgf@pt@temp=\dimen273
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
-\pgfarrowsep=\dimen274
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen275
-\pgf@sys@shading@range@num=\count170
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
-\pgfexternal@startupbox=\box58
-))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
-File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
-\pgfnodeparttextbox=\box59
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
-File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen276
-\pgf@nodesepend=\dimen277
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen278
-\pgffor@skip=\dimen279
-\pgffor@stack=\toks52
-\pgffor@toks=\toks53
-))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
-Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
-\pgf@plot@mark@count=\count171
-\pgfplotmarksize=\dimen280
-)
-\tikz@lastx=\dimen281
-\tikz@lasty=\dimen282
-\tikz@lastxsaved=\dimen283
-\tikz@lastysaved=\dimen284
-\tikzleveldistance=\dimen285
-\tikzsiblingdistance=\dimen286
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count172
-\tikznumberofchildren=\count173
-\tikznumberofcurrentchild=\count174
-\tikz@fig@count=\count175
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count176
-\pgfmatrixcurrentcolumn=\count177
-\pgf@matrix@numberofcolumns=\count178
-)
-\tikz@expandcount=\count179
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
-)))
-(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count180
-\calc@Bcount=\count181
-\calc@Adimen=\dimen287
-\calc@Bdimen=\dimen288
-\calc@Askip=\skip76
-\calc@Bskip=\skip77
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count182
-\calc@Cskip=\skip78
-)
-\c@@todonotes@numberoftodonotes=\count183
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/changebar/changebar.sty
-Package: changebar 2005/09/18 v3.5c Indicate changes with marginal bars
-\cb@nextpoint=\count184
-\cb@topleft=\count185
-\cb@topright=\count186
-\cb@botleft=\count187
-\cb@botright=\count188
-\cb@cnta=\count189
-\cb@cntb=\count190
-\cb@dima=\dimen289
-\cb@curbarwd=\dimen290
-\cb@page=\count191
-\cb@pagecount=\count192
-\cb@odd@left=\dimen291
-\cb@odd@right=\dimen292
-\cb@even@left=\dimen293
-\cb@even@right=\dimen294
-\cb@writexy=\write4
-\cb@readxy=\read2
-\openout4 = `RoyC_Umass_Thesis.cb2'.
-
-\changebarwidth=\skip79
-\deletebarwidth=\skip80
-\changebarsep=\skip81
-\c@changebargrey=\count193
-\cb@write=\write5
-\cb@read=\read3
-\openout5 = `RoyC_Umass_Thesis.cb'.
-
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2014/03/04 1.5c listings language file
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count194
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/selinput.sty
 Package: selinput 2007/09/09 v1.2 Semi-automatic input encoding detection (HO)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks54
-\inpenc@posthook=\toks55
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
-))
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdfescape.sty
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+)))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/ix-name.def
 File: ix-name.def 2011/05/27 v1.10 Name list (inputenx)
 )
@@ -1280,10 +418,6 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -1295,87 +429,841 @@ Now handling font encoding PU ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 )
-Package selinput Info: Encoding `utf8' selected on input line 51.
+Package selinput Info: Encoding `utf8' selected on input line 33.
 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(./RoyC_Umass_Thesis.bbl)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks22
+\SOUL@lasttoken=\toks23
+\SOUL@cmds=\toks24
+\SOUL@buffer=\toks25
+\SOUL@token=\toks26
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen126
+\SOUL@uldp=\dimen127
+\SOUL@ulht=\dimen128
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+\XKV@depth=\count101
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box32
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count102
+\c@pgf@countb=\count103
+\c@pgf@countc=\count104
+\c@pgf@countd=\count105
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count106
+\pgfsyssoftpath@bigbuffer@items=\count107
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count108
+\pgfmath@box=\box33
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count109
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count110
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen158
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen162
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count111
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box37
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box38
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen164
+\pgf@nodesepend=\dimen165
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen166
+\pgffor@skip=\dimen167
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count112
+\pgfplotmarksize=\dimen168
+)
+\tikz@lastx=\dimen169
+\tikz@lasty=\dimen170
+\tikz@lastxsaved=\dimen171
+\tikz@lastysaved=\dimen172
+\tikzleveldistance=\dimen173
+\tikzsiblingdistance=\dimen174
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count113
+\tikznumberofchildren=\count114
+\tikznumberofcurrentchild=\count115
+\tikz@fig@count=\count116
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count117
+\pgfmatrixcurrentcolumn=\count118
+\pgf@matrix@numberofcolumns=\count119
+)
+\tikz@expandcount=\count120
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count121
+\calc@Bcount=\count122
+\calc@Adimen=\dimen175
+\calc@Bdimen=\dimen176
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count123
+\calc@Cskip=\skip52
+)
+\c@@todonotes@numberoftodonotes=\count124
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/changebar/changebar.sty
+Package: changebar 2005/09/18 v3.5c Indicate changes with marginal bars
+\cb@nextpoint=\count125
+\cb@topleft=\count126
+\cb@topright=\count127
+\cb@botleft=\count128
+\cb@botright=\count129
+\cb@cnta=\count130
+\cb@cntb=\count131
+\cb@dima=\dimen177
+\cb@curbarwd=\dimen178
+\cb@page=\count132
+\cb@pagecount=\count133
+\cb@odd@left=\dimen179
+\cb@odd@right=\dimen180
+\cb@even@left=\dimen181
+\cb@even@right=\dimen182
+\cb@writexy=\write4
+\cb@readxy=\read2
+\openout4 = `RoyC_Umass_Thesis.cb2'.
+
+\changebarwidth=\skip53
+\deletebarwidth=\skip54
+\changebarsep=\skip55
+\c@changebargrey=\count134
+\cb@write=\write5
+\cb@read=\read3
+\openout5 = `RoyC_Umass_Thesis.cb'.
+
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count135
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count136
+\lst@gtempboxa=\box43
+\lst@token=\toks41
+\lst@length=\count137
+\lst@currlwidth=\dimen183
+\lst@column=\count138
+\lst@pos=\count139
+\lst@lostspace=\dimen184
+\lst@width=\dimen185
+\lst@newlines=\count140
+\lst@lineno=\count141
+\lst@maxwidth=\dimen186
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count142
+\lst@skipnumbers=\count143
+\lst@framebox=\box44
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen187
+\PaperHeight=\dimen188
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box45
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen189
+\ttl@minus=\dimen190
+\ttl@toksa=\toks42
+\titlewidth=\dimen191
+\titlewidthlast=\dimen192
+\titlewidthfirst=\dimen193
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package hobsub Info: Skipping package `pdfescape' (already loaded).
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen194
+\Hy@linkcounter=\count144
+\Hy@pagecounter=\count145
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count146
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count147
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen195
+\Fld@menulength=\count148
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count149
+\c@Item=\count150
+\c@Hfootnote=\count151
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count152
+\c@bookmark@seq@number=\count153
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 129.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 129.
+
+Package hyperref Info: Option `hypertexnames' set `false' on input line 129.
+Package hyperref Info: Option `colorlinks' set `true' on input line 129.
+Package hyperref Info: Option `unicode' set `true' on input line 129.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 129.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/flexisym.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
+)
+Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count154
+)
+Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2014/01/04 v4642 L3 Basic definitions
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2014/01/04 v4642 L3 Argument expansion
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/12/27 v4625 L3 Token lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/08/02 v4583 L3 Integers
+\c_max_int=\count155
+\l_tmpa_int=\count156
+\l_tmpb_int=\count157
+\g_tmpa_int=\count158
+\g_tmpb_int=\count159
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2013/12/14 v4623 L3 Quarks
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2014/01/04 v4642 L3 Control structures
+\g__prg_map_int=\count160
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/12/14 v4623 L3 Property lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/07/28 v4581 L3 Messages
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/10/13 v4596 L3 File and I/O operations
+\l_iow_line_count_int=\count161
+\l__iow_target_count_int=\count162
+\l__iow_current_line_int=\count163
+\l__iow_current_word_int=\count164
+\l__iow_current_indentation_int=\count165
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
+\c_zero_dim=\dimen198
+\c_max_dim=\dimen199
+\l_tmpa_dim=\dimen200
+\l_tmpb_dim=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\g_tmpa_dim=\dimen256
+\g_tmpb_dim=\dimen257
+\c_zero_skip=\skip68
+\c_max_skip=\skip69
+\l_tmpa_skip=\skip70
+\l_tmpb_skip=\skip71
+\g_tmpa_skip=\skip72
+\g_tmpb_skip=\skip73
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count166
+\l_keys_choice_int=\count167
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2014/01/04 v4642 L3 Floating points
+\c__fp_leading_shift_int=\count168
+\c__fp_middle_shift_int=\count169
+\c__fp_trailing_shift_int=\count170
+\c__fp_big_leading_shift_int=\count171
+\c__fp_big_middle_shift_int=\count172
+\c__fp_big_trailing_shift_int=\count173
+\c__fp_Bigg_leading_shift_int=\count174
+\c__fp_Bigg_middle_shift_int=\count175
+\c__fp_Bigg_trailing_shift_int=\count176
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/07/28 v4581 L3 Experimental boxes
+\c_empty_box=\box46
+\l_tmpa_box=\box47
+\l_tmpb_box=\box48
+\g_tmpa_box=\box49
+\g_tmpb_box=\box50
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
+\l__coffin_internal_box=\box51
+\l__coffin_internal_dim=\dimen258
+\l__coffin_offset_x_dim=\dimen259
+\l__coffin_offset_y_dim=\dimen260
+\l__coffin_x_dim=\dimen261
+\l__coffin_y_dim=\dimen262
+\l__coffin_x_prime_dim=\dimen263
+\l__coffin_y_prime_dim=\dimen264
+\c_empty_coffin=\box52
+\l__coffin_aligned_coffin=\box53
+\l__coffin_aligned_internal_coffin=\box54
+\l_tmpa_coffin=\box55
+\l_tmpb_coffin=\box56
+\l__coffin_display_coffin=\box57
+\l__coffin_display_coord_coffin=\box58
+\l__coffin_display_pole_coffin=\box59
+\l__coffin_display_offset_dim=\dimen265
+\l__coffin_display_x_dim=\dimen266
+\l__coffin_display_y_dim=\dimen267
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count177
+\g__cctab_stack_int=\count178
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen268
+\l__box_bottom_dim=\dimen269
+\l__box_left_dim=\dimen270
+\l__box_right_dim=\dimen271
+\l__box_top_new_dim=\dimen272
+\l__box_bottom_new_dim=\dimen273
+\l__box_left_new_dim=\dimen274
+\l__box_right_new_dim=\dimen275
+\l__box_internal_box=\box60
+\l__coffin_bounding_shift_dim=\dimen276
+\l__coffin_left_corner_dim=\dimen277
+\l__coffin_right_corner_dim=\dimen278
+\l__coffin_bottom_corner_dim=\dimen279
+\l__coffin_top_corner_dim=\dimen280
+\l__coffin_scaled_total_height_dim=\dimen281
+\l__coffin_scaled_width_dim=\dimen282
+))
+Package: flexisym 2013/03/16 v0.97c Make math characters macros
+LaTeX Info: Redefining \textprime on input line 296.
+LaTeX Info: Redefining \not on input line 354.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/cmbase.sym
+File: cmbase.sym 2007/12/19 v0.92
+LaTeX Info: Redefining \hbar on input line 323.
+LaTeX Info: Redefining \surd on input line 325.
+LaTeX Info: Redefining \angle on input line 333.
+LaTeX Info: Redefining \neq on input line 334.
+LaTeX Info: Redefining \mapsto on input line 335.
+LaTeX Info: Redefining \cong on input line 336.
+LaTeX Info: Redefining \notin on input line 339.
+LaTeX Info: Redefining \rightleftharpoons on input line 340.
+LaTeX Info: Redefining \doteq on input line 341.
+LaTeX Info: Redefining \hookrightarrow on input line 342.
+LaTeX Info: Redefining \hookleftarrow on input line 343.
+LaTeX Info: Redefining \bowtie on input line 344.
+LaTeX Info: Redefining \models on input line 345.
+LaTeX Info: Redefining \Longrightarrow on input line 346.
+LaTeX Info: Redefining \longrightarrow on input line 347.
+LaTeX Info: Redefining \Longleftarrow on input line 348.
+LaTeX Info: Redefining \longleftarrow on input line 349.
+LaTeX Info: Redefining \longmapsto on input line 350.
+LaTeX Info: Redefining \longleftrightarrow on input line 351.
+LaTeX Info: Redefining \Longleftrightarrow on input line 352.
+LaTeX Info: Redefining \cdots on input line 356.
+LaTeX Info: Redefining \vdots on input line 359.
+LaTeX Info: Redefining \ddots on input line 364.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mathstyle.sty
+Package: mathstyle 2011/08/03 v0.90 Tracking mathstyle implicitly
+LaTeX Info: Redefining \displaystyle on input line 81.
+LaTeX Info: Redefining \textstyle on input line 83.
+LaTeX Info: Redefining \scriptstyle on input line 85.
+LaTeX Info: Redefining \scriptscriptstyle on input line 87.
+))
+\c@dummy=\count179
+)
 (./LaTeXConfig/shortcuts.tex) (./RoyC_Umass_Thesis.aux)
 \openout1 = `RoyC_Umass_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 3.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen283
+\scratchbox=\box61
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen284
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks44
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/ltcaption.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
-Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count195
-\scratchdimen=\dimen295
-\scratchbox=\box64
-\nofMPsegments=\count196
-\nofMParguments=\count197
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count198
-\MPscratchDim=\dimen296
-\MPnumerator=\count199
-\makeMPintoPDFobject=\count200
-\everyMPtoPDFconversion=\toks57
-)
-\c@lstlisting=\count201
-\AtBeginShipoutBox=\box65
-Package hyperref Info: Link coloring ON on input line 54.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+ABD: EveryShipout initializing macros
+\c@lstlisting=\count186
+\AtBeginShipoutBox=\box62
+Package hyperref Info: Link coloring ON on input line 3.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-Normal \count register pool exhausted, switching to extended pool.
-\c@section@level=\count277
+\c@section@level=\count187
 )
-LaTeX Info: Redefining \ref on input line 54.
-LaTeX Info: Redefining \pageref on input line 54.
-LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
 
 (./RoyC_Umass_Thesis.out) (./RoyC_Umass_Thesis.out)
 \@outlinefile=\write6
 \openout6 = `RoyC_Umass_Thesis.out'.
 
 
-ABD: EveryShipout initializing macros (./FrontMatter/titlePage.tex [1
+(./FrontMatter/titlePage.tex [1
 
 
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./FrontMatter/signaturePage.tex [1
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Fro
+ntMatter/signaturePage.tex [1
 
-]) (./FrontMatter/abstract.tex
+])
+(./FrontMatter/abstract.tex
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
@@ -1400,196 +1288,268 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 6.
 (./RoyC_Umass_Thesis.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [6
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+ [6
 
 
-] [7]
-Overfull \hbox (1.41573pt too wide) detected at line 70
+]
+Overfull \hbox (1.41573pt too wide) detected at line 47
  []\T1/phv/m/n/12 105
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 71
+Overfull \hbox (1.41573pt too wide) detected at line 49
+ []\T1/phv/m/n/12 106
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 50
  []\T1/phv/m/n/12 107
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 72
- []\T1/phv/m/n/12 111
+Overfull \hbox (1.41573pt too wide) detected at line 51
+ []\T1/phv/m/n/12 110
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 73
- []\T1/phv/m/n/12 111
+Overfull \hbox (1.41573pt too wide) detected at line 52
+ []\T1/phv/m/n/12 110
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 74
- []\T1/phv/m/n/12 112
+Overfull \hbox (1.41573pt too wide) detected at line 54
+ []\T1/phv/m/n/12 115
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 75
- []\T1/phv/m/n/12 113
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 76
- []\T1/phv/m/n/12 114
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 77
+Overfull \hbox (1.41573pt too wide) detected at line 55
  []\T1/phv/m/n/12 116
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 78
- []\T1/phv/m/n/12 118
+Overfull \hbox (1.41573pt too wide) detected at line 56
+ []\T1/phv/m/n/12 117
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 79
- []\T1/phv/m/n/12 119
+Overfull \hbox (1.41573pt too wide) detected at line 59
+ []\T1/phv/m/n/12 126
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 80
- []\T1/phv/m/n/12 121
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 81
- []\T1/phv/m/n/12 125
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 83
- []\T1/phv/m/n/12 130
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 84
- []\T1/phv/m/n/12 131
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 85
- []\T1/phv/m/n/12 131
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 86
+Overfull \hbox (1.41573pt too wide) detected at line 60
  []\T1/phv/m/n/12 132
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 87
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 88
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 89
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 90
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 91
- []\T1/phv/m/n/12 134
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 92
+Overfull \hbox (1.41573pt too wide) detected at line 61
  []\T1/phv/m/n/12 135
  []
 
 
+Overfull \hbox (1.41573pt too wide) detected at line 62
+ []\T1/phv/m/n/12 141
+ []
+
+[7]
+Overfull \hbox (1.41573pt too wide) detected at line 65
+ []\T1/phv/m/n/12 145
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 67
+ []\T1/phv/m/n/12 151
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 68
+ []\T1/phv/m/n/12 154
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 70
+ []\T1/phv/m/n/12 168
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 71
+ []\T1/phv/m/n/12 171
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 72
+ []\T1/phv/m/n/12 177
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 73
+ []\T1/phv/m/n/12 177
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 74
+ []\T1/phv/m/n/12 180
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 75
+ []\T1/phv/m/n/12 181
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 76
+ []\T1/phv/m/n/12 184
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 77
+ []\T1/phv/m/n/12 184
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 78
+ []\T1/phv/m/n/12 187
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 79
+ []\T1/phv/m/n/12 189
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 80
+ []\T1/phv/m/n/12 193
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 81
+ []\T1/phv/m/n/12 197
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 83
+ []\T1/phv/m/n/12 203
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 84
+ []\T1/phv/m/n/12 205
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 85
+ []\T1/phv/m/n/12 206
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 86
+ []\T1/phv/m/n/12 207
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 87
+ []\T1/phv/m/n/12 208
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 88
+ []\T1/phv/m/n/12 208
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 89
+ []\T1/phv/m/n/12 209
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 90
+ []\T1/phv/m/n/12 209
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 91
+ []\T1/phv/m/n/12 211
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 92
+ []\T1/phv/m/n/12 213
+ []
+
+
 Overfull \hbox (1.41573pt too wide) detected at line 93
- []\T1/phv/m/n/12 136
+ []\T1/phv/m/n/12 213
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 94
- []\T1/phv/m/n/12 136
+ []\T1/phv/m/n/12 214
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 95
- []\T1/phv/m/n/12 137
+ []\T1/phv/m/n/12 215
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 96
- []\T1/phv/m/n/12 138
+ []\T1/phv/m/n/12 217
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 97
- []\T1/phv/m/n/12 138
+ []\T1/phv/m/n/12 217
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 102
- []\T1/phv/m/n/12 140
+ []\T1/phv/m/n/12 219
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 103
- []\T1/phv/m/n/12 140
+ []\T1/phv/m/n/12 220
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 104
- []\T1/phv/m/n/12 142
+ []\T1/phv/m/n/12 222
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 105
- []\T1/phv/m/n/12 142
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 107
- []\T1/phv/m/n/12 144
+ []\T1/phv/m/n/12 223
  []
 
 [8]
+Overfull \hbox (1.41573pt too wide) detected at line 107
+ []\T1/phv/m/n/12 227
+ []
+
+
 Overfull \hbox (1.41573pt too wide) detected at line 108
- []\T1/phv/m/n/12 144
+ []\T1/phv/m/n/12 228
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 109
- []\T1/phv/m/n/12 144
+ []\T1/phv/m/n/12 228
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 110
- []\T1/phv/m/n/12 145
+ []\T1/phv/m/n/12 228
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 111
- []\T1/phv/m/n/12 145
+ []\T1/phv/m/n/12 228
  []
 
 
@@ -1600,27 +1560,27 @@ me-matched
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 112
- []\T1/phv/m/n/12 145
+ []\T1/phv/m/n/12 229
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 113
- []\T1/phv/m/n/12 146
+ []\T1/phv/m/n/12 229
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 115
- []\T1/phv/m/n/12 149
+ []\T1/phv/m/n/12 233
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 116
- []\T1/phv/m/n/12 150
+ []\T1/phv/m/n/12 234
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 117
- []\T1/phv/m/n/12 152
+ []\T1/phv/m/n/12 236
  []
 
 )
@@ -1635,6 +1595,66 @@ Overfull \hbox (1.41573pt too wide) detected at line 117
 
 
 ]
+Overfull \hbox (1.41573pt too wide) detected at line 30
+ []\T1/phv/m/n/12 112
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 31
+ []\T1/phv/m/n/12 113
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 32
+ []\T1/phv/m/n/12 119
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 33
+ []\T1/phv/m/n/12 120
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 34
+ []\T1/phv/m/n/12 123
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 35
+ []\T1/phv/m/n/12 124
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 36
+ []\T1/phv/m/n/12 128
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 37
+ []\T1/phv/m/n/12 129
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 38
+ []\T1/phv/m/n/12 133
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 39
+ []\T1/phv/m/n/12 134
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 40
+ []\T1/phv/m/n/12 138
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 41
+ []\T1/phv/m/n/12 139
+ []
+
+
 Overfull \hbox (11.18555pt too wide) in paragraph at lines 41--41
  [][] [][][]\T1/phv/m/n/12 Pachytene piRNA Pre-cur-sor Abun-dance in \T1/phv/m/
 sl/12 A-Myb\T1/phv/m/n/12 , \T1/phv/m/sl/12 Miwi\T1/phv/m/n/12 , and \T1/phv/m/
@@ -1642,78 +1662,98 @@ sl/12 Trip13
  []
 
 
+Overfull \hbox (1.41573pt too wide) detected at line 42
+ []\T1/phv/m/n/12 142
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 43
+ []\T1/phv/m/n/12 143
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 44
+ []\T1/phv/m/n/12 148
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 45
+ []\T1/phv/m/n/12 149
+ []
+
+
 Overfull \hbox (1.41573pt too wide) detected at line 47
- []\T1/phv/m/n/12 106
+ []\T1/phv/m/n/12 170
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 48
- []\T1/phv/m/n/12 109
+ []\T1/phv/m/n/12 175
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 49
- []\T1/phv/m/n/12 110
+ []\T1/phv/m/n/12 176
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 50
- []\T1/phv/m/n/12 112
+ []\T1/phv/m/n/12 178
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 51
- []\T1/phv/m/n/12 113
+ []\T1/phv/m/n/12 179
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 52
- []\T1/phv/m/n/12 115
+ []\T1/phv/m/n/12 183
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 53
- []\T1/phv/m/n/12 117
+ []\T1/phv/m/n/12 186
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 54
- []\T1/phv/m/n/12 118
+ []\T1/phv/m/n/12 188
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 55
- []\T1/phv/m/n/12 120
+ []\T1/phv/m/n/12 190
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 56
- []\T1/phv/m/n/12 121
+ []\T1/phv/m/n/12 191
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 57
- []\T1/phv/m/n/12 122
+ []\T1/phv/m/n/12 192
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 58
- []\T1/phv/m/n/12 123
+ []\T1/phv/m/n/12 194
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 59
- []\T1/phv/m/n/12 124
+ []\T1/phv/m/n/12 195
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 60
- []\T1/phv/m/n/12 124
+ []\T1/phv/m/n/12 196
  []
 
 [11]
 Overfull \hbox (1.41573pt too wide) detected at line 61
- []\T1/phv/m/n/12 126
+ []\T1/phv/m/n/12 198
  []
 
 
@@ -1724,37 +1764,37 @@ A-generating
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 62
- []\T1/phv/m/n/12 127
+ []\T1/phv/m/n/12 199
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 63
- []\T1/phv/m/n/12 128
+ []\T1/phv/m/n/12 201
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 64
- []\T1/phv/m/n/12 129
+ []\T1/phv/m/n/12 202
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 66
- []\T1/phv/m/n/12 134
+ []\T1/phv/m/n/12 210
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 67
- []\T1/phv/m/n/12 137
+ []\T1/phv/m/n/12 216
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 68
- []\T1/phv/m/n/12 139
+ []\T1/phv/m/n/12 218
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 69
- []\T1/phv/m/n/12 139
+ []\T1/phv/m/n/12 219
  []
 
 )
@@ -1767,22 +1807,22 @@ Overfull \hbox (1.41573pt too wide) detected at line 69
 ------------------------------------------------------------------------------
 (./RoyC_Umass_Thesis.lot
 Overfull \hbox (1.41573pt too wide) detected at line 6
- []\T1/phv/m/n/12 108
+ []\T1/phv/m/n/12 174
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 7
- []\T1/phv/m/n/12 117
+ []\T1/phv/m/n/12 186
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 10
- []\T1/phv/m/n/12 144
+ []\T1/phv/m/n/12 227
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 11
- []\T1/phv/m/n/12 146
+ []\T1/phv/m/n/12 229
  []
 
 )
@@ -1794,27 +1834,37 @@ Overfull \hbox (1.41573pt too wide) detected at line 11
 
 ] (./RoyC_Umass_Thesis.tdo
 Overfull \hbox (1.41573pt too wide) detected at line 1
- []\T1/phv/m/n/12 132
+ []\T1/phv/m/n/12 206
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 2
- []\T1/phv/m/n/12 135
+ []\T1/phv/m/n/12 213
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 3
- []\T1/phv/m/n/12 138
+ []\T1/phv/m/n/12 217
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 4
- []\T1/phv/m/n/12 138
+ []\T1/phv/m/n/12 218
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 5
- []\T1/phv/m/n/12 140
+ []\T1/phv/m/n/12 219
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 6
+ []\T1/phv/m/n/12 223
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 7
+ []\T1/phv/m/n/12 224
  []
 
 )
@@ -1828,10 +1878,8 @@ Overfull \hbox (1.41573pt too wide) detected at line 5
 ------------------------------------------------------------------------------
  Abbreviations and Symbols
 ------------------------------------------------------------------------------
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
 
-Overfull \hbox (44.56944pt too wide) in paragraph at lines 7--45
+Overfull \hbox (44.56944pt too wide) in paragraph at lines 7--46
 [][] 
  []
 
@@ -1859,6 +1907,8 @@ Overfull \hbox (19.64857pt too wide) in paragraph at lines 28--29
 ------------------------------------------------------------------------------
  Dedication
 ------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 8.
 [18
 
 ]) (./FrontMatter/preface.tex
@@ -1886,7 +1936,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
 
 
-] <Figures/Intro/DesertLocust.jpeg, id=828, 357.335pt x 420.57124pt>
+] [2] <Figures/Intro/DesertLocust.jpeg, id=833, 357.335pt x 420.57124pt>
 File: Figures/Intro/DesertLocust.jpeg Graphic file (type jpg)
 
 <use Figures/Intro/DesertLocust.jpeg>
@@ -1895,10 +1945,11 @@ Package pdftex.def Info: Figures/Intro/DesertLocust.jpeg used on input line 28.
 (pdftex.def)             Requested size: 284.52756pt x 334.89803pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 33.
- [2] [3 <./Figures/Intro/DesertLocust.jpeg>]
+ [3 <./Figures/Intro/DesertLocust.jpeg>]
+[4] [5]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
- [4] [5]
+ [6] [7] [8] [9]
 Package epstopdf Info: Source file: <Figures/Intro/Sequencing_costs_over_time.e
 ps>
 (epstopdf)                    date: 2014-04-05 20:45:05
@@ -1913,7 +1964,7 @@ s>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/Sequencing_costs_over_time-eps-converted-to.pdf, id=921, 346.293
+<Figures/Intro/Sequencing_costs_over_time-eps-converted-to.pdf, id=941, 346.293
 75pt x 155.58125pt>
 File: Figures/Intro/Sequencing_costs_over_time-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -1926,7 +1977,12 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 75.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [6 <./Figures/Intro/Sequencing_costs_over_time-eps-converted-to.pdf>]
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 75.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 75.
+ [10 <./Figures/Intro/Sequencing_costs_over_time-eps-converted-to.pdf>] [11]
 Package epstopdf Info: Source file: <Figures/Intro/RNA_Sequencing_methodologies
 .eps>
 (epstopdf)                    date: 2014-04-05 20:46:11
@@ -1941,7 +1997,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 90.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/RNA_Sequencing_methodologies-eps-converted-to.pdf, id=966, 420.5
+<Figures/Intro/RNA_Sequencing_methodologies-eps-converted-to.pdf, id=992, 420.5
 7124pt x 311.1625pt>
 File: Figures/Intro/RNA_Sequencing_methodologies-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1955,8 +2011,8 @@ Overfull \hbox (3.09715pt too wide) in paragraph at lines 90--95
  [][] 
  []
 
-[7] [8 <./Figures/Intro/RNA_Sequencing_methodologies-eps-converted-to.pdf>]
-[9]
+[12] [13 <./Figures/Intro/RNA_Sequencing_methodologies-eps-converted-to.pdf>]
+[14] [15]
 Package epstopdf Info: Source file: <Figures/Intro/numberHumanGenesAndNumberSpl
 iced.eps>
 (epstopdf)                    date: 2014-04-08 15:45:10
@@ -1971,7 +2027,7 @@ erSpliced.eps>
 (epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf, id=1159, 
+<Figures/Intro/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf, id=1181, 
 332.24126pt x 160.6pt>
 File: Figures/Intro/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -1981,7 +2037,8 @@ Package pdftex.def Info: Figures/Intro/numberHumanGenesAndNumberSpliced-eps-con
 verted-to.pdf used on input line 116.
 (pdftex.def)             Requested size: 332.24043pt x 160.5996pt.
 
-[10 <./Figures/Intro/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf>]
+[16] [17 <./Figures/Intro/numberHumanGenesAndNumberSpliced-eps-converted-to.pdf
+>] [18]
 Overfull \hbox (18.46204pt too wide) in paragraph at lines 133--134
 \T1/phv/m/n/12 AS re-search now re-lies on large-scale (aka: \T1/phv/m/sl/12 gl
 obal, genome-wide, high-throughput\T1/phv/m/n/12 )
@@ -2001,7 +2058,7 @@ eps>
 (epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/SeqLengths_and_Connectivity-eps-converted-to.pdf, id=1205, 415.5
+<Figures/Intro/SeqLengths_and_Connectivity-eps-converted-to.pdf, id=1255, 415.5
 525pt x 327.2225pt>
 File: Figures/Intro/SeqLengths_and_Connectivity-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2010,9 +2067,9 @@ le (type pdf)
 Package pdftex.def Info: Figures/Intro/SeqLengths_and_Connectivity-eps-converte
 d-to.pdf used on input line 137.
 (pdftex.def)             Requested size: 415.55148pt x 327.2217pt.
- [11]
-[12 <./Figures/Intro/SeqLengths_and_Connectivity-eps-converted-to.pdf>]
-[13]
+ [19]
+[20 <./Figures/Intro/SeqLengths_and_Connectivity-eps-converted-to.pdf>]
+[21] [22]
 Package epstopdf Info: Source file: <Figures/Intro/Fibronectin.eps>
 (epstopdf)                    date: 2014-04-05 20:47:22
 (epstopdf)                    size: 488530 bytes
@@ -2025,14 +2082,14 @@ eps-converted-to.pdf Figures/Intro/Fibronectin.eps>
 (epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/Fibronectin-eps-converted-to.pdf, id=1295, 390.45876pt x 289.08p
+<Figures/Intro/Fibronectin-eps-converted-to.pdf, id=1333, 390.45876pt x 289.08p
 t>
 File: Figures/Intro/Fibronectin-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Intro/Fibronectin-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Intro/Fibronectin-eps-converted-to.pdf used on
  input line 162.
 (pdftex.def)             Requested size: 390.4578pt x 289.07928pt.
- [14] [15 <./Figures/Intro/Fibronectin-eps-converted-to.pdf>]
+ [23] [24 <./Figures/Intro/Fibronectin-eps-converted-to.pdf>] [25] [26]
 Package epstopdf Info: Source file: <Figures/Intro/ASEventTypesPlot.eps>
 (epstopdf)                    date: 2014-04-08 20:22:18
 (epstopdf)                    size: 397004 bytes
@@ -2045,7 +2102,7 @@ Plot-eps-converted-to.pdf Figures/Intro/ASEventTypesPlot.eps>
 (epstopdf)             \includegraphics on input line 185.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf, id=1365, 393.47pt x 172.6
+<Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf, id=1413, 393.47pt x 172.6
 45pt>
 File: Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2053,7 +2110,7 @@ f)
 Package pdftex.def Info: Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf us
 ed on input line 185.
 (pdftex.def)             Requested size: 393.46902pt x 172.64456pt.
- [16]
+ [27] [28 <./Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Intro/NumberOFTranscriptsPerFlyGen
 e.eps>
 (epstopdf)                    date: 2014-04-05 20:46:21
@@ -2068,7 +2125,7 @@ ene.eps>
 (epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf, id=1409, 413
+<Figures/Intro/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf, id=1469, 413
 .545pt x 291.0875pt>
 File: Figures/Intro/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -2079,6 +2136,8 @@ ted-to.pdf used on input line 200.
 (pdftex.def)             Requested size: 413.54398pt x 291.08678pt.
 
 (./Tables/FlyGenesWith1000sofTx.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 5.
 )
@@ -2086,12 +2145,13 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 215.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 215.
- [17 <./Figures/Intro/ASEventTypesPlot-eps-converted-to.pdf>]
+ [29 <./Figures/Intro/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf>]
 Overfull \hbox (5.35173pt too wide) in paragraph at lines 219--220
 []\T1/phv/m/n/12 Human \T1/phv/m/sl/12 Dscam \T1/phv/m/n/12 (Down Syn-drome Cel
 -lu-lar Ad-he-sion Molecule), for which \T1/phv/m/sl/12 Dscam1
  []
 
+[30]
 Package epstopdf Info: Source file: <Figures/Intro/DscamArch.eps>
 (epstopdf)                    date: 2014-04-05 20:47:35
 (epstopdf)                    size: 278643 bytes
@@ -2104,15 +2164,14 @@ s-converted-to.pdf Figures/Intro/DscamArch.eps>
 (epstopdf)             \includegraphics on input line 223.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/DscamArch-eps-converted-to.pdf, id=1444, 391.4625pt x 73.27374pt
+<Figures/Intro/DscamArch-eps-converted-to.pdf, id=1505, 391.4625pt x 73.27374pt
 >
 File: Figures/Intro/DscamArch-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Intro/DscamArch-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Intro/DscamArch-eps-converted-to.pdf used on i
 nput line 223.
 (pdftex.def)             Requested size: 391.46153pt x 73.27354pt.
- [18 <./Figures/Intro/NumberOFTranscriptsPerFlyGene-eps-converted-to.pdf>] [19 
-<./Figures/Intro/DscamArch-eps-converted-to.pdf>]
+ [31 <./Figures/Intro/DscamArch-eps-converted-to.pdf>]
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 237.
 
 
@@ -2121,6 +2180,7 @@ File: omsphv.fd
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 237.
+ [32]
 Package epstopdf Info: Source file: <Figures/Intro/DscamAnatomy.eps>
 (epstopdf)                    date: 2014-04-17 13:36:39
 (epstopdf)                    size: 467227 bytes
@@ -2133,14 +2193,15 @@ o.pdf>
 (epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/DscamAnatomy-eps-converted-to.pdf, id=1482, 384.43625pt x 499.86
+<Figures/Intro/DscamAnatomy-eps-converted-to.pdf, id=1536, 384.43625pt x 499.86
 75pt>
 File: Figures/Intro/DscamAnatomy-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Intro/DscamAnatomy-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Intro/DscamAnatomy-eps-converted-to.pdf used o
 n input line 247.
 (pdftex.def)             Requested size: 384.4353pt x 499.86627pt.
- [20] [21 <./Figures/Intro/DscamAnatomy-eps-converted-to.pdf>] [22] [23]
+ [33] [34 <./Figures/Intro/DscamAnatomy-eps-converted-to.pdf>] [35] [36] [37] [
+38]
 Package epstopdf Info: Source file: <Figures/Intro/LigationMechanism.eps>
 (epstopdf)                    date: 2014-04-05 20:46:54
 (epstopdf)                    size: 1806875 bytes
@@ -2153,7 +2214,7 @@ anism-eps-converted-to.pdf Figures/Intro/LigationMechanism.eps>
 (epstopdf)             \includegraphics on input line 282.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/LigationMechanism-eps-converted-to.pdf, id=1570, 374.39874pt x 5
+<Figures/Intro/LigationMechanism-eps-converted-to.pdf, id=1635, 374.39874pt x 5
 18.93875pt>
 File: Figures/Intro/LigationMechanism-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2161,14 +2222,14 @@ df)
 Package pdftex.def Info: Figures/Intro/LigationMechanism-eps-converted-to.pdf u
 sed on input line 282.
 (pdftex.def)             Requested size: 374.39783pt x 518.93748pt.
- [24]
-[25 <./Figures/Intro/LigationMechanism-eps-converted-to.pdf>]
+ [39]
+[40 <./Figures/Intro/LigationMechanism-eps-converted-to.pdf>] [41]
 Overfull \hbox (8.58342pt too wide) in paragraph at lines 297--298
 \T1/phv/m/n/12 lig-ase, Chlorella Virus PBCV-1 DNA lig-ase (herein Chlorella DN
 A lig-ase) [[][]Lohman
  []
 
-[26]
+[42] [43]
 Package epstopdf Info: Source file: <Figures/Intro/Rnl2_Structure.eps>
 (epstopdf)                    date: 2014-04-05 20:45:37
 (epstopdf)                    size: 5375521 bytes
@@ -2181,7 +2242,7 @@ re-eps-converted-to.pdf Figures/Intro/Rnl2_Structure.eps>
 (epstopdf)             \includegraphics on input line 312.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/Rnl2_Structure-eps-converted-to.pdf, id=1682, 355.3275pt x 292.0
+<Figures/Intro/Rnl2_Structure-eps-converted-to.pdf, id=1753, 355.3275pt x 292.0
 9125pt>
 File: Figures/Intro/Rnl2_Structure-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2189,6 +2250,7 @@ File: Figures/Intro/Rnl2_Structure-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/Intro/Rnl2_Structure-eps-converted-to.pdf used
  on input line 312.
 (pdftex.def)             Requested size: 355.32661pt x 292.09052pt.
+ [44] [45 <./Figures/Intro/Rnl2_Structure-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Intro/Rnl2_Active_Site_Residues.ep
 s>
 (epstopdf)                    date: 2014-04-14 12:02:08
@@ -2203,7 +2265,7 @@ Site_Residues-eps-converted-to.pdf Figures/Intro/Rnl2_Active_Site_Residues.eps>
 (epstopdf)             \includegraphics on input line 325.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/Rnl2_Active_Site_Residues-eps-converted-to.pdf, id=1701, 216.81p
+<Figures/Intro/Rnl2_Active_Site_Residues-eps-converted-to.pdf, id=1797, 216.81p
 t x 216.81pt>
 File: Figures/Intro/Rnl2_Active_Site_Residues-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -2218,14 +2280,14 @@ Overfull \hbox (4.62138pt too wide) in paragraph at lines 334--335
 tant^^Q) has no adenyl-
  []
 
-[27] [28 <./Figures/Intro/Rnl2_Structure-eps-converted-to.pdf>] [29 <./Figures/
-Intro/Rnl2_Active_Site_Residues-eps-converted-to.pdf>]
+[46 <./Figures/Intro/Rnl2_Active_Site_Residues-eps-converted-to.pdf>] [47]
+[48] [49]
 Overfull \hbox (15.67416pt too wide) in paragraph at lines 353--354
 \T1/phv/m/n/12 cern-ing \T1/phv/m/sl/12 func-tion\T1/phv/m/n/12 . The most fa-m
 ous func-tion for piR-NAs in \T1/phv/m/sl/12 Drosophila melanogaster
  []
 
-[30]
+[50]
 Package epstopdf Info: Source file: <Figures/Intro/MammalianPiRNAClassesOverTim
 e.eps>
 (epstopdf)                    date: 2014-04-05 20:46:32
@@ -2240,7 +2302,7 @@ ime.eps>
 (epstopdf)             \includegraphics on input line 359.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/MammalianPiRNAClassesOverTime-eps-converted-to.pdf, id=1829, 415
+<Figures/Intro/MammalianPiRNAClassesOverTime-eps-converted-to.pdf, id=1917, 415
 .5525pt x 324.21124pt>
 File: Figures/Intro/MammalianPiRNAClassesOverTime-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -2249,13 +2311,13 @@ file (type pdf)
 Package pdftex.def Info: Figures/Intro/MammalianPiRNAClassesOverTime-eps-conver
 ted-to.pdf used on input line 359.
 (pdftex.def)             Requested size: 415.55148pt x 324.21045pt.
-
+ [51]
 Overfull \hbox (5.51341pt too wide) in paragraph at lines 370--371
 [][]\T1/phv/m/n/12 Oak-berg and Oak-berq[][], [][]1956[][]] reaches meio-sis, p
 achytene piR-NAs are ex-pressed
  []
 
-[31]
+[52 <./Figures/Intro/MammalianPiRNAClassesOverTime-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Intro/FlamencoLocus.eps>
 (epstopdf)                    date: 2014-04-05 20:47:09
 (epstopdf)                    size: 385455 bytes
@@ -2268,38 +2330,38 @@ s-eps-converted-to.pdf Figures/Intro/FlamencoLocus.eps>
 (epstopdf)             \includegraphics on input line 374.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Intro/FlamencoLocus-eps-converted-to.pdf, id=1880, 375.4025pt x 234.87
+<Figures/Intro/FlamencoLocus-eps-converted-to.pdf, id=1971, 375.4025pt x 234.87
 75pt>
 File: Figures/Intro/FlamencoLocus-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Intro/FlamencoLocus-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Intro/FlamencoLocus-eps-converted-to.pdf used 
 on input line 374.
 (pdftex.def)             Requested size: 375.40158pt x 234.87692pt.
- [32 <./Figures/Intro/MammalianPiRNAClassesOverTime-eps-converted-to.pdf>] [33 
-<./Figures/Intro/FlamencoLocus-eps-converted-to.pdf>]
-<Figures/Intro/mammalian_piRNA_pathway.png, id=1968, 232.7094pt x 289.08pt>
+ [53] [54 <./Figures/Intro/FlamencoLocus-eps-converted-to.pdf>] [55]
+<Figures/Intro/mammalian_piRNA_pathway.png, id=2069, 232.7094pt x 289.08pt>
 File: Figures/Intro/mammalian_piRNA_pathway.png Graphic file (type png)
 
 <use Figures/Intro/mammalian_piRNA_pathway.png>
 Package pdftex.def Info: Figures/Intro/mammalian_piRNA_pathway.png used on inpu
 t line 395.
 (pdftex.def)             Requested size: 232.70882pt x 289.07928pt.
-
+ [56]
 Overfull \hbox (6.9149pt too wide) in paragraph at lines 409--410
 []\T1/phv/m/n/12 How does does one rec-on-cile these find-ings with the ex-trem
 ely uniquely-mapping
  []
 
-[34] [35 <./Figures/Intro/mammalian_piRNA_pathway.png>] [36])
-(./Chapters/Chapter2-Roy2014.tex [37]
+[57 <./Figures/Intro/mammalian_piRNA_pathway.png>] [58] [59] [60] [61] [62])
+(./Chapters/Chapter2-Roy2014.tex
 Chapter 2.
 ------------------------------------------------------------------------------
  2 Simultaneous analysis of multiple site alternative splicing via RNA-template
 d DNA-to-DNA ligation
 ------------------------------------------------------------------------------
-[38
+[63
 
-]
+
+] [64] [65]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014Fig1.eps>
 (epstopdf)                    date: 2014-04-05 21:06:18
 (epstopdf)                    size: 300514 bytes
@@ -2312,7 +2374,7 @@ ted-to.pdf>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf, id=2129, 409.53pt x 143.
+<Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf, id=2246, 409.53pt x 143.
 53625pt>
 File: Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2320,8 +2382,7 @@ df)
 Package pdftex.def Info: Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf u
 sed on input line 21.
 (pdftex.def)             Requested size: 409.52899pt x 143.53589pt.
- [39]
-[40 <./Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf>]
+ [66 <./Figures/SeqZipPaper/Roy2014Fig1-eps-converted-to.pdf>] [67]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014Fig2.eps>
 (epstopdf)                    date: 2014-04-04 20:42:52
 (epstopdf)                    size: 7810451 bytes
@@ -2334,7 +2395,7 @@ ted-to.pdf>
 (epstopdf)             \includegraphics on input line 40.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf, id=2178, 387.4475pt x 35
+<Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf, id=2289, 387.4475pt x 35
 8.33875pt>
 File: Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2342,11 +2403,14 @@ df)
 Package pdftex.def Info: Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf u
 sed on input line 40.
 (pdftex.def)             Requested size: 387.44655pt x 358.33788pt.
- [41 <./Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf>] [42] [43]
+ [68]
+[69 <./Figures/SeqZipPaper/Roy2014Fig2-eps-converted-to.pdf>] [70] [71]
+[72]
 Overfull \hbox (0.8268pt too wide) in paragraph at lines 69--69
  |[]\T1/phv/b/n/14.4 SeqZip is com-pa-ra-ble to RT for en-doge-nous mRNA iso-
  []
 
+[73]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014Fig3.eps>
 (epstopdf)                    date: 2014-04-04 20:45:14
 (epstopdf)                    size: 7398250 bytes
@@ -2359,7 +2423,7 @@ ted-to.pdf>
 (epstopdf)             \includegraphics on input line 78.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf, id=2271, 390.45876pt x 4
+<Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf, id=2395, 390.45876pt x 4
 78.78876pt>
 File: Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2367,13 +2431,13 @@ df)
 Package pdftex.def Info: Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf u
 sed on input line 78.
 (pdftex.def)             Requested size: 390.4578pt x 478.78758pt.
- [44]
-[45 <./Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf>]
+ [74]
+[75 <./Figures/SeqZipPaper/Roy2014Fig3-eps-converted-to.pdf>]
 Overfull \hbox (2.41231pt too wide) in paragraph at lines 100--100
  |[]\T1/phv/b/n/14.4 SeqZip main-tains con-nec-tiv-ity and abun-dance be-tween
  []
 
-[46] [47]
+[76] [77] [78] [79]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014Fig4.eps>
 (epstopdf)                    date: 2014-04-18 11:04:15
 (epstopdf)                    size: 4763850 bytes
@@ -2386,7 +2450,7 @@ ted-to.pdf>
 (epstopdf)             \includegraphics on input line 118.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014Fig4-eps-converted-to.pdf, id=2360, 382.42876pt x 4
+<Figures/SeqZipPaper/Roy2014Fig4-eps-converted-to.pdf, id=2494, 382.42876pt x 4
 61.725pt>
 File: Figures/SeqZipPaper/Roy2014Fig4-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2406,7 +2470,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014FigS1-eps-converted-to.pdf, id=2367, 362.35374pt x 
+<Figures/SeqZipPaper/Roy2014FigS1-eps-converted-to.pdf, id=2501, 362.35374pt x 
 382.42876pt>
 File: Figures/SeqZipPaper/Roy2014FigS1-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2445,8 +2509,8 @@ Overfull \hbox (4.76637pt too wide) in paragraph at lines 140--141
 ex-act iso-form set present
  []
 
-[48] [49 <./Figures/SeqZipPaper/Roy2014Fig4-eps-converted-to.pdf>] [50 <./Figur
-es/SeqZipPaper/Roy2014FigS1-eps-converted-to.pdf>]
+[80] [81 <./Figures/SeqZipPaper/Roy2014Fig4-eps-converted-to.pdf>] [82 <./Figur
+es/SeqZipPaper/Roy2014FigS1-eps-converted-to.pdf>] [83] [84]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014FigS2.eps>
 (epstopdf)                    date: 2014-04-15 12:41:24
 (epstopdf)                    size: 1184610 bytes
@@ -2459,7 +2523,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014FigS2-eps-converted-to.pdf, id=2479, 387.4475pt x 4
+<Figures/SeqZipPaper/Roy2014FigS2-eps-converted-to.pdf, id=2621, 387.4475pt x 4
 90.83376pt>
 File: Figures/SeqZipPaper/Roy2014FigS2-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2479,7 +2543,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014FigS3-eps-converted-to.pdf, id=2480, 415.5525pt x 1
+<Figures/SeqZipPaper/Roy2014FigS3-eps-converted-to.pdf, id=2622, 415.5525pt x 1
 94.7275pt>
 File: Figures/SeqZipPaper/Roy2014FigS3-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2487,8 +2551,9 @@ pdf)
 Package pdftex.def Info: Figures/SeqZipPaper/Roy2014FigS3-eps-converted-to.pdf 
 used on input line 159.
 (pdftex.def)             Requested size: 415.55148pt x 194.727pt.
- [51]
-[52 <./Figures/SeqZipPaper/Roy2014FigS2-eps-converted-to.pdf>]
+ [85]
+[86 <./Figures/SeqZipPaper/Roy2014FigS2-eps-converted-to.pdf>] [87 <./Figures/S
+eqZipPaper/Roy2014FigS3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014FigS4.eps>
 (epstopdf)                    date: 2014-04-15 12:44:47
 (epstopdf)                    size: 1038378 bytes
@@ -2501,7 +2566,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 177.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf, id=2524, 401.5pt x 159.
+<Figures/SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf, id=2686, 401.5pt x 159.
 59625pt>
 File: Figures/SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2509,8 +2574,7 @@ pdf)
 Package pdftex.def Info: Figures/SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf 
 used on input line 177.
 (pdftex.def)             Requested size: 401.49901pt x 159.59584pt.
- [53 <./Figures/SeqZipPaper/Roy2014FigS3-eps-converted-to.pdf>] [54 <./Figures/
-SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf>]
+ [88 <./Figures/SeqZipPaper/Roy2014FigS4-eps-converted-to.pdf>] [89]
 Package epstopdf Info: Source file: <Figures/SeqZipPaper/Roy2014Fig5.eps>
 (epstopdf)                    date: 2014-04-18 11:05:10
 (epstopdf)                    size: 3760146 bytes
@@ -2523,7 +2587,7 @@ ted-to.pdf>
 (epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014Fig5-eps-converted-to.pdf, id=2581, 348.30125pt x 4
+<Figures/SeqZipPaper/Roy2014Fig5-eps-converted-to.pdf, id=2726, 348.30125pt x 4
 27.5975pt>
 File: Figures/SeqZipPaper/Roy2014Fig5-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2543,7 +2607,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 201.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipPaper/Roy2014FigS5-eps-converted-to.pdf, id=2582, 366.36874pt x 
+<Figures/SeqZipPaper/Roy2014FigS5-eps-converted-to.pdf, id=2727, 366.36874pt x 
 396.48125pt>
 File: Figures/SeqZipPaper/Roy2014FigS5-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2552,36 +2616,49 @@ Package pdftex.def Info: Figures/SeqZipPaper/Roy2014FigS5-eps-converted-to.pdf
 used on input line 201.
 (pdftex.def)             Requested size: 366.36784pt x 396.48027pt.
 
-[55 <./Figures/SeqZipPaper/Roy2014Fig5-eps-converted-to.pdf>] [56 <./Figures/Se
-qZipPaper/Roy2014FigS5-eps-converted-to.pdf>] [57] [58]
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-[59]
+[90] [91 <./Figures/SeqZipPaper/Roy2014Fig5-eps-converted-to.pdf>] [92 <./Figur
+es/SeqZipPaper/Roy2014FigS5-eps-converted-to.pdf>] [93] [94] [95] [96] [97]
 Overfull \hbox (0.42142pt too wide) in paragraph at lines 242--243
 \T1/phv/m/n/12 mor-tal-ized us-ing SV40 retro-vi-ral in-fec-tion. Mixed Drosoph
 ila melanogaster
  []
 
-[60]
-Overfull \hbox (2.76108pt too wide) in paragraph at lines 250--252
-\T1/phv/m/n/12 ''and se-quenced on a PacBio RS II. Cir-cu-lar Con-sen-sus reads
- were aligned
+[98] [99] [100]
+Overfull \hbox (6.07298pt too wide) in paragraph at lines 260--261
+\T1/phv/m/n/12 i-ments were per-formed by mix-ing plas-mids en-cod-ing iso-form
+s \T1/phv/m/sl/12 Dscam1$[]$\T1/phv/m/n/12 ,
  []
 
 
-Overfull \hbox (9.19325pt too wide) in paragraph at lines 256--258
-\T1/phv/m/n/12 ments us-ing bowtie2 [[][]Lang-mead and Salzberg[][], [][]2012[]
-[]] in the ``-very-sensitive-
+Overfull \hbox (5.9445pt too wide) in paragraph at lines 260--261
+\T1/phv/m/sl/12 Dscam1$[]$\T1/phv/m/n/12 , \T1/phv/m/sl/12 Dscam1$[]$\T1/phv/m/
+n/12 , and \T1/phv/m/sl/12 Dscam1$[]$ \T1/phv/m/n/12 in the ra-tios of 3:3:1:1,
+ 1:1:1:5,
  []
 
-[61]
+[101] [102]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 266.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 266.
- [62] [63]) (./Chapters/Chapter3-Li2013.tex [64]
+
+Overfull \hbox (31.76085pt too wide) in paragraph at lines 267--268
+[]\T1/phv/m/n/12 Endogenous \T1/phv/m/sl/12 Dscam1
+ []
+
+[103]
+Overfull \hbox (3.26164pt too wide) in paragraph at lines 273--274
+[]\T1/phv/m/n/12 Reverse tran-scrip-tion was per-formed us-ing Su-per-Script
+ []
+
+
+Overfull \hbox (4.1758pt too wide) in paragraph at lines 282--283
+\T1/phv/m/n/12 de-vi-a-tions ac-cord-ing to the for-mula $\OT1/cmr/m/n/12 ^^A$\
+T1/phv/m/n/12 Z = Z(SQRT((($\OT1/cmr/m/n/12 ^^A$\T1/phv/m/n/12 A/A)^2)+(($\OT1/
+cmr/m/n/12 ^^A$\T1/phv/m/n/12 B/B)^2)))
+ []
+
+[104] [105]) (./Chapters/Chapter3-Li2013.tex
 Chapter 3.
 ------------------------------------------------------------------------------
  3 An Ancient Transcription Factor Initiates the Burst of piRNA Production duri
@@ -2604,20 +2681,22 @@ Overfull \hbox (23.87248pt too wide) in paragraph at lines 19--21
  / molecular-[]cell / abstract / S1097-[]2765(13 )
  []
 
-[65
+[106
 
-] [66]
+
+] [107] [108]
 Overfull \hbox (11.4265pt too wide) in paragraph at lines 35--36
 \T1/phv/m/n/12 genes en-cod-ing pro-teins re-quired for cell-cycle pro-gres-sio
 n through the pachytene
  []
 
-
+[109]
 Overfull \hbox (22.60107pt too wide) in paragraph at lines 39--39
  |[]\T1/phv/b/n/14.4 Defining piRNA-Producing Tran-scripts in the Mouse Testis|
  
  []
 
+[110]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig1.eps>
 (epstopdf)                    date: 2014-04-05 21:15:21
 (epstopdf)                    size: 559216 bytes
@@ -2630,7 +2709,7 @@ Fig1-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig1.eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig1-eps-converted-to.pdf, id=2865, 320.19624pt x 44
+<Figures/MolCel/MolCel2013_Fig1-eps-converted-to.pdf, id=3054, 320.19624pt x 44
 4.66125pt>
 File: Figures/MolCel/MolCel2013_Fig1-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2650,7 +2729,7 @@ FigS1-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS1.eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS1-eps-converted-to.pdf, id=2868, 369.38pt x 504.
+<Figures/MolCel/MolCel2013_FigS1-eps-converted-to.pdf, id=3057, 369.38pt x 504.
 88625pt>
 File: Figures/MolCel/MolCel2013_FigS1-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2658,9 +2737,9 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS1-eps-converted-to.pdf u
 sed on input line 56.
 (pdftex.def)             Requested size: 369.37909pt x 504.885pt.
- [67]
-[68 <./Figures/MolCel/MolCel2013_Fig1-eps-converted-to.pdf>] [69 <./Figures/Mol
-Cel/MolCel2013_FigS1-eps-converted-to.pdf>] [70] [71]
+ [111]
+[112 <./Figures/MolCel/MolCel2013_Fig1-eps-converted-to.pdf>] [113 <./Figures/M
+olCel/MolCel2013_FigS1-eps-converted-to.pdf>] [114] [115] [116] [117]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig2.eps>
 (epstopdf)                    date: 2014-04-05 21:15:13
 (epstopdf)                    size: 688247 bytes
@@ -2673,7 +2752,7 @@ Fig2-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig2.eps>
 (epstopdf)             \includegraphics on input line 93.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig2-eps-converted-to.pdf, id=3012, 370.38374pt x 48
+<Figures/MolCel/MolCel2013_Fig2-eps-converted-to.pdf, id=3208, 370.38374pt x 48
 5.815pt>
 File: Figures/MolCel/MolCel2013_Fig2-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2693,7 +2772,7 @@ FigS2-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS2.eps>
 (epstopdf)             \includegraphics on input line 102.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS2-eps-converted-to.pdf, id=3015, 408.52625pt x 5
+<Figures/MolCel/MolCel2013_FigS2-eps-converted-to.pdf, id=3211, 408.52625pt x 5
 36.0025pt>
 File: Figures/MolCel/MolCel2013_FigS2-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2701,9 +2780,9 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS2-eps-converted-to.pdf u
 sed on input line 102.
 (pdftex.def)             Requested size: 408.52525pt x 536.00119pt.
- [72]
-[73 <./Figures/MolCel/MolCel2013_Fig2-eps-converted-to.pdf>] [74 <./Figures/Mol
-Cel/MolCel2013_FigS2-eps-converted-to.pdf>] [75]
+ [118]
+[119 <./Figures/MolCel/MolCel2013_Fig2-eps-converted-to.pdf>] [120 <./Figures/M
+olCel/MolCel2013_FigS2-eps-converted-to.pdf>] [121] [122]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig3.eps>
 (epstopdf)                    date: 2014-04-05 21:15:06
 (epstopdf)                    size: 1391444 bytes
@@ -2716,7 +2795,7 @@ Fig3-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig3.eps>
 (epstopdf)             \includegraphics on input line 121.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig3-eps-converted-to.pdf, id=3117, 482.80376pt x 28
+<Figures/MolCel/MolCel2013_Fig3-eps-converted-to.pdf, id=3312, 482.80376pt x 28
 9.08pt>
 File: Figures/MolCel/MolCel2013_Fig3-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2736,7 +2815,7 @@ FigS3-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS3.eps>
 (epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS3-eps-converted-to.pdf, id=3126, 387.4475pt x 28
+<Figures/MolCel/MolCel2013_FigS3-eps-converted-to.pdf, id=3321, 387.4475pt x 28
 9.08pt>
 File: Figures/MolCel/MolCel2013_FigS3-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2744,17 +2823,17 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS3-eps-converted-to.pdf u
 sed on input line 131.
 (pdftex.def)             Requested size: 387.44655pt x 289.07928pt.
- [76 <./Figures/MolCel/MolCel2013_Fig3-eps-converted-to.pdf>] [77 <./Figures/Mo
-lCel/MolCel2013_FigS3-eps-converted-to.pdf>]
+ [123 <./Figures/MolCel/MolCel2013_Fig3-eps-converted-to.pdf>] [124 <./Figures/
+MolCel/MolCel2013_FigS3-eps-converted-to.pdf>] [125
+
+
+]
 Overfull \hbox (9.74092pt too wide) in paragraph at lines 150--150
  |[]\T1/phv/b/sl/14.4 A-Myb \T1/phv/b/n/14.4 Reg-u-lates Pachytene piRNA Pre-cu
 r-sor Tran-scrip-
  []
 
-[78
-
-
-]
+[126]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig4.eps>
 (epstopdf)                    date: 2014-04-05 21:14:58
 (epstopdf)                    size: 628668 bytes
@@ -2767,7 +2846,7 @@ Fig4-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig4.eps>
 (epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig4-eps-converted-to.pdf, id=3198, 393.47pt x 391.4
+<Figures/MolCel/MolCel2013_Fig4-eps-converted-to.pdf, id=3397, 393.47pt x 391.4
 625pt>
 File: Figures/MolCel/MolCel2013_Fig4-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2787,7 +2866,7 @@ FigS4-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS4.eps>
 (epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS4-eps-converted-to.pdf, id=3201, 385.44pt x 454.
+<Figures/MolCel/MolCel2013_FigS4-eps-converted-to.pdf, id=3400, 385.44pt x 454.
 69875pt>
 File: Figures/MolCel/MolCel2013_FigS4-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2801,20 +2880,20 @@ Overfull \hbox (11.036pt too wide) in paragraph at lines 176--177
  B-MYB (MYBL2),
  []
 
-
+[127] [128 <./Figures/MolCel/MolCel2013_Fig4-eps-converted-to.pdf>] [129 <./Fig
+ures/MolCel/MolCel2013_FigS4-eps-converted-to.pdf>]
 Overfull \hbox (22.04675pt too wide) in paragraph at lines 178--179
 \T1/phv/m/n/12 scrip-tion, we used anti-A-MYB an-ti-body to per-form ChIP fol-l
 owed by high-throughput
  []
 
-[79] [80 <./Figures/MolCel/MolCel2013_Fig4-eps-converted-to.pdf>] [81 <./Figure
-s/MolCel/MolCel2013_FigS4-eps-converted-to.pdf>]
+[130]
 Overfull \hbox (1.7305pt too wide) in paragraph at lines 182--183
 \T1/phv/m/n/12 scripts^^Vboth di-ver-gently and uni-di-rec-tion-ally tran-scrib
 ed^^Vwere sig-nif-i-cantly de-
  []
 
-[82]
+[131]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig5.eps>
 (epstopdf)                    date: 2014-04-05 21:14:50
 (epstopdf)                    size: 409907 bytes
@@ -2827,7 +2906,7 @@ Fig5-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig5.eps>
 (epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig5-eps-converted-to.pdf, id=3314, 399.4925pt x 415
+<Figures/MolCel/MolCel2013_Fig5-eps-converted-to.pdf, id=3518, 399.4925pt x 415
 .5525pt>
 File: Figures/MolCel/MolCel2013_Fig5-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2847,7 +2926,7 @@ FigS5-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS5.eps>
 (epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS5-eps-converted-to.pdf, id=3317, 308.15125pt x 2
+<Figures/MolCel/MolCel2013_FigS5-eps-converted-to.pdf, id=3521, 308.15125pt x 2
 54.9525pt>
 File: Figures/MolCel/MolCel2013_FigS5-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2855,13 +2934,15 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS5-eps-converted-to.pdf u
 sed on input line 200.
 (pdftex.def)             Requested size: 308.15048pt x 254.95186pt.
- [83 <./Figures/MolCel/MolCel2013_Fig5-eps-converted-to.pdf>] [84 <./Figures/Mo
-lCel/MolCel2013_FigS5-eps-converted-to.pdf>]
+ [132]
+[133 <./Figures/MolCel/MolCel2013_Fig5-eps-converted-to.pdf>] [134 <./Figures/M
+olCel/MolCel2013_FigS5-eps-converted-to.pdf>]
 Overfull \hbox (2.06575pt too wide) in paragraph at lines 212--212
  |[]\T1/phv/b/sl/14.4 A-Myb \T1/phv/b/n/14.4 Reg-u-lates Ex-pres-sion of piRNA 
 Bio-gen-e-sis Fac-
  []
 
+[135] [136]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig6.eps>
 (epstopdf)                    date: 2014-04-05 21:14:40
 (epstopdf)                    size: 2507933 bytes
@@ -2874,7 +2955,7 @@ Fig6-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig6.eps>
 (epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig6-eps-converted-to.pdf, id=3391, 396.48125pt x 34
+<Figures/MolCel/MolCel2013_Fig6-eps-converted-to.pdf, id=3607, 396.48125pt x 34
 5.29pt>
 File: Figures/MolCel/MolCel2013_Fig6-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2894,7 +2975,7 @@ FigS6-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS6.eps>
 (epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS6-eps-converted-to.pdf, id=3394, 342.27875pt x 3
+<Figures/MolCel/MolCel2013_FigS6-eps-converted-to.pdf, id=3610, 342.27875pt x 3
 57.335pt>
 File: Figures/MolCel/MolCel2013_FigS6-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2902,9 +2983,9 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS6-eps-converted-to.pdf u
 sed on input line 234.
 (pdftex.def)             Requested size: 342.2779pt x 357.33412pt.
- [85]
-[86 <./Figures/MolCel/MolCel2013_Fig6-eps-converted-to.pdf>] [87 <./Figures/Mol
-Cel/MolCel2013_FigS6-eps-converted-to.pdf>] [88]
+ [137]
+[138 <./Figures/MolCel/MolCel2013_Fig6-eps-converted-to.pdf>] [139 <./Figures/M
+olCel/MolCel2013_FigS6-eps-converted-to.pdf>] [140]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig7.eps>
 (epstopdf)                    date: 2014-04-05 21:14:32
 (epstopdf)                    size: 15598771 bytes
@@ -2917,7 +2998,7 @@ Fig7-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig7.eps>
 (epstopdf)             \includegraphics on input line 257.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig7-eps-converted-to.pdf, id=3537, 415.5525pt x 502
+<Figures/MolCel/MolCel2013_Fig7-eps-converted-to.pdf, id=3750, 415.5525pt x 502
 .87875pt>
 File: Figures/MolCel/MolCel2013_Fig7-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2937,7 +3018,7 @@ FigS7-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS7.eps>
 (epstopdf)             \includegraphics on input line 267.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS7-eps-converted-to.pdf, id=3540, 336.25626pt x 4
+<Figures/MolCel/MolCel2013_FigS7-eps-converted-to.pdf, id=3753, 336.25626pt x 4
 14.54875pt>
 File: Figures/MolCel/MolCel2013_FigS7-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2945,14 +3026,15 @@ df)
 Package pdftex.def Info: Figures/MolCel/MolCel2013_FigS7-eps-converted-to.pdf u
 sed on input line 267.
 (pdftex.def)             Requested size: 336.25543pt x 414.54773pt.
-
+ [141]
+[142 <./Figures/MolCel/MolCel2013_Fig7-eps-converted-to.pdf>] [143 <./Figures/M
+olCel/MolCel2013_FigS7-eps-converted-to.pdf>] [144]
 Overfull \hbox (1.5644pt too wide) in paragraph at lines 288--289
 \T1/phv/m/n/12 Is A-MYB-mediated, feed-for-ward con-trol a gen-eral fea-ture of
  reg-u-la-tion of piRNA
  []
 
-[89] [90 <./Figures/MolCel/MolCel2013_Fig7-eps-converted-to.pdf>] [91 <./Figure
-s/MolCel/MolCel2013_FigS7-eps-converted-to.pdf>]
+[145] [146]
 Package epstopdf Info: Source file: <Figures/MolCel/MolCel2013_Fig8.eps>
 (epstopdf)                    date: 2014-04-05 21:14:19
 (epstopdf)                    size: 1459041 bytes
@@ -2965,7 +3047,7 @@ Fig8-eps-converted-to.pdf Figures/MolCel/MolCel2013_Fig8.eps>
 (epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_Fig8-eps-converted-to.pdf, id=3606, 401.5pt x 526.96
+<Figures/MolCel/MolCel2013_Fig8-eps-converted-to.pdf, id=3834, 401.5pt x 526.96
 875pt>
 File: Figures/MolCel/MolCel2013_Fig8-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2985,7 +3067,7 @@ FigS8-eps-converted-to.pdf Figures/MolCel/MolCel2013_FigS8.eps>
 (epstopdf)             \includegraphics on input line 306.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/MolCel/MolCel2013_FigS8-eps-converted-to.pdf, id=3609, 407.5225pt x 45
+<Figures/MolCel/MolCel2013_FigS8-eps-converted-to.pdf, id=3837, 407.5225pt x 45
 9.7175pt>
 File: Figures/MolCel/MolCel2013_FigS8-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2999,14 +3081,14 @@ Overfull \hbox (7.18968pt too wide) in paragraph at lines 314--315
 ip-tion of some piRNA
  []
 
-[92] [93 <./Figures/MolCel/MolCel2013_Fig8-eps-converted-to.pdf>] [94 <./Figure
-s/MolCel/MolCel2013_FigS8-eps-converted-to.pdf>]
+[147] [148 <./Figures/MolCel/MolCel2013_Fig8-eps-converted-to.pdf>] [149 <./Fig
+ures/MolCel/MolCel2013_FigS8-eps-converted-to.pdf>] [150]
 Overfull \hbox (3.17336pt too wide) in paragraph at lines 327--328
 \T1/phv/m/n/12 mam-mals be-gin as long, single-stranded pre-cur-sors gen-er-ate
 d by testis-specific,
  []
 
-[95] [96] [97]
+[151] [152] [153] [154] [155]
 Overfull \hbox (29.18927pt too wide) in paragraph at lines 355--357
 \T1/phv/m/n/12 Spo11tm1Sky in a C57BL/6J back-ground; and Piwil$[]$ in a mixed 
 129X1/SvJ
@@ -3024,13 +3106,13 @@ Overfull \hbox (12.97258pt too wide) in paragraph at lines 358--360
 bed [[][]Ghildiyal
  []
 
-
+[156]
 Overfull \hbox (0.2169pt too wide) in paragraph at lines 363--365
 \T1/phv/m/n/12 piRNA pre-cur-sor tran-scripts to ob-tain splice junction-mappin
 g small RNAs.
  []
 
-[98]
+[157] [158]
 Overfull \hbox (3.91356pt too wide) in paragraph at lines 369--371
 \T1/phv/m/n/12 PAS-seq li-braries (Ta-ble S1) were pre-pared es-sen-tially as d
 e-scribed [[][]Shep-
@@ -3042,35 +3124,36 @@ Overfull \hbox (9.10893pt too wide) in paragraph at lines 369--371
 sine residues.
  []
 
-[99] (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
-)
+) [159]
 Overfull \hbox (5.94174pt too wide) in paragraph at lines 380--382
 \T1/phv/m/n/12 specific RNA-seq data from adult testes was per-formed us-ing Tr
 in-ity (r2012-
  []
 
-
+[160]
 Overfull \hbox (1.6356pt too wide) in paragraph at lines 383--384
 []\T1/phv/m/n/12 We ex-tracted novel junc-tions from Trin-ity (i.e., reads with
  [0-9]+M[0-9]+N[0-
  []
 
-[100] [101]
+[161] [162] [163]
 Overfull \hbox (2.7283pt too wide) in paragraph at lines 409--411
 \T1/phv/m/n/12 MYB (HPA008791; Sigma, St. Louis, MO, USA) or anti-H3K4me3 (ab85
 80;
  []
 
-[102] [103]) (./Chapters/Chapter4-SeqZip.tex [104]
+[164] [165] [166] [167]) (./Chapters/Chapter4-SeqZip.tex
 Chapter 4.
 ------------------------------------------------------------------------------
  4 SeqZip - Development and Applications
 ------------------------------------------------------------------------------
-[105
+[168
+
 
 ]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/OriginalSeqZipDiagram
@@ -3087,7 +3170,7 @@ m.eps>
 (epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-converted-to.pdf, id=3863, 396.
+<Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-converted-to.pdf, id=4122, 396.
 48125pt x 197.73875pt>
 File: Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -3096,9 +3179,9 @@ ile (type pdf)
 Package pdftex.def Info: Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-convert
 ed-to.pdf used on input line 15.
 (pdftex.def)             Requested size: 396.48027pt x 197.73827pt.
- [106 <./Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-converted-to.pdf>] [107
-]
-(./Tables/BigSpanGenes.tex)
+ [169]
+[170 <./Figures/SeqZipMethod/OriginalSeqZipDiagram-eps-converted-to.pdf>]
+[171] [172] (./Tables/BigSpanGenes.tex) [173]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/10GeneSetSchematic.ep
 s>
 (epstopdf)                    date: 2014-04-04 21:23:45
@@ -3113,7 +3196,7 @@ eSetSchematic-eps-converted-to.pdf Figures/SeqZipMethod/10GeneSetSchematic.eps>
 (epstopdf)             \includegraphics on input line 60.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf, id=3952, 344.286
+<Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf, id=4226, 344.286
 25pt x 370.38374pt>
 File: Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -3122,8 +3205,8 @@ File: Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf Graphic file
 Package pdftex.def Info: Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-
 to.pdf used on input line 60.
 (pdftex.def)             Requested size: 344.2854pt x 370.38283pt.
- [108]
-[109 <./Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf>]
+ [174]
+[175 <./Figures/SeqZipMethod/10GeneSetSchematic-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/Apbb1.eps>
 (epstopdf)                    date: 2014-04-21 08:54:46
 (epstopdf)                    size: 1411562 bytes
@@ -3136,14 +3219,14 @@ o.pdf>
 (epstopdf)             \includegraphics on input line 75.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf, id=3976, 393.47pt x 271.0125p
+<Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf, id=4249, 393.47pt x 271.0125p
 t>
 File: Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf used o
 n input line 75.
 (pdftex.def)             Requested size: 393.46902pt x 271.01183pt.
- [110 <./Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf>]
+ [176 <./Figures/SeqZipMethod/Apbb1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/DegreadedRNABySeqZip.
 eps>
 (epstopdf)                    date: 2014-04-04 20:38:28
@@ -3158,7 +3241,7 @@ eps>
 (epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converted-to.pdf, id=3989, 288.0
+<Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converted-to.pdf, id=4262, 288.0
 7625pt x 251.94125pt>
 File: Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -3167,6 +3250,8 @@ le (type pdf)
 Package pdftex.def Info: Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converte
 d-to.pdf used on input line 96.
 (pdftex.def)             Requested size: 288.07553pt x 251.94063pt.
+ [177]
+[178 <./Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/TransRNAWithSeqZip.ep
 s>
 (epstopdf)                    date: 2014-04-04 20:27:13
@@ -3181,7 +3266,7 @@ RNAWithSeqZip-eps-converted-to.pdf Figures/SeqZipMethod/TransRNAWithSeqZip.eps>
 (epstopdf)             \includegraphics on input line 112.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf, id=3994, 363.357
+<Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf, id=4292, 363.357
 5pt x 258.9675pt>
 File: Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -3190,9 +3275,8 @@ File: Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf Graphic file
 Package pdftex.def Info: Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-
 to.pdf used on input line 112.
 (pdftex.def)             Requested size: 363.3566pt x 258.96684pt.
- [111]
-[112 <./Figures/SeqZipMethod/DegreadedRNABySeqZip-eps-converted-to.pdf>]
-[113 <./Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf>]
+ [179 <./Figures/SeqZipMethod/TransRNAWithSeqZip-eps-converted-to.pdf>] [180] [
+181]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/HIVviaSeqZip.eps>
 (epstopdf)                    date: 2014-04-04 20:37:31
 (epstopdf)                    size: 4021787 bytes
@@ -3205,7 +3289,7 @@ aSeqZip-eps-converted-to.pdf Figures/SeqZipMethod/HIVviaSeqZip.eps>
 (epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf, id=4047, 392.46625pt x
+<Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf, id=4329, 392.46625pt x
  346.29375pt>
 File: Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3214,7 +3298,7 @@ Package pdftex.def Info: Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf
  used on input line 139.
 (pdftex.def)             Requested size: 392.46527pt x 346.2929pt.
 
-[114] [115 <./Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf>]
+[182] [183 <./Figures/SeqZipMethod/HIVviaSeqZip-eps-converted-to.pdf>] [184]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/PrecursorLocations.ep
 s>
 (epstopdf)                    date: 2014-04-04 21:16:05
@@ -3229,7 +3313,7 @@ rsorLocations-eps-converted-to.pdf Figures/SeqZipMethod/PrecursorLocations.eps>
 (epstopdf)             \includegraphics on input line 165.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/PrecursorLocations-eps-converted-to.pdf, id=4082, 378.413
+<Figures/SeqZipMethod/PrecursorLocations-eps-converted-to.pdf, id=4367, 378.413
 76pt x 294.09875pt>
 File: Figures/SeqZipMethod/PrecursorLocations-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -3249,12 +3333,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--180
 
  []
 
-
+[185] [186 <./Figures/SeqZipMethod/PrecursorLocations-eps-converted-to.pdf>]
 Overfull \hbox (0.45256pt too wide) in paragraph at lines 185--185
  |[]\T1/phv/b/n/14.4 Mammalian pachytene piRNA pre-cur-sor tran-scripts are
  []
 
-[116] [117 <./Figures/SeqZipMethod/PrecursorLocations-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/piRNAPrecusorTXFeatur
 es.eps>
 (epstopdf)                    date: 2014-04-05 21:22:56
@@ -3269,7 +3352,7 @@ tures.eps>
 (epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-converted-to.pdf, id=4102, 41
+<Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-converted-to.pdf, id=4388, 41
 5.5525pt x 221.82875pt>
 File: Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -3279,7 +3362,8 @@ Package pdftex.def Info: Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-conve
 rted-to.pdf used on input line 192.
 (pdftex.def)             Requested size: 415.55148pt x 221.82819pt.
 
-[118 <./Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-converted-to.pdf>]
+[187] [188 <./Figures/SeqZipMethod/piRNAPrecusorTXFeatures-eps-converted-to.pdf
+>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/RTDoesntWork.eps>
 (epstopdf)                    date: 2014-04-04 21:19:12
 (epstopdf)                    size: 3712270 bytes
@@ -3292,7 +3376,7 @@ sntWork-eps-converted-to.pdf Figures/SeqZipMethod/RTDoesntWork.eps>
 (epstopdf)             \includegraphics on input line 207.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/RTDoesntWork-eps-converted-to.pdf, id=4120, 341.275pt x 3
+<Figures/SeqZipMethod/RTDoesntWork-eps-converted-to.pdf, id=4410, 341.275pt x 3
 46.29375pt>
 File: Figures/SeqZipMethod/RTDoesntWork-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3312,13 +3396,13 @@ eps-converted-to.pdf Figures/SeqZipMethod/dst1.eps>
 (epstopdf)             \includegraphics on input line 223.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/dst1-eps-converted-to.pdf, id=4122, 291.0875pt x 160.6pt>
+<Figures/SeqZipMethod/dst1-eps-converted-to.pdf, id=4412, 291.0875pt x 160.6pt>
 File: Figures/SeqZipMethod/dst1-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/SeqZipMethod/dst1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/SeqZipMethod/dst1-eps-converted-to.pdf used on
  input line 223.
 (pdftex.def)             Requested size: 291.08678pt x 160.5996pt.
- [119]
+ [189] [190 <./Figures/SeqZipMethod/RTDoesntWork-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/fn1ThreeSite.eps>
 (epstopdf)                    date: 2014-04-07 06:37:13
 (epstopdf)                    size: 1389016 bytes
@@ -3331,7 +3415,7 @@ reeSite-eps-converted-to.pdf Figures/SeqZipMethod/fn1ThreeSite.eps>
 (epstopdf)             \includegraphics on input line 238.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/fn1ThreeSite-eps-converted-to.pdf, id=4131, 372.39125pt x
+<Figures/SeqZipMethod/fn1ThreeSite-eps-converted-to.pdf, id=4434, 372.39125pt x
  371.3875pt>
 File: Figures/SeqZipMethod/fn1ThreeSite-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3340,7 +3424,8 @@ Package pdftex.def Info: Figures/SeqZipMethod/fn1ThreeSite-eps-converted-to.pdf
  used on input line 238.
 (pdftex.def)             Requested size: 372.39034pt x 371.38658pt.
 
-[120 <./Figures/SeqZipMethod/RTDoesntWork-eps-converted-to.pdf>]
+[191 <./Figures/SeqZipMethod/dst1-eps-converted-to.pdf>] [192 <./Figures/SeqZip
+Method/fn1ThreeSite-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/testesSpecificRnaseqP
 recursors.eps>
 (epstopdf)                    date: 2014-04-04 21:12:35
@@ -3356,7 +3441,7 @@ ficRnaseqPrecursors.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Figures/SeqZipMethod/testesSpecificRnaseqPrecursors-eps-converted-to.pdf, id=4
-151, 336.25626pt x 208.78pt>
+469, 336.25626pt x 208.78pt>
 File: Figures/SeqZipMethod/testesSpecificRnaseqPrecursors-eps-converted-to.pdf 
 Graphic file (type pdf)
 
@@ -3378,8 +3463,8 @@ erAnalyisBySeqZip.eps>
 (epstopdf)             \includegraphics on input line 269.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf, id=41
-52, 352.31625pt x 264.99pt>
+<Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf, id=44
+70, 352.31625pt x 264.99pt>
 File: Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -3388,8 +3473,8 @@ Package pdftex.def Info: Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps
 -converted-to.pdf used on input line 269.
 (pdftex.def)             Requested size: 352.31538pt x 264.98935pt.
 
-[121 <./Figures/SeqZipMethod/dst1-eps-converted-to.pdf>] [122 <./Figures/SeqZip
-Method/fn1ThreeSite-eps-converted-to.pdf>]
+[193] [194 <./Figures/SeqZipMethod/testesSpecificRnaseqPrecursors-eps-converted
+-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/piRNAprecusorM1Signal
 DecreasesWithLoopLength.eps>
 (epstopdf)                    date: 2014-04-21 13:39:34
@@ -3405,7 +3490,7 @@ od/piRNAprecusorM1SignalDecreasesWithLoopLength.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Figures/SeqZipMethod/piRNAprecusorM1SignalDecreasesWithLoopLength-eps-converte
-d-to.pdf, id=4186, 369.38pt x 85.31876pt>
+d-to.pdf, id=4494, 369.38pt x 85.31876pt>
 File: Figures/SeqZipMethod/piRNAprecusorM1SignalDecreasesWithLoopLength-eps-con
 verted-to.pdf Graphic file (type pdf)
 
@@ -3414,14 +3499,14 @@ erted-to.pdf>
 Package pdftex.def Info: Figures/SeqZipMethod/piRNAprecusorM1SignalDecreasesWit
 hLoopLength-eps-converted-to.pdf used on input line 284.
 (pdftex.def)             Requested size: 369.37909pt x 85.31853pt.
- [123 <./Figures/SeqZipMethod/testesSpecificRnaseqPrecursors-eps-converted-to.p
-df>] [124 <./Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps-converted-t
-o.pdf> <./Figures/SeqZipMethod/piRNAprecusorM1SignalDecreasesWithLoopLength-eps
--converted-to.pdf>]
+ [195 <./Figures/SeqZipMethod/piRNAPrecurserAnalyisBySeqZip-eps-converted-to.pd
+f>]
 Overfull \hbox (22.74669pt too wide) in paragraph at lines 297--297
  |[]\T1/phv/b/n/17.28 Evidence for spliced piRNA pre-cur-sor tran-scripts| 
  []
 
+[196 <./Figures/SeqZipMethod/piRNAprecusorM1SignalDecreasesWithLoopLength-eps-c
+onverted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/evidenceForPrecursorS
 plicing.eps>
 (epstopdf)                    date: 2014-04-21 15:50:12
@@ -3436,8 +3521,8 @@ ecursorSplicing.eps>
 (epstopdf)             \includegraphics on input line 304.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-converted-to.pdf, id=422
-9, 393.47pt x 182.6825pt>
+<Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-converted-to.pdf, id=452
+7, 393.47pt x 182.6825pt>
 File: Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-converted-to.pdf Gr
 aphic file (type pdf)
 
@@ -3445,6 +3530,8 @@ aphic file (type pdf)
 Package pdftex.def Info: Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-
 converted-to.pdf used on input line 304.
 (pdftex.def)             Requested size: 393.46902pt x 182.68204pt.
+
+[197]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/noPiRNAswithinPrecuso
 rIntrons.eps>
 (epstopdf)                    date: 2014-04-05 21:23:03
@@ -3459,8 +3546,8 @@ inPrecusorIntrons.eps>
 (epstopdf)             \includegraphics on input line 317.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf, id=42
-33, 403.5075pt x 367.3725pt>
+<Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf, id=45
+35, 403.5075pt x 367.3725pt>
 File: Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -3469,7 +3556,9 @@ Package pdftex.def Info: Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps
 -converted-to.pdf used on input line 317.
 (pdftex.def)             Requested size: 403.50652pt x 367.37158pt.
 
-[125]
+[198 <./Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-converted-to.pdf>
+] [199 <./Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps-converted-to.p
+df>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/smallRNAsMapToPrecurs
 orSJ.eps>
 (epstopdf)                    date: 2014-04-05 21:22:49
@@ -3484,7 +3573,7 @@ ecursorSJ.eps>
 (epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SeqZipMethod/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf, id=4244, 
+<Figures/SeqZipMethod/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf, id=4564, 
 415.5525pt x 258.9675pt>
 File: Figures/SeqZipMethod/smallRNAsMapToPrecursorSJ-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -3499,9 +3588,6 @@ Overfull \hbox (7.71835pt too wide) in paragraph at lines 341--342
 e ob-ser-va-tions de-scribed above,
  []
 
-[126 <./Figures/SeqZipMethod/evidenceForPrecursorSplicing-eps-converted-to.pdf>
-] [127 <./Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons-eps-converted-to.p
-df>]
 Package epstopdf Info: Source file: <Figures/SeqZipMethod/aggregatePiRNAsatSpli
 ceJunctions.eps>
 (epstopdf)                    date: 2014-04-05 21:23:15
@@ -3517,7 +3603,7 @@ PiRNAsatSpliceJunctions.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Figures/SeqZipMethod/aggregatePiRNAsatSpliceJunctions-eps-converted-to.pdf, id
-=4272, 415.5525pt x 188.705pt>
+=4570, 415.5525pt x 188.705pt>
 File: Figures/SeqZipMethod/aggregatePiRNAsatSpliceJunctions-eps-converted-to.pd
 f Graphic file (type pdf)
 
@@ -3526,19 +3612,20 @@ f Graphic file (type pdf)
 Package pdftex.def Info: Figures/SeqZipMethod/aggregatePiRNAsatSpliceJunctions-
 eps-converted-to.pdf used on input line 345.
 (pdftex.def)             Requested size: 415.55148pt x 188.70453pt.
-) (./Chapters/Chapter5-Disc.tex [128 <./Figures/SeqZipMethod/smallRNAsMapToPrec
-ursorSJ-eps-converted-to.pdf>] [129 <./Figures/SeqZipMethod/aggregatePiRNAsatSp
-liceJunctions-eps-converted-to.pdf>]
+ [200] [201 <./Figures/SeqZipMethod/smallRNAsMapToPrecursorSJ-eps-converted-to.
+pdf>] [202 <./Figures/SeqZipMethod/aggregatePiRNAsatSpliceJunctions-eps-convert
+ed-to.pdf>]) (./Chapters/Chapter5-Disc.tex
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Discussion
 ------------------------------------------------------------------------------
-[130
+[203
 
-] [131]
+
+] [204] [205]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 30.
- [132]
+ [206] [207] [208]
 Package epstopdf Info: Source file: <Figures/Discussion/pi-wdfy3.eps>
 (epstopdf)                    date: 2014-04-14 09:31:03
 (epstopdf)                    size: 629685 bytes
@@ -3551,20 +3638,20 @@ to.pdf>
 (epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Discussion/pi-wdfy3-eps-converted-to.pdf, id=4380, 397.485pt x 231.866
+<Figures/Discussion/pi-wdfy3-eps-converted-to.pdf, id=4700, 397.485pt x 231.866
 26pt>
 File: Figures/Discussion/pi-wdfy3-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/Discussion/pi-wdfy3-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Discussion/pi-wdfy3-eps-converted-to.pdf used 
 on input line 63.
 (pdftex.def)             Requested size: 397.48402pt x 231.86568pt.
- [133] [134 <./Figures/Discussion/pi-wdfy3-eps-converted-to.pdf>] [135]
-Overfull \hbox (1.34671pt too wide) in paragraph at lines 124--124
+ [209] [210 <./Figures/Discussion/pi-wdfy3-eps-converted-to.pdf>] [211] [212]
+Overfull \hbox (1.34671pt too wide) in paragraph at lines 133--133
  |[]\T1/phv/b/n/14.4 An op-ti-mized Se-qZip ex-am-i-na-tion of Co-or-di-nated s
 plic-
  []
 
-[136]
+[213] [214]
 Package epstopdf Info: Source file: <Figures/Discussion/Rnl2_and_suger_pucker.e
 ps>
 (epstopdf)                    date: 2014-04-14 12:44:26
@@ -3576,19 +3663,20 @@ ps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Figures/Discussion/Rnl2_an
 d_suger_pucker-eps-converted-to.pdf Figures/Discussion/Rnl2_and_suger_pucker.ep
 s>
-(epstopdf)             \includegraphics on input line 138.
+(epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf, id=4437, 361.35
+<Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf, id=4775, 361.35
 pt x 188.705pt>
 File: Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf Graphic fil
 e (type pdf)
 
 <use Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Discussion/Rnl2_and_suger_pucker-eps-converted
--to.pdf used on input line 138.
+-to.pdf used on input line 147.
 (pdftex.def)             Requested size: 361.34912pt x 188.70453pt.
- [137 <./Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf>]
+ [215]
+[216 <./Figures/Discussion/Rnl2_and_suger_pucker-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/Discussion/SeqZipUses.eps>
 (epstopdf)                    date: 2014-04-23 08:58:25
 (epstopdf)                    size: 945218 bytes
@@ -3598,16 +3686,16 @@ d-to.pdf>
 (epstopdf)                    size: 72303 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Discussion/SeqZipU
 ses-eps-converted-to.pdf Figures/Discussion/SeqZipUses.eps>
-(epstopdf)             \includegraphics on input line 164.
+(epstopdf)             \includegraphics on input line 173.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Discussion/SeqZipUses-eps-converted-to.pdf, id=4484, 397.485pt x 324.2
+<Figures/Discussion/SeqZipUses-eps-converted-to.pdf, id=4827, 397.485pt x 324.2
 1124pt>
 File: Figures/Discussion/SeqZipUses-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Figures/Discussion/SeqZipUses-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Discussion/SeqZipUses-eps-converted-to.pdf use
-d on input line 164.
+d on input line 173.
 (pdftex.def)             Requested size: 397.48402pt x 324.21045pt.
 Package epstopdf Info: Source file: <Figures/Discussion/MultiSiteFish.eps>
 (epstopdf)                    date: 2014-04-14 15:56:08
@@ -3618,33 +3706,43 @@ rted-to.pdf>
 (epstopdf)                    size: 16248 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/Discussion/MultiSi
 teFish-eps-converted-to.pdf Figures/Discussion/MultiSiteFish.eps>
-(epstopdf)             \includegraphics on input line 183.
+(epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Discussion/MultiSiteFish-eps-converted-to.pdf, id=4489, 369.38pt x 125
+<Figures/Discussion/MultiSiteFish-eps-converted-to.pdf, id=4832, 369.38pt x 125
 .46875pt>
 File: Figures/Discussion/MultiSiteFish-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Figures/Discussion/MultiSiteFish-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Discussion/MultiSiteFish-eps-converted-to.pdf 
-used on input line 183.
+used on input line 192.
 (pdftex.def)             Requested size: 369.37909pt x 125.46843pt.
- [138]
-[139 <./Figures/Discussion/SeqZipUses-eps-converted-to.pdf> <./Figures/Discussi
-on/MultiSiteFish-eps-converted-to.pdf>] [140] [141] [142])
-(./Appendices/AppendixA.tex [143]
+ [217]
+[218 <./Figures/Discussion/SeqZipUses-eps-converted-to.pdf>] [219 <./Figures/Di
+scussion/MultiSiteFish-eps-converted-to.pdf>] [220] [221] [222]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+[223]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+[224] [225] [226]) (./Appendices/AppendixA.tex
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix - Misc Information
 ------------------------------------------------------------------------------
-[144
+[227
+
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-
+[228]
 Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
@@ -3654,15 +3752,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
-[145] (./Tables/genicAndIntergenicLoci.tex [146] [147]))
-(./Appendices/AppendixB.tex [148]
+(./Tables/genicAndIntergenicLoci.tex [229] [230]) [231])
+(./Appendices/AppendixB.tex [232]
 Appendix B.
 ------------------------------------------------------------------------------
  B Appendix B: Automated Ligamer Assembly
 ------------------------------------------------------------------------------
-[149
+[233
 
-] [150] (./Tables/exampleLigamerAssemblerInputTop.tex)
+] [234] (./Tables/exampleLigamerAssemblerInputTop.tex)
 (./Tables/exampleLigamerAssemblerInputBottom.tex)
 Overfull \hbox (19.23735pt too wide) in paragraph at lines 2--66
 [][]
@@ -3673,11 +3771,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--66
 
  []
 
-[151
+[235
 
-] (./Appendices/ligamerAssembler.pl [152
+] (./Appendices/ligamerAssembler.pl [236
 
-] [153] [154]
+] [237] [238]
 Overfull \hbox (2.4244pt too wide) in paragraph at lines 153--154
 [][][][][][][][][]  
  []
@@ -3687,7 +3785,7 @@ Overfull \hbox (2.4244pt too wide) in paragraph at lines 189--190
 [][][][][][][][][]  
  []
 
-[155] [156] [157] [158] [159] [160] [161]
+[239] [240] [241] [242] [243] [244] [245]
 Overfull \hbox (2.4244pt too wide) in paragraph at lines 503--504
 [][][][][][][][][]  
  []
@@ -3702,7 +3800,7 @@ Overfull \hbox (2.4244pt too wide) in paragraph at lines 519--521
 [][][][][][][][][]  
  []
 
-[162]
+[246]
 Overfull \hbox (2.4244pt too wide) in paragraph at lines 545--547
 [][][][][][][][][]  
  []
@@ -3717,7 +3815,7 @@ Overfull \hbox (2.4244pt too wide) in paragraph at lines 585--587
 [][][][][][][][][]  
  []
 
-[163] [164] [165] [166] [167] [168] [169]
+[247] [248] [249] [250] [251] [252] [253]
 Overfull \hbox (2.4244pt too wide) in paragraph at lines 900--902
 [][][][][][][][][]  
  []
@@ -3732,25 +3830,25 @@ Overfull \hbox (2.4244pt too wide) in paragraph at lines 922--924
 [][][][][][][][][]  
  []
 
-[170]
+[254]
 Overfull \hbox (2.4244pt too wide) in paragraph at lines 947--948
 [][][][][][][][][]  
  []
 
-)) [171]
+)) [255]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./RoyC_Umass_Thesis.bbl [172
+(./RoyC_Umass_Thesis.bbl [256
 
 
-] [173] [174] [175] [176]
-Underfull \hbox (badness 1259) in paragraph at lines 336--340
+] [257] [258] [259] [260]
+Underfull \hbox (badness 1259) in paragraph at lines 335--339
 []\T1/phv/m/n/12 Brennecke, J. and Mal-one, C. (2008).  An Epi-ge-netic Role fo
 r Ma-ter-
  []
 
-[177]
+[261]
 
 ! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
 
@@ -3758,13 +3856,26 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.421 ...rmination of Poly(A) Tail Length and 3′
+l.420 ...rmination of Poly(A) Tail Length and 3′
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[178]
+[262]
+
+! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.462 ... amazing sequence arrangement at the 5′
+                                                   ends of adenovirus 2
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 ! Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
@@ -3772,13 +3883,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.513   alternative 
+l.512   alternative 
                       splicing}.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[179] [180] [181] [182] [183]
+[263] [264] [265] [266] [267]
 
 ! Package inputenc Error: Unicode char \u8:′ not set up for use with LaTeX.
 
@@ -3786,7 +3897,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.805 \newblock {MOV10 Is a 5′
+l.804 \newblock {MOV10 Is a 5′
                                  to 3′ RNA Helicase Contributing to UPF1 mRNA
 
 Your command was ignored.
@@ -3800,7 +3911,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.805 \newblock {MOV10 Is a 5′ to 3′
+l.804 \newblock {MOV10 Is a 5′ to 3′
                                          RNA Helicase Contributing to UPF1 mRNA
 
 Your command was ignored.
@@ -3814,31 +3925,31 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.806 ...t Degradation by Translocation along 3′
+l.805 ...t Degradation by Translocation along 3′
                                                    UTRs}.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[184] [185] [186] [187]
-Underfull \hbox (badness 1259) in paragraph at lines 1162--1166
+[268] [269] [270] [271] [272]
+Underfull \hbox (badness 1259) in paragraph at lines 1174--1178
 \T1/phv/m/n/12 RNA sec-ondary struc-ture el-e-ment re-quired for ef-fi-cient ex
 on in-clu-sion
  []
 
-[188] [189]pdfTeX warning (ext4): destination with the same identifier (name{ci
-te.Li2013h}) has been already used, duplicate ignored
+[273]pdfTeX warning (ext4): destination with the same identifier (name{cite.Li2
+013h}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1302 \bibitem[Li et~al., 2013a]{Li2013h}
-                                           [190] [191] [192] [193] [194]
-[195] [196]
-Underfull \hbox (badness 1005) in paragraph at lines 1881--1886
+l.1322 \bibitem[Li et~al., 2013a]{Li2013h}
+                                           [274] [275] [276] [277] [278]
+[279] [280]
+Underfull \hbox (badness 1005) in paragraph at lines 1901--1906
 []\T1/phv/m/n/12 Schneider, I. (1972).  Cell lines de-rived from late em-bry-on
 ic stages of
  []
 
-[197] [198] [199] [200] [201] [202] [203]
+[281] [282] [283] [284] [285] [286] [287]
 
 ! Package inputenc Error: Unicode char \u8:− not set up for use with LaTeX.
 
@@ -3846,58 +3957,58 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2383   Formation of RNA Duplexes with Watson−
+l.2410   Formation of RNA Duplexes with Watson−
                                                  Crick Base Pairs†}.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[204]) [205]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+[288]) [289]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
  (./RoyC_Umass_Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `RoyC_Umass_Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 56F395A51167238BE02E989E9537767E;26111.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
+(rerunfilecheck)             Checksum: 6813C1B8BA6B3C5AE8674DD2DDA148FE;26131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 35248 strings out of 493308
- 620538 string characters out of 6137816
- 918026 words of memory out of 5000000
- 36201 multiletter control sequences out of 15000+600000
- 78512 words of font info for 91 fonts, out of 8000000 for 9000
+ 34260 strings out of 493308
+ 608890 string characters out of 6137816
+ 869640 words of memory out of 5000000
+ 35178 multiletter control sequences out of 15000+600000
+ 69104 words of font info for 69 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 62i,14n,91p,10473b,2210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,14n,91p,10484b,2195s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
-pe1/public/cm-super/sftt1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
-1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/h
-elvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helveti
-c/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvro
-8a.pfb>
-Output written on RoyC_Umass_Thesis.pdf (224 pages, 14743791 bytes).
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
+ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/cm-super/sftt1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
+ublic/cm-super/sftt1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw
+/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvet
+ic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhv
+r8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pf
+b>
+Output written on RoyC_Umass_Thesis.pdf (308 pages, 14792768 bytes).
 PDF statistics:
- 6287 PDF objects out of 7423 (max. 8388607)
- 5519 compressed objects within 56 object streams
- 1770 named destinations out of 2073 (max. 500000)
+ 6668 PDF objects out of 7423 (max. 8388607)
+ 5813 compressed objects within 59 object streams
+ 1856 named destinations out of 2073 (max. 500000)
  1181 words of extra memory for PDF output out of 10000 (max. 10000000)
 

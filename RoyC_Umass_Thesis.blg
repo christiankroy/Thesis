@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RoyC_Umass_Thesis.aux
 The style file: Bibliography/apalike.bst
-Reallocated field_info (elt_size=4) to 12634 items from 5000.
+Reallocated field_info (elt_size=4) to 12722 items from 5000.
 Database file #1: Bibliography/library.bib.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty publisher in Calarco2007
@@ -10,45 +10,45 @@ Warning--empty journal in Kawaoka2012
 Warning--empty journal in Riley2013
 Warning--empty journal in Rumsfeld2011
 Warning--there's a number but no volume in Vagin2004
-You've used 347 entries,
+You've used 351 entries,
             1935 wiz_defined-function locations,
-            2567 strings with 110900 characters,
-and the built_in function-call counts, 218155 in all, are:
-= -- 19220
-> -- 17783
-< -- 106
-+ -- 6716
-- -- 6708
-* -- 22830
-:= -- 39246
-add.period$ -- 1037
-call.type$ -- 347
-change.case$ -- 5087
-chr.to.int$ -- 339
-cite$ -- 352
-duplicate$ -- 4943
-empty$ -- 10085
-format.name$ -- 7181
-if$ -- 39670
+            2591 strings with 112007 characters,
+and the built_in function-call counts, 220772 in all, are:
+= -- 19464
+> -- 17955
+< -- 108
++ -- 6780
+- -- 6772
+* -- 23110
+:= -- 39685
+add.period$ -- 1050
+call.type$ -- 351
+change.case$ -- 5139
+chr.to.int$ -- 343
+cite$ -- 356
+duplicate$ -- 5012
+empty$ -- 10233
+format.name$ -- 7251
+if$ -- 40168
 int.to.chr$ -- 9
 int.to.str$ -- 0
-missing$ -- 346
-newline$ -- 1734
-num.names$ -- 1041
-pop$ -- 4372
+missing$ -- 351
+newline$ -- 1755
+num.names$ -- 1053
+pop$ -- 4416
 preamble$ -- 1
-purify$ -- 5089
+purify$ -- 5141
 quote$ -- 0
-skip$ -- 3687
+skip$ -- 3742
 stack$ -- 0
-substring$ -- 11852
-swap$ -- 448
-text.length$ -- 15
+substring$ -- 12039
+swap$ -- 462
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2078
+type$ -- 2102
 warning$ -- 5
-while$ -- 1337
+while$ -- 1357
 width$ -- 0
-write$ -- 4491
+write$ -- 4546
 (There were 5 warnings)

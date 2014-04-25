@@ -32,7 +32,7 @@
   \subsection{Tissue and cell specificity}
     \label{Disc:subsec:Tissue-specific Tx expression}
 
-    As discussed in section \ref{Intro:subsec:Alternative Splicing}, mechanisms of AS are frequently tissue-, time-. and cell-specific. Landmark studies examining AS in different organ systems, from evolutionarily-distant organims, found that AS is more comparable between organs of different animals than between different organs from the \textit{same} animal \citep{Barbosa-Morais2012,Merkin2012}. \citet{Brown2014} analyzed the \flies{} transcriptome, and observed that AS could be better desribed as ``tissue-specific splicing''. 
+    As discussed in section \ref{Intro:subsec:Alternative Splicing}, mechanisms of AS are frequently tissue-, time-. and cell-specific. Landmark studies examining AS in different organ systems, from evolutionarily-distant organims, found that AS is more comparable between organs of different animals than between different organs from the \textit{same} animal \citep{Barbosa-Morais2012,Merkin2012}. \citet{Brown2014} analyzed the \flies{} transcriptome, and observed that AS could be better desribed as ``tissue-specific splicing''. Further, tissue-specific lnRNA expression has been recently reported \citep{Washietl2014}, adding to the importance of sample resolution performing transcriptome analysis.
 
     The concept of ``tissue-specific splicing'' brings up a subtle, but important consideration concerning AS research. The concept of AS conjures an image of dynamic post-transcription RNA processing, allowing cells to quickly respond changes in environment, programming, or stimuli. Yet, as demonstrated by the studies just mentioned, most AS is not that dynamic. In fact, the main reason much of these events are even considered \textit{alternative} is because we are comparing the transcriptomes of different tissues. Is that a fair comparison?
 
@@ -56,7 +56,7 @@
     % From the resources paper: Indeed, two isoforms of pi-Wdfy3 are transcribed from different promoters in the testis (Figure S2D). The short isoform is transcribed from a low CpG promoter bound by A-MYB, while the long isoform is transcribed from a high CpG with no detectable A-MYB binding. piRNAs derive from the genomic region corresponding to the short transcript. In an A-Myb mutant, piRNA from the pi-Wdfy3 loci are reduced 165-fold (31.6 rpkm in heterozygotes versus 0.191 in mutants). The abundance of long isoform transcripts did not decrease (2.08 rpkm in heterozygotes versus 3.86 rpkm in mutant), while the small isoforms became undetectable (10.0 rpkm versus 0 rpkm), consistent with the idea that the short, but not the long, Wdfy3 transcript is a piRNA precursor RNA. Little is known about the regulation of genic piRNAs, because only seven genic piRNA loci are A-MYB-dependent (Li, et al., accompanying manuscript). We do not yet know if such differential regulation of transcript isoforms occurs more generally for genic piRNA loci.
 
     %How does cell partition prepachytene transcripts to mRNA or piRNA use?
-    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome ($REF$), so why is it that precursors are given a different lot in life?
+    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome \citep{Guttman2013}, so why is it that precursors are given a different lot in life?
 
     \begin{figure} % pi-Wdfy3 expresses both mRNA and piRNA precursor transcript
       \centering 
@@ -70,12 +70,25 @@
 
     %Interaction w/ ribosomes?
 
-  \subsection{Precursor Labeling}
+  \subsection{Precursor Interactions}
     \label{Disc:subsec:Labeling of precursors}
 
     % From Resources Paper: Despite sharing many features with protein-coding genes, intergenic piRNA loci stand out as a unique class of transcriptional units. Almost half contain no introns
 
-    % Need section here on the chemical modification - what were you thinking? Azide? Par-Clip?  Maybe a CLASH-like assay?  What about what Mihir is developing?
+    % From Mihir
+
+      % Started w/ Review = \citep{Konig2011}
+      
+      % Clip, Parcip, iClip, etc... (see intro to CLASH paper.
+
+
+      %  DNA- RNA interactions | Chromatin isolation by RNA purification (ChIRP) = \citep{Chu2012}. Uses DNA probes. RNAse H activity in Crude lysate is a concern. Why it would be good to use RNA probe and 
+
+      % RNA:RNA interactions | RNA Antisense Purification, a technique similar to ChIRP, can be used to look at other RNAs interacting with your target. I think this can also be used identify the proteins in the complex. = \citep{Engreitz2013}
+      % RAP. Works well. Concerns are long fixation with glutothion. Captures chromatin. Uses long probes. Means that it would be useful to capturing precursors and not piRNAs, but fixation limits application to sperm cells perhaps? Could also use testes tissue section.
+      
+      % Finally CLASH = \citep{Helwak2014}
+      % CLASH has only been performed in cell culture, and requires a tagged protein. Better genome editing and viral vectors should make this limitation less of barrier, but there still remains the issue of RNA:RNA ligation representing a very low percentage of the reads obtained [This is all my wording]. How would this be applied to the RNA:RNA interactions that piRNA precurors perform?  I suppose you would need to tag MIWI somehow (Did Mourlalotos do this already?). 
     
     SeqZip accurately reports on the presence of multiple, distant sequences contained in the same RNA molecule (see Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod}). Yet I was not able to observe ligation products templated off some of the most highly-expressed precursor transcripts (see section \ref{Disc:sec:piRNA precursors}. We hypothesize that the most likely explanation for being unable to observe ligation products for these transcripts, but successfully observing those for a very long, but lowly expressed gene \textit{Dst}, suggests that precursor transcripts are rapidly processed into mature piRNAs. What if this is not the case if we could hybridize ligamers to precursor transcripts in vivo? Put another way \textemdash What if the steady-state amount of precursor transcript is very low due to rapid processing, but when visualized in real time, the transcripts are of sufficient abundance for FISH? Ligamers could be engineered to contain different combinations of fluorescent dyes, and the proximity and intensity of the signal could be used to infer precursor transcripts. Importantly, this approach could distinguish long, continuous precursor transcripts from processing intermediates and mature piRNAs.
 
@@ -89,32 +102,28 @@
 
     I can think of two broadly different ways in which we could pinpoint the physical location of mature piRNA generation. The first is to chemically label, in some manner, primary piRNA transcripts. The label would need to 1) not interfere with processing and 2) be durable to later methods used to analyze the presence or absence of the modification. A second way to identify the location of mature piRNA processing would be to actually observe, through in vivo \hyperref[hd:abrevs]{FISH}, the various products and by-products of biogenesis. In this particular approach, SeqZip maybe useful.
 
+    \citep{Lee2014a} % Gold-labeled oligos and FRET
+
     % MS2 lopp introduction into piRNA precursor transcripts.
     Another idea here would be to use the MCP x MBS mouse as published by the Singer lab \citep{Park2014}. In this paper they insert multiple MS2 binding loops into the 3\textprime~-UTR of \textit{$beta$-actin}, and cross it with another mouse that has MCP (MS2 Bacteriophage capsid protein) fused to GFP. Using this system they can visualize \textit{endogenous} mRNAs in cultured MEF cells, and brain sections. How could we apply this to imaging of piRNA precursor transcripts? If we inserted an MS2 loop into the tail end of transcripts, what would we see? It is certainly worth it!
 
   \subsection{Precursor Sequencing}
     \label{Disc:subsec:Sequencing of Precursors}
 
-    \todo[inline]{Write FISSEQ application to piRNA precursor Tx} % **************************
-
-    % When researchers measure gene expression, they typically read the aggregate RNA abundance over a population of cells. But just as not all stadium-goers cheer when the home team scores during a baseball game, single cells don't necessarily behave the same as the population as a whole. As a result, researchers increasingly are turning to single-cell methods.
-
     % Single-cell transcriptome sequencing (RNA-seq) is one option, but it loses subcellular localization information by effectively treating the cell as a homogenous sphere. Another choice, RNA fluorescent in situ hybridization (FISH), maintains subcellular detail but supports exploration of only four or five transcripts at once.
 
-    %Now George Church, Professor of Genetics at Harvard Medical School, and colleagues have developed a technique they call FISSEQ (fluorescent in situ RNA sequencing), which blends the power of RNA FISH and RNA-seq to report the subcellular localization of several thousand genes simultaneously (1).
+    % Could periodate treatment could be *somehow* used to selectively-remove piRNAs from the pool of cDNAs that are circularized and sequenced?
+
+    \todo[inline]{Write FISSEQ application to piRNA precursor Tx} % 
+    \citep{Ke2013} %previous in situ sequencing.  Mats Nilsson, Professor of Biochemistry and Biophysics at Stockholm University, who in 2013 described a similar in situ transcriptomic approach (2), noted that Church's method is unbiased, whereas Nilsson's used molecular inversion (padlock) probes to amplify specific transcripts.
+    \citep{Lee2014a} % FISSEQ 
+
+    %FISSEQ (fluorescent in situ RNA sequencing), which blends the power of RNA FISH and RNA-seq to report the subcellular localization of several thousand genes simultaneously (1).
 
     %The new RNA-focused method relies on rolling circle amplification to create a three-dimensional grid of “DNA nanoballs,” each representing a single RNA molecule locked in its original subcellular location. SOLiD ligation-based sequencing then reads 27 to 30 bases from each nanoball, and the fluorescent output is read in three dimensions via confocal microscopy.
 
     %The method identified several thousand transcripts per experiment (4171 in one experiment, 8102 in a second), showing relatively good concordance with both RNA-seq and DNA microarray datasets for moderately expressed genes. Low and high abundance genes correlated less well, but the former are less reliably quantitated in all methods, Church noted, whereas the latter are mostly protein- and RNA-processing transcripts, which typically are bound up in nucleoprotein complexes. “Probably the only ribosomal RNAs we detect haven't been packaged into ribosomes,” he speculated. Importantly, FISSEQ not only picked up expected transcripts, but also matched their expected subcellular localizations.
 
-    %Mats Nilsson, Professor of Biochemistry and Biophysics at Stockholm University, who in 2013 described a similar in situ transcriptomic approach (2), noted that Church's method is unbiased, whereas Nilsson's used molecular inversion (padlock) probes to amplify specific transcripts.
-
-    %“I really think this is an important step towards more contextual sequencing, bringing next-generation sequencing into the spatial domain,” he said.
-
-    %Church's group is applying FISSEQ to studies of mouse and human brains, where the method can be applied to classify cells and, if paired with barcoding, even map cellular connectivity. “We see this as one of the key enabling technologies for the BRAIN initiative,” said Church.
-    %References
-    %[1] J.H. Lee et al., “Highly multiplexed subcellular RNA sequencing in situ,” Science, 343:1360-3, Feb. 27, 2014.
-    %[2] R. Ke et al., “In situ sequencing for RNA analysis in preserved tissue and cells,” Nat Meth, 10:857-60, 2013.
 
 \section{A future for RNA-templated DNA-to-DNA ligation}
   \label{Disc:sec:SeqZip Improvements}
@@ -188,7 +197,7 @@
         \label{Disc:fig:MultiSite FISH using SeqZip}
         \end{figure}
 
-        % What about applying the Church lab's new technique of in situ sequencing? Would this help us differentiate transcripts from mature piRNAs? 
+        %Refer to section above using FISSEQ on precursors
 
     \subsubsection{Introduction of destruction sequences}
       \label{Disc:subsubsec:Intro of Desctruction Sequences}
@@ -249,14 +258,24 @@
 
     How do we work with all this data? Mention LabKey, GenomeBridge, Define the scope of the problem, etc...
 
-    I would love to have a database of complete transcripts of a cell - think about how you were panning the data for the MolCel paper, and you could see ChIP marks, Pol II occupancy, RNA-Seq, and piRNA data. It would be great to be able to do that more often, and we greater precision
+    I would love to have a database of complete transcripts of a cell - think about how you were panning the data for the MolCel paper, and you could see ChIP marks, Pol II occupancy, RNA-Seq, and piRNA data. It would be great to be able to do that more often, and we greater precision.
+
+    \missingfigure{Graph showing price of storage?}
+
+    % Bring in ideas from the paper that ER sent out about having replicates is better than depth.  Also that packages like DE-Seq gain statistical power when you have more replicates. These additional versions of files will have to be kept seperate, with meta data etc.... Increasing the strain on data analysis and cataloguing (caraling, like animals). 
+
+    %Being able to navigate multiple types of data, ChIP, RNA-Seq, small RNA seq, is essential for observing important aspects of Biology. There is no replacement for visuazliation, and efforts such as ($REF Integrated genomeics viewer, UCSC Genome broweser, and TrackHUBS paper$ demonstrate how important this is, but places additional strain on the required systems.
+
+    % Efforts such as Galaxy ($REF) are great starts, but need to be more cross diciplanary, and locally deployed <This sounds like BS, but some idea is there>. 
 
   \subsection{Biologists need Computation Biological Skills}
     \label{Disc:subsec:Biologists need Comp Skills}
 
-    Just 10 years ago,  Graduate students and PhDs in the fields of Molecular Biology or Biochemistry need not venture far from data analysis within Excel or perhaps a statistical program with an advanced graphical interface (examples include Prism or Graphpad). Software knowledge that stops at these tools and the rest of the Microsoft Office suite of tools is no longer enough to generate big strides in Biomedical research.
+    Just 10 years ago, Graduate students and PhDs in the fields of Molecular Biology or Biochemistry need not venture far from data analysis within Excel or perhaps a statistical program with an advanced graphical interface (examples include Prism or Graphpad). Software knowledge that stops at these tools and the rest of the Microsoft Office suite of tools is no longer enough to generate big strides in Biomedical research.
 
     Working with tens of even hundreds of lines of data within a spreadsheet is manageable and computers from 20 years ago had more then enough computing power to process the data. Yet, this type of data is longer then endpoint of most cutting edge projects. Many students and post docs often find that they are unable to analyze the data generated from months or years of tireless bench work. Faced with learning what is effectively a collection of new languages and awash in a sea of acronyms (LINUX, BASH, GNU, PERL, R) they reach out for help from a ``Bioinformatics person.'' Perhaps the relationship and interaction with this personal is productive, leading to a collaboration and exciting new knowledge. Sometimes it isn't, and the bench scientist shifts into one of three modes: 1) Wait; 2) Find another bioinformatic-minded collaborator; or 3) collect more data.
+
+    \missingfigure{Table showing what people use vs. what they should use}
 
     In my experience, the most often chosen mode is ``wait.'' This is also the most damaging, as it delays the progress of one's work, and the advancement of science in general. Personally, I did not want to fall into this mode, and once the multiplex study described in section \ref{SeqZipMethod:sec:Multiplex Gene Study} reached a point where I had millions of sequencing reads, but I could not find anyone to help me analyze the data, that I decided to educate myself on the basic principles of Linux, the command line, and analysis of HTS data.
 
@@ -269,3 +288,5 @@
       \end{quote}
 
     The fact is that no one will care about a project as much as the Graduate student or PostDoc who is the main project driver. Learning and training of computational skills bent on analyzing large datasets should be central to the education in Biomedical sciences in the future.
+
+\cleardoublepage

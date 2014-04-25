@@ -191,11 +191,10 @@ Benton, M.~J. and Donoghue, P. C.~J. (2007).
 \newblock {Paleontological evidence to date the tree of life.}
 \newblock {\em Molecular biology and evolution}, 24(1):26--53.
 
-\bibitem[Berget et~al., 1977]{Berget1977a}
+\bibitem[Berget et~al., 1977]{Berget1977}
 Berget, S.~M., Moore, C., and Sharp, P.~A. (1977).
 \newblock {Spliced segments at the 5' terminus of adenovirus 2 late mRNA.}
-\newblock {\em Proceedings of the National Academy of Sciences of the United
-  States of America}, 74:3171--3175.
+\newblock {\em Reviews in medical virology}, 10(6):356--62; discussion 355--6.
 
 \bibitem[Bernstein et~al., 1983]{Bernstein1983a}
 Bernstein, S.~I., Mogami, K., Donady, J.~J., and Emerson, C.~P. (1983).
@@ -460,9 +459,9 @@ Chen, X., Xu, H., Yuan, P., Fang, F., Huss, M., Vega, V.~B., Wong, E., Orlov,
 
 \bibitem[Chow et~al., 1977]{Chow1977}
 Chow, L.~T., Gelinas, R.~E., Broker, T.~R., and Roberts, R.~J. (1977).
-\newblock {An amazing sequence arrangement at the 5' ends of adenovirus 2
-  messenger RNA.}
-\newblock {\em Cell}, 12:1--8.
+\newblock {An amazing sequence arrangement at the 5′ ends of adenovirus 2
+  messenger RNA}.
+\newblock {\em Cell}, 12(1):1--8.
 
 \bibitem[Chuma and Hosokawa, 2006]{Chuma2006a}
 Chuma, S. and Hosokawa, M. (2006).
@@ -505,7 +504,7 @@ Core, L.~J., Waterfall, J.~J., and Lis, J.~T. (2008).
 Cox, D.~N., Chao, A., and Lin, H. (2000).
 \newblock piwi encodes a nucleoplasmic factor whose activity modulates the
   number and division rate of germline stem cells.
-\newblock {\em Development (Cambridge, England)}, 127:503--514.
+\newblock {\em Development (Cambridge, England)}, 127(3):503--14.
 
 \bibitem[Cramer et~al., 1997]{Cramer1997}
 Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
@@ -861,6 +860,13 @@ Guttman, M., Garber, M., Levin, J.~Z., Donaghey, J., Robinson, J., Adiconis,
   mouse reveals the conserved multi-exonic structure of lincRNAs}.
 \newblock {\em Nature Biotechnology}, 28(5):503--510.
 
+\bibitem[Guttman et~al., 2013]{Guttman2013}
+Guttman, M., Russell, P., Ingolia, N.~T., Weissman, J.~S., and Lander, E.~S.
+  (2013).
+\newblock {Ribosome Profiling Provides Evidence that Large Noncoding RNAs Do
+  Not Encode Proteins}.
+\newblock {\em Cell}, 154(1):1--12.
+
 \bibitem[Haas et~al., 2013]{Haas2013c}
 Haas, B.~J., Papanicolaou, A., Yassour, M., Grabherr, M., Blood, P.~D., Bowden,
   J., Couger, M.~B., Eccles, D., Li, B., Lieber, M., Macmanes, M.~D., Ott, M.,
@@ -970,9 +976,9 @@ Horvath, G.~C., Kistler, M.~K., and Kistler, W.~S. (2009).
 \bibitem[Horwich et~al., 2007]{Horwich2007}
 Horwich, M.~D., Li, C., Matranga, C., Vagin, V., Farley, G., Wang, P., and
   Zamore, P.~D. (2007).
-\newblock {The Drosophila RNA Methyltransferase, DmHen1, Modifies Germline
-  piRNAs and Single-Stranded siRNAs in RISC}.
-\newblock {\em Current Biology}, 17:1265--1272.
+\newblock {The Drosophila RNA methyltransferase, DmHen1, modifies germline
+  piRNAs and single-stranded siRNAs in RISC.}
+\newblock {\em Current biology : CB}, 17(14):1265--72.
 
 \bibitem[Hosokawa et~al., 2007]{Hosokawa2007}
 Hosokawa, M., Shoji, M., Kitamura, K., Tanaka, T., Noce, T., Chuma, S., and
@@ -1056,8 +1062,8 @@ Johnson, J.~M., Castle, J., Garrett-Engele, P., Kan, Z., Loerch, P.~M., Armour,
 
 \bibitem[Jones, 1999]{Jones1999}
 Jones, R.~C. (1999).
-\newblock {To store or mature spermatozoa? The primary role of the epididymis.}
-\newblock {\em International journal of andrology}, 22:57--67.
+\newblock {To store or mature spermatozoa? The primary role of the epididymis}.
+\newblock {\em International Journal of Andrology}, 22(2):57--67.
 
 \bibitem[Judo et~al., 1998]{Judo1998}
 Judo, M.~S., Wedel, a.~B., and Wilson, C. (1998).
@@ -1081,6 +1087,12 @@ Kawaoka, S., Hayashi, N., Suzuki, Y., Abe, H., Sugano, S., Tomari, Y., Shimada,
 Kawaoka, S., Izumi, N., Katsuma, S., and Tomari, Y. (2011).
 \newblock {3' end formation of PIWI-interacting RNAs in vitro.}
 \newblock {\em Molecular cell}, 43(6):1015--22.
+
+\bibitem[Ke et~al., 2013]{Ke2013}
+Ke, R., Mignardi, M., Pacureanu, A., Svedlund, J., Botling, J., W\"{a}hlby, C.,
+  and Nilsson, M. (2013).
+\newblock {In situ sequencing for RNA analysis in preserved tissue and cells.}
+\newblock {\em Nature methods}, 10(July):857--60.
 
 \bibitem[Kennard, 1927]{Kennard1927}
 Kennard, E.~H. (1927).
@@ -1255,6 +1267,14 @@ Lee, H.-C., Gu, W., Shirayama, M., Youngman, E., Conte, D., and Mello, C.~C.
   transcripts.}
 \newblock {\em Cell}, 150(1):78--87.
 
+\bibitem[Lee et~al., 2014]{Lee2014a}
+Lee, J.~H., Daugharthy, E.~R., Scheiman, J., Kalhor, R., Yang, J.~L., Ferrante,
+  T.~C., Terry, R., Jeanty, S. S.~F., Li, C., Amamoto, R., Peters, D.~T.,
+  Turczyk, B.~M., Marblestone, A.~H., Inverso, S.~A., Bernard, A., Mali, P.,
+  Rios, X., Aach, J., and Church, G.~M. (2014).
+\newblock {Highly Multiplexed Subcellular RNA Sequencing in Situ.}
+\newblock {\em Science (New York, N.Y.)}, 309:1728--32.
+
 \bibitem[LeGault and Dewey, 2013]{LeGault2013}
 LeGault, L.~H. and Dewey, C.~N. (2013).
 \newblock {Inference of alternative splicing from RNA-Seq data with
@@ -1336,7 +1356,7 @@ Lim, A.~K. and Kai, T. (2007).
 \newblock {Unique germ-line organelle, nuage, functions to repress selfish
   genetic elements in Drosophila melanogaster.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
-  States of America}, 104:6714--6719.
+  States of America}, 104(16):6714--9.
 
 \bibitem[Lister et~al., 2008]{Lister2008}
 Lister, R., O'Malley, R.~C., Tonti-Filippini, J., Gregory, B.~D., Berry, C.~C.,
@@ -1612,7 +1632,7 @@ North, A.~J. (2006).
 Notredame, C., Higgins, D.~G., and Heringa, J. (2000).
 \newblock {T-Coffee: A novel method for fast and accurate multiple sequence
   alignment.}
-\newblock {\em Journal of molecular biology}, 302:205--217.
+\newblock {\em Journal of molecular biology}, 302(1):205--17.
 
 \bibitem[Oakberg and Oakberq, 1956]{Oakberg1956b}
 Oakberg, E. and Oakberq, F. (1956).
@@ -1896,8 +1916,8 @@ Schwartz, S. and Ast, G. (2010).
   chromatin structure and splicing.}
 \newblock {\em The EMBO journal}, 29(10):1629--36.
 
-\bibitem[Schwarzbauer et~al., 1983]{Schwarzbauer1983}
-Schwarzbauer, J.~E., Tamkun, J.~W., Lemischka, I.~R., and Hynes, R.~O. (1983).
+\bibitem[Schwarzbauer and Tamkun, 1983]{Schwarzbauer1983}
+Schwarzbauer, J. and Tamkun, J. (1983).
 \newblock {Three different fibronectin mRNAs arise by alternative splicing
   within the coding region}.
 \newblock {\em Cell}, 35(2 Pt 1):421--31.
@@ -1908,8 +1928,8 @@ Seitz, H., Ghildiyal, M., and Zamore, P.~D. (2008).
   their miRNA* strands in flies.}
 \newblock {\em Current biology : CB}, 18(2):147--51.
 
-\bibitem[Serqui\~{n}a et~al., 2013]{Serquina2013a}
-Serqui\~{n}a, A. K.~P., Das, S.~R., Popova, E., Ojelabi, O.~a., Roy, C.~K., and
+\bibitem[Serqui\~{n}a et~al., 2013]{Serquina2013}
+Serqui\~{n}a, A. K.~P., Das, S.~R., Popova, E., Ojelabi, O.~A., Roy, C.~K., and
   G\"{o}ttlinger, H.~G. (2013).
 \newblock {UPF1 is crucial for the infectivity of human immunodeficiency virus
   type 1 progeny virions.}
@@ -2019,10 +2039,11 @@ Shoji, M., Tanaka, T., Hosokawa, M., Reuter, M., Stark, A., Kato, Y., Kondoh,
   retrotransposon silencing in the mouse male germline.}
 \newblock {\em Developmental cell}, 17(6):775--87.
 
-\bibitem[Singh et~al., 2013]{Singh2013}
-Singh, G., Ricci, E.~P., and Moore, M.~J. (2013).
-\newblock {RIPiT-Seq: A high-throughput approach for footprinting RNA:protein
-  complexes}.
+\bibitem[Singh et~al., 2014]{Singh2013}
+Singh, G., Ricci, E.~P., and Moore, M.~J. (2014).
+\newblock {RIPiT-Seq: a high-throughput approach for footprinting RNA:protein
+  complexes.}
+\newblock {\em Methods (San Diego, Calif.)}, 65(3):320--32.
 
 \bibitem[Siomi et~al., 2011]{Siomi2011}
 Siomi, M.~C., Sato, K., Pezic, D., and Aravin, A.~A. (2011).
@@ -2290,6 +2311,12 @@ Wang, L.~K., Lima, C.~D., and Shuman, S. (2002).
   enzyme.}
 \newblock {\em The EMBO journal}, 21(14):3873--80.
 
+\bibitem[Washietl et~al., 2014]{Washietl2014}
+Washietl, S., Kellis, M., and Garber, M. (2014).
+\newblock {Evolutionary dynamics and tissue specificity of human long noncoding
+  RNAs in six mammals.}
+\newblock {\em Genome research}, pages 616--628.
+
 \bibitem[Watanabe et~al., 2011a]{Watanabe2011a}
 Watanabe, T., Chuma, S., Yamamoto, Y., Kuramochi-Miyagawa, S., Totoki, Y.,
   Toyoda, A., Hoki, Y., Fujiyama, A., Shibata, T., Sado, T., Noce, T., Nakano,
@@ -2312,7 +2339,7 @@ Waterhouse, A.~M., Procter, J.~B., Martin, D. M.~A., Clamp, M., and Barton,
   G.~J. (2009).
 \newblock {Jalview Version 2--a multiple sequence alignment editor and analysis
   workbench.}
-\newblock {\em Bioinformatics (Oxford, England)}, 25:1189--1191.
+\newblock {\em Bioinformatics (Oxford, England)}, 25(9):1189--91.
 
 \bibitem[Watson et~al., 2005]{Watson2005}
 Watson, F.~L., P\"{u}ttmann-Holgado, R., Thomas, F., Lamar, D.~L., Hughes, M.,

@@ -3,28 +3,31 @@
 \lhead{Chapter X. \emph{Chapter Title Here}} 
 
 \section{Main Section 1}
+  \label{Chap:sec:name}
 
   \lipsum[3]
 
   \subsection{Subsection 1}
+    \label{Chap:subsec:name}
 
     \lipsum[1]
 
-    %\begin{figure}[htbp] % FIGURE COMMENT NAME
-      %\centering 
-      %\includegraphics{Figures/FIGURE_PATH.eps}
-      %\caption[FIGURE TOC NAME]
-      %{FIGURE CAPTION TITLE \\
-        %FIGURE CAPTION TEXT
-        %}
-      %\label{fig:FIGURE LINK NAME}
-      %\end{figure}
+    \begin{figure} % FIGURE COMMENT NAME
+      \centering 
+      \includegraphics{Figures/FIGURE_PATH.eps}
+      \caption[FIGURE TOC NAME]
+      {FIGURE CAPTION TITLE \\[0.25cm]
+        FIGURE CAPTION TEXT
+        }
+      \label{Chap:fig:FIGURE LINK NAME}
+      \end{figure}
 
   \subsection{Subsection 2}
 
     \lipsum[1]
 
       \subsubsection{Sub Sub Section 1}
+        \label{Chap:subsubsec:name}
 
         \lipsum[1]
 
@@ -32,4 +35,13 @@
 
   \lipsum[1]
 
+  \begin{table} % TABLE NOTE
+  \caption[TOC TITLE] 
+    {
+     TEXT TITLE: CAPTION
+     }
+   \label{CHAPTER:tab:LABEL NAME}
+   \input{Tables/FILENAME}
+   \end{table}
 
+\cleardoublepage

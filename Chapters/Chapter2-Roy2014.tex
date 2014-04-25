@@ -237,48 +237,48 @@
 	\label{SeqZipPaper:sec: Methods and Materials}
 
   \begin{description}
-  	\item[Cell lines and Drosophila melanogaster stocks] \hfill \\
+  	\item[Cell lines and Drosophila melanogaster stocks] \hfill 
 		
 		U-937 (CRL-1593.2), Jurkat (TIB-152), and S2 (CRL-1963) cell lines were obtained from ATCC. Primary MEF cells were from C57BL/6J strain background and were obtained from The Jackson Labs. MEF lines were immortalized using SV40 retroviral infection. Mixed Drosophila melanogaster Oregon-R males and females were maintained at 25$\,^{\circ}\mathrm{C}$. Embryos 4-6 hour, and 14-16 were collected. 
 
-		\item[Ligamer design] \hfill \\
+		\item[Ligamer design] 
 		The 5\textprime~and 3\textprime~most sequences of a target sequence (ex. exon or multiple exons) were obtained from online databases (Ensembl, UCSC, etc.). The Tm of these sequences was normalized to 60$\,^{\circ}\mathrm{C}$ $\pm$ 5$\,^{\circ}\mathrm{C}$ according to nearest-neighbor rules \citep{Xia1998} by adding or removing flanking nucleotides. Most regions of complementarity fell between 12 and 25 nt in length. After assembling complementary region sequences, matching sequences (i.e. the 5\textprime~and 3\textprime~edge sequences of a specific exon) were combined with a short spacer sequences included between them. For this study the spacer was restricted to (TGA)*N, where N was typically 2. With the full sequence now assembled, the reverse complement was taken, ligamers requiring 5\textprime~phosphorylation for subsequent ligation were marked, and ligamers were ordered in 96 well format from Integrated DNA Technologies (IDT). Ligamers were reconstituted to 1 $\mu$M in sets targeting specific regions on a specific gene and subsequently diluted further for use in the SeqZip protocol.
 
-		\item[SeqZip] \hfill \\
+		\item[SeqZip] 
 		Total RNA was isolated from a cell line or tissue type using Tri Reagent (MRC) according to the manufacturer's instructions. Poly(A) RNA was isolated using the Poly(A)Purist MAG kit from Ambion (AM1922). Poly(A) RNA was not eluted from magnetic beads, and after the last wash step, beads were aliquoted into appropriate amounts and reconstituted in hybridization buffer (60 mM Tris-HCl pH 7.5 @ 25$\,^{\circ}\mathrm{C}$, 1.2 mM DTT 2.4 mM MgCl$_{2}$, 480 $\mu$M ATP) including 10 nM appropriate ligamers. Hybridization was performed in a thermocycler by heating samples to 62$\,^{\circ}\mathrm{C}$ for 5 minutes and cooling to 45$\,^{\circ}\mathrm{C}$ in 3$\,^{\circ}\mathrm{C}$ by 10 minute increments. Samples were left at 45$\,^{\circ}\mathrm{C}$ for 1 hour, then cooled again in 3$\,^{\circ}\mathrm{C}$ by 10 minute increments until 37C was reached. Samples were left at 37$\,^{\circ}\mathrm{C}$ until enzyme was added. T4 RNA ligase 2 (NEB, M0239) was added to compose 10\% of final volume (ex. 2.5 $\mu$l in 22.5 $\mu$L previous samples). At this point the samples were in 1X ligation buffer (51 mM Tris-HCl pH 7.5 @ 25$\,^{\circ}\mathrm{C}$, 2.01 mM DTT, 5 mM KCl, 2 mM MgCl$_{2}$, 400 $\mu$M ATP, 3.5 mM (NH$_{4}$)$_{2}$SO$_{4}$, 5\% glycerol). Samples were incubated at 37$\,^{\circ}\mathrm{C}$ for 8-16 hours. Ligation products were amplified by PCR and analyzed by either native PAGE or sequencing.
 
-		\item[PacBio FN1 Analysis] \hfill \\
+		\item[PacBio FN1 Analysis] 
 		cDNA prepared using primers designed to amplify EDB->IIICS region was submitted for library construction using ``The DNA Template Prep Kit 2.0 ''and sequenced on a PacBio RS II. Circular Consensus reads were aligned to an index of FN1 isoforms using BLAT. 
 
-		\item[MiSeq Library Preparation] \hfill \\
+		\item[MiSeq Library Preparation] 
 		Individual SeqZip ligation reactions were amplified for 12 cycles using common primers, in individual PCR reactions. After amplification, PCR reactions were run on a 5\% acrylamide gel, and DNA in the appropriate size range of full-length ligation products was cut from the gel, and eluted. Eluted DNA was precipitated, and amplified for another 22 cycles using primers containing Illumina priming sequences with integrated barcodes. These PCR reactions were cleaned using a PCR clean up kit (Qiagen) and quantified. Samples were mixed and submitted for sequencing on the MiSeq instrument, paired end 250 nt read option.
 
-		\item[MiSeq Library Analysis] \hfill \\
+		\item[MiSeq Library Analysis] 
 		Paired reads were split according to the index read/barcode. Libraries were aligned against an index of all possible \dscam{} ligamer arrangements using bowtie2 \citep{Langmead2012} in the ``-very-sensitive-local'' mode and constrained using -no-discordant to only look for reads where both pairs aligned to the same isoform. Read counts per isoform were extracted using the SAMtools software package \citep{Li2009d}. Analysis of count values and graph generation was performed using R \citep{RDevelopmentCoreTeam2011}.
 		
-		\item[Triple Read Sequencing] \hfill \\
+		\item[Triple Read Sequencing] 
 		To interrogate, RNA samples, reverse transcription was performed using 5 $\mu$g Total RNA, Superscript II (Invitrogen) and random hexamer at 42o C for one hour. Three strand-switching control experiments were performed by mixing plasmids encoding isoforms \dscam{}$^{1.33.9}$, \dscam{}$^{12.32.9}$, \dscam{}$^{1.24.6}$, and \dscam{}$^{7.9.6}$ in the ratios of 3:3:1:1, 1:1:1:5, and 1:1:1:1. PCR primers specific to exon 3 (Not1Ex3For: TAT CGG CGG CCG CGG ACG TCC ATG TGC GAG CCG) and exon 10 (Ex10RevNot1: ATA TCG CGG CCG CGA GGA TCC ATC TGG GAG GTA) with a Not I restriction enzyme site on the 5\textprime~ends were used to amplify the cDNA or plasmids containing the region encompassing exons 4, 6, and 9 using Phusion polymerase (NEB) with an annealing temperature of 55$\,^{\circ}\mathrm{C}$ and 1 minute extension. PCR products were gel purified and digested with Not1 for 2 hours at 37$\,^{\circ}\mathrm{C}$, followed by a heat inactivation at 65$\,^{\circ}\mathrm{C}$ for 20 minutes. 0.5 $\mu$g of the digested PCR products were circularized in 500 $\mu$L 1X T4 ligase buffer (NEB) with 1 $\mu$l T4 ligase at 18$\,^{\circ}\mathrm{C}$ overnight. Inverse PCR was then performed with primers specific to exons 7 (PEex7Rev:CAA GCA GAA GAC GGC ATA CGA GAT CGG TCT CGG CAT TCC TGC TGA ACC GCT CTT CCG ATC TAT GAA CTT GTA CCA T) and 8 (PEex8For: AAT GAT ACG GCG ACC ACC GAG ATC TAC ACT GTT TCC CTA CAC GAC GCT CTT CCG ATC TAA GTG CAA GTC ATG G) that containing Illumina paired-end clustering sequences using Phusion polymerase (NEB) with a 55$\,^{\circ}\mathrm{C}$ annealing temperature and 30 second extension. Libraries were gel purified, quantified and clustered on a Genome Analyzer IIx paired-end flow cell on an Illumina cluster station using the standard clustering protocol.
 
 		Sequencing was performed on an Illumina GAIIx by modifying the protocol for paired-end sequencing with an index read. Briefly, read 1 was performed for 24 cycles with a primer complementary to the 5\textprime~end of exon 8 (Ex8For:ACG ACG CTC TTC CGA TCT AAG TGC AAG TCA TGG). The flow cell was denatured to remove the exon 9 sequencing products, a primer complimentary to exon 3 (Ex3For:CCC GGG ACG TCC ATG TGC GAG CCG) was annealed, and read 2 sequenced for 12 cycles. Next, the flow cell was re-clustered using the paired-end protocol and read 3 performed for 20 cycles using a primer complementary to exon 7 (Ex7Rev:GAA CCG CTC TTC CGA TCT ATG AAC TTG TAC CAT).
 
 		Base calling was performed from the raw images using the Firecrest, Bustard, and Gerald software modules of GAPipeline-1.4.0 and a matrix.txt file for a PhiX lane from a previous flow cell for calibration. This generated a single FastQ file per lane containing the three reads from each cluster concatenated together. The reads within the FastQ files were parsed to separate the three reads and the identity of each exon within each cluster, and thus the full isoform, determined by matching to a database of known exon sequences using Perl scripts.
 		
-		\item[Determining Sequencing Similarity of \dscam{} Sequences] \hfill \\
+		\item[Determining Sequencing Similarity of \dscam{} Sequences] 
 		Endogenous \dscam{} sequences were obtained from genomic build DM3 using BEDTools \citep{Quinlan2010}. All possible \dscam{} were assembled using a PERL script. Five hundred random isoforms were obtained, and aligned using TCOFFEE \citep{Notredame2000} in the Jalview package \citep{Waterhouse2009}. Consensus scores of alignments were exported and graphed in R. The same analysis was performed on \dscam{} ligation products, except ligamer sequences were used in place of endogenous exonic sequences.
 		
-		\item[Trans-transcript RNA design] \hfill \\
+		\item[Trans-transcript RNA design] 
 		PCR was performed using oligos specified in Table S2 in desired combinations. These oligos have partial complementarity to the open reading frame (ORF) of human eiF4A3. A plasmid containing this ORF was used (RefSeq: NM_014740 ) as a template for PCR. The sequences of the individual RNAs were confirmed by sequencing. 
 
-		\item[Reverse Transcription] \hfill \\
+		\item[Reverse Transcription] 
 		Reverse transcription was performed using SuperScript III (Invitrogen), 200 ng poly(A) selected RNA, and either a gene-specific antisense primer or anchored oligo(dT).
 
-		\item[Radioactive PCR] \hfill \\
+		\item[Radioactive PCR] 
 		A 5\textprime~32P-radiolabeled antisense primer was used in PCR reactions run for a limiting number of PCR cycles. Multiple cycle numbers were performed to test for expected increases in signal (typically 15,18, and 21 cycles). Reactions analyzed on denaturing acrylamide gels to size resolve ligation products. Bands were quantified using a Typhoon imager (GE Healthcare) and the ImageQuant software package (GE Healthcare).
 
-		\item[Endpoint PCR] \hfill \\
+		\item[Endpoint PCR] 
 		Using a 25 $\mu$l reaction volume, after 8 hours of ligation, 2 $\mu$l reaction volume was added into a 20 $\mu$l PCR reaction with 500 nM primers and 50\% Green master mix from Promega. Samples were amplified for 35 cycles using a hybridization temperature 5$\,^{\circ}\mathrm{C}$ below the $^{Tm}$ of the primers. 10 $\mu$l of each PCR reaction was run out on an appropriate percentage native 29:1 (acrylamide: bis-acrylamide) native acrylamide gel.
 
-		\item[Statistical Analysis] \hfill \\
+		\item[Statistical Analysis] 
 		Error bars represent the standard error of the mean of the experimental replicates. Errors were propagated from individual standard deviations according to the formula $\Delta$Z = Z(SQRT((($\Delta$A/A)^2)+(($\Delta$B/B)^2))) where Z = A/B.
 
 		\end{description}
@@ -288,14 +288,15 @@
 
 	\begin{description}
 
-		\item[ACKNOWLEDGEMENTS] \hfill \\
+		\item[ACKNOWLEDGEMENTS] 
 		Alper Kucukural for bioinformatics support. Kristen Lynch and Eric Shuman for plasmids. Andrés Muro for Fn1 cell lines. 
 
-		\item[AUTHOR CONTRIBUTIONS] \hfill \\
+		\item[AUTHOR CONTRIBUTIONS] 
 		CKR, PDZ, and MJM conceived the experiments. CKR performed the experiments and conducted the analysis. CKR, PDZ, and MJM wrote the paper. 
 
-		\item[COMPETING FINANCIAL INTERESTS] \hfill \\
+		\item[COMPETING FINANCIAL INTERESTS] 
 		The authors have applied for a patent (12/906,678) concerning the SeqZip protocol. 
 
 		\end{description}
 
+\cleardoublepage

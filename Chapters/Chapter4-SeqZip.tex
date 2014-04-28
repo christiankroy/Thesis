@@ -33,7 +33,7 @@
 
   The three sections contrast with Chapter \ref{SeqZipPaper} in some important ways. First, Section \ref{SeqZipMethod:sec:Multiplex Gene Study} demonstrates that the SeqZip method can not only be used to investigate one, extremely complex Alternatively splice gene, such as \dscam{} in a c comprehensive manner, but can also be applied to looking at multiple genes at once. Seciton \ref{SeqZipMethod:sec:RNA Integrity via SeqZip} expoits an important subtle feature of the method--- that the RNA must be intact in order to produce a ligation product. This can be used to report on a fraction of RNA that is intact, and deduce meaningful information such as the amount of RNA virus that is intact (see \ref{SeqZipMethod:subsec: Why use SeqZip to look at HIV genomes}), or the existance of as-yet unobserved mega transcripts, like mammalian piRNA precursors (see \ref{SeqZipMethod:sec:Demonstrating continuous precursor TX by SeqZip} and \citep{Li2013h,Li2013}).
 
-\section{Multiplex Gene Study}
+\section{Multiplex}
   \label{SeqZipMethod:sec:Multiplex Gene Study}
 
   Is the coordination discussed in section \ref{Intro:subsec:Coordination in splicing} a general phenomenon? One of the major goals of developing the SeqZip methodology was investigating potential coordination genome-wide. By genome-wide, what we really mean is to analyze many (or all) of the RNA transcripts in a tissue for evidence of coordinated splicing decisions. When development of the method reached the point that it could be applied in a multiplex study, I did not posses the bioinformatic skills necessary to 1) design ligamers in an automated and high-throughput fashion and 2) identify target transcripts, exons, and sequences to investigate for potential connectivity. Both of these points are discussed later(see \ref{SeqZipMethod:sec:Demonstrating continuous precursor TX by SeqZip} and \ref{Disc}. 
@@ -81,7 +81,7 @@
     \label{SeqZipMethod:fig:Apbb1 Results}
     \end{figure}
 
-\section{Determining RNA integrity using SeqZip}
+\section{RNA Integrity}
   \label{SeqZipMethod:sec:RNA Integrity via SeqZip}
 
   An exciting use of SeqZip would be rapid quantification of the integrity of RNA molecules. Integrity here is defined as the faction of molecules that are a continuous and unbroken nucleic acid polymers, from the original site of transcript to 3\textprime~-processed end. Quantification of integrity has many uses including: quality control of RNA before downstream analysis such as RT or sequencing, and 2) (discussed below) implications of infectivity for viruses that package and RNA genome in the virion.
@@ -122,14 +122,14 @@
 
      These results are encouraging, but bear repeating in order to address the issues of potential secondary structure and repetitive regions inherent to the template RNA used. The should be repeated with a template RNA of mRNA original, instead of a highly-structured and repetitive template such as the HIV genome used in the experiments described above.
 
-  \subsection{Investigating HIV viral genome integrity using SeqZip}
+  \subsection{Measuring HIV Genome Integrity}
     \label{SeqZipMethod:subsec: Why use SeqZip to look at HIV genomes}
 
     In late 2010, early 2011, a Graduate student in the \href{http://profiles.umassmed.edu/profiles/display/133484}{Gottlinger} lab, Anna Kristina Serquiña observed that a cell line expressing ATPase-defective forms of the SF1 helicase UPF1 \citep{Bhattacharya2000} did not infect a reporter cell line to the same degree as control. A previous Mass-spec study had reported MOV10, another SF1 family helicase \citep{Gregersen2014} was packed in extracellular viral particles. She hypothesized that the decrease in infectivity was due to a problem with RT of the genetic material injected into the target cells. The results of this study were recently published \citep{Serquina2013}.
 
     Anna was interested in using the SeqZip methodology to quantify the amount of intact HIV virus in virus-producing cells and extracellular virions. The first step in applying SeqZip to HIV was to design ligamers.
 
-	\subsection{Design of HIV ligamers}
+	\subsection{HIV Ligamer Design}
     \label{SeqZipMethod:subsec: Design of HIV ligamers}
 
 	  Research into the integrity of the HIV RNA genome using SeqZip began with designing a set of ligamers against two different clones. The first clone, targeting transcripts from the M19921 plasmid (so called ``M'' clone), and transcripts from the K03455 clone contain nearly identical sequences with respect to the genome itself, and differ mostly in plasmid originating sequences. We targeted a difference in sequence for one site of ligation (Fig3-11A). Three different pools of ligamers were created initially: a Five(5) ligamer pool, with three ligamers design to test for the presence of sequence in the first 1,140 nt of the HIV genome, importantly the first site of ligation in the 5 region pool should contain a mismatch in the K clone sequence; a three(3) pool, testing the last 1,210 nt of the genome, and a Long (L) ligamer pool, also containing three ligamers, but the middle ligamer of which would span the 5 and 3 regions, looping out 8,633 nt of sequence in the middle of the HIV genome. In vitro transcripts were created using both the K and M clone plasmids. These transcripts were added to a background of total MEF RNA, and the SeqZIp assay was performed. Ligation products were successfully amplified from all ligamer pools when using the M clone transcript and all three ligamer pools. Also the abundance of these ligation products, as measured by endpoint PCR, seemed to be spike-concentration dependent. Notably, Ligation products were not obtained from the K clone using either the 5 or L ligamer pools, likely due to the mismatch between the transcript and the ligamers at the site of ligation. Also of note was the appearance of ligation products from purified endogenous virions of the M clone from all three ligamer pools, and the absence of products from virions purified from plasmids containing a defective protein, Gag, essential for viral packaging. 
@@ -150,12 +150,12 @@
 
     Again, while these results were encouraging, access to purified material and a general push to publish Anna's UPF1 story lead the Gottlinger lab to substantiate the viral genome integrity claims effecting infectivity using a traditional northern blot \citep{Serquina2013}. However, this work clearly warrants additional optimization and application
 
-\section{Continuity of piRNA precursor transcripts}
+\section{piRNA Precursors}
   \label{SeqZipMethod:sec:Demonstrating continuous precursor TX by SeqZip}
 
   The first genome-wide study of piRNAs in \flies{} suggested their production from a long, single-stranded RNA, as discussed in section \ref{Intro:sec:Nucleic Acid Polymers} \citep{Brennecke2007,Gunawardane2007}. Yet, demonstration of precursor transcripts existing as continuous, long, RNA molecules had, as of 2010, yet to be demonstrated. If it could be shown through experimentation that precursors existed as long RNAs, it would provide valuable clues as to their biogensis, included how such a long RNA is packaged and transported around the cell. With these goals in mind, the following section describes efforts to apply the SeqZip methodology to demonstrating the continuity of precursor transcripts.
 
-  \subsection{Mammalian loci of piRNA precursor transcription}
+  \subsection{Mammalian piRNA Precursor Loci}
     \label{SeqZipMethod:subsec:Mammalian Loci of precursor Tx}
 
     Using a dynamic programming algorithm and small RNA data from 14.5 dpp mice testes, 214 genomic loci that account for >95\% of all pachytene piRNAs were identified (see Chapter \ref{MolCel}). Many of these loci are intergenic, and residie many thousands of bp away from the nearest traditional protein-coding gene. Yet, many of these loci \textit{are} traditional protein coding genes themselves, making investigation into their eventual biogensis to mature piRNAs more complicated. Finally, some of these loci are generated from what appears to be a bidirectional promoter. Figure \ref{SeqZipMethod:fig:precursor Loci Locations} shows the location of each of these types of precursor loci on each of the 19 autosomal chromosomes of the mouse. There were no loci identified on the X and Y chromomes, likely due to them being transcriptionally silenced during gametogensis. 
@@ -182,7 +182,7 @@
 
     Currently, the Zamore lab is designing sequence-specific DNA nucleases (TALENs and CRISPRs) to remove these promoters from the mouse genome. Once mice strains are created with these promoters removed, it is hoped that the phenotypes displayed will provide clues to the function of pachytene piRNAs in mice.
 
-  \subsection{Mammalian pachytene piRNA precursor transcripts are a unique kind of Pol II transcript}
+  \subsection{Pachytene Precursors are Unique Pol II Transcripts}
     \label{SeqZipMethod:subsec:pachytene Tx are different}
 
     Even though mammalian piRNA precursor transcription is driven by traditional Pol II, the RNA transcripts themselves have a unique architecture. First, they tend be very long (some are >100kb). While is not especially long compared to some annotated mRNAs, what is unique is that many are not interupted by introns for tens of thousands of nucleotides. Given the coupling between splicing and transcription, discussed in section \ref{Intro:subsec:Coordination in splicing}, it is strange to see so many sequences containing even cryptic splice sites, be largely skipped by the spliceosome. Perhaps more confusing is that the pre-pachytene precursors are \textit{do have} traditional mRNA-like design, with long introns typical of a mammalian Pol II transcript. Yet, both of these transcripts are processed into piRNAs. How does the cell partition these transcripts (see section \ref{Disc:subsec:How are precursors generated}). Also refer to figure \ref{SeqZipMethod:fig:piRNA precusor Tx features} for comparisons between ``genic'' (i.e. prepachytene) and ``intergenic'' (i.e. pachytene) precursor transcripts are two other classes of Pol II transcripts, mRNAs and non-coding RNAs (ncRNA).
@@ -213,7 +213,7 @@
       \label{SeqZipMethod:fig:RT doesn't work for precursors}
     	\end{figure}
 
-  \subsection{SeqZip analysis of long RNAs at multiple locations}
+  \subsection{Connectivity of Distance Intramolecular Sequences}
     \label{SeqZipMethod:subsec:SeqZip on long RNAs at multiple locations}
 
     Before applying SeqZip to these extremely difficult transcripts, we first designed a set of oligos to demonstrate the continuity of a traditional mRNA. The mRNA we picked, \dst{}, was 1) of sufficient length (>23Kb as a fully processed mRNA) and 2) expressed in mouse testes. Ligamers were designed to loop out\textasciitilde5kb sections spaced evenly along the length of the transcript. Also, a ligamer was designed to loop out 22kb of the message, from 5\textprime~to 3\textprime~end. An illustration of the experimental design is shown in figure \ref{SeqZipMethod:fig:SeqZip on dst1}.
@@ -246,7 +246,7 @@
 
     With these results in hand, we felt confident that SeqZip could be used to analyze piRNA precursor transcripts.
 
-  \subsection{Investigating piRNA precursors transcripts using SeqZip}
+  \subsection{Precursor Transcript Continuity}
     \label{SeqZipMethod:sec:piRNA precursor by SeqZip}
 
     Applying the same logic as that used to examine multiple distant sequences in \dst{} and \fn{}, ligamers were designed against a highly-expressed piRNA-producing loci, \textit{7-qD2-11976} (aka - ``M11''). Five unique sites were picked, again named A-E. Sites were picked to 1) avoid repetitive regions, 2) overlap with expression evidence from small RNA and RNA-Seq data, 3) contain loops of\textasciitilde5kb in length and finally 4) be unique in the genome. A schematic of the approach is shown in figure \ref{SeqZipMethod:fig:Precursors are testes-specific}A.
@@ -294,7 +294,7 @@
 
     What could be the cause of our inability to create ligation products, with the method worked so well, without any optimization, for genes of similar length and expression (e.g. \dst{})? Our current hypothesis is that at steady-state levels, the amount of full-length piRNA precursors that exist, in continuous polymers of length >10kb, is extemely low. Low to the point of being below the LOD for the SeqZip method. Indeed, many nucleases appear to act on piRNA precursors along their journey from Pol II transcript to mature piRNA (see section \ref{Intro:subsec:Processing of piRNAs in mice}). The piRNA machinery is perhaps too fast and efficient for us to capture these extremely long RNAs. Future experiments that somehow perturb the pathway, such as \textit{Pld6} (aka \textit{MmZuc, MitoPLD} and \textit{Zucchini} in flies) could accumulate precursors before any cleavage occurs. This is discussed in more detail in section \ref{Disc:sec:piRNA precursors}.
 
-\section{Evidence for spliced piRNA precursor transcripts}
+\section{Precursor Splicing}
   \label{SeqZipMethod:sec:piRNA precursors are spliced}
 
   Once it was determined that the existence of piRNA precursor transcripts as continuous piRNA precursors could not be demonstrated using SeqZip, careful attention was paid to the RNA-Seq data used to determine the edges of precursor loci transcription. The RNA-Seq data, once aligned with a splicing-sensitive algorithm (i.e. ``Tophat'' \citep{Trapnell2009}), it was clear that piRNA precursors were spliced, as multiple reads supported intronic segments with little to no RNA-Seq reads. A good example of the high-level type of data observation that was being performed until this point is shown in Figure \ref{SeqZipMethod:fig:evidence for precusor splicing}. In this figure, small RNA data is shown in green, and plotting alongside RNA-Seq data in black. For this particular cluster, the RNA-Seq data and small RNA data appear continuous with the length of gene, as typical for many loci in \flies{}. It was necessary to increase the resolution used to study the piRNA-generating loci in mice in order to accurately define their transcripts.

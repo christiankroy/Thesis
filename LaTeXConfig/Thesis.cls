@@ -13,8 +13,8 @@
   \renewcommand{\floatpagefraction}{0.75}
   \renewcommand{\dblfloatpagefraction}{.75}
 \usepackage{float}  
-  \floatstyle{plain} \restylefloat{figure} % Figures with Captions below
-  \floatstyle{plaintop} \restylefloat{table} % Table with captions above
+  \floatstyle{plain} \restylefloat{figure} % Figures Captions below
+  \floatstyle{plaintop} \restylefloat{table} % Table Captions above
 
 %%%% TABLES
 \usepackage{longtable} % For long tables that span many pages. | use \begin{longtable}
@@ -25,12 +25,14 @@
 
 %%%% FONTS
 \usepackage[T1]{fontenc}   % Standardize output fonts
-\usepackage{helvet} \renewcommand{\familydefault}{\sfdefault} % Pick Ariel Font  
+\usepackage{helvet} \renewcommand{\familydefault}{\sfdefault} % Pick Ariel Font 
 \usepackage{selinput} % For Anna's name
   \SelectInputMappings{
   aacute={á},
   ntilde={ñ}
   }
+\usepackage{microtype} % Font Kerning. Makes text nicer to read.
+
 
 %%%% REFERENCING AND BIBLIOGRAPHY
 \usepackage[square, comma, sort&compress]{natbib}  % For Referencing
@@ -39,20 +41,16 @@
   \nobibliography* % Required to use the \usepackage(bibentry) above
 
 %%%% COMMENTING, TODO, and REVIEW
-\usepackage{soul} % Highlight things use \hl{text}
-\usepackage[colorinlistoftodos]{todonotes} % To inserting Comments w/ \todo[prepend]{Comment text}
-\usepackage{changebar} % For putting bar in margin for review w/ \begin{changebar} & \end{changebar}
-\usepackage{lipsum} % Generate Fill text w/ \lipsum[#] where #=paragraph num
+\usepackage{soul} % Highlight `\hl{text}`
+\usepackage[colorinlistoftodos]{todonotes} % Insert Comments `\todo[prepend]{Comment text}`
+\usepackage{changebar} % Bar in margin w/ `\begin{changebar}` & `\end{changebar}`
+\usepackage{lipsum} % Fill text w/ `\lipsum[#]` #= number of paragraphs
 
 %%%% CODE INCLUSION
 \usepackage{listings}
-\usepackage{color}
-  \definecolor{dkgreen}{rgb}{0,0.6,0} 
-  \definecolor{gray}{rgb}{0.5,0.5,0.5}
-  \definecolor{mauve}{rgb}{0.58,0,0.82}
   \lstset{
     frame=tb,
-    language=Perl, % Change as needed locally w/ \lstset{language=LANG} where LANG=language of choice (i.e. PERL)
+    language=Perl, % Change locally w/ \lstset{language=LANG}
     aboveskip=3mm,belowskip=3mm,
     showstringspaces=false,columns=flexible,
     basicstyle={\footnotesize\ttfamily},
@@ -63,11 +61,16 @@
     stringstyle=\color{mauve},
     breaklines=true,breakatwhitespace=true
     tabsize=2}
+\usepackage{color}
+  \definecolor{dkgreen}{rgb}{0,0.6,0} 
+  \definecolor{gray}{rgb}{0.5,0.5,0.5}
+  \definecolor{mauve}{rgb}{0.58,0,0.82}
+
 
 %%%% WHITE SPACE
-\usepackage{setspace} % For picking line spacing *within* sections
-\usepackage{parskip} % For changing spacing between heads, lets me use linebreaks for spacing between paragraphs
-  \setlength{\parskip}{\baselineskip}
+%\usepackage[document]{ragged2e} % Align text left. Default is fully justified
+\usepackage{setspace} % Line spacing *within* sections
+\usepackage{parskip} % Changing indent and paragraphs spacing
 \usepackage{vmargin} % MARGINS
   \setmarginsrb  { 1.5in}  % left margin | Umass Corrected
                  { 1.5in}  % top margin
@@ -134,7 +137,7 @@
 
 %%%% DOCUMENT VARIABLES
 \newcommand*{\thesistitle}[1]{\def\ttitle{#1}}
-  \thesistitle{"Putting the Pieces Together: Exons and piRNAs"} % Your thesis title
+  \thesistitle{Joining the Pieces: Exons and piRNAs} % Your thesis title
 
 \newcommand*{\authors}[1]{\def\authornames{#1}}
   \authors{Christian K. Roy} % Your name 

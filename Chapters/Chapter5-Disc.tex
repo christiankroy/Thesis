@@ -3,7 +3,7 @@
 \label{Disc}
 \lhead{Chapter 5. \emph{Discussion}} 
 %----------------------------------------------------------------------------------------
-\section{Concerning the transcriptome}
+\section{Concerning the Transcriptome}
   \label{Disc:sec:Future of Dynamic long RNAs}
 
   Deep sequencing of transcriptomes has revolutionized biology. Previously, transcript identification and characterization involved significant labor, cost, and materials. In the mid-90's, microarray technology \citep{Schena1995a} gave us a tantalizing glimpse into how genes were expressed, but were limited to probed, and therefore known, sequences. Yet, these green and red landscapes hinted at incredible complexity---a complexity that would have to wait for technology to catch up.
@@ -17,7 +17,7 @@
   \subsection{Pervasive transcription}
     \label{Disc:subsec:Pervasive Tx}
 
-    There are $2,598,960$ different Poker hands possible from a 52-card deck. There are $1,098,240$ different single-pair combinations, with a probability of obtaining one being almost 50\%. Compare this to a ``Royal Flush'', for which there are only 4 options, and a probability of $649,739:1$ or $1.54 * 10^{-6}$!. It is these numbers that makes possible to play Poker for hours on end. Biology uses similar combinatorics to arrange exons into unique and rare combinations, especially in complex eukaryotic organisms. Indeed the process of splicing is closely correlated with organism complexity. The process of AS is even more closely tied to organism complexity (see Figure \ref{Intro:fig:numGenesAndNumSpliced}). Accurate determination and assembly of each card (exon) that comprises a hand (transcript) is a major ``known unknown'' \citep{Rumsfeld2011} of research into long RNAs.
+    There are $2,598,960$ different Poker hands possible from a 52-card deck. There are $1,098,240$ different single-pair combinations, with a probability of obtaining one being almost 50\%. Compare this to a ``Royal Flush'', for which there are only 4 options, and a probability of $649,739:1$ or $1.54 * 10^{-6}$ !. It is these numbers that makes possible to play Poker for hours on end. Biology uses similar combinatorics to arrange exons into unique and rare combinations, especially in complex eukaryotic organisms. Indeed the process of splicing is closely correlated with organism complexity. The process of AS is even more closely tied to organism complexity (Figure \ref{Intro:fig:numGenesAndNumSpliced}). Accurate determination and assembly of each card (exon) that comprises a hand (transcript) is a major ``known unknown'' \citep{Rumsfeld2011} of research into long RNAs.
 
     The ENCODE papers from late 2012 suggested that 95\% of the genome is functional \citep{Dunham2012}, a finding that continues to be heavily debated \citep{Graur2013,Bhattacharjee2014}. \citet{Djebali2012} and focused on issues of transcription in these cell lines, as discussed in section \ref{Intro:subsec:IsoformsPerGene}, and concluded that 75\% of the genome is transcribed into RNA. Additionally, GENCODEv7 includes 9,640 manually curated lncRNA loci, some of the most novel and functionally interesting class of long RNAs \citep{Derrien2012,Pauli2011}. While ENCODE was performed using multiple human cancerous cell lines, these results support the ability of HTS to reveal transcriptional diversity.
 
@@ -26,13 +26,12 @@
 
     The current state of the transcriptome assembly, a field in its relative infancy, is described in section \ref{Intro:subsec:Tx Assembly}. Current transcript assembly algorithms only provide predictions and probabilities for the existence of real molecules. Until RNA can be directly sequenced, in their entirety, and from single cells or molecular compartments, researchers will always be making compromises in annotation and quantification \citep{Ozsolak2010}. Once technology advances to the point where a transcriptome can be as accurately and quickly determined as a genome, extremely exciting research into the more subtle and nuanced complexity (e.g. what makes one twin \textit{molecularly} different from another?) of biology can be unlocked.
 
-    What is required to improve our ability to quickly and accurately assemble transcriptomes? Simulations indicate that improvements will not come from longer read lengths \citep{Chang2014c}. These simulations also demonstrate that the accuracy of current \textit{de novo} (see section \ref{Intro:subsec:Tx Assembly}) assemblers decreases sharply with increased increase AS within the transcriptome.
-    \todo[inline]{More thoughts on what is needed for better transcript assembly} % **************************
+    What is required to improve our ability to quickly and accurately assemble transcriptomes? Simulations indicate that improvements will not come from longer read lengths \citep{Chang2014c}. These simulations also demonstrate that the accuracy of current \textit{de novo} (see section \ref{Intro:subsec:Tx Assembly}) assemblers decreases sharply with increased increase AS within the transcriptome. \citet{Engstrom2013}, who performed a systemic assessment of RNA-Seq transcript reconstruction methods concluded what is likely to be the most revolutionary step toward accurate transcriptome assembly---single pass sequencing of single transcripts. Results presented by \citep{Sharon2013}, demonstrating inherent constraints imposed by requiring RT to convert long RNAs to long cDNAs, mean that this future single-molecule sequencing will have to be of the RNA directly. This will be especially important and informative to pickup modifications such as N6-methyl-adenosine \citep{Pan2013}
 
   \subsection{Tissue and cell specificity}
     \label{Disc:subsec:Tissue-specific Tx expression}
 
-    As discussed in section \ref{Intro:subsec:Alternative Splicing}, mechanisms of AS are frequently tissue-, time-. and cell-specific. Landmark studies examining AS in different organ systems, from evolutionarily-distant organims, found that AS is more comparable between organs of different animals than between different organs from the \textit{same} animal \citep{Barbosa-Morais2012,Merkin2012}. \citet{Brown2014} analyzed the \flies{} transcriptome, and observed that AS could be better desribed as ``tissue-specific splicing''. Further, tissue-specific lnRNA expression has been recently reported \citep{Washietl2014}, adding to the importance of sample resolution performing transcriptome analysis.
+    As discussed in section \ref{Intro:subsec:Alternative Splicing}, mechanisms of AS are frequently tissue-, time- and cell-specific. Landmark studies examining AS in different organ systems, from evolutionarily-distant organims, found that AS is more comparable between organs of different animals than between different organs from the \textit{same} animal \citep{Barbosa-Morais2012,Merkin2012}. \citet{Brown2014} analyzed the \flies{} transcriptome, and observed that AS could be better desribed as ``tissue-specific splicing''. Further, tissue-specific lnRNA expression has been recently reported \citep{Washietl2014}, adding to the importance of sample resolution performing transcriptome analysis.
 
     The concept of ``tissue-specific splicing'' brings up a subtle, but important consideration concerning AS research. The concept of AS conjures an image of dynamic post-transcription RNA processing, allowing cells to quickly respond changes in environment, programming, or stimuli. Yet, as demonstrated by the studies just mentioned, most AS is not that dynamic. In fact, the main reason much of these events are even considered \textit{alternative} is because we are comparing the transcriptomes of different tissues. Is that a fair comparison?
 
@@ -45,18 +44,15 @@
 
     Can methods such as RNACapture be used to perform more careful and targeted sequencing of \dscam{} transcripts \citep{Mercer2014}?
 
-\section{In the haystack: piRNA precursors}
+\section{In the haystack: piRNA Precursors}
   \label{Disc:sec:piRNA precursors}
 
-  Chapter \ref{MolCel} describes efforts to annotate 467 transcripts from 214 loci that account for 95\% of the total piRNAs in 14.5 dpp mice. Also described is how these transcripts are typical Pol II transcripts, possessing all the archetypical molecular signatures including 5\textprime~MeGppp caps, introns, and poly(A) tails. Yet RNA from these molecules appears to be rapidly consumed and processed into millions of unique 24\textendash32 nt species. How does the cell partition long RNAs for translation by the ribosome (as the case for most mRNAs) or cleavage and maturation into piRNAs? The sections below propose experiments aimed toward answering this question.
+  Chapter \ref{MolCel} describes the annotation of 467 transcripts from 214 loci. These loci account for 95\% of the total piRNAs in 14.5 dpp mice. These transcripts possesses the archetypical molecular signatures of Pol II origin, including 5\textprime~MeGpppN caps, introns, and poly(A)+ tails. Yet, RNA from these molecules appears to be rapidly consumed and processed into millions of unique small RNA (~24\textendash32 nt) species. How does the cell partition mRNAs for translation by the ribosome or cleavage and maturation into piRNAs?
 
   \subsection{Precursor Identity}
     \label{Disc:subsec:How are precursors generated}
 
-    % From the resources paper: Indeed, two isoforms of pi-Wdfy3 are transcribed from different promoters in the testis (Figure S2D). The short isoform is transcribed from a low CpG promoter bound by A-MYB, while the long isoform is transcribed from a high CpG with no detectable A-MYB binding. piRNAs derive from the genomic region corresponding to the short transcript. In an A-Myb mutant, piRNA from the pi-Wdfy3 loci are reduced 165-fold (31.6 rpkm in heterozygotes versus 0.191 in mutants). The abundance of long isoform transcripts did not decrease (2.08 rpkm in heterozygotes versus 3.86 rpkm in mutant), while the small isoforms became undetectable (10.0 rpkm versus 0 rpkm), consistent with the idea that the short, but not the long, Wdfy3 transcript is a piRNA precursor RNA. Little is known about the regulation of genic piRNAs, because only seven genic piRNA loci are A-MYB-dependent (Li, et al., accompanying manuscript). We do not yet know if such differential regulation of transcript isoforms occurs more generally for genic piRNA loci.
-
-    %How does cell partition prepachytene transcripts to mRNA or piRNA use?
-    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes?  Everything meets the ribosome \citep{Guttman2013}, so why is it that precursors are given a different lot in life?
+    A good example to highlight why this is an issue is shown in Figure \ref{Disc:fig:wdfy3}. In testes of mice, the \textit{pi-Wdfy3} locus produces at least two different transcripts from different promoters. Virtually all piRNAs map within the bounds of the shorter isoform. The promoter that falls more 3\textprime~ within the gene is also bound by A-MYB. The more 5\textprime~ promoter, which presumably drives transcription of the longer isoform, is not bound by A-MYB. Also, in \amyb{} mutants, piRNAs from the shorter locus drastically reduced as did RNA-Seq reads. RNA-Seq reads aligning to the longer transcript did not decrease. 
 
     \begin{figure} % pi-Wdfy3 expresses both mRNA and piRNA precursor transcript
       \centering 
@@ -68,67 +64,60 @@
       \label{Disc:fig:wdfy3}
       \end{figure}
 
-    %Interaction w/ ribosomes?
+    These results indicate that A-MYB drives transcription of the shorter \textit{pi-Wdfy3} locus, but not longer transcripts, annotated elsewhere as \textit{Wdfy3}. A general phenomenon of piRNAs mapping to the 3\textprime~-UTR of mRNAs has been reported \citep{Robine2009}. How does a cell discriminate between these two transcripts and partition them for use as mRNA or processing into piRNAs?
 
-  \subsection{Precursor Interactions}
+    What determines that a seemingly mRNA-like piRNA precursor is processed into piRNAs, and not translated like crazy by Ribosomes? Recently, it was demonstrated that virtually all RNAs interact with the ribosome \citep{Ingolia2011}. This observation was later refined to state that only mRNAs display a strong ``Ribosome Release Score (RRS)'' indicative of read-frame engagement \citep{Guttman2013}. Therefore, it is not surprising that preliminary results support precursors being traversed by ribosomes (Xin Zhiguo Li, unpublished). Additional experiments and bioinformatic analysis may tease out sequence elements the assist in precursor discrimination from mRNAs by the ribosome, similar to the RRS for traditional ncRNAs.
+
+    Beyond ribosome profiling, what are other potential experimental approaches that could be used to gain further insight into the biology of mammalian piRNA precursors?
+
+  \subsection{Precursor Interaction}
     \label{Disc:subsec:Labeling of precursors}
 
-    % From Resources Paper: Despite sharing many features with protein-coding genes, intergenic piRNA loci stand out as a unique class of transcriptional units. Almost half contain no introns
+      Intergenic piRNA loci share many features of traditional Pol II transcripts (Figure \ref{SeqZipMethod:fig:piRNA precusor Tx features}), with the exception of one almost half contain no introns. Visual inspection using genome browsers and the HTS datasets described in Chapter \ref{MolCel} revealed how unique these loci are from the rest of the transcriptome. Can precursor characteristics be exploited to gain further insight into their biology?
 
-    % From Mihir
+      As discussed in sections \ref{Intro:subsec:Alternative Splicing} and \ref{Intro:subsec:Splicing Code}, splice sites and SRE are recognized amidst a sea of extremely similar ``crytic'' sequences. The spliceosome is remarkably efficient at determining the correct elements to use. Also, core spliceosomal components also assist in choosing from this the overwhelming set sequences. \citet{Berg2012} identified the snRNP U1 as a key suppressor of cryptic polyadenylation site (PAS) use. This suppressor activity is in contrast to its primary role in the definition of 5\textprime~ splice sites. Perhaps a similar mechanism is acting on cryptic splice sites contained within precursor pre-mRNAs. What experiments could be used to identify precursor interacting molecules, protein and RNA both?
 
-      % Started w/ Review = \citep{Konig2011}
-      
-      % Clip, Parcip, iClip, etc... (see intro to CLASH paper.
+      Coincident with HTS development, methodology to measure genome-wide interactions have also made considerable advances \citep{Konig2011}. Methodologies to capture Protein::RNA interactions include ``HTS-CLIP'' \citep{Licatalosi2008}, ``PAR-CLIP'' \citep{Hafner2010}, and ``iCLIP'' \citep{Konig2010}. DNA::RNA interactions are measurable using ``ChIRP'' \citep{Chu2012}, RNA::RNA interactions by ``RAP'' and ``CLASH'' \citep{Engreitz2013,Helwak2014}. Some of these approaches could be applied to determining piRNA precursor transcript interacting molecules, but there are some important caveats that warrant discussion.
 
+      Techniques mentioned above that investigate Nucleic acid::Protein require a target protein. This approach has already been done for MILI and MIWI in postnatal testes \citep{Vourekas2012}, and few additional interacting proteins are known, limiting the number of proteins to investigate. Obvious initial candidates include MitoPLD, Mvh \citep{Lasko2013} (the mouse homologue of Vasa) and numerous Tudor-related proteins \citep{Chen2011}.
 
-      %  DNA- RNA interactions | Chromatin isolation by RNA purification (ChIRP) = \citep{Chu2012}. Uses DNA probes. RNAse H activity in Crude lysate is a concern. Why it would be good to use RNA probe and 
+      Also, genome-wide measurement of Nucleic Acid::Protein interactions typically require cross-linking \citep{Chodosh2001} using either ultra violet light, or reagents such as glutathione. This requirement is why most original reports of these techniques are performed in cell culture, due to the relative easy of exposing the sample to the cross-linking reagent. Currently, the process of piRNA biogenesis has only been reproduced in vitro using silk worm cell culture extracts \citep{Kawaoka2009,Kawaoka2011}, a system which is likely far from that of pachytene biogenesis and function in mice. Therefore, application of these techniques to mammalian piRNA pathway study would require sectioning of testes prior to cross-linking. \citep{Vourekas2012} worked around this requirement by detunicated testes and creating a cell suspension in a petri dish which was then irradiated. Another potential work-around for would be to perform these studies in mature (or \textit{maturing}) sperm. However, how much of exciting biology driven by piRNAs has already occurring once sperm have transitioned into the epididymis?
 
-      % RNA:RNA interactions | RNA Antisense Purification, a technique similar to ChIRP, can be used to look at other RNAs interacting with your target. I think this can also be used identify the proteins in the complex. = \citep{Engreitz2013}
-      % RAP. Works well. Concerns are long fixation with glutothion. Captures chromatin. Uses long probes. Means that it would be useful to capturing precursors and not piRNAs, but fixation limits application to sperm cells perhaps? Could also use testes tissue section.
-      
-      % Finally CLASH = \citep{Helwak2014}
-      % CLASH has only been performed in cell culture, and requires a tagged protein. Better genome editing and viral vectors should make this limitation less of barrier, but there still remains the issue of RNA:RNA ligation representing a very low percentage of the reads obtained [This is all my wording]. How would this be applied to the RNA:RNA interactions that piRNA precurors perform?  I suppose you would need to tag MIWI somehow (Did Mourlalotos do this already?). 
-    
-    SeqZip accurately reports on the presence of multiple, distant sequences contained in the same RNA molecule (see Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod}). Yet I was not able to observe ligation products templated off some of the most highly-expressed precursor transcripts (see section \ref{Disc:sec:piRNA precursors}. We hypothesize that the most likely explanation for being unable to observe ligation products for these transcripts, but successfully observing those for a very long, but lowly expressed gene \textit{Dst}, suggests that precursor transcripts are rapidly processed into mature piRNAs. What if this is not the case if we could hybridize ligamers to precursor transcripts in vivo? Put another way \textemdash What if the steady-state amount of precursor transcript is very low due to rapid processing, but when visualized in real time, the transcripts are of sufficient abundance for FISH? Ligamers could be engineered to contain different combinations of fluorescent dyes, and the proximity and intensity of the signal could be used to infer precursor transcripts. Importantly, this approach could distinguish long, continuous precursor transcripts from processing intermediates and mature piRNAs.
+      Nucleic Acid::Nucleic acid interactions typically require a ligation step, the efficiency of which is typically very low \citep{Helwak2014}. Additionally, the ``ChIRP'' protocol is done in crude cell extract, where RNAse H is a concern when using DNA probes to investigate pull down or query RNA. Given that precursor transcripts seem to be rapidly processed (section \ref{SeqZipMethod:sec:piRNA precursor by SeqZip}), these methods may require prior enrichment, perhaps using RNACapture \citep{Mercer2014}, as discussed for \dscam{} above (section \ref{Disc:sec:Dscam}. Given recent developments into the CRISPR/CAS9 system for genome-editing \citep{Sander2014}, the ``CLASH'' approach to looking at RNA::RNA interactions for precursor transcripts is attractive. The requirement for a tagged protein, in this case an PIWI protein like MILI or MIWI, is no longer as large a barrier.
 
-  \subsection{Precursor Imaging}
+      These approaches could also be used for to analyze mature or developing sperm as they move through the seminiferous tubules and into the epididymis. It is in epididymis where sperm mature and piRNAs are known to be ``sequenceable'' (at least in humans) \citep{Jones1999,Li2012a}.
+
+      As the methods and experimental techniques discussed above evolve and become more robust, applications to the biogenesis of piRNA biology will be many. Increased resolution of timepoints, proteins, and species examined will help create a comprehensive purpose for piRNA in the maintence of mammalian male fertility.
+
+  \subsection{Precursor Location}
     \label{Disc:subsec:Imaging of precursors}
 
-    %Another idea would be to image the precursors in real time somehow. How about tagging them and following them in the sperm? That could be cool. You could even follow them into the developing embryo. 
-    The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{MolCel:sec:Introduction}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? Building on the last section discussing chemical modification precursor transcripts, if the modification was again durable enough for downstream analysis, perhaps the modification would remain in the mature piRNAs that are incorporated into mature sperm. These modifications could be tracked as the sperm move through the seminiferous tubules and into the epididymis where sperm mature \citep{Jones1999}. One could even track the piRNAs as they fuse with the oocyte to create an embryo. If this modification was labile, piRNA interacting proteins or nucleic acids could be captured or marked as well, providing additional clues as to the function of piRNAs in sperm and early embryogenesis.
+    Determining genome-wide protein and nucleic acid interactors with piRNA precursor transcripts would produce valuable datasets. A major drawback of all the methods and approaches discussed above is that they do not maintain the anatomical and cellular location of transcripts. Localization of RNA has been important for decades \citep{Rebagliati1985}, and was recently shown is a large screen in \flies{} embryos to be the rule rather than the exception \citep{Lecuyer2007}.
+
+    The most important question for mammalian \textit{pachytene} piRNAs is \textit{What are they doing?}. We know that they are essential for the health of the species, as discussed in section \ref{MolCel:sec:Introduction}, and piRNA-pathway mutants are sterile. What could these small RNAs, with complementarity to nothing but themselves, be doing? 
 
     The cellular location of precursor piRNA transcript processing is not known. The most accepted hypothesis is that precursor transcripts are processed into mature piRNAs with machinery tethered to chromatoid bodies \citep{Meikar2011,Meikar2014} or another structure similar to Drosophila Nuage near the mitochondrial cement. Knowledge of \textit{where} mature piRNAs are generated would provide clues into larger mechanist details of their biogenesis. 
 
     I can think of two broadly different ways in which we could pinpoint the physical location of mature piRNA generation. The first is to chemically label, in some manner, primary piRNA transcripts. The label would need to 1) not interfere with processing and 2) be durable to later methods used to analyze the presence or absence of the modification. A second way to identify the location of mature piRNA processing would be to actually observe, through in vivo \hyperref[hd:abrevs]{FISH}, the various products and by-products of biogenesis. In this particular approach, SeqZip maybe useful.
 
-    \citep{Lee2014a} % Gold-labeled oligos and FRET
+    %SeqZip accurately reports on the presence of multiple, distant sequences contained in the same RNA molecule (see Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod}). Yet I was not able to observe ligation products templated off some of the most highly-expressed precursor transcripts (see section \ref{Disc:sec:piRNA precursors}. We hypothesize that the most likely explanation for being unable to observe ligation products for these transcripts, but successfully observing those for a very long, but lowly expressed gene \textit{Dst}, suggests that precursor transcripts are rapidly processed into mature piRNAs. What if this is not the case if we could hybridize ligamers to precursor transcripts in vivo? Put another way \textemdash What if the steady-state amount of precursor transcript is very low due to rapid processing, but when visualized in real time, the transcripts are of sufficient abundance for FISH? Ligamers could be engineered to contain different combinations of fluorescent dyes, and the proximity and intensity of the signal could be used to infer precursor transcripts. Importantly, this approach could distinguish long, continuous precursor transcripts from processing intermediates and mature piRNAs.
 
-    % MS2 lopp introduction into piRNA precursor transcripts.
-    Another idea here would be to use the MCP x MBS mouse as published by the Singer lab \citep{Park2014}. In this paper they insert multiple MS2 binding loops into the 3\textprime~-UTR of \textit{$beta$-actin}, and cross it with another mouse that has MCP (MS2 Bacteriophage capsid protein) fused to GFP. Using this system they can visualize \textit{endogenous} mRNAs in cultured MEF cells, and brain sections. How could we apply this to imaging of piRNA precursor transcripts? If we inserted an MS2 loop into the tail end of transcripts, what would we see? It is certainly worth it!
+    Improvements in \textit{in vitro} FISH experiments allow for discrimination of isoforms resulting from alternative splicing \citep{Lee2014}. Robust FISH-type experiments could be used to investigate cellular and anatomical locations of  precursor transcript processing. The SeqZip methodology could even be used in this regard (see section \ref{Disc:subsubsec:SeqZip and Single-Molecule FISH}). 
+
+    Beyond FISH, and using the previously mentioned CRISPR/CAS9 systems, traditional MS2 loop sequences could be introduced into piRNA-generating genes, similar to experiments performed in the the Singer lab \citep{Park2014}. Mice expressing precursors contaning MS2 loops could be crossed with those containing MS2 Bacteriophage capsid protein fused to GFP (MCP-GFP). Using this system precursors could potentially be visualized in real time or at least in real locations.
 
   \subsection{Precursor Sequencing}
     \label{Disc:subsec:Sequencing of Precursors}
 
-    % Single-cell transcriptome sequencing (RNA-seq) is one option, but it loses subcellular localization information by effectively treating the cell as a homogenous sphere. Another choice, RNA fluorescent in situ hybridization (FISH), maintains subcellular detail but supports exploration of only four or five transcripts at once.
+    Very recently, methods demonstrating sequencing \textit{in situ} have been published \citep{Ke2013,Lee2014a}. These methods represent a major improvement over single-cell sequencing approaches discussed in section \ref{Intro:subsec:Types of HTS} in that they maintain the cellular location of the sequenced RNAs. Building upon the principles of FISH, sequencing allows for novel sequence discovery, and multiplex investigation (FISH allows for a maximum of 4--5 transcripts to be examined at once). Could \textit{in situ} sequencing be used to learn more about piRNA precursor biology?
 
-    % Could periodate treatment could be *somehow* used to selectively-remove piRNAs from the pool of cDNAs that are circularized and sequenced?
-
-    \todo[inline]{Write FISSEQ application to piRNA precursor Tx} % 
-    \citep{Ke2013} %previous in situ sequencing.  Mats Nilsson, Professor of Biochemistry and Biophysics at Stockholm University, who in 2013 described a similar in situ transcriptomic approach (2), noted that Church's method is unbiased, whereas Nilsson's used molecular inversion (padlock) probes to amplify specific transcripts.
-    \citep{Lee2014a} % FISSEQ 
-
-    %FISSEQ (fluorescent in situ RNA sequencing), which blends the power of RNA FISH and RNA-seq to report the subcellular localization of several thousand genes simultaneously (1).
-
-    %The new RNA-focused method relies on rolling circle amplification to create a three-dimensional grid of “DNA nanoballs,” each representing a single RNA molecule locked in its original subcellular location. SOLiD ligation-based sequencing then reads 27 to 30 bases from each nanoball, and the fluorescent output is read in three dimensions via confocal microscopy.
-
-    %The method identified several thousand transcripts per experiment (4171 in one experiment, 8102 in a second), showing relatively good concordance with both RNA-seq and DNA microarray datasets for moderately expressed genes. Low and high abundance genes correlated less well, but the former are less reliably quantitated in all methods, Church noted, whereas the latter are mostly protein- and RNA-processing transcripts, which typically are bound up in nucleoprotein complexes. “Probably the only ribosomal RNAs we detect haven't been packaged into ribosomes,” he speculated. Importantly, FISSEQ not only picked up expected transcripts, but also matched their expected subcellular localizations.
+    FISSEQ, reported by \citet{Lee2014a}, replies on rolling circle amplification to create a 3D grid of highly concentrated DNA (``nanoballs''), originating from a single RNA/cDNA. SOLiD sequencing is used to determine 27--30 bases from each nanoball, followed by assignment of that sequence to a grid location thus joining sequence and location. Read lengths for FISSEQ would make it difficult to distinguish a mature piRNA from a precursor, and an experimental scheme, perhaps exploiting the methylation of mature piRNAs, would have to be used to ensure the sequencing of precursor or intermediate molecules.
 
 
-\section{A future for RNA-templated DNA-to-DNA ligation}
+\section{Future of RNA-templated DNA-to-DNA ligation}
   \label{Disc:sec:SeqZip Improvements}
 
-  The SeqZip methodology as developed and described in Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod} works adequately and robustly for characterization of relatively simple (\cd{}) to extremely complex (\dscam{}) genes. However, there is still substantial room for method optimization. Two obvious areas of improvement include the reduction of ligation time and NTL product formation. The improvements and modifications discussed below should assist in achieving these two (among other) goals.
+  The SeqZip methodology as developed and described in Chapters \ref{SeqZipPaper} and \ref{SeqZipMethod} works adequately and robustly for characterization of relaLee2014tively simple (\cd{}) to extremely complex (\dscam{}) genes. However, there is still substantial room for method optimization. Two obvious areas of improvement include the reduction of ligation time and NTL product formation. The improvements and modifications discussed below should assist in achieving these two (among other) goals.
 
   \subsection{An optimized SeqZip examination of Coordinated splicing}
     \label{Disc:subsec: Ideal SeqZip exp. to look for Coordination}
@@ -140,7 +129,7 @@
   \subsection{LNA-containing ligamers and T39A Rnl2}
     \label{Disc:subsec:LNA-Containing ligamers and T39A Rnk2}
 
-    The use of an RNA-base on the 5\textprime~side of the nick encourages a C3\textprime~\textit{endo} sugar pucker for the base, placing the 3\textprime~OH in an apical orientation relative to the the AMP leaving group (see Figure \ref{Disc:fig:Rnl2 and suger pucker}) \citep{Nandakumar2006}.
+    The use of an RNA-base on the 5\textprime~side of the nick encourages a C3\textprime~\textit{endo} sugar pucker for the base, placing the 3\textprime~OH in an apical orientation relative to the the AMP leaving group (Figure \ref{Disc:fig:Rnl2 and suger pucker}) \citep{Nandakumar2006}.
 
     \begin{figure} % Rnl2 Suger Pucker
       \centering 
@@ -154,7 +143,7 @@
 
     With lowered costs of oligo synthesis, incorporation of 2\textprime~OMe at the penultimate and ultimate bases of the 5\textprime~nick ligamers should greatly increase ligaiton efficiency, as these are the primary substrate-specificity determinants of Rnl2 \citep{Nandakumar2004a, Nandakumar2006}.
 
-    Interestingly, \citet{Nandakumar2004a} demonstrated that the ribosome at the penultimate position, evidenced by a 50-fold reduction in turnover number for 2\textprime~H substitutions at this position, compared to full activity for 2\textprime~OMe. \citet{Nandakumar2006} (see Figure \ref{Disc:fig:Rnl2 and suger pucker} shows that Threonine 39 (T39) hydrogen bonds with both the 2\textprime~OMe and 3\textprime~O of the penultimate suger. A T39A mutation did not phenocopy the 2\textprime~H substitution on the penultimate suger, indicating that suger pucker is the structural constraint on ligation efficiency. These results indicate that a T39A mutant of Rnl2 may demonstrate increased RNA-templated DNA:DNA ligation efficiency, as it would have one less molecular requirement for RNA.
+    Interestingly, \citet{Nandakumar2004a} demonstrated that the ribosome at the penultimate position, evidenced by a 50-fold reduction in turnover number for 2\textprime~H substitutions at this position, compared to full activity for 2\textprime~OMe. \citet{Nandakumar2006} (Figure \ref{Disc:fig:Rnl2 and suger pucker} shows that Threonine 39 (T39) hydrogen bonds with both the 2\textprime~OMe and 3\textprime~O of the penultimate suger. A T39A mutation did not phenocopy the 2\textprime~H substitution on the penultimate suger, indicating that suger pucker is the structural constraint on ligation efficiency. These results indicate that a T39A mutant of Rnl2 may demonstrate increased RNA-templated DNA:DNA ligation efficiency, as it would have one less molecular requirement for RNA.
 
     Future versions of the SeqZip assay could use a combination of LNA modified bases \citep{You2006} at either the penultimate or terminal residues on the 5\textprime~side of the nick in order to increase 1) specificity, and 2) enzyme efficiency. The combination of these modifications in the ligamers could be combined with a T39A mutant form of Rnl2 for a potentially greatly enhanced ligation rate.
 
@@ -181,8 +170,7 @@
     \subsubsection{Multi-site SNP detection}
       \label{Disc:subsubsec: Multi-site SNP Detection}
 
-      \todo[inline]{Mention Which side to put the Mismatch} % **************************
-      % Cite the newest Shuman paper, and the Shuman crystal papers
+      The concept of connectivity in sequence can be applied not only to exons, or long stretches of RNA, but even to single-nucleotides, as in SNPs. SeqZip could be used to profile potential SNPs contained within the same transcript, and therefore within the same allele (Figure \ref{Disc:fig: Panel of SeqZip Applications}). For maximal benefit and specifity, care should be taken as to where the variant bases are placed in the ligamers, respective to the 5\textprime~ or 3\textprime~ side of the nick to be ligated. \citet{Chauleau2013b} have demonstrated the importance of proper base pairing at the 3\textprime~OH side of the nick. 
 
     \subsubsection{SeqZip and single-molecule multi-site FISH}
       \label{Disc:subsubsec:SeqZip and Single-Molecule FISH}
@@ -192,26 +180,24 @@
         \includegraphics{Figures/Discussion/MultiSiteFish.eps}
         \caption[Multi-Site smFISH using flourophore-containg ligamers]
         {Multi-Site smFISH using flourophore-containg ligamers \\[0.25cm]
-          \hl{Insert Caption Here}
+          The simplest form of a multi-site FISH SeqZip experiment. Five ligamers are used, with two hybridizing to the beginning and end of a target sequence of RNA (e.g. and exon), and having unique fluorescent labels (Cy3 and Cy5 in this case). The use of the third ligamer, containing an addressable barcode is used to report on these two ligamers hybridizing to the same RNA. Use of flanking ligamers allows for amplification and additional analysis and trouble shooting, if desired.
           }
         \label{Disc:fig:MultiSite FISH using SeqZip}
         \end{figure}
 
-        %Refer to section above using FISSEQ on precursors
+      A logical extension of the multi-site SNP detection application described above is the use of SeqZip in multi-site FISH probes. Represented in Figure \ref{Disc:fig:MultiSite FISH using SeqZip} is the most simplistic form of this application. Advances in FISH, microscopy, flourscent moieties, and image processing are making this type of experiment much more approachable. A multi-site FISH SeqZip experiment could be used to ask some of the questions described in section \ref{Disc:subsec:Imaging of precursors}, including precursor integrity and location, without the need for downstream processing.
 
     \subsubsection{Introduction of destruction sequences}
       \label{Disc:subsubsec:Intro of Desctruction Sequences}
 
-      \todo[inline]{Discuss Type III restriction enzymes, etc} % **************************
+      Introduction of unique sequences into a ligation product is one of the most useful aspects of the SeqZip method. In addition to the other uses proposed (barcoding, sites of priming, sequence diversity, etc), the sequences introduced could also be used to \textit{eliminate} ligation products, through restriction enzymes or pulled out via selective hybridization, similar to selective removal of ribosomal RNA sequences during HTS library preparation \citep{Chen2011a}.
 
     \subsubsection{Re-purposing the SOLiD Platform}
       \label{Disc:subsubsec:SOLiD Platform for SeqZip}
 
-      The ability to incorporate custom sequences into ligations, which subsequently are incorporated into ligation products provides tremendous opportunities for downstream analysis (see figure \ref{Disc:fig: Panel of SeqZip Applications}).
+      Custom sequences within ligamers could also be used to generalize exon identity. Put another way, ligamers representing the first exon of a message could be given a specific barcode, second exons another barcode, and so on. Then, using a sequencing platform such as SOLiD and custom hybridization/sequencing oligos, florescent signal would report not the sequence, but the identity of the ligamer, and by proxy the numeric ID of the exon within the target message. A few rounds of traditional sequencing could identify the mRNA from each spot, and a simplistic scheme of exon arrangement for a complete mRNA could be interpreted from the ligation product. Of course this would require major optimization to the SeqZip method, heavy bioinformatic transformation of a given transcriptome annotation, transcriptome-wide design and synthesis of ligamers, and customization of the SOLiD platform including ligation chemistry. But it would be extremely useful and informative for complete and routine transcriptome quantification.
 
-      \todo[inline]{SOLiD Application of SeqZip} % **************************
-
-\section{Final thoughts}
+\section{Final Thoughts}
   \label{Disc:sec:Final Thoughts}
 
   This thesis has introduced the complexity, purpose, potential, and challenges of transcriptome study. There is no comparison between these issues with that of the DNA genome. The next period of biomedical knowledge will be heralded by advances in transcriptome analysis. This section discusses how scientists need to grow with technology.
@@ -254,19 +240,11 @@
       The HiSeq X Ten is sold as a set of 10 or more ultra-high throughput sequencing systems, each generating up to 1.8 terabases (Tb) of sequencing data in less than three days or up to 600 gigabases (Gb) per day, per system, providing the throughput to sequence tens of thousands of high-quality, high-coverage genomes per year. ---\href{http://bit.ly/PZpegZ}{Illumina Press Release}
       \end{quote}
 
-    In a world where the HiSeq X, described above, is a reality, biomedical researchers need to change how they approach every aspect of data analysis. This includes storage, processing, and visualization. 
+    In a world where the HiSeq X, described above, is a reality, biomedical researchers need to change how they approach every aspect of data analysis. This includes storage, processing, and visualization. Evidence is mounting that replicates, not depth, aid in differential gene expression \citep{Liu2014}, which will compound the problem of using many types of very similar data and files, seperation and tracking of which will be essential.
 
-    How do we work with all this data? Mention LabKey, GenomeBridge, Define the scope of the problem, etc...
+    How do we work with all this data? Systems need to be in place to track the necessary sample meta-data, analysis and modifications to data performed, and all aid in eventual public posting and sharing of HTS data. Labrotory information management systems and Electronic lab notebooks (ELNs) must be implemented in academic labs partipating in copious amounts of HTS data.
 
-    I would love to have a database of complete transcripts of a cell - think about how you were panning the data for the MolCel paper, and you could see ChIP marks, Pol II occupancy, RNA-Seq, and piRNA data. It would be great to be able to do that more often, and we greater precision.
-
-    \missingfigure{Graph showing price of storage?}
-
-    % Bring in ideas from the paper that ER sent out about having replicates is better than depth.  Also that packages like DE-Seq gain statistical power when you have more replicates. These additional versions of files will have to be kept seperate, with meta data etc.... Increasing the strain on data analysis and cataloguing (caraling, like animals). 
-
-    %Being able to navigate multiple types of data, ChIP, RNA-Seq, small RNA seq, is essential for observing important aspects of Biology. There is no replacement for visuazliation, and efforts such as ($REF Integrated genomeics viewer, UCSC Genome broweser, and TrackHUBS paper$ demonstrate how important this is, but places additional strain on the required systems.
-
-    % Efforts such as Galaxy ($REF) are great starts, but need to be more cross diciplanary, and locally deployed <This sounds like BS, but some idea is there>. 
+    Once these systems are in place, the ability to navigate, via genome browsers \citep{Zweig2008,Robinson2011}, will be of critical importance to allow other members of the lab to reuse valuable datasets. Recent changes to the way aligned genomic data is stored and added to UCSC genome browsers represents a critical improvement to past methods \citep{Raney2013}. Finally, efforts such as the Galaxy project  will define how most academic labs perform ``routine'' HTS analysis in future \citep{Blankenberg2010}.
 
   \subsection{Biologists need Computation Biological Skills}
     \label{Disc:subsec:Biologists need Comp Skills}
@@ -275,7 +253,14 @@
 
     Working with tens of even hundreds of lines of data within a spreadsheet is manageable and computers from 20 years ago had more then enough computing power to process the data. Yet, this type of data is longer then endpoint of most cutting edge projects. Many students and post docs often find that they are unable to analyze the data generated from months or years of tireless bench work. Faced with learning what is effectively a collection of new languages and awash in a sea of acronyms (LINUX, BASH, GNU, PERL, R) they reach out for help from a ``Bioinformatics person.'' Perhaps the relationship and interaction with this personal is productive, leading to a collaboration and exciting new knowledge. Sometimes it isn't, and the bench scientist shifts into one of three modes: 1) Wait; 2) Find another bioinformatic-minded collaborator; or 3) collect more data.
 
-    \missingfigure{Table showing what people use vs. what they should use}
+\begin{table} % Changes at the computer for Molecular biogists
+  \caption[Changing computational tools for Molecular Biologists] 
+    {
+     Changing computational tools for Molecular Biologists
+     }
+   \label{Disc:tab:Comp tools for Molecular Biology}
+   \input{Tables/compToolsForMolBiogly.tex}
+   \end{table}
 
     In my experience, the most often chosen mode is ``wait.'' This is also the most damaging, as it delays the progress of one's work, and the advancement of science in general. Personally, I did not want to fall into this mode, and once the multiplex study described in section \ref{SeqZipMethod:sec:Multiplex Gene Study} reached a point where I had millions of sequencing reads, but I could not find anyone to help me analyze the data, that I decided to educate myself on the basic principles of Linux, the command line, and analysis of HTS data.
 

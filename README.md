@@ -187,4 +187,14 @@ You will have to enter through *numerous* errors.
 Once this is done, open HTML in Word.
 
 
+### Be consistent!
 
+Refer to [here](http://public.wsu.edu/~brians/errors/errors.html) for information.
+
++ watch for Compl{e/i}mentarity. You want the `e`
++ `\textit{in vivo}` and `\textit{in vitro}` 
++ PIWI-piRISC
++ 5\textprime~7meG CAP
++ poly(A)+
++ Three things: (1);(2); and (3).
++ RNA-templated DNA-DNA ligation

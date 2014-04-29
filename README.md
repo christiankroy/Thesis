@@ -65,6 +65,20 @@ Because you're going to break up the TeX into multiple files and folders, it is 
 
 `% !TEX root = $ROOT/Thesis/Thesis.tex` Where `$ROOT` = the directory off your root where you thesis files are stored, and `Thesis.tex` is the name of your control thesis `*.tex` file.
 
+### Font sizes beyond `documentclass()`
+
+You get a bunch of options to change the font size within the current enviroment (e.g. `\begin{quote}...\end{quote}`
+
+    \tiny
+    \scriptsize
+    \footnotesize
+    \small
+    \normalsize
+    \large
+    \Large
+    \LARGE
+    \huge
+    \Huge
 
 ### Table of contents
 
@@ -194,7 +208,8 @@ Refer to [here](http://public.wsu.edu/~brians/errors/errors.html) for informatio
 + watch for Compl{e/i}mentarity. You want the `e`
 + `\textit{in vivo}` and `\textit{in vitro}` 
 + PIWI-piRISC
-+ 5\textprime~7meG CAP
++ `5\textprime~7meG CAP`
 + poly(A)+
 + Three things: (1);(2); and (3).
 + RNA-templated DNA-DNA ligation
++ `\{Some thing Interacting with:: Something else\}`

@@ -429,10 +429,10 @@ Cenik, E.~S. and Zamore, P.~D. (2011).
 \newblock {\em Current biology : CB}, 21(12):R446--9.
 
 \bibitem[Chang et~al., 2014a]{Chang2014b}
-Chang, H., Lim, J., Ha, M., and Kim, V. (2014a).
-\newblock {TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3′
-  End Modifications}.
-\newblock {\em Molecular Cell}, pages 1--9.
+Chang, H., Lim, J., Ha, M., and Kim, V.~N. (2014a).
+\newblock {TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3'
+  End Modifications.}
+\newblock {\em Molecular cell}, 53(6):1044--52.
 
 \bibitem[Chang et~al., 2014b]{Chang2014c}
 Chang, Z., Wang, Z., and Li, G. (2014b).
@@ -488,8 +488,8 @@ Chodosh, L.~a. (2001).
 
 \bibitem[Chow et~al., 1977]{Chow1977}
 Chow, L.~T., Gelinas, R.~E., Broker, T.~R., and Roberts, R.~J. (1977).
-\newblock {An amazing sequence arrangement at the 5′ ends of adenovirus 2
-  messenger RNA}.
+\newblock {An amazing sequence arrangement at the 5' ends of adenovirus 2
+  messenger RNA.}
 \newblock {\em Cell}, 12(1):1--8.
 
 \bibitem[Chu et~al., 2012]{Chu2012}
@@ -543,9 +543,9 @@ Cox, D.~N., Chao, A., and Lin, H. (2000).
 \bibitem[Cramer et~al., 1997]{Cramer1997}
 Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
 \newblock {Functional association between promoter structure and transcript
-  alternative splicing}.
-\newblock {\em Proceedings of the National Academy of Sciences}, 94(21):11456
-  --11460.
+  alternative splicing.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 94(21):11456--60.
 
 \bibitem[{De Fazio} et~al., 2011]{DeFazio2011}
 {De Fazio}, S., Bartonicek, N., {Di Giacomo}, M., Abreu-Goodger, C., Sankar,
@@ -578,13 +578,13 @@ Derrien, T., Johnson, R., Bussotti, G., Tanzer, A., Djebali, S., Tilgner, H.,
   their gene structure, evolution, and expression.}
 \newblock {\em Genome research}, 22(9):1775--89.
 
-\bibitem[{Di Giacomo} et~al., 2013]{DiGiacomo2013}
-{Di Giacomo}, M., Comazzetto, S., Saini, H., {De Fazio}, S., Carrieri, C.,
-  Morgan, M., Vasiliauskaite, L., Benes, V., Enright, A., and O’Carroll, D.
+\bibitem[{Di Giacomo} et~al., 2013]{DiGiacomo2013}
+{Di Giacomo}, M., Comazzetto, S., Saini, H., {De Fazio}, S., Carrieri, C.,
+  Morgan, M., Vasiliauskaite, L., Benes, V., Enright, A.~J., and O'Carroll, D.
   (2013).
-\newblock {Multiple Epigenetic Mechanisms and the piRNA Pathway Enforce LINE1
-  Silencing during Adult Spermatogenesis}.
-\newblock {\em Molecular Cell}, 50(4):601--608.
+\newblock {Multiple epigenetic mechanisms and the piRNA pathway enforce LINE1
+  silencing during adult spermatogenesis.}
+\newblock {\em Molecular cell}, 50(4):601--8.
 
 \bibitem[Djebali et~al., 2012]{Djebali2012}
 Djebali, S., Davis, C.~a., Merkel, A., Dobin, A., Lassmann, T., Mortazavi, A.,
@@ -869,9 +869,9 @@ Graveley, B.~R. (2005).
 \bibitem[Gregersen et~al., 2014]{Gregersen2014}
 Gregersen, L.~H., Schueler, M., Munschauer, M., Mastrobuoni, G., Chen, W.,
   Kempa, S., Dieterich, C., and Landthaler, M. (2014).
-\newblock {MOV10 Is a 5′ to 3′ RNA Helicase Contributing to UPF1 mRNA
-  Target Degradation by Translocation along 3′ UTRs}.
-\newblock {\em Molecular Cell}, pages 1--13.
+\newblock {MOV10 Is a 5' to 3' RNA Helicase Contributing to UPF1 mRNA Target
+  Degradation by Translocation along 3' UTRs.}
+\newblock {\em Molecular cell}, pages 1--13.
 
 \bibitem[Grivna et~al., 2006]{Grivna2006}
 Grivna, S.~T., Beyret, E., Wang, Z., and Lin, H. (2006).
@@ -1284,7 +1284,7 @@ Kuramochi-Miyagawa, S., Kimura, T., Ijiri, T.~W., Isobe, T., Asada, N., Fujita,
   Spermatogenesis}.
 \newblock {\em Development}, 131(4):839--849.
 
-\bibitem[Kuramochi-Miyagawa et~al., 2008]{Kuramochi-Miyagawa2008}
+\bibitem[Kuramochi-Miyagawa et~al., 2008]{Kuramochi2008}
 Kuramochi-Miyagawa, S., Watanabe, T., Gotoh, K., Totoki, Y., Toyoda, A., Ikawa,
   M., Asada, N., Kojima, K., Yamaguchi, Y., Ijiri, T.~W., Hata, K., Li, E.,
   Matsuda, Y., Kimura, T., Okabe, M., Sakaki, Y., Sasaki, H., and Nakano, T.
@@ -1899,10 +1899,10 @@ Raney, B.~J., Dreszer, T.~R., Barber, G.~P., Clawson, H., Fujita, P.~a., Wang,
 \newblock {\em Bioinformatics (Oxford, England)}, pages 1--3.
 
 \bibitem[Rebagliati et~al., 1985]{Rebagliati1985}
-Rebagliati, M.~R., Weeks, D.~L., Harvey, R.~P., and Melton, D.~A. (1985).
-\newblock {Identification and cloning of localized maternal RNAs from Xenopus
-  eggs.}
-\newblock {\em Cell}, 42:769--777.
+Rebagliati, M., Weeks, D., Harvey, R., and Melton, D. (1985).
+\newblock {Identification and cloning of localized maternal RNAs from xenopus
+  eggs}.
+\newblock {\em Cell}, 42(3):769--777.
 
 \bibitem[Rehrauer et~al., 2013]{Rehrauer2013}
 Rehrauer, H., Opitz, L., Tan, G., Sieverling, L., and Schlapbach, R. (2013).
@@ -2058,6 +2058,12 @@ Schoenmakers, S., Wassenaar, E., Hoogerbrugge, J.~W., Laven, J. S.~E.,
   Grootegoed, J.~A., and Baarends, W.~M. (2009).
 \newblock {Female meiotic sex chromosome inactivation in chicken.}
 \newblock {\em PLoS genetics}, 5(5):e1000466.
+
+\bibitem[Schulz et~al., 2012]{Schulz2012}
+Schulz, M.~H., Zerbino, D.~R., Vingron, M., and Birney, E. (2012).
+\newblock {Oases: robust de novo RNA-seq assembly across the dynamic range of
+  expression levels.}
+\newblock {\em Bioinformatics (Oxford, England)}, 28:1086--92.
 
 \bibitem[Schwartz and Ast, 2010]{Schwartz2010}
 Schwartz, S. and Ast, G. (2010).
@@ -2220,6 +2226,21 @@ Sriskanda, V. and Shuman, S. (1998).
 Staden, R. (1979).
 \newblock {A strategy of DNA sequencing employing computer programs}.
 \newblock {\em Nucleic Acids Research}, 6(7):2601--2610.
+
+\bibitem[Steijger et~al., 2013]{Steijger2013}
+Steijger, T., Abril, J.~F., Engstr\"{o}m, P.~G., Kokocinski, F., Akerman, M.,
+  Alioto, T., Ambrosini, G., Antonarakis, S.~E., Behr, J., Bertone, P.,
+  Bohnert, R., Bucher, P., Cloonan, N., Derrien, T., Djebali, S., Du, J.,
+  Dudoit, S., Gerstein, M., Gingeras, T.~R., Gonzalez, D., Grimmond, S.~M.,
+  Guig\'{o}, R., Habegger, L., Harrow, J., Hubbard, T.~J., Iseli, C., Jean, G.,
+  Kahles, A., Lagarde, J., Leng, J., Lefebvre, G., Lewis, S., Mortazavi, A.,
+  Niermann, P., R\"{a}tsch, G., Reymond, A., Ribeca, P., Richard, H.,
+  Rougemont, J., Rozowsky, J., Sammeth, M., Sboner, A., Schulz, M.~H., Searle,
+  S. M.~J., Solorzano, N.~D., Solovyev, V., Stanke, M., Stevenson, B.~J.,
+  Stockinger, H., Valsesia, A., Weese, D., White, S., Wold, B.~J., Wu, J., Wu,
+  T.~D., Zeller, G., Zerbino, D., and Zhang, M.~Q. (2013).
+\newblock {Assessment of transcript reconstruction methods for RNA-seq.}
+\newblock {\em Nature methods}, 10(12):1177--84.
 
 \bibitem[Stemmer, 1994]{Stemmer1994}
 Stemmer, W.~P. (1994).
@@ -2553,11 +2574,11 @@ Wu, Q. and Maniatis, T. (1999).
 \newblock {\em Cell}, 97(6):779--90.
 
 \bibitem[Xia et~al., 1998]{Xia1998}
-Xia, T., SantaLucia, Burkard, M.~E., Kierzek, R., Schroeder, S.~J., Jiao, X.,
-  Cox, C., and Turner, D.~H. (1998).
-\newblock {Thermodynamic Parameters for an Expanded Nearest-Neighbor Model for
-  Formation of RNA Duplexes with Watson−Crick Base Pairs†}.
-\newblock {\em Biochemistry}, 37(42):14719--14735.
+Xia, T., SantaLucia, J., Burkard, M.~E., Kierzek, R., Schroeder, S.~J., Jiao,
+  X., Cox, C., and Turner, D.~H. (1998).
+\newblock {Thermodynamic parameters for an expanded nearest-neighbor model for
+  formation of RNA duplexes with Watson-Crick base pairs.}
+\newblock {\em Biochemistry}, 37(42):14719--35.
 
 \bibitem[Yabuta et~al., 2011]{Yabuta2011}
 Yabuta, Y., Ohta, H., Abe, T., Kurimoto, K., Chuma, S., and Saitou, M. (2011).
@@ -2594,6 +2615,12 @@ Yin, S., Ho, C.~K., and Shuman, S. (2003).
 You, Y., Moreira, B.~G., Behlke, M.~a., and Owczarzy, R. (2006).
 \newblock {Design of LNA probes that improve mismatch discrimination.}
 \newblock {\em Nucleic acids research}, 34(8):e60.
+
+\bibitem[Zerbino and Birney, 2008]{Zerbino2008}
+Zerbino, D.~R. and Birney, E. (2008).
+\newblock {Velvet: algorithms for de novo short read assembly using de Bruijn
+  graphs.}
+\newblock {\em Genome research}, 18:821--829.
 
 \bibitem[Zhan et~al., 2004]{Zhan2004}
 Zhan, X.-L., Clemens, J.~C., Neves, G., Hattori, D., Flanagan, J.~J., Hummel,

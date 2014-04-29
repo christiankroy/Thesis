@@ -66,7 +66,6 @@
   \definecolor{gray}{rgb}{0.5,0.5,0.5}
   \definecolor{mauve}{rgb}{0.58,0,0.82}
 
-
 %%%% WHITE SPACE
 %\usepackage[document]{ragged2e} % Align text left. Default is fully justified
 \usepackage{setspace} % Line spacing *within* sections
@@ -137,7 +136,7 @@
 
 %%%% DOCUMENT VARIABLES
 \newcommand*{\thesistitle}[1]{\def\ttitle{#1}}
-  \thesistitle{Joining the Pieces: Exons and piRNAs} % Your thesis title
+  \thesistitle{Putting the Pieces Together: \\ Exons and piRNAs} % Your thesis title
 
 \newcommand*{\authors}[1]{\def\authornames{#1}}
   \authors{Christian K. Roy} % Your name 
@@ -253,12 +252,17 @@
 
 % Acknowledgements
 \newcommand\acknowledgements[1]{
-\btypeout{Acknowledgements}
-\addtotoc{Acknowledgements}
-\thispagestyle{plain}
-\begin{center}{\huge{\textit{Acknowledgements}} \par}\end{center}
-{\normalsize #1}
-\vfil\vfil\null
+  \btypeout{Acknowledgements}
+  \addtotoc{Acknowledgements}
+  \thispagestyle{plain}
+
+  \begin{center}{
+    \LARGE{
+      \textit{Acknowledgements}
+      }
+    }
+  \end{center}
+  {\small #1}
 }
 
 % Preface - to mention published works
@@ -266,7 +270,7 @@
 \btypeout{Preface}
 \addtotoc{Preface}
 \thispagestyle{plain}
-\begin{center}{\huge{\textit{Preface}} \par}\end{center}
+\begin{center}{\large{\textit{Preface}} \par}\end{center}
 {\normalsize #1}
 }
 

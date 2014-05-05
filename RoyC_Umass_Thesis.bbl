@@ -383,13 +383,6 @@ Bullard, D. and Bowater, R. (2006).
   ligases from bacteriophage T4}.
 \newblock {\em Biochemical Journal}, 398(Pt 1):135--144.
 
-\bibitem[Burnette et~al., 2005]{Burnette2005a}
-Burnette, J.~M., Miyamoto-Sato, E., Schaub, M.~a., Conklin, J., and Lopez,
-  a.~J. (2005).
-\newblock {Subdivision of large introns in Drosophila by recursive splicing at
-  nonexonic elements.}
-\newblock {\em Genetics}, 170(2):661--74.
-
 \bibitem[Burnside et~al., 2008]{Burnside2008}
 Burnside, J., Ouyang, M., Anderson, A., Bernberg, E., Lu, C., Meyers, B.~C.,
   Green, P.~J., Markis, M., Isaacs, G., Huang, E., and Morgan, R.~W. (2008).
@@ -546,6 +539,11 @@ Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
   alternative splicing.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 94(21):11456--60.
+
+\bibitem[Daigle and Ellenberg, 2007]{Daigle2007}
+Daigle, N. and Ellenberg, J. (2007).
+\newblock {LambdaN-GFP: an RNA reporter system for live-cell imaging.}
+\newblock {\em Nature methods}, 4(8):633--6.
 
 \bibitem[{De Fazio} et~al., 2011]{DeFazio2011}
 {De Fazio}, S., Bartonicek, N., {Di Giacomo}, M., Abreu-Goodger, C., Sankar,
@@ -878,13 +876,6 @@ Grivna, S.~T., Beyret, E., Wang, Z., and Lin, H. (2006).
 \newblock {A novel class of small RNAs in mouse spermatogenic cells.}
 \newblock {\em Genes \& development}, 20(13):1709--14.
 
-\bibitem[Gu et~al., 2010]{Gu2010a}
-Gu, A., Ji, G., Shi, X., Long, Y., Xia, Y., Song, L., Wang, S., and Wang, X.
-  (2010).
-\newblock {Genetic Variants in Piwi-Interacting RNA Pathway Genes Confer
-  Susceptibility to Spermatogenic Failure in a Chinese Population}.
-\newblock {\em Human Reproduction}, 25(12):2955--2961.
-
 \bibitem[Gu et~al., 2012]{Gu2012}
 Gu, W., Lee, H.-C., Chaves, D., Youngman, E.~M., Pazour, G.~J., Conte, D., and
   Mello, C.~C. (2012).
@@ -998,6 +989,11 @@ Hattori, D., Millard, S.~S., Wojtowicz, W.~M., and Zipursky, S.~L. (2008).
 \newblock {Dscam-Mediated Cell Recognition Regulates Neural Circuit Formation}.
 \newblock {\em Annual Review of Cell and Developmental Biology},
   24(1):597--620.
+
+\bibitem[Hayden, 2014]{Hayden2014}
+Hayden, E.~C. (2014).
+\newblock {Technology: The \$1,000 genome.}
+\newblock {\em Nature}, 507(7492):294--5.
 
 \bibitem[Helwak and Tollervey, 2014]{Helwak2014}
 Helwak, A. and Tollervey, D. (2014).
@@ -1764,6 +1760,12 @@ Oh, I.~H. and Reddy, E.~P. (1999).
 \newblock {The myb gene family in cell growth, differentiation and apoptosis.}
 \newblock {\em Oncogene}, 18(19):3017--33.
 
+\bibitem[Ohara et~al., 2007]{Ohara2007}
+Ohara, T., Sakaguchi, Y., Suzuki, T., Ueda, H., Miyauchi, K., and Suzuki, T.
+  (2007).
+\newblock {The 3' termini of mouse Piwi-interacting RNAs are 2'-O-methylated.}
+\newblock {\em Nature structural \& molecular biology}, 14(4):349--50.
+
 \bibitem[Olivera and Lehman, 1967]{Olivera1967b}
 Olivera, B. and Lehman, I. (1967).
 \newblock {Linkage of polynucleotides through phosphodiester bonds by an enzyme
@@ -2089,6 +2091,10 @@ Serqui\~{n}a, A. K.~P., Das, S.~R., Popova, E., Ojelabi, O.~A., Roy, C.~K., and
 \newblock {UPF1 is crucial for the infectivity of human immunodeficiency virus
   type 1 progeny virions.}
 \newblock {\em Journal of virology}, 87(16):8853--61.
+
+\bibitem[Service, 2006]{Service2006}
+Service, R.~F. (2006).
+\newblock {Gene sequencing. The race for the \$1000 genome.}
 
 \bibitem[Shalek et~al., 2013]{Shalek2013b}
 Shalek, A.~K., Satija, R., Adiconis, X., Gertner, R.~S., Gaublomme, J.~T.,
@@ -2533,6 +2539,11 @@ Wei, C.~M., Gershowitz, a., and Moss, B. (1975).
 \newblock {Methylated nucleotides block 5' terminus of HeLa cell messenger
   RNA.}
 \newblock {\em Cell}, 4(4):379--86.
+
+\bibitem[Weiss and Leinwand, 1996]{Weiss1996}
+Weiss, a. and Leinwand, L.~a. (1996).
+\newblock {The mammalian myosin heavy chain gene family.}
+\newblock {\em Annual review of cell and developmental biology}, 12:417--39.
 
 \bibitem[Weiss and Richardson, 1967]{Weiss1967a}
 Weiss, B. and Richardson, C. (1967).

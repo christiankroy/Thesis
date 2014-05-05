@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RoyC_Umass_Thesis.aux
 The style file: Bibliography/apalike.bst
-Reallocated field_info (elt_size=4) to 13316 items from 5000.
+Reallocated field_info (elt_size=4) to 13382 items from 5000.
 Database file #1: Bibliography/library.bib.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty publisher in Calarco2007
@@ -13,45 +13,45 @@ Warning--there's a number but no volume in Lee2014
 Warning--empty journal in Riley2013
 Warning--empty journal in Rumsfeld2011
 Warning--there's a number but no volume in Vagin2004
-You've used 378 entries,
+You've used 381 entries,
             1935 wiz_defined-function locations,
-            2741 strings with 119283 characters,
-and the built_in function-call counts, 236402 in all, are:
-= -- 20852
-> -- 19188
-< -- 115
-+ -- 7244
-- -- 7234
-* -- 24724
-:= -- 42518
-add.period$ -- 1129
-call.type$ -- 378
-change.case$ -- 5505
-chr.to.int$ -- 368
-cite$ -- 385
-duplicate$ -- 5381
-empty$ -- 10974
-format.name$ -- 7748
-if$ -- 43004
+            2758 strings with 119378 characters,
+and the built_in function-call counts, 237188 in all, are:
+= -- 20940
+> -- 19190
+< -- 119
++ -- 7242
+- -- 7232
+* -- 24777
+:= -- 42658
+add.period$ -- 1137
+call.type$ -- 381
+change.case$ -- 5519
+chr.to.int$ -- 371
+cite$ -- 388
+duplicate$ -- 5419
+empty$ -- 11041
+format.name$ -- 7753
+if$ -- 43159
 int.to.chr$ -- 11
 int.to.str$ -- 0
-missing$ -- 376
-newline$ -- 1888
-num.names$ -- 1134
-pop$ -- 4725
+missing$ -- 378
+newline$ -- 1902
+num.names$ -- 1143
+pop$ -- 4730
 preamble$ -- 1
-purify$ -- 5507
+purify$ -- 5521
 quote$ -- 0
-skip$ -- 4010
+skip$ -- 4042
 stack$ -- 0
-substring$ -- 12882
-swap$ -- 487
+substring$ -- 12947
+swap$ -- 489
 text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2264
+type$ -- 2282
 warning$ -- 7
-while$ -- 1456
+while$ -- 1466
 width$ -- 0
-write$ -- 4891
+write$ -- 4927
 (There were 7 warnings)

@@ -44,9 +44,9 @@
 
   In order to make some progress on applying the technique to multiple genes at once, I used data presented by \citet{Fagnani2007}. This paper identified genes displaying tissue-specific splicing patterns, focusing on those with CNS-specific patterns. One section focused on ``Coordination between alternative splicing events belonging to the same genes,'' and seemed to be the exact type of genes we were interested in applying the SeqZip method too. Five hundred of the 3,044 genes investigated by their microarrays contained 2\textendash 5 alternative exons. \citet{Fagnani2007} contained an additional data file listing all pair-wise combinations of alternative exons in the same gene (with that gene having significant expression in >20 different tissues), along with the standard and partial spearman correlations. 
 
-  It is important to note that the genes above also contain alternative first exons, a prominant type of AS (Figure \ref{Intro:fig:asEventsBarChart}). Indeed, from microarrays studies, it has been estimated that approximately 16\%\textendash 23\% of all alternative splicing events involve alternative first and last exons \citep{Bingham2008}. It is known that, through alternative use of first and last exons, cells can fine-tune a transcript's untranslated region (UTR) and control many aspects of mRNA regulation including nuclear export, localization, expression, and stability \citep{Hughes2006}.
+  It is important to note that the genes above also contain alternative first exons, a prominent type of alternative splicing (Figure \ref{Intro:fig:asEventsBarChart}). Indeed, from microarrays studies, it has been estimated that approximately 16\%\textendash 23\% of all alternative splicing events involve alternative first and last exons \citep{Bingham2008}. It is known that, through alternative use of first and last exons, cells can fine-tune a transcript's untranslated region (UTR) and control many aspects of mRNA regulation including nuclear export, localization, expression, and stability \citep{Hughes2006}.
 
-  Using the \citet{Fagnani2007} data, I filtered exon pairs to those with a distance >350 nt between exons in the final pre-mRNA. I also visualized their transcript achetecture, and EST evidence using NCBIs AceView tool \citep{Thierry-Mieg2006}. For example, the exons with strong correlation of expression in \textit{Chl1} are in the beginning (second exon) and end (fourth from last exon, accession BC060216) with plenty of supporting evidence for these exons being expressed and skipped. After combing through \citep{Fagnani2007} data, I assembled a list of 11 genes (Table \ref{table: BigSpanGenes}).
+  Using the \citet{Fagnani2007} data, I filtered exon pairs to those with a distance >350 nt between exons in the final pre-mRNA. I also visualized their transcript architecture, and EST evidence using NCBIs AceView tool \citep{Thierry-Mieg2006}. For example, the exons with strong correlation of expression in \textit{Chl1} are in the beginning (second exon) and end (fourth from last exon, accession BC060216) with plenty of supporting evidence for these exons being expressed and skipped. After combing through \citep{Fagnani2007} data, I assembled a list of 11 genes (Table \ref{table: BigSpanGenes}).
 
   \begin{table} % Big Span Genes in mice from Fagnani 2007
     \caption[Mouse genes with large sequence between suggested coordinated cassette exons]
@@ -80,7 +80,7 @@
     \caption[Measuring \textit{Apbb1} via SeqZip in multiplex study]
     {
       Measuring \textit{Apbb1} via SeqZip in multiplex study\\[0.25cm]
-      A) Region of \textit{Apbb1} investigated. Two alternative promoters, a 5\textprime~cassette exon (``E:1/2'') and a 3\textprime~group of cassette exons (``Exon 2/3 \{A--G\}''). B) Number of sequencing reads mapping to individual \textit{Apbb1} ligaiton products (left) and combination (right). C) RT-PCR of total RNA taken from a mouse brain looking for cassette exon usage at each position shown in (A). Also shown in the size in nt of the expected bands. D) Schematic of cDNAs cloned and sequencing from mouse brain total RNA.
+      A) Region of \textit{Apbb1} investigated. Two alternative promoters, a 5\textprime~cassette exon (``E:1/2'') and a 3\textprime~group of cassette exons (``Exon 2/3 \{A--G\}''). B) Number of sequencing reads mapping to individual \textit{Apbb1} ligation products (left) and combination (right). C) RT-PCR of total RNA taken from a mouse brain looking for cassette exon usage at each position shown in (A). Also shown in the size in nt of the expected bands. D) Schematic of cDNAs cloned and sequencing from mouse brain total RNA.
       }
     \label{SeqZipMethod:fig:Apbb1 Results}
     \end{figure}
@@ -134,7 +134,7 @@
 	\subsection{HIV Ligamer Design}
     \label{SeqZipMethod:subsec: Design of HIV ligamers}
 
-	  Research into the integrity of the HIV RNA genome using SeqZip began with designing a set of ligamers against two different clones. The first, targeting transcripts from the M19921 plasmid (so called ``M'' clone), and the secibd from the K03455 clone containing nearly identical sequence. We targeted a difference in sequence for one site of ligation (\ref{SeqZipMethod:fig:Hiv tx via SeqZip})A). Three different pools of ligamers were created: a Five(5) ligamer pool, with three ligamers designed to test for the presence of sequence in the first 1,140 nt of the HIV genome, importantly the first site of ligation in the 5 region pool should contain a mismatch in the K clone sequence; a three(3) pool, testing the last 1,210 nt of the genome, and a Long (L) ligamer pool, also containing three ligamers, but the middle ligamer of which spans the 5 and 3 regions, looping out 8,633 nt of sequence in the middle of the HIV genome. 
+	  Research into the integrity of the HIV RNA genome using SeqZip began with designing a set of ligamers against two different clones. The first, targeting transcripts from the M19921 plasmid (so called ``M'' clone), and the section from the K03455 clone containing nearly identical sequence. We targeted a difference in sequence for one site of ligation (\ref{SeqZipMethod:fig:Hiv tx via SeqZip})A). Three different pools of ligamers were created: a Five(5) ligamer pool, with three ligamers designed to test for the presence of sequence in the first 1,140 nt of the HIV genome, importantly the first site of ligation in the 5 region pool should contain a mismatch in the K clone sequence; a three(3) pool, testing the last 1,210 nt of the genome, and a Long (L) ligamer pool, also containing three ligamers, but the middle ligamer of which spans the 5 and 3 regions, looping out 8,633 nt of sequence in the middle of the HIV genome. 
 
     \textit{In vitro} transcripts were created using both the K and M clones. These transcripts were added to a background of total MEF RNA, and SeqZip was performed. Ligation products were successfully amplified from all ligamer pools when using the M clone transcript and all three ligamer pools. Also the abundance of these ligation products, as measured by endpoint PCR, seemed to be spike-concentration dependent. Notably, Ligation products were not obtained from the K clone using either the 5 or L ligamer pools, likely due to the mismatch between the transcript and the ligamers at the site of ligation. Also of note was the appearance of ligation products from purified endogenous virions of the M clone from all three ligamer pools, and the absence of products from virions purified from plasmids containing a defective protein, Gag, essential for viral packaging. 
 
@@ -157,7 +157,7 @@
 \section{piRNA Precursors}
   \label{SeqZipMethod:sec:Demonstrating continuous precursor TX by SeqZip}
 
-  The first genome-wide studies of piRNAs in \flies{} suggested their production from a long, single-stranded RNA, as discussed in section \ref{Intro:sec:Nucleic Acid Polymers} \citep{Brennecke2007,Gunawardane2007}. Yet, demonstration of precursor transcripts existing as continuous, long, RNA molecules had, as of 2010, yet to be demonstrated. If it could be shown through experimentation that precursors existed as long RNAs, it would provide valuable clues as to their biogensis, included how such a long RNA is packaged and transported around the cell. With these goals in mind, the following section describes efforts to demonstrating the continuity of precursor transcripts using SeqZip.
+  The first genome-wide studies of piRNAs in \flies{} suggested their production from a long, single-stranded RNA, as discussed in section \ref{Intro:sec:Nucleic Acid Polymers} \citep{Brennecke2007,Gunawardane2007}. Yet, demonstration of precursor transcripts existing as continuous, long, RNA molecules had, as of 2010, yet to be demonstrated. If it could be shown through experimentation that precursors existed as long RNAs, it would provide valuable clues as to their biogenesis, included how such a long RNA is packaged and transported around the cell. With these goals in mind, the following section describes efforts to demonstrating the continuity of precursor transcripts using SeqZip.
 
   \subsection{Mammalian piRNA Precursor Loci}
     \label{SeqZipMethod:subsec:Mammalian Loci of precursor Tx}
@@ -212,7 +212,7 @@
       \caption[pRT Doesn't Work for piRNA precursors]
       {
         RT Doesn't Work for piRNA precursors\\[0.25cm]
-        A) Experimental design of RT-PCR demonstration of piRNA precursor \textit{17-qA3.3-27363.1} continuity. Shown in black, numbered 1-7 are primer pairs amplified by PCR, after cDNA generation using the red ``RT primer''. Also shown is the length of the locus, the small RNA signal in green, and the RNA-Seq signal in black. The locis is shown 5\textprime~(left) to 3\textprime~(right). B) Results from RT-PCR using the 7 primer pairs shown in A, and various combinations of $\pm$ RT-primer and RT-PCR enzyme.
+        A) Experimental design of RT-PCR demonstration of piRNA precursor \textit{17-qA3.3-27363.1} continuity. Shown in black, numbered 1-7 are primer pairs amplified by PCR, after cDNA generation using the red ``RT primer''. Also shown is the length of the locus, the small RNA signal in green, and the RNA-Seq signal in black. The locus is shown 5\textprime~(left) to 3\textprime~(right). B) Results from RT-PCR using the 7 primer pairs shown in A, and various combinations of $\pm$ RT-primer and RT-PCR enzyme.
       	}
       \label{SeqZipMethod:fig:RT doesn't work for precursors}
     	\end{figure}
@@ -235,7 +235,7 @@
 
     As seen in Figure \ref{SeqZipMethod:fig:SeqZip on dst1}C, ligation products were obtained from every ligamer combination, including the critical set (``AE'') where >22 kb of the message was looped out. In the control experiment, no ligation products were observed. This experiment represents the longest successful ``looping'' in a SeqZip experiment targeting an endogenously expressed RNA.
 
-    An additional demonstration of SeqZip's application to profile long RNAs at multiple sites are experiments involving \fn{}. As described previously (see section \ref{SeqZipPaper:subsec: Method Development and Validation} \fn{} contains three main sites of AS: EDB, EDA, and V-region. Using the proper mix of ligamers, SeqZip examines and maintains connectivity at all three of these sites, correctly reporting on their usage in the templating RNA (Figure \ref{SeqZipMethod:fig:Three Site FN1 by SeqZip}).
+    An additional demonstration of SeqZip's application to profile long RNAs at multiple sites are experiments involving \fn{}. As described previously (see section \ref{SeqZipPaper:subsec: Method Development and Validation} \fn{} contains three main sites of alternative splicing: EDB, EDA, and V-region. Using the proper mix of ligamers, SeqZip examines and maintains connectivity at all three of these sites, correctly reporting on their usage in the RNA template (Figure \ref{SeqZipMethod:fig:Three Site FN1 by SeqZip}).
 
     \begin{figure} % Investigating Three sites of FN1 using SeqZip
             \centering 
@@ -319,15 +319,15 @@
   \begin{figure} % No piRNAs in introns
     \centering 
     \includegraphics{Figures/SeqZipMethod/noPiRNAswithinPrecusorIntrons.eps}
-    \caption[Introns in mammalian piRNA precusors]
+    \caption[Introns in mammalian piRNA precursors]
     {
-      Introns in mammalian piRNA precusors\\[0.25cm]
+      Introns in mammalian piRNA precursors\\[0.25cm]
       Top) Divergently transcribed piRNA-producing genes \textit{17-qA3.3-27363.1 and 17-qA3.3-26735}. These genes are transcribed from a common promoter. Plus strand small RNAs are shown in blue, minus stranded small RNAs in red. poly(A)+-unstranded) RNA-Seq is shown in black. Bottom) Zoomed portion of the message near the 3\textprime~end of \textit{17-qA3.3-26735}. Plus-stranded small RNA (blue) and RNA-Seq reads in black. Multiple RNA reads and species aligned across a intron. This region was also largely free of small RNA signal.
       }
     \label{SeqZipMethod:fig:no piRNAs within Precursor Introns}
     \end{figure}
 
-  The results shown in Figure \ref{SeqZipMethod:fig:no piRNAs within Precursor Introns} were very exciting initially, and provided important clues to the biogenesis of piRNAs. The presence of an intron indicats Pol II origin. The lack of small RNA within the intron supported mature piRNA creation after precursor splicing. A major reason why this feature had not already been noticed is that small RNA data is not long enough to accurately and confidently align across splice junctions. Therefore, intron detection had to wait for application of longer RNA-Seq reads and splicing-sensitive alignment software. Once these introns were known, supporting their use with small RNA data become possible.
+  The results shown in Figure \ref{SeqZipMethod:fig:no piRNAs within Precursor Introns} were very exciting initially, and provided important clues to the biogenesis of piRNAs. The presence of an intron indicates Pol II origin. The lack of small RNA within the intron supported mature piRNA creation after precursor splicing. A major reason why this feature had not already been noticed is that small RNA data is not long enough to accurately and confidently align across splice junctions. Therefore, intron detection had to wait for application of longer RNA-Seq reads and splicing-sensitive alignment software. Once these introns were known, supporting their use with small RNA data become possible.
 
   Using genomic coordinates supplied by the splicing-sensitive alignment algorithm (\citep{Trapnell2009}), an alignment index of transcript sequences \textit{flanking} was created. Then, using a more traditional (in terms of small RNA alignment) aligner, Bowtie \citep{Langmead2009}, those piRNAs that did \textit{not} map to the genome could be aligned to index containg piRNA precursor splice junctions. This experiment is shown graphically in Figure \ref{SeqZipMethod:fig: piRNAs map to SJ}.
 
@@ -342,7 +342,7 @@
     \label{SeqZipMethod:fig: piRNAs map to SJ}
     \end{figure}
 
-  Chapter \ref{MolCel} discusses the ultimate refinement of the observations described above, including the generality of splicing within precursor transcripts. In fact, there are a total of 383 introns within the ``intergenic'' subclassified 214 piRNA-generating loci from \citep{Li2013e}. These introns display a A-MYB\textendash dependent small RNA signal accross their exon-exon junctions (Figure \ref{SeqZipMethod:fig: amyb makes SJ mapping}). The more traditionally looking piRNA-producing loci of the ``genic'' subclass, contain far more introns (2,113). The signal for these transcripts does not display the same A-MYB\textendash dependent small RNA signal. These subclasses are provided in Appendix \ref{Appendix:tab:GenicAndInterGenicLoci}. 
+  Chapter \ref{MolCel} discusses the ultimate refinement of the observations described above, including the generality of splicing within precursor transcripts. In fact, there are a total of 383 introns within the ``intergenic'' sub-classified 214 piRNA-generating loci from \citep{Li2013e}. These introns display a A-MYB\textendash dependent small RNA signal across their exon-exon junctions (Figure \ref{SeqZipMethod:fig: amyb makes SJ mapping}). The more traditionally looking piRNA-producing loci of the ``genic'' subclass, contain far more introns (2,113). The signal for these transcripts does not display the same A-MYB\textendash dependent small RNA signal. These subclasses are provided in Appendix \ref{Appendix:tab:GenicAndInterGenicLoci}. 
 
   \begin{figure} % A-Myb mutants do not have SJ-mapping piRNAs
     \centering 

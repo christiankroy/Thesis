@@ -33,7 +33,6 @@
   }
 \usepackage{microtype} % Font Kerning. Makes text nicer to read.
 
-
 %%%% REFERENCING AND BIBLIOGRAPHY
 \usepackage[square, comma, sort&compress]{natbib}  % For Referencing
   \setlength{\bibsep}{0.0pt} % Reduce size of bibliography
@@ -132,7 +131,6 @@
 
 %%%% SYMBOLS NB: Must be loaded after `hyperref`!!
 \usepackage{flexisym} % Lets me use prime symbols 
-
 
 %%%% DOCUMENT VARIABLES
 \newcommand*{\thesistitle}[1]{\def\ttitle{#1}}

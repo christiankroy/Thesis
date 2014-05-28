@@ -52,74 +52,18 @@
 	"buffers":
 	[
 		{
-			"file": "RoyC_Umass_Thesis.v0.6.tex",
-			"settings":
-			{
-				"buffer_size": 4496,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter1-Intro.tex",
-			"settings":
-			{
-				"buffer_size": 73227,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter2-Roy2014.tex",
-			"settings":
-			{
-				"buffer_size": 2262,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter4-Li2013.tex",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter5-Disc.tex",
-			"settings":
-			{
-				"buffer_size": 30784,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Thesis.cls",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 3575,
+				"buffer_size": 8225,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Bibliography/library.bib",
+			"file": "FrontMatter/signaturePage.tex",
 			"settings":
 			{
-				"buffer_size": 1958142,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "FrontMatter/abreviations.tex",
-			"settings":
-			{
-				"buffer_size": 1846,
+				"buffer_size": 1594,
 				"line_ending": "Unix"
 			}
 		}
@@ -131,12 +75,36 @@
 		"selected_items":
 		[
 			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove P",
+				"Package Control: Remove Package"
+			],
+			[
 				"Install",
 				"Package Control: Install Package"
 			],
 			[
+				"Instac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: list",
+				"Snippet: Listing"
+			],
+			[
 				"Snippet: item",
 				"Snippet: Itemize"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
 			],
 			[
 				"Snippet: ",
@@ -199,10 +167,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"Table",
 				"Table Editor: Enable for current syntax"
 			],
@@ -219,11 +183,11 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 575.0
+		"width": 458.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 457.0
 	},
 	"distraction_free":
 	{
@@ -236,34 +200,73 @@
 	},
 	"file_history":
 	[
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-SeqZip.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/acknowledgements.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter5-Disc.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/tablesOfContent.tex",
+		"/Users/royc/Google_Drive/Thesis/Tables/BigSpanGenes.tex",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/Thesis.cls",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/shortcuts.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
+		"/Users/royc/Google_Drive/Thesis/Tables/compToolsForMolBiogly.tex",
+		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixB.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/preface.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/abstract.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/signaturePage.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/abbreviationsANDSymbols.tex",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/htlatexConfig",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-Roy2014.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/definitions.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Li2013.tex",
+		"/Users/royc/Google_Drive/Thesis/README.md",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/titlePage.tex",
+		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixA.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.bbl",
+		"/Users/royc/Google_Drive/Thesis/Tables/matchedClusterValues.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Simple Print Function/README.md",
+		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1398692906/dreamhostChristiankroy.com/home/chrroy12/christiankroy.com/tt-rss/config.php",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/dreamhostChristiankroy.com",
+		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1398692134/dreamhostChristiankroy.com/home/chrroy12/christiankroy.com/Tiny-Tiny-RSS/config.php",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/CheckBounce/CheckBounce.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/CheckBounce.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/Tables/exampleLigamerAssemblerInputBottom.tex",
+		"/Users/royc/Google_Drive/Thesis/Tables/genicAndIntergenicLoci.tex",
+		"/Users/royc/Google_Drive/Thesis/Tables/exampleLigamerAssemblerInputTop.tex",
+		"/Users/royc/Desktop/Rachel is done on May 6th.txt",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/Chapters/ChapterTemplate.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.toc",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/dedication.tex",
+		"/Users/royc/Google_Drive/Thesis/test.sh",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/symbols.tex",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/configureHTMLImageOutput.cfg",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/abbreviations.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/symbols.tex",
+		"/Users/royc/Google_Drive/Thesis/Writing_Fragments/ChromatinAndSplicing.tex",
+		"/Users/royc/Google_Drive/Thesis/CR_Thesis.sublime-project",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/Tables/FlyGenesWith1000sofTx.tex",
+		"/Users/royc/Google_Drive/Thesis/Tables/exampleLigamerAssemblerInput.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.out",
+		"/Users/royc/Google_Drive/Thesis/Bibliography/library.bib",
+		"/Users/royc/Google_Drive/Thesis/Appendices/ligamerAssembler.pl",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/abreviations.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tdo",
+		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixC.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.v0.6.tex",
+		"/Users/royc/Google_Drive/Thesis/Thesis.cls",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-Li2013.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Roy2014.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-SeqZip.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.v0.5.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter5-Disc.tex",
-		"/Users/royc/Google_Drive/Thesis/CR_Thesis.sublime-project",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/CheckBounce/CheckBounce.sublime-settings",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/dedication.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-Li2013.tex",
-		"/Users/royc/Google_Drive/Thesis/Thesis.cls",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/abreviations.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/preface.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/definitions.tex",
-		"/Users/royc/Google_Drive/Thesis/Tables/exampleLigamerAssemblerInput.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/abstract.tex",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.v0.5.toc",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/acknowledgements.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/symbols.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/tablesOfContent.tex",
-		"/Users/royc/Google_Drive/Thesis/Tables/matchedClusterValues.tex",
-		"/Users/royc/Google_Drive/Thesis/Tables/FlyGenesWith1000sofTx.tex",
-		"/Users/royc/Google_Drive/Thesis/Tables/BigSpanGenes.tex",
 		"/Users/royc/Dropbox/Thesis/Tables/BigSpanGenes.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter3-Roy2014.tex",
 		"/Users/royc/Dropbox/Thesis/Thesis.cls",
@@ -282,7 +285,6 @@
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter3-SeqZipManuscript.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter2-SeqZipMethodology.tex",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter1-Introduction.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
 		"/Users/royc/Dropbox/Thesis/Chapters/Chapter4-MolCel2013.tex",
 		"/Users/royc/Dropbox/Thesis/thesis.v0.14.tex",
 		"/Users/royc/Dropbox/Thesis/Appendices/AppendixB.tex",
@@ -325,45 +327,7 @@
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/main.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography.bib",
-		"/Users/royc/Desktop/thesis.v0.13.tex",
-		"/Users/royc/Desktop/test.tex",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/pdflatex.sublime-build",
-		"/Users/royc/Dropbox/Shared/Phil.owner.and.MJM/Roy et al, 2013 - SeqZip/Supplemental Table 3 - Exon Binding Energies.csv",
-		"/Users/royc/Dropbox/Shared/Phil.owner.and.MJM/Roy et al, 2013 - SeqZip/Supplemental Table 2 - Per Library Expression with SwitchForm.csv",
-		"/Users/royc/Dropbox/Shared/Phil.owner.and.MJM/Roy et al, 2013 - SeqZip/Writing Sessions/20140315/Agenda_2014-03-15.md",
-		"/Users/royc/Google_Drive/Grad_School/Paper_Summaries/Brown…Celnicker.Nature.2014.md",
-		"/Users/royc/Desktop/LetterToMJMAboutSeqZip.md",
-		"/Users/royc/Dropbox/Thesis/makeAltEventsPerGene.md",
-		"/Users/royc/Dropbox/Thesis/Figures/02-Research Chapters/Chapter1-SeqZip/genesWithBigDistancesBetweenAsExons.md",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
-		"/Users/royc/Desktop/# HiTS-RAP manuscript Review.md",
-		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVQ.pml",
-		"/Users/royc/Dropbox/Thesis/Markdowns/differencesBetweenT4DNA_AND_RNA_ligase.md",
-		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVR.author.assembly.1.pml",
-		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVS.author.assembly.1.pml",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394473299/hpcc03/home/royc/scratch/SeqZip/e12-81-heads.repeat.v2.sequencing/fastqs/00-copy.commands.sh",
-		"/Users/royc/e12-80_quality.plots.md",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394472939/hpcc03/home/royc/scratch/SeqZip/e12-81-heads.repeat.v2.sequencing/fastqs/00-copy.commands.sh",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/hpcc03",
-		"/Users/royc/Dropbox/Thesis/Markdowns/intro_T4_Rnl2.md",
-		"/Users/royc/Dropbox/Thesis/Markdowns/MakingPyMolImagesForThesis.md",
-		"/Users/royc/Dropbox/Thesis/Figures/2HVR.author.assembly.1.log",
-		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVR.author.assembly.1.py",
-		"/Users/royc/Dropbox/Thesis/Figures/01-Introduction/2HVR.py",
-		"/Users/royc/Dropbox/Thesis/2HVR.py",
-		"/Users/royc/Desktop/Markdowns/MJM_meeting_2014-03-07.md",
-		"/Users/royc/Desktop/Meeting_with_phil_2014-03-07.md",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394208044/christiankroy.com/home/chrroy12/christiankroy.com/Tiny-Tiny-RSS/themes/night.css",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394208573/christiankroy.com/home/chrroy12/christiankroy.com/Tiny-Tiny-RSS/css/tt-rss.css",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394208558/christiankroy.com/home/chrroy12/christiankroy.com/Tiny-Tiny-RSS/themes/default.css",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/christiankroy.com",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Table Editor/Default (OSX).sublime-keymap",
-		"/Users/royc/Desktop/Rnl2_AMP.pymolLog",
-		"/Users/royc/Dropbox/Experiments/12-DSCAM-HOLD/12-80_protocol.md",
-		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1394165017/ghpcc/home/cr90w/bin/uniq.reads+",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/ghpcc",
-		"/Users/royc/Dropbox/Thesis/Markdowns/ghpcc.sftp-config.json",
-		"/Users/royc/Dropbox/Thesis/Markdowns/sftp-config.json"
+		"/Users/royc/Desktop/thesis.v0.13.tex"
 	],
 	"find":
 	{
@@ -379,9 +343,119 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"cry",
+			"the",
+			"Comment",
+			"squelches",
+			"squelch",
+			"CamSeq",
+			"CAMseq",
+			"Cam-Seq",
+			"AS",
+			"computational",
+			" AS ",
+			"in vivo",
+			"in vitro",
+			"compliment",
+			"nts",
+			"ident",
+			"\\rho",
+			"pearson",
+			"Tm",
+			"Gan2013",
+			"(see Figure",
+			"Tudor-",
+			"Tudor",
+			"--",
+			"DNA",
+			"\\hfill \\\\",
+			"\\bhrule",
+			" \n",
+			"”",
+			"“",
+			"‘",
+			"’",
+			"‘",
+			"-",
+			"cars",
+			"car",
+			"cars",
+			"\\textemdash",
+			"–",
+			"\\textendash",
+			"’",
+			"\\degree~C",
+			"\\degree C",
+			"\\Delta",
+			"\\degree",
+			"\\center",
+			"‐",
+			"flemenco",
+			"matter",
+			"\\front",
+			"spell",
+			"	\\hline",
+			"ENCODE",
+			"\\ (.*)",
+			"\\ ?",
+			"\\ ",
+			"$",
+			"[\\ ]+",
+			"\\ ",
+			"\\.$",
+			"input",
+			"BigSpan",
+			"3\\textprime~ ",
+			"5\\textprime~ ",
+			" ~",
+			"~",
+			"PolII",
+			"\\begin{figure}[!ht]",
+			"\\begin{figure}[H]",
+			"[!ht]",
+			"[!h]",
+			"\\hl{",
+			"\\hl",
+			"hl",
+			"[htbp]",
+			"[!htb]",
+			"[!ht]",
+			"[ht]",
+			"[htbp]",
+			"\\begin{figure}[ht]",
+			"htbp",
+			"\\ref{fig",
+			":hd",
+			"\\label{",
+			"Appendix",
+			"\\\\tod",
+			"\\\\tod{Mention",
+			"\\hfill",
+			"\\\\",
+			"microarray",
+			"\\textprime~ ",
+			"$\\gt$",
+			"−",
+			"$mu$",
+			"‐",
+			"Dscam1",
+			"oC",
+			"µ",
+			"32",
+			"whitespace",
+			"´",
+			" &",
+			"~",
+			"Δ",
+			"˚ ",
+			"",
+			"3′",
+			"5′",
+			"supplemental Figure S3",
+			"S3",
 			"Bingham2008",
 			"Bingham2008a",
 			"Cramer",
@@ -399,117 +473,7 @@
 			"rattus\\_norvegicus",
 			"\\textlessGria",
 			"Li2013",
-			".pdf}",
-			"Argonaute Loading Improves the",
-			"′",
-			"Bullard",
-			"Bullart",
-			"2006]",
-			"\\emph",
-			"Bullard",
-			"Bowater",
-			"Bullard and Bowater",
-			"\\emphBullard and Bowater,",
-			"page",
-			"Chapter3/",
-			"Figures/",
-			"\\btypeout",
-			" spac­ing",
-			" \\dou­blespac­ing",
-			" \\dou­blespac­ing\\",
-			" \\dou­blespac­ing",
-			"usepackage",
-			"doublespace",
-			"\\chapter",
-			"white_space",
-			"whitespace",
-			"Graveley2013",
-			"Graveley",
-			"Graveley2013",
-			"degree",
-			"′",
-			"^",
-			"repro",
-			"MolCelF5",
-			"Fire1998",
-			"micro",
-			"1990's",
-			"1990",
-			"microarray",
-			"Kuramochi-Miyagawa2004",
-			"Kuramochi-Miyagawa",
-			"\\textit{Drosophila melanogaster}",
-			"Drosophila melanogaster",
-			"Regulate Alternative 3",
-			"Regulate Alternative 3′",
-			"′",
-			"±",
-			" ",
-			"C-Myb",
-			"B-Myb",
-			"Spo11",
-			"Mili",
-			"Miwi",
-			"A-Myb",
-			"mybrepro{}",
-			"\\mybrepro{}",
-			"\\mybrepro",
-			"Mybl1repro9",
-			"three ",
-			"‑",
-			"\\lt",
-			"$\\rho \\lt",
-			"PO\\",
-			" ",
-			"−",
-			"´",
-			"Johnson",
-			"r2011",
-			"×",
-			"∼",
-			"´",
-			"Grivna2006a\n\n\n\n\nGrivna",
-			"Grivna2006a\n\n\n\n\nGrivna200",
-			"Shirayama",
-			"Lin2009",
-			"ρ",
-			"′",
-			"\\geneSlo",
-			"\\fn1",
-			"\\geneFn",
-			"\\geneFn1",
-			"\\geneKcnma",
-			"\\textprime ",
-			"\\geneFn",
-			"nucleotides To Regulate",
-			"′",
-			"´",
-			"Martinez-Contreras2007",
-			"Martinez-Contreras2007a",
-			"\\InsertFigure",
-			"\\emph{Zeitschrift",
-			"Moderak",
-			"Mod",
-			"Moder",
-			"Moderak",
-			"Gilbert1978",
-			"Shendure2012\nShendure",
-			"Shendure2012\nShen",
-			"Shendure2012\nShendure",
-			"Shendure",
-			"Shendure2012",
-			"Shapiro2013",
-			"Sha",
-			"Trapnell2010",
-			"Li2011",
-			"Blencowe",
-			"Lister2008",
-			"Shendure2008",
-			"Venter2001",
-			"Venter2001a",
-			"\\chapter",
-			"Bentley2008",
-			"Bentley2008a"
+			".pdf}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -517,6 +481,70 @@
 		"regex": false,
 		"replace_history":
 		[
+			"CAMSeq",
+			"CAMseq",
+			"alternative splicing",
+			" alternative splicing ",
+			"\\textit{in vivo}",
+			"\\textit{in vitro}",
+			"\\textit{T}$_{m}$",
+			"(Figure",
+			"",
+			"''",
+			"``",
+			"''",
+			"``",
+			"-",
+			"---",
+			"-",
+			"--",
+			"'",
+			"''",
+			"$\\,^{\\circ}\\mathrm{C}$",
+			"",
+			"&",
+			"\\ \\\\\\\\",
+			"\\ \\& \\ ",
+			"",
+			"3\\textprime~",
+			"5\\textprime~",
+			"\\textasciitilde",
+			"\\begin{figure}",
+			"[H]",
+			"[!ht]",
+			"[!h]",
+			"[htbp]",
+			"[!htb]",
+			"\\begin{figure}[htbp]",
+			"ht",
+			"\\ref{Disc:fig",
+			"\\ref{SeqZipMethod:fig",
+			"\\ref{Intro:fig",
+			"\\ref{SeqZipPaper:fig",
+			"\\ref{MolCel:fig",
+			":sec",
+			"\\label{Disc:",
+			"\\label{AppendixMisc:",
+			"\\label{SeqZipMethod:",
+			"\\label{MolCel:",
+			"\\label{SeqZipPaper:",
+			"\\label{Intro:",
+			"",
+			"\\textprime~",
+			"$>$",
+			"-",
+			"$\\mu$",
+			"\\dscam{}",
+			"\\degree C",
+			"$\\mu$",
+			"\\textprime~",
+			" \\&",
+			"\\textasciitilde",
+			"$\\delta$",
+			"\\degree ",
+			"\\degree",
+			"3\\textprime~",
+			"5\\textprime~",
 			"rn4",
 			"<Gria3",
 			".eps}",
@@ -567,220 +595,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "RoyC_Umass_Thesis.v0.6.tex",
-					"settings":
-					{
-						"buffer_size": 4496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4479,
-								4383
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": true,
-							"spell_tag": 1.0,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 136.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Chapters/Chapter1-Intro.tex",
-					"settings":
-					{
-						"buffer_size": 73227,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38080,
-								38080
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5134.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Chapters/Chapter2-Roy2014.tex",
-					"settings":
-					{
-						"buffer_size": 2262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2261,
-								2261
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": true,
-							"spell_tag": 2.0,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 256.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Chapters/Chapter4-Li2013.tex",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Chapters/Chapter5-Disc.tex",
-					"settings":
-					{
-						"buffer_size": 30784,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2550,
-								2550
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": true,
-							"spell_tag": 5.0,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
 			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "Thesis.cls",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/TeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
+					"buffer": 0,
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 3575,
+						"buffer_size": 8225,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1564,
-								1564
+								826,
+								826
 							]
 						],
 						"settings":
@@ -801,50 +632,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "Bibliography/library.bib",
+					"buffer": 1,
+					"file": "FrontMatter/signaturePage.tex",
 					"settings":
 					{
-						"buffer_size": 1958142,
+						"buffer_size": 1594,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/Bibtex.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "FrontMatter/abreviations.tex",
-					"settings":
-					{
-						"buffer_size": 1846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								922,
+								922
 							]
 						],
 						"settings":
@@ -855,8 +655,7 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -884,18 +683,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -907,7 +699,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 152.0
+		"height": 243.0
 	},
 	"output.git":
 	{
@@ -942,6 +734,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 272.0,
+	"side_bar_width": 263.0,
 	"status_bar_visible": true
 }

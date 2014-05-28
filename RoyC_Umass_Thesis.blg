@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RoyC_Umass_Thesis.aux
+The style file: Bibliography/apalike.bst
+Reallocated field_info (elt_size=4) to 13404 items from 5000.
+Database file #1: Bibliography/library.bib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--empty publisher in Calarco2007
+Warning--there's a number but no volume in Chu2012
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Warning--there's a number but no volume in Lee2014
+Warning--can't use both author and editor fields in RDevelopmentCoreTeam2011
+Warning--empty journal in Rumsfeld2011
+Warning--there's a number but no volume in Vagin2004
+You've used 382 entries,
+            1935 wiz_defined-function locations,
+            2782 strings with 119956 characters,
+and the built_in function-call counts, 238674 in all, are:
+= -- 21076
+> -- 19280
+< -- 111
++ -- 7276
+- -- 7266
+* -- 25064
+:= -- 42907
+add.period$ -- 1143
+call.type$ -- 382
+change.case$ -- 5540
+chr.to.int$ -- 372
+cite$ -- 388
+duplicate$ -- 5406
+empty$ -- 11174
+format.name$ -- 7786
+if$ -- 43397
+int.to.chr$ -- 11
+int.to.str$ -- 0
+missing$ -- 383
+newline$ -- 1910
+num.names$ -- 1146
+pop$ -- 4721
+preamble$ -- 1
+purify$ -- 5543
+quote$ -- 0
+skip$ -- 3986
+stack$ -- 0
+substring$ -- 13209
+swap$ -- 448
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2286
+warning$ -- 6
+while$ -- 1486
+width$ -- 0
+write$ -- 4959
+(There were 6 warnings)

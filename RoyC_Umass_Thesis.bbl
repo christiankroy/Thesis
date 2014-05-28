@@ -1,0 +1,2696 @@
+\begin{thebibliography}{}
+
+\bibitem[Altschul et~al., 1990]{Altschul1990}
+Altschul, S.~F., Gish, W., Miller, W., Myers, E.~W., and Lipman, D.~J. (1990).
+\newblock {Basic local alignment search tool.}
+\newblock {\em Journal of molecular biology}, 215(3):403--10.
+
+\bibitem[Amitsur et~al., 1987]{Amitsur1987d}
+Amitsur, M., Levitz, R., and Kaufmann, G. (1987).
+\newblock {Bacteriophage T4 anticodon nuclease, polynucleotide kinase and RNA
+  ligase reprocess the host lysine tRNA.}
+\newblock {\em The EMBO journal}, 6(8):2499--503.
+
+\bibitem[Anders and Huber, 2010]{Anders2010a}
+Anders, S. and Huber, W. (2010).
+\newblock {Differential expression analysis for sequence count data}.
+\newblock {\em Genome Biology}, 11(10):R106.
+
+\bibitem[Anstey et~al., 2009]{Anstey2009}
+Anstey, M.~L., Rogers, S.~M., Ott, S.~R., Burrows, M., and Simpson, S.~J.
+  (2009).
+\newblock {Serotonin mediates behavioral gregarization underlying swarm
+  formation in desert locusts.}
+\newblock {\em Science (New York, N.Y.)}, 323(5914):627--30.
+
+\bibitem[Aravin et~al., 2006]{Aravin2006}
+Aravin, A., Gaidatzis, D., Pfeffer, S., Lagos-Quintana, M., Landgraf, P.,
+  Iovino, N., Morris, P., Brownstein, M.~J., Kuramochi-Miyagawa, S., Nakano,
+  T., Chien, M., Russo, J.~J., Ju, J., Sheridan, R., Sander, C., Zavolan, M.,
+  and Tuschl, T. (2006).
+\newblock {A novel class of small RNAs bind to MILI protein in mouse testes}.
+\newblock {\em Nature}, 442(7099):203--207.
+
+\bibitem[Aravin and Hannon, 2008]{Aravin2008a}
+Aravin, A.~A. and Hannon, G.~J. (2008).
+\newblock {Small RNA silencing pathways in germ and stem cells.}
+\newblock {\em Cold Spring Harbor symposia on quantitative biology},
+  73:283--90.
+
+\bibitem[Aravin et~al., 2007a]{Aravin2007a}
+Aravin, A.~A., Hannon, G.~J., and Brennecke, J. (2007a).
+\newblock {The Piwi-piRNA Pathway Provides an Adaptive Defense in the
+  Transposon Arms Race}.
+\newblock {\em Science}, 318(5851):761--764.
+
+\bibitem[Aravin et~al., 2001]{Aravin2001}
+Aravin, A.~A., Naumova, N.~M., Tulin, A.~V., Vagin, V.~V., Rozovsky, Y.~M., and
+  Gvozdev, V.~A. (2001).
+\newblock {Double-stranded RNA-mediated silencing of genomic tandem repeats and
+  transposable elements in the D. melanogaster germline}.
+\newblock {\em Current Biology}, 11(13):1017--1027.
+
+\bibitem[Aravin et~al., 2008]{Aravin2008}
+Aravin, A.~A., Sachidanandam, R., Bourc'his, D., Schaefer, C., Pezic, D., Toth,
+  K.~F., Bestor, T., and Hannon, G.~J. (2008).
+\newblock {A piRNA Pathway Primed by Individual Transposons Is Linked to De
+  Novo DNA Methylation in Mice}.
+\newblock {\em Molecular Cell}, 31(6):785--799.
+
+\bibitem[Aravin et~al., 2007b]{Aravin2007}
+Aravin, A.~A., Sachidanandam, R., Girard, A., Fejes-Toth, K., and Hannon, G.~J.
+  (2007b).
+\newblock {Developmentally regulated piRNA clusters implicate MILI in
+  transposon control.}
+\newblock {\em Science (New York, N.Y.)}, 316(5825):744--7.
+
+\bibitem[Ashe et~al., 2012]{Ashe2012}
+Ashe, A., Sapetschnig, A., Weick, E.-M., Mitchell, J., Bagijn, M.~P., Cording,
+  A.~C., Doebley, A.-L., Goldstein, L.~D., Lehrbach, N.~J., {Le Pen}, J.,
+  Pintacuda, G., Sakaguchi, A., Sarkies, P., Ahmed, S., and Miska, E.~a.
+  (2012).
+\newblock {piRNAs can trigger a multigenerational epigenetic memory in the
+  germline of C. elegans.}
+\newblock {\em Cell}, 150(1):88--99.
+
+\bibitem[Bailey et~al., 2009]{Bailey2009}
+Bailey, T.~L., Boden, M., Buske, F.~a., Frith, M., Grant, C.~E., Clementi, L.,
+  Ren, J., Li, W.~W., and Noble, W.~S. (2009).
+\newblock {MEME SUITE: tools for motif discovery and searching.}
+\newblock {\em Nucleic acids research}, 37(Web Server issue):W202--8.
+
+\bibitem[Bailey and Elkan, 1994]{Bailey1994}
+Bailey, T.~L. and Elkan, C. (1994).
+\newblock {Fitting a mixture model by expectation maximization to discover
+  motifs in biopolymers.}
+\newblock {\em Proceedings International Conference on Intelligent Systems for
+  Molecular Biology ISMB International Conference on Intelligent Systems for
+  Molecular Biology}, 2:28--36.
+
+\bibitem[Barany, 1991]{Barany1991}
+Barany, F. (1991).
+\newblock {Genetic disease detection and DNA amplification using cloned
+  thermostable ligase.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 88(1):189--93.
+
+\bibitem[Barash et~al., 2010]{Barash2010}
+Barash, Y., Calarco, J.~A., Gao, W., Pan, Q., Wang, X., Shai, O., Blencowe,
+  B.~J., and Frey, B.~J. (2010).
+\newblock {Deciphering the splicing code}.
+\newblock {\em Nature}, 465(7294):53--59.
+
+\bibitem[Barbosa-Morais et~al., 2012]{Barbosa-Morais2012}
+Barbosa-Morais, N.~L., Irimia, M., Pan, Q., Xiong, H.~Y., Gueroussov, S., Lee,
+  L.~J., Slobodeniuc, V., Kutter, C., Watt, S., Colak, R., Kim, T.,
+  Misquitta-Ali, C.~M., Wilson, M.~D., Kim, P.~M., Odom, D.~T., Frey, B.~J.,
+  and Blencowe, B.~J. (2012).
+\newblock {The evolutionary landscape of alternative splicing in vertebrate
+  species.}
+\newblock {\em Science (New York, N.Y.)}, 338(6114):1587--93.
+
+\bibitem[Barrangou et~al., 2007]{Barrangou2007c}
+Barrangou, R., Fremaux, C., Deveau, H., Richards, M., Boyaval, P., Moineau, S.,
+  Romero, D.~a., and Horvath, P. (2007).
+\newblock {CRISPR provides acquired resistance against viruses in prokaryotes.}
+\newblock {\em Science (New York, N.Y.)}, 315(5819):1709--12.
+
+\bibitem[Barrett et~al., 2013]{Barrett2013}
+Barrett, T., Wilhite, S.~E., Ledoux, P., Evangelista, C., Kim, I.~F.,
+  Tomashevsky, M., Marshall, K.~a., Phillippy, K.~H., Sherman, P.~M., Holko,
+  M., Yefanov, A., Lee, H., Zhang, N., Robertson, C.~L., Serova, N., Davis, S.,
+  and Soboleva, A. (2013).
+\newblock {NCBI GEO: archive for functional genomics data sets--update.}
+\newblock {\em Nucleic acids research}, 41(Database issue):D991--5.
+
+\bibitem[Baudat et~al., 2000]{Baudat2000c}
+Baudat, F., Manova, K., Yuen, J.~P., Jasin, M., and Keeney, S. (2000).
+\newblock {Chromosome synapsis defects and sexually dimorphic meiotic
+  progression in mice lacking Spo11.}
+\newblock {\em Molecular cell}, 6(5):989--98.
+
+\bibitem[Bell et~al., 1980]{Cordell1980a}
+Bell, G.~I., Pictet, R.~L., Rutter, W.~J., Cordell, B., Tischer, E., and
+  Goodman, H.~M. (1980).
+\newblock {Sequence of the human insulin gene.}
+\newblock {\em Nature}, 284(5751):26--32.
+
+\bibitem[Benson et~al., 2011]{Benson2011a}
+Benson, D.~a., Karsch-Mizrachi, I., Lipman, D.~J., Ostell, J., and Sayers,
+  E.~W. (2011).
+\newblock {GenBank.}
+\newblock {\em Nucleic acids research}, 39(Database issue):D32--7.
+
+\bibitem[Bentley et~al., 2008]{Bentley2008}
+Bentley, D.~R., Balasubramanian, S., Swerdlow, H.~P., Smith, G.~P., Milton, J.,
+  Brown, C.~G., Hall, K.~P., Evers, D.~J., Barnes, C.~L., Bignell, H.~R.,
+  Boutell, J.~M., Bryant, J., Carter, R.~J., {Keira Cheetham}, R., Cox, A.~J.,
+  Ellis, D.~J., Flatbush, M.~R., Gormley, N.~a., Humphray, S.~J., Irving,
+  L.~J., Karbelashvili, M.~S., Kirk, S.~M., Li, H., Liu, X., Maisinger, K.~S.,
+  Murray, L.~J., Obradovic, B., Ost, T., Parkinson, M.~L., Pratt, M.~R.,
+  Rasolonjatovo, I. M.~J., Reed, M.~T., Rigatti, R., Rodighiero, C., Ross,
+  M.~T., Sabot, A., Sankar, S.~V., Scally, A., Schroth, G.~P., Smith, M.~E.,
+  Smith, V.~P., Spiridou, A., Torrance, P.~E., Tzonev, S.~S., Vermaas, E.~H.,
+  Walter, K., Wu, X., Zhang, L., Alam, M.~D., Anastasi, C., Aniebo, I.~C.,
+  Bailey, D. M.~D., Bancarz, I.~R., Banerjee, S., Barbour, S.~G., Baybayan,
+  P.~a., Benoit, V.~a., Benson, K.~F., Bevis, C., Black, P.~J., Boodhun, A.,
+  Brennan, J.~S., Bridgham, J.~a., Brown, R.~C., Brown, A.~a., Buermann, D.~H.,
+  Bundu, A.~a., Burrows, J.~C., Carter, N.~P., Castillo, N., {Chiara E
+  Catenazzi}, M., Chang, S., {Neil Cooley}, R., Crake, N.~R., Dada, O.~O.,
+  Diakoumakos, K.~D., Dominguez-Fernandez, B., Earnshaw, D.~J., Egbujor, U.~C.,
+  Elmore, D.~W., Etchin, S.~S., Ewan, M.~R., Fedurco, M., Fraser, L.~J.,
+  {Fuentes Fajardo}, K.~V., {Scott Furey}, W., George, D., Gietzen, K.~J.,
+  Goddard, C.~P., Golda, G.~S., Granieri, P.~a., Green, D.~E., Gustafson,
+  D.~L., Hansen, N.~F., Harnish, K., Haudenschild, C.~D., Heyer, N.~I., Hims,
+  M.~M., Ho, J.~T., Horgan, A.~M., Hoschler, K., Hurwitz, S., Ivanov, D.~V.,
+  Johnson, M.~Q., James, T., {Huw Jones}, T.~a., Kang, G.-D., Kerelska, T.~H.,
+  Kersey, A.~D., Khrebtukova, I., Kindwall, A.~P., Kingsbury, Z.,
+  Kokko-Gonzales, P.~I., Kumar, A., Laurent, M.~a., Lawley, C.~T., Lee, S.~E.,
+  Lee, X., Liao, A.~K., Loch, J.~a., Lok, M., Luo, S., Mammen, R.~M., Martin,
+  J.~W., McCauley, P.~G., McNitt, P., Mehta, P., Moon, K.~W., Mullens, J.~W.,
+  Newington, T., Ning, Z., {Ling Ng}, B., Novo, S.~M., O'Neill, M.~J., Osborne,
+  M.~a., Osnowski, A., Ostadan, O., Paraschos, L.~L., Pickering, L., Pike,
+  A.~C., Pike, A.~C., {Chris Pinkard}, D., Pliskin, D.~P., Podhasky, J.,
+  Quijano, V.~J., Raczy, C., Rae, V.~H., Rawlings, S.~R., {Chiva Rodriguez},
+  A., Roe, P.~M., Rogers, J., {Rogert Bacigalupo}, M.~C., Romanov, N., Romieu,
+  A., Roth, R.~K., Rourke, N.~J., Ruediger, S.~T., Rusman, E., Sanches-Kuiper,
+  R.~M., Schenker, M.~R., Seoane, J.~M., Shaw, R.~J., Shiver, M.~K., Short,
+  S.~W., Sizto, N.~L., Sluis, J.~P., Smith, M.~a., {Ernest Sohna Sohna}, J.,
+  Spence, E.~J., Stevens, K., Sutton, N., Szajkowski, L., Tregidgo, C.~L.,
+  Turcatti, G., Vandevondele, S., Verhovsky, Y., Virk, S.~M., Wakelin, S.,
+  Walcott, G.~C., Wang, J., Worsley, G.~J., Yan, J., Yau, L., Zuerlein, M.,
+  Rogers, J., Mullikin, J.~C., Hurles, M.~E., McCooke, N.~J., West, J.~S.,
+  Oaks, F.~L., Lundberg, P.~L., Klenerman, D., Durbin, R., and Smith, A.~J.
+  (2008).
+\newblock {Accurate whole human genome sequencing using reversible terminator
+  chemistry.}
+\newblock {\em Nature}, 456(7218):53--9.
+
+\bibitem[Benton and Donoghue, 2007]{Benton2007}
+Benton, M.~J. and Donoghue, P. C.~J. (2007).
+\newblock {Paleontological evidence to date the tree of life.}
+\newblock {\em Molecular biology and evolution}, 24(1):26--53.
+
+\bibitem[Berg et~al., 2012]{Berg2012}
+Berg, M.~G., Singh, L.~N., Younis, I., Liu, Q., Pinto, A.~M., Kaida, D., Zhang,
+  Z., Cho, S., Sherrill-Mix, S., Wan, L., and Dreyfuss, G. (2012).
+\newblock {U1 snRNP determines mRNA length and regulates isoform expression.}
+\newblock {\em Cell}, 150(1):53--64.
+
+\bibitem[Berget et~al., 1977]{Berget1977}
+Berget, S.~M., Moore, C., and Sharp, P.~A. (1977).
+\newblock {Spliced segments at the 5' terminus of adenovirus 2 late mRNA.}
+\newblock {\em Reviews in medical virology}, 10(6):356--62; discussion 355--6.
+
+\bibitem[Bernstein et~al., 1983]{Bernstein1983a}
+Bernstein, S.~I., Mogami, K., Donady, J.~J., and Emerson, C.~P. (1983).
+\newblock {Drosophila muscle myosin heavy chain encoded by a single gene in a
+  cluster of muscle mutations}.
+\newblock {\em Nature}, 302(5907):393--397.
+
+\bibitem[Besmer et~al., 1972]{Besmer1972b}
+Besmer, P., Jr., R. C.~M., Caruthers, M.~H., Kumar, A., Minamoto, K., van~de
+  Sande, J., Sidarova, N., and Khorana, H. (1972).
+\newblock {Studies on polynucleotides. CXVII. Hybridization of
+  polydeoxynucleotides with tyrosine transfer RNA sequences to the r-strand of
+  phi80psu + 3 DNA.}
+\newblock {\em Journal of Molecular Biology}, 72:503--522.
+
+\bibitem[Bhattacharjee, 2014]{Bhattacharjee2014}
+Bhattacharjee, Y. (2014).
+\newblock {The Vigilante}.
+\newblock {\em Science}, 343(6177):1306--1309.
+
+\bibitem[Bhattacharya et~al., 2000]{Bhattacharya2000}
+Bhattacharya, A., Czaplinski, K., Trifillis, P., He, F., Jacobson, A., and
+  Peltz, S.~W. (2000).
+\newblock {Characterization of the biochemical properties of the human Upf1
+  gene product that is involved in nonsense-mediated mRNA decay.}
+\newblock {\em RNA (New York, N.Y.)}, 6:1226--1235.
+
+\bibitem[Bieberstein et~al., 2012]{Bieberstein2012}
+Bieberstein, N.~I., {Carrillo Oesterreich}, F., Straube, K., and Neugebauer,
+  K.~M. (2012).
+\newblock {First exon length controls active chromatin signatures and
+  transcription.}
+\newblock {\em Cell reports}, 2(1):62--8.
+
+\bibitem[Bingham et~al., 2008]{Bingham2008}
+Bingham, J.~L., Carrigan, P.~E., Miller, L.~J., and Srinivasan, S. (2008).
+\newblock {Extent and diversity of human alternative splicing established by
+  complementary database annotation and microarray analysis}.
+\newblock {\em Omics: A Journal of Integrative Biology}, 12(1):83--92.
+
+\bibitem[Birney et~al., 2007]{Birney2007}
+Birney, E., Stamatoyannopoulos, J.~A., Dutta, A., Guig|[oacute]|, R., Gingeras,
+  T.~R., Margulies, E.~H., Weng, Z., Snyder, M., Dermitzakis, E.~T., Thurman,
+  R.~E., Kuehn, M.~S., Taylor, C.~M., Neph, S., Koch, C.~M., Asthana, S.,
+  Malhotra, A., Adzhubei, I., Greenbaum, J.~A., Andrews, R.~M., Flicek, P.,
+  Boyle, P.~J., Cao, H., Carter, N.~P., Clelland, G.~K., Davis, S., Day, N.,
+  Dhami, P., Dillon, S.~C., Dorschner, M.~O., Fiegler, H., Giresi, P.~G.,
+  Goldy, J., Hawrylycz, M., Haydock, A., Humbert, R., James, K.~D., Johnson,
+  B.~E., Johnson, E.~M., Frum, T.~T., Rosenzweig, E.~R., Karnani, N., Lee, K.,
+  Lefebvre, G.~C., Navas, P.~A., Neri, F., Parker, S. C.~J., Sabo, P.~J.,
+  Sandstrom, R., Shafer, A., Vetrie, D., Weaver, M., Wilcox, S., Yu1, M.,
+  Collins, F.~S., Dekker, J., Lieb, J.~D., Tullius, T.~D., Crawford, G.~E.,
+  Sunyaev, S., Noble, W.~S., Dunham, I., Denoeud, F., Reymond, A., Kapranov,
+  P., Rozowsky, J., Zheng, D., Castelo, R., Frankish, A., Harrow, J., Ghosh,
+  S., Sandelin, A., Hofacker, I.~L., Baertsch, R., Keefe, D., Dike, S., Cheng,
+  J., Hirsch, H.~A., Sekinger, E.~A., Lagarde, J., Abril, J.~F., Shahab, A.,
+  Flamm, C., Fried, C., Hackerm|[uuml]|ller, J., Hertel, J., Lindemeyer, M.,
+  Missal, K., Tanzer, A., Washietl, S., Korbel, J., Emanuelsson, O., Pedersen,
+  J.~S., Holroyd, N., Taylor, R., Swarbreck, D., Matthews, N., Dickson, M.~C.,
+  Thomas, D.~J., Weirauch, M.~T., Gilbert, J., Drenkow, J., Bell, I., Zhao, X.,
+  Srinivasan, K., Sung, W.-K., Ooi, H.~S., Chiu, K.~P., Foissac, S., Alioto,
+  T., Brent, M., Pachter, L., Tress, M.~L., Valencia, A., Choo, S.~W., Choo,
+  C.~Y., Ucla, C., Manzano, C., Wyss, C., Cheung, E., Clark, T.~G., Brown,
+  J.~B., Ganesh, M., Patel, S., Tammana, H., Chrast, J., Henrichsen, C.~N.,
+  Kai, C., Kawai, J., Nagalakshmi, U., Wu, J., Lian, Z., Lian, J., Newburger,
+  P., Zhang, X., Bickel, P., Mattick, J.~S., Carninci, P., Hayashizaki, Y.,
+  Weissman, S., Hubbard, T., Myers, R.~M., Rogers, J., Stadler, P.~F., Lowe,
+  T.~M., Wei, C.-L., Ruan, Y., Struhl, K., Gerstein, M., Antonarakis, S.~E.,
+  Fu, Y., Green, E.~D., Kara|[ouml]|z, U., Siepel, A., Taylor, J., Liefer,
+  L.~A., Wetterstrand, K.~A., Good, P.~J., Feingold, E.~A., Guyer, M.~S.,
+  Cooper, G.~M., Asimenos, G., Dewey, C.~N., Hou, M., Nikolaev, S.,
+  Montoya-Burgos, J.~I., L|[ouml]|ytynoja, A., Whelan, S., Pardi, F.,
+  Massingham, T., Huang, H., Zhang, N.~R., Holmes, I., Mullikin, J.~C.,
+  Ureta-Vidal, A., Paten, B., Seringhaus, M., Church, D., Rosenbloom, K., Kent,
+  W.~J., Stone, E.~A., Batzoglou, S., Goldman, N., Hardison, R.~C., Haussler,
+  D., Miller, W., Sidow, A., Trinklein, N.~D., Zhang, Z.~D., Barrera, L.,
+  Stuart, R., King, D.~C., Ameur, A., Enroth, S., Bieda, M.~C., Kim, J.,
+  Bhinge, A.~A., Jiang, N., Liu, J., Yao, F., Vega, V.~B., Lee, C.~W., Ng, P.,
+  Yang, A., Moqtaderi, Z., Zhu, Z., Xu, X., Squazzo, S., Oberley, M.~J., Inman,
+  D., Singer, M.~A., Richmond, T.~A., Munn, K.~J., Rada-Iglesias, A.,
+  Wallerman, O., Komorowski, J., Fowler, J.~C., Couttet, P., Bruce, A.~W.,
+  Dovey, O.~M., Ellis, P.~D., Langford, C.~F., Nix, D.~A., Euskirchen, G.,
+  Hartman, S., Urban, A.~E., Kraus, P., Calcar, S.~V., Heintzman, N., Kim,
+  T.~H., Wang, K., Qu, C., Hon, G., Luna, R., Glass, C.~K., Rosenfeld, M.~G.,
+  Aldred, S.~F., Cooper, S.~J., Halees, A., Lin, J.~M., Shulha, H.~P., Zhang,
+  X., Xu, M., Haidar, J. N.~S., Yu, Y., Birney*, E., Iyer, V.~R., Green, R.~D.,
+  Wadelius, C., Farnham, P.~J., Ren, B., Harte, R.~A., Hinrichs, A.~S.,
+  Trumbower, H., Clawson, H., Hillman-Jackson, J., Zweig, A.~S., Smith, K.,
+  Thakkapallayil, A., Barber, G., Kuhn, R.~M., Karolchik, D., Armengol, L.,
+  Bird, C.~P., de~Bakker, P. I.~W., Kern, A.~D., Lopez-Bigas, N., Martin,
+  J.~D., Stranger, B.~E., Woodroffe, A., Davydov, E., Dimas, A., Eyras, E.,
+  Hallgr|[iacute]|msd|[oacute]|ttir, I.~B., Huppert, J., Zody, M.~C., Abecasis,
+  G.~R., Estivill, X., Bouffard, G.~G., Guan, X., Hansen, N.~F., Idol, J.~R.,
+  Maduro, V.~V., Maskeri, B., McDowell, J.~C., Park, M., Thomas, P.~J., Young,
+  A.~C., Blakesley, R.~W., Muzny, D.~M., Sodergren, E., Wheeler, D.~A., Worley,
+  K.~C., Jiang, H., Weinstock, G.~M., Gibbs, R.~A., Graves, T., Fulton, R.,
+  Mardis, E.~R., Wilson, R.~K., Clamp, M., Cuff, J., Gnerre, S., Jaffe, D.~B.,
+  Chang, J.~L., Lindblad-Toh, K., Lander, E.~S., Koriabine, M., Nefedov, M.,
+  Osoegawa, K., Yoshinaga, Y., Zhu, B., and de~Jong, P.~J. (2007).
+\newblock {Identification and analysis of functional elements in 1\% of the
+  human genome by the ENCODE pilot project}.
+\newblock {\em Nature}, 447(7146):799--816.
+
+\bibitem[Blankenberg et~al., 2010]{Blankenberg2010}
+Blankenberg, D., {Von Kuster}, G., Coraor, N., Ananda, G., Lazarus, R., Mangan,
+  M., Nekrutenko, A., and Taylor, J. (2010).
+\newblock {Galaxy: a web-based genome analysis tool for experimentalists.}
+\newblock {\em Current protocols in molecular biology / edited by Frederick M.
+  Ausubel ... [et al.]}, Chapter 19:Unit 19.10.1--21.
+
+\bibitem[Blencowe et~al., 2009]{Blencowe2009}
+Blencowe, B.~J., Ahmad, S., and Lee, L.~J. (2009).
+\newblock {Current-generation high-throughput sequencing: deepening insights
+  into mammalian transcriptomes.}
+\newblock {\em Genes \& development}, 23(12):1379--86.
+
+\bibitem[Blower et~al., 2013]{Blower2013}
+Blower, M.~D., Jambhekar, A., Schwarz, D.~S., and Toombs, J.~a. (2013).
+\newblock {Combining different mRNA capture methods to analyze the
+  transcriptome: analysis of the Xenopus laevis transcriptome.}
+\newblock {\em PloS one}, 8(10):e77700.
+
+\bibitem[Bolcun-Filas et~al., 2011]{Bolcun-Filas2011}
+Bolcun-Filas, E., Bannister, L.~A., Barash, A., Schimenti, K.~J., Hartford,
+  S.~A., Eppig, J.~J., Handel, M.~A., Shen, L., and Schimenti, J.~C. (2011).
+\newblock {A-MYB (MYBL1) transcription factor is a master regulator of male
+  meiosis}.
+\newblock {\em Development}, 138(15):3319 --3330.
+
+\bibitem[Boley et~al., 2014]{Boley2014}
+Boley, N., Stoiber, M.~H., Booth, B.~W., Wan, K.~H., Hoskins, R.~a., Bickel,
+  P.~J., Celniker, S.~E., and Brown, J.~B. (2014).
+\newblock {Genome-guided transcript assembly by integrative analysis of RNA
+  sequence data.}
+\newblock {\em Nature biotechnology}, 32(4):341--6.
+
+\bibitem[Brennecke et~al., 2007]{Brennecke2007}
+Brennecke, J., Aravin, A.~A., Stark, A., Dus, M., Kellis, M., Sachidanandam,
+  R., and Hannon, G.~J. (2007).
+\newblock {Discrete small RNA-generating loci as master regulators of
+  transposon activity in Drosophila}.
+\newblock {\em Cell}, 128(6):1089--1103.
+
+\bibitem[Brennecke and Malone, 2008]{Brennecke2008}
+Brennecke, J. and Malone, C. (2008).
+\newblock {An Epigenetic Role for Maternally Inherited piRNAs in Transposon
+  Silencing}.
+\newblock {\em Science (New York, \ldots}, 322(November):1387--1392.
+
+\bibitem[Brenner et~al., 2000]{Brenner2000a}
+Brenner, S., Johnson, M., Bridgham, J., Golda, G., Lloyd, D.~H., Johnson, D.,
+  Luo, S., McCurdy, S., Foy, M., Ewan, M., Roth, R., George, D., Eletr, S.,
+  Albrecht, G., Vermaas, E., Williams, S.~R., Moon, K., Burcham, T., Pallas,
+  M., DuBridge, R.~B., Kirchner, J., Fearon, K., Mao, J., and Corcoran, K.
+  (2000).
+\newblock {Gene expression analysis by massively parallel signature sequencing
+  (MPSS) on microbead arrays.}
+\newblock {\em Nature biotechnology}, 18(6):630--4.
+
+\bibitem[Brown et~al., 2014]{Brown2014}
+Brown, J.~B., Boley, N., Eisman, R., May, G.~E., Stoiber, M.~H., Duff, M.~O.,
+  Booth, B.~W., Wen, J., Park, S., Suzuki, A.~M., Wan, K.~H., Yu, C., Zhang,
+  D., Carlson, J.~W., Cherbas, L., Eads, B.~D., Miller, D., Mockaitis, K.,
+  Roberts, J., Davis, C.~a., Frise, E., Hammonds, A.~S., Olson, S., Shenker,
+  S., Sturgill, D., Samsonova, A.~a., Weiszmann, R., Robinson, G., Hernandez,
+  J., Andrews, J., Bickel, P.~J., Carninci, P., Cherbas, P., Gingeras, T.~R.,
+  Hoskins, R.~a., Kaufman, T.~C., Lai, E.~C., Oliver, B., Perrimon, N.,
+  Graveley, B.~R., and Celniker, S.~E. (2014).
+\newblock {Diversity and dynamics of the Drosophila transcriptome.}
+\newblock {\em Nature}, pages 1--7.
+
+\bibitem[Brown et~al., 2012]{Brown2012}
+Brown, S.~J., Stoilov, P., and Xing, Y. (2012).
+\newblock {Chromatin and epigenetic regulation of pre-mRNA processing.}
+\newblock {\em Human molecular genetics}, 21(R1):R90--6.
+
+\bibitem[Bullard and Bowater, 2006]{Bullard2006}
+Bullard, D. and Bowater, R. (2006).
+\newblock {Direct comparison of nick-joining activity of the nucleic acid
+  ligases from bacteriophage T4}.
+\newblock {\em Biochemical Journal}, 398(Pt 1):135--144.
+
+\bibitem[Burnside et~al., 2008]{Burnside2008}
+Burnside, J., Ouyang, M., Anderson, A., Bernberg, E., Lu, C., Meyers, B.~C.,
+  Green, P.~J., Markis, M., Isaacs, G., Huang, E., and Morgan, R.~W. (2008).
+\newblock {Deep sequencing of chicken microRNAs.}
+\newblock {\em BMC genomics}, 9:185.
+
+\bibitem[Calarco et~al., 2007a]{Calarco2007}
+Calarco, J.~A., Saltzman, A.~L., Ip, J.~Y., and Blencowe, B.~J. (2007a).
+\newblock {Technologies for the global discovery and analysis of alternative
+  splicing}.
+\newblock In {\em Advances in Experimental Medicine and Biology}, volume 623,
+  pages 64--84.
+
+\bibitem[Calarco et~al., 2007b]{Calarco2007a}
+Calarco, J.~A., Xing, Y., C\'{a}ceres, M., Calarco, J.~P., Xiao, X., Pan, Q.,
+  Lee, C., Preuss, T.~M., and Blencowe, B.~J. (2007b).
+\newblock {Global analysis of alternative splicing differences between humans
+  and chimpanzees}.
+\newblock {\em Genes \& Development}, 21(22):2963--75.
+
+\bibitem[Carmell et~al., 2007]{Carmell2007}
+Carmell, M.~A., Girard, A., van~de Kant, H.~J., Bourc'his, D., Bestor, T.~H.,
+  de~Rooij, D.~G., and Hannon, G.~J. (2007).
+\newblock {MIWI2 Is Essential for Spermatogenesis and Repression of Transposons
+  in the Mouse Male Germline}.
+\newblock {\em Developmental Cell}, 12(4):503--514.
+
+\bibitem[Celotto and Graveley, 2001]{Celotto2001}
+Celotto, a.~M. and Graveley, B.~R. (2001).
+\newblock {Alternative splicing of the Drosophila Dscam pre-mRNA is both
+  temporally and spatially regulated.}
+\newblock {\em Genetics}, 159(2):599--608.
+
+\bibitem[Cenik and Zamore, 2011]{Cenik2011}
+Cenik, E.~S. and Zamore, P.~D. (2011).
+\newblock {Argonaute proteins.}
+\newblock {\em Current biology : CB}, 21(12):R446--9.
+
+\bibitem[Chang et~al., 2014a]{Chang2014b}
+Chang, H., Lim, J., Ha, M., and Kim, V.~N. (2014a).
+\newblock {TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3'
+  End Modifications.}
+\newblock {\em Molecular cell}, 53(6):1044--52.
+
+\bibitem[Chang et~al., 2014b]{Chang2014c}
+Chang, Z., Wang, Z., and Li, G. (2014b).
+\newblock {The impacts of read length and transcriptome complexity for de novo
+  assembly: a simulation study.}
+\newblock {\em PloS one}, 9(4):e94825.
+
+\bibitem[Chauhan et~al., 2004]{Chauhan2004}
+Chauhan, A.~K., Iaconcig, A., Baralle, F.~E., and Muro, A.~F. (2004).
+\newblock {Alternative splicing of fibronectin: a mouse model demonstrates the
+  identity of in vitro and in vivo systems and the processing autonomy of
+  regulated exons in adult mice}.
+\newblock {\em Gene}, 324:55--63.
+
+\bibitem[Chauleau and Shuman, 2013]{Chauleau2013b}
+Chauleau, M. and Shuman, S. (2013).
+\newblock {Kinetic mechanism of nick sealing by T4 RNA ligase 2 and effects of
+  3'-OH base mispairs and damaged base lesions.}
+\newblock {\em RNA (New York, N.Y.)}, 19(12):1840--1847.
+
+\bibitem[Chen et~al., 2009]{Chen2009a}
+Chen, C., Jin, J., James, D.~A., Adams-cioaba, M.~A., Gyoon, J., Guo, Y.,
+  Tenaglia, E., Xu, C., Gish, G., Min, J., and Pawson, T. (2009).
+\newblock {Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor
+  domain to arginine methylated Miwi}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(48):20336--20341.
+
+\bibitem[Chen et~al., 2011]{Chen2011}
+Chen, C., Nott, T.~J., Jin, J., and Pawson, T. (2011).
+\newblock {Deciphering arginine methylation: Tudor tells the tale.}
+\newblock {\em Nature reviews. Molecular cell biology}, 12(10):629--42.
+
+\bibitem[Chen et~al., 2008]{Chen2008}
+Chen, X., Xu, H., Yuan, P., Fang, F., Huss, M., Vega, V.~B., Wong, E., Orlov,
+  Y.~L., Zhang, W., Jiang, J., Loh, Y.-H., Yeo, H.~C., Yeo, Z.~X., Narang, V.,
+  Govindarajan, K.~R., Leong, B., Shahab, A., Ruan, Y., Bourque, G., Sung,
+  W.-K., Clarke, N.~D., Wei, C.-L., and Ng, H.-H. (2008).
+\newblock {Integration of external signaling pathways with the core
+  transcriptional network in embryonic stem cells.}
+\newblock {\em Cell}, 133(6):1106--17.
+
+\bibitem[Chen and Duan, 2011]{Chen2011a}
+Chen, Z. and Duan, X. (2011).
+\newblock {Ribosomal RNA depletion for massively parallel bacterial
+  RNA-sequencing applications.}
+\newblock {\em Methods in molecular biology (Clifton, N.J.)}, 733:93--103.
+
+\bibitem[Chodosh, 2001]{Chodosh2001}
+Chodosh, L.~a. (2001).
+\newblock {UV crosslinking of proteins to nucleic acids.}
+\newblock {\em Current protocols in molecular biology}, Chapter 12:Unit 12.5.
+
+\bibitem[Chow et~al., 1977]{Chow1977}
+Chow, L.~T., Gelinas, R.~E., Broker, T.~R., and Roberts, R.~J. (1977).
+\newblock {An amazing sequence arrangement at the 5' ends of adenovirus 2
+  messenger RNA.}
+\newblock {\em Cell}, 12(1):1--8.
+
+\bibitem[Chu et~al., 2012]{Chu2012}
+Chu, C., Quinn, J., and Chang, H.~Y. (2012).
+\newblock {Chromatin isolation by RNA purification (ChIRP).}
+\newblock {\em Journal of visualized experiments : JoVE}, (61).
+
+\bibitem[Chuma et~al., 2006]{Chuma2006a}
+Chuma, S., Hosokawa, M., Kitamura, K., Kasai, S., Fujioka, M., Hiyoshi, M.,
+  Takamune, K., Noce, T., and Nakatsuji, N. (2006).
+\newblock {Tdrd1/Mtr-1, a tudor-related gene, is essential for male germ-cell
+  differentiation and nuage/germinal granule formation in mice.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 103(43):15894--9.
+
+\bibitem[Consortium, 2004]{Hattori2005a}
+Consortium, I. H. G.~S. (2004).
+\newblock {Finishing the euchromatic sequence of the human genome}.
+\newblock {\em Nature}, 50(2):162--8.
+
+\bibitem[Conze et~al., 2010]{Conze2010}
+Conze, T., G\"{o}ransson, J., Razzaghian, H.~R., Ericsson, O., Oberg, D.,
+  Akusj\"{a}rvi, G., Landegren, U., and Nilsson, M. (2010).
+\newblock {Single molecule analysis of combinatorial splicing.}
+\newblock {\em Nucleic acids research}, 38(16):e163.
+
+\bibitem[Conze et~al., 2009]{Conze2009c}
+Conze, T., Shetye, A., Tanaka, Y., Gu, J., Larsson, C., G\"{o}ransson, J.,
+  Tavoosidana, G., S\"{o}derberg, O., Nilsson, M., and Landegren, U. (2009).
+\newblock {Analysis of genes, transcripts, and proteins via DNA ligation.}
+\newblock {\em Annual review of analytical chemistry (Palo Alto, Calif.)},
+  2:215--39.
+
+\bibitem[Cora et~al., 2014]{Cora2014}
+Cora, E., Pandey, R.~R., Xiol, J., Taylor, J., Sachidanandam, R., Mccarthy,
+  A.~A., and Pillai, R.~S. (2014).
+\newblock {The MID-PIWI module of Piwi proteins specifies nucleotide- and
+  strand-biases of piRNAs}.
+\newblock {\em RNA}, 2014.
+
+\bibitem[Core et~al., 2008]{Core2008a}
+Core, L.~J., Waterfall, J.~J., and Lis, J.~T. (2008).
+\newblock {Nascent RNA sequencing reveals widespread pausing and divergent
+  initiation at human promoters.}
+\newblock {\em Science}, 322:1845--1848.
+
+\bibitem[Cox et~al., 2000]{Cox2000}
+Cox, D.~N., Chao, A., and Lin, H. (2000).
+\newblock piwi encodes a nucleoplasmic factor whose activity modulates the
+  number and division rate of germline stem cells.
+\newblock {\em Development (Cambridge, England)}, 127(3):503--14.
+
+\bibitem[Cramer et~al., 1997]{Cramer1997}
+Cramer, P., Pesce, C.~G., Baralle, F.~E., and Kornblihtt, A.~R. (1997).
+\newblock {Functional association between promoter structure and transcript
+  alternative splicing.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 94(21):11456--60.
+
+\bibitem[Daigle and Ellenberg, 2007]{Daigle2007}
+Daigle, N. and Ellenberg, J. (2007).
+\newblock {LambdaN-GFP: an RNA reporter system for live-cell imaging.}
+\newblock {\em Nature methods}, 4(8):633--6.
+
+\bibitem[{De Fazio} et~al., 2011]{DeFazio2011}
+{De Fazio}, S., Bartonicek, N., {Di Giacomo}, M., Abreu-Goodger, C., Sankar,
+  A., Funaya, C., Antony, C., Moreira, P.~N., Enright, A.~J., and O'Carroll, D.
+  (2011).
+\newblock {The endonuclease activity of Mili fuels piRNA amplification that
+  silences LINE1 elements.}
+\newblock {\em Nature}, 480(7376):259--63.
+
+\bibitem[Deng et~al., 1996]{Deng1996}
+Deng, Q. Q.-l., Ishii, S., and Sarai, A. (1996).
+\newblock {Binding site analysis of c-Myb : screening of potential binding
+  sites by using the mutation matrix derived from systematic binding affinity
+  measurements}.
+\newblock {\em Nucleic Acids Research}, 24(4):766--774.
+
+\bibitem[Deng and Lin, 2002]{Deng2002c}
+Deng, W. and Lin, H. (2002).
+\newblock {miwi, a Murine Homolog of piwi, Encodes a Cytoplasmic Protein
+  Essential for Spermatogenesis}.
+\newblock {\em Developmental cell}, 2(6):819--830.
+
+\bibitem[Derrien et~al., 2012]{Derrien2012}
+Derrien, T., Johnson, R., Bussotti, G., Tanzer, A., Djebali, S., Tilgner, H.,
+  Guernec, G., Martin, D., Merkel, A., Knowles, D.~G., Lagarde, J., Veeravalli,
+  L., Ruan, X., Ruan, Y., Lassmann, T., Carninci, P., Brown, J.~B., Lipovich,
+  L., Gonzalez, J.~M., Thomas, M., Davis, C.~a., Shiekhattar, R., Gingeras,
+  T.~R., Hubbard, T.~J., Notredame, C., Harrow, J., and Guig\'{o}, R. (2012).
+\newblock {The GENCODE v7 catalog of human long noncoding RNAs: analysis of
+  their gene structure, evolution, and expression.}
+\newblock {\em Genome research}, 22(9):1775--89.
+
+\bibitem[{Di Giacomo} et~al., 2013]{DiGiacomo2013}
+{Di Giacomo}, M., Comazzetto, S., Saini, H., {De Fazio}, S., Carrieri, C.,
+  Morgan, M., Vasiliauskaite, L., Benes, V., Enright, A.~J., and O'Carroll, D.
+  (2013).
+\newblock {Multiple epigenetic mechanisms and the piRNA pathway enforce LINE1
+  silencing during adult spermatogenesis.}
+\newblock {\em Molecular cell}, 50(4):601--8.
+
+\bibitem[Djebali et~al., 2012]{Djebali2012}
+Djebali, S., Davis, C.~a., Merkel, A., Dobin, A., Lassmann, T., Mortazavi, A.,
+  Tanzer, A., Lagarde, J., Lin, W., Schlesinger, F., Xue, C., Marinov, G.~K.,
+  Khatun, J., Williams, B.~a., Zaleski, C., Rozowsky, J., R\"{o}der, M.,
+  Kokocinski, F., Abdelhamid, R.~F., Alioto, T., Antoshechkin, I., Baer, M.~T.,
+  Bar, N.~S., Batut, P., Bell, K., Bell, I., Chakrabortty, S., Chen, X.,
+  Chrast, J., Curado, J., Derrien, T., Drenkow, J., Dumais, E., Dumais, J.,
+  Duttagupta, R., Falconnet, E., Fastuca, M., Fejes-Toth, K., Ferreira, P.,
+  Foissac, S., Fullwood, M.~J., Gao, H., Gonzalez, D., Gordon, A., Gunawardena,
+  H., Howald, C., Jha, S., Johnson, R., Kapranov, P., King, B., Kingswood, C.,
+  Luo, O.~J., Park, E., Persaud, K., Preall, J.~B., Ribeca, P., Risk, B.,
+  Robyr, D., Sammeth, M., Schaffer, L., See, L.-H., Shahab, A., Skancke, J.,
+  Suzuki, A.~M., Takahashi, H., Tilgner, H., Trout, D., Walters, N., Wang, H.,
+  Wrobel, J., Yu, Y., Ruan, X., Hayashizaki, Y., Harrow, J., Gerstein, M.,
+  Hubbard, T., Reymond, A., Antonarakis, S.~E., Hannon, G., Giddings, M.~C.,
+  Ruan, Y., Wold, B., Carninci, P., Guig\'{o}, R., and Gingeras, T.~R. (2012).
+\newblock {Landscape of transcription in human cells.}
+\newblock {\em Nature}, 489(7414):101--8.
+
+\bibitem[Djebali et~al., 2008]{Djebali2008}
+Djebali, S., Kapranov, P., Foissac, S., Lagarde, J., Reymond, A., Ucla, C.,
+  Wyss, C., Drenkow, J., Dumais, E., Murray, R.~R., Lin, C., Szeto, D.,
+  Denoeud, F., Calvo, M., Frankish, A., Harrow, J., Makrythanasis, P., Vidal,
+  M., Salehi-Ashtiani, K., Antonarakis, S.~E., Gingeras, T.~R., and Guigo, R.
+  (2008).
+\newblock {Efficient targeted transcript discovery via array-based
+  normalization of RACE libraries}.
+\newblock {\em Nat Meth}, 5(7):629--635.
+
+\bibitem[Dong et~al., 2006]{Dong2006}
+Dong, Y., Taylor, H.~E., and Dimopoulos, G. (2006).
+\newblock {AgDscam, a hypervariable immunoglobulin domain-containing receptor
+  of the Anopheles gambiae innate immune system}.
+\newblock {\em PLoS Biology}, 4:1137--1146.
+
+\bibitem[Dunham et~al., 2012]{Dunham2012}
+Dunham, I., Kundaje, A., Aldred, S.~F., Collins, P.~J., Davis, C.~a., Doyle,
+  F., Epstein, C.~B., Frietze, S., Harrow, J., Kaul, R., Khatun, J., Lajoie,
+  B.~R., Landt, S.~G., Lee, B.-K., Pauli, F., Rosenbloom, K.~R., Sabo, P.,
+  Safi, A., Sanyal, A., Shoresh, N., Simon, J.~M., Song, L., Trinklein, N.~D.,
+  Altshuler, R.~C., Birney, E., Brown, J.~B., Cheng, C., Djebali, S., Dong, X.,
+  Ernst, J., Furey, T.~S., Gerstein, M., Giardine, B., Greven, M., Hardison,
+  R.~C., Harris, R.~S., Herrero, J., Hoffman, M.~M., Iyer, S., Kelllis, M.,
+  Kheradpour, P., Lassman, T., Li, Q., Lin, X., Marinov, G.~K., Merkel, A.,
+  Mortazavi, A., Parker, S. C.~J., Reddy, T.~E., Rozowsky, J., Schlesinger, F.,
+  Thurman, R.~E., Wang, J., Ward, L.~D., Whitfield, T.~W., Wilder, S.~P., Wu,
+  W., Xi, H.~S., Yip, K.~Y., Zhuang, J., Bernstein, B.~E., Green, E.~D.,
+  Gunter, C., Snyder, M., Pazin, M.~J., Lowdon, R.~F., Dillon, L. a.~L., Adams,
+  L.~B., Kelly, C.~J., Zhang, J., Wexler, J.~R., Good, P.~J., Feingold, E.~a.,
+  Crawford, G.~E., Dekker, J., Elinitski, L., Farnham, P.~J., Giddings, M.~C.,
+  Gingeras, T.~R., Guig\'{o}, R., Hubbard, T.~J., Kellis, M., Kent, W.~J.,
+  Lieb, J.~D., Margulies, E.~H., Myers, R.~M., Starnatoyannopoulos, J.~a.,
+  Tennebaum, S.~a., Weng, Z., White, K.~P., Wold, B., Yu, Y., Wrobel, J., Risk,
+  B.~a., Gunawardena, H.~P., Kuiper, H.~C., Maier, C.~W., Xie, L., Chen, X.,
+  Mikkelsen, T.~S., Gillespie, S., Goren, A., Ram, O., Zhang, X., Wang, L.,
+  Issner, R., Coyne, M.~J., Durham, T., Ku, M., Truong, T., Eaton, M.~L.,
+  Dobin, A., Lassmann, T., Tanzer, A., Lagarde, J., Lin, W., Xue, C., Williams,
+  B.~a., Zaleski, C., R\"{o}der, M., Kokocinski, F., Abdelhamid, R.~F., Alioto,
+  T., Antoshechkin, I., Baer, M.~T., Batut, P., Bell, I., Bell, K.,
+  Chakrabortty, S., Chrast, J., Curado, J., Derrien, T., Drenkow, J., Dumais,
+  E., Dumais, J., Duttagupta, R., Fastuca, M., Fejes-Toth, K., Ferreira, P.,
+  Foissac, S., Fullwood, M.~J., Gao, H., Gonzalez, D., Gordon, A., Howald, C.,
+  Jha, S., Johnson, R., Kapranov, P., King, B., Kingswood, C., Li, G., Luo,
+  O.~J., Park, E., Preall, J.~B., Presaud, K., Ribeca, P., Robyr, D., Ruan, X.,
+  Sammeth, M., Sandu, K.~S., Schaeffer, L., See, L.-H., Shahab, A., Skancke,
+  J., Suzuki, A.~M., Takahashi, H., Tilgner, H., Trout, D., Walters, N., Wang,
+  H., Hayashizaki, Y., Hubbard, T.~J., Reymond, A., Antonarakis, S.~E., Hannon,
+  G.~J., Ruan, Y., Carninci, P., Sloan, C.~a., Learned, K., Malladi, V.~S.,
+  Wong, M.~C., Barber, G.~P., Cline, M.~S., Dreszer, T.~R., Heitner, S.~G.,
+  Karolchik, D., Kirkup, V.~M., Meyer, L.~R., Long, J.~C., Maddren, M., Raney,
+  B.~J., Grasfeder, L.~L., Giresi, P.~G., Lee, B.-K., Battenhouse, A.,
+  Sheffield, N.~C., Showers, K.~a., London, D., Bhinge, A.~a., Shestak, C.,
+  Schaner, M.~R., Kim, S.~K., Zhang, Z.~Z., Mieczkowski, P.~a., Mieczkowska,
+  J.~O., Liu, Z., McDaniell, R.~M., Ni, Y., Rashid, N.~U., Kim, M.~J., Adar,
+  S., Zhang, Z., Wang, T., Winter, D., Keefe, D., Iyer, V.~R., Sandhu, K.~S.,
+  Zheng, M., Wang, P., Gertz, J., Vielmetter, J., Partridge, E.~C., Varley,
+  K.~E., Gasper, C., Bansal, A., Pepke, S., Jain, P., Amrhein, H., Bowling,
+  K.~M., Anaya, M., Cross, M.~K., Muratet, M.~a., Newberry, K.~M., McCue, K.,
+  Nesmith, A.~S., Fisher-Aylor, K.~I., Pusey, B., DeSalvo, G., Parker, S.~L.,
+  Balasubramanian, S., Davis, N.~S., Meadows, S.~K., Eggleston, T., Newberry,
+  J.~S., Levy, S.~E., Absher, D.~M., Wong, W.~H., Blow, M.~J., Visel, A.,
+  Pennachio, L.~a., Elnitski, L., Petrykowska, H.~M., Abyzov, A., Aken, B.,
+  Barrell, D., Barson, G., Berry, A., Bignell, A., Boychenko, V., Bussotti, G.,
+  Davidson, C., Despacio-Reyes, G., Diekhans, M., Ezkurdia, I., Frankish, A.,
+  Gilbert, J., Gonzalez, J.~M., Griffiths, E., Harte, R., Hendrix, D.~a., Hunt,
+  T., Jungreis, I., Kay, M., Khurana, E., Leng, J., Lin, M.~F., Loveland, J.,
+  Lu, Z., Manthravadi, D., Mariotti, M., Mudge, J., Mukherjee, G., Notredame,
+  C., Pei, B., Rodriguez, J.~M., Saunders, G., Sboner, A., Searle, S., Sisu,
+  C., Snow, C., Steward, C., Tapanari, E., Tress, M.~L., van Baren, M.~J.,
+  Washieti, S., Wilming, L., Zadissa, A., Zhengdong, Z., Brent, M., Haussler,
+  D., Valencia, A., Raymond, A., Addleman, N., Alexander, R.~P., Auerbach,
+  R.~K., Balasubramanian, S., Bettinger, K., Bhardwaj, N., Boyle, A.~P., Cao,
+  A.~R., Cayting, P., Charos, A., Cheng, Y., Eastman, C., Euskirchen, G.,
+  Fleming, J.~D., Grubert, F., Habegger, L., Hariharan, M., Harmanci, A.,
+  Iyenger, S., Jin, V.~X., Karczewski, K.~J., Kasowski, M., Lacroute, P., Lam,
+  H., Larnarre-Vincent, N., Lian, J., Lindahl-Allen, M., Min, R., Miotto, B.,
+  Monahan, H., Moqtaderi, Z., Mu, X.~J., O'Geen, H., Ouyang, Z., Patacsil, D.,
+  Raha, D., Ramirez, L., Reed, B., Shi, M., Slifer, T., Witt, H., Wu, L., Xu,
+  X., Yan, K.-K., Yang, X., Zhang, Z., Struhl, K., Weissman, S.~M., Tenebaum,
+  S.~a., Penalva, L.~O., Karmakar, S., Bhanvadia, R.~R., Choudhury, A.,
+  Domanus, M., Ma, L., Moran, J., Victorsen, A., Auer, T., Centarin, L.,
+  Eichenlaub, M., Gruhl, F., Heerman, S., Hoeckendorf, B., Inoue, D., Kellner,
+  T., Kirchmaier, S., Mueller, C., Reinhardt, R., Schertel, L., Schneider, S.,
+  Sinn, R., Wittbrodt, B., Wittbrodt, J., Jain, G., Balasundaram, G., Bates,
+  D.~L., Byron, R., Canfield, T.~K., Diegel, M.~J., Dunn, D., Ebersol, A.~K.,
+  Frum, T., Garg, K., Gist, E., Hansen, R.~S., Boatman, L., Haugen, E.,
+  Humbert, R., Johnson, A.~K., Johnson, E.~M., Kutyavin, T.~M., Lee, K.,
+  Lotakis, D., Maurano, M.~T., Neph, S.~J., Neri, F.~V., Nguyen, E.~D., Qu, H.,
+  Reynolds, A.~P., Roach, V., Rynes, E., Sanchez, M.~E., Sandstrom, R.~S.,
+  Shafer, A.~O., Stergachis, A.~B., Thomas, S., Vernot, B., Vierstra, J., Vong,
+  S., Wang, H., Weaver, M.~a., Yan, Y., Zhang, M., Akey, J.~a., Bender, M.,
+  Dorschner, M.~O., Groudine, M., MacCoss, M.~J., Navas, P.,
+  Stamatoyannopoulos, G., Stamatoyannopoulos, J.~a., Beal, K., Brazma, A.,
+  Flicek, P., Johnson, N., Lukk, M., Luscombe, N.~M., Sobral, D., Vaquerizas,
+  J.~M., Batzoglou, S., Sidow, A., Hussami, N., Kyriazopoulou-Panagiotopoulou,
+  S., Libbrecht, M.~W., Schaub, M.~a., Miller, W., Bickel, P.~J., Banfai, B.,
+  Boley, N.~P., Huang, H., Li, J.~J., Noble, W.~S., Bilmes, J.~a., Buske,
+  O.~J., Sahu, A.~O., Kharchenko, P.~V., Park, P.~J., Baker, D., Taylor, J.,
+  and Lochovsky, L. (2012).
+\newblock {An integrated encyclopedia of DNA elements in the human genome.}
+\newblock {\em Nature}, 489(7414):57--74.
+
+\bibitem[Emerick et~al., 2007]{Emerick2007}
+Emerick, M., Parmigiani, G., and Agnew, W. (2007).
+\newblock {Multivariate Analysis and Visualization of Splicing Correlations in
+  Single-Gene Transcriptomes}.
+\newblock {\em BMC Bioinformatics}, 8(1):16.
+
+\bibitem[Engreitz et~al., 2013]{Engreitz2013}
+Engreitz, J.~M., Pandya-Jones, A., McDonel, P., Shishkin, A., Sirokman, K.,
+  Surka, C., Kadri, S., Xing, J., Goren, A., Lander, E.~S., Plath, K., and
+  Guttman, M. (2013).
+\newblock {The Xist lncRNA exploits three-dimensional genome architecture to
+  spread across the X chromosome.}
+\newblock {\em Science (New York, N.Y.)}, 341(6147):1237973.
+
+\bibitem[Engstr\"{o}m et~al., 2013]{Engstrom2013}
+Engstr\"{o}m, P.~G., Steijger, T., Sipos, B., Grant, G.~R., Kahles, A., Alioto,
+  T., Behr, J., Bertone, P., Bohnert, R., Campagna, D., Davis, C.~A., Dobin,
+  A., Gingeras, T.~R., Goldman, N., Guig\'{o}, R., Harrow, J., Hubbard, T.~J.,
+  Jean, G., Kosarev, P., Li, S., Liu, J., Mason, C.~E., Molodtsov, V., Ning,
+  Z., Ponstingl, H., Prins, J.~F., R\"{a}tsch, G., Ribeca, P., Seledtsov, I.,
+  Solovyev, V., Valle, G., Vitulo, N., Wang, K., Wu, T.~D., and Zeller, G.
+  (2013).
+\newblock {Systematic evaluation of spliced alignment programs for RNA-seq
+  data.}
+\newblock {\em Nature methods}, 10(12):1185--91.
+
+\bibitem[Fagnani et~al., 2007]{Fagnani2007}
+Fagnani, M., Barash, Y., Ip, J.~Y., Misquitta, C., Pan, Q., Saltzman, A.~L.,
+  Shai, O., Lee, L., Rozenhek, A., Mohammad, N., Willaime-Morawek, S., Babak,
+  T., Zhang, W., Hughes, T.~R., van~der Kooy, D., Frey, B.~J., and Blencowe,
+  B.~J. (2007).
+\newblock {Functional coordination of alternative splicing in the mammalian
+  central nervous system.}
+\newblock {\em Genome biology}, 8(6):R108.
+
+\bibitem[Farazi et~al., 2008]{Farazi2008}
+Farazi, T.~a., Juranek, S.~a., and Tuschl, T. (2008).
+\newblock {The growing catalog of small RNAs and their association with
+  distinct Argonaute/Piwi family members.}
+\newblock {\em Development (Cambridge, England)}, 135(7):1201--14.
+
+\bibitem[Fareed et~al., 1971]{Fareed1971}
+Fareed, G.~C., Wilt, E.~M., and Richardson, C.~C. (1971).
+\newblock {Enzymatic Breakage and Joining of Deoxyribonucleic Acid}.
+\newblock {\em Journal of Biological Chemistry}, 246:925--932.
+
+\bibitem[Fededa et~al., 2005]{Fededa2005}
+Fededa, J.~P., Petrillo, E., Gelfand, M.~S., Neverov, A.~D., Kadener, S.,
+  Nogu\'{e}s, G., Pelisch, F., Baralle, F.~E., Muro, A.~F., and Kornblihtt,
+  A.~R. (2005).
+\newblock {A polar mechanism coordinates different regions of alternative
+  splicing within a single gene.}
+\newblock {\em Molecular cell}, 19(3):393--404.
+
+\bibitem[Fire et~al., 1998]{Fire1998}
+Fire, A., Xu, S., Montgomery, M.~K., Kostas, S.~A., Driver, S.~E., and Mello,
+  C.~C. (1998).
+\newblock {Potent and specific genetic interference by double-stranded RNA in
+  Caenorhabditis elegans.}
+\newblock {\em Nature}, 391:806--811.
+
+\bibitem[Fodor and Aldrich, 2009]{Fodor2009a}
+Fodor, A.~a. and Aldrich, R.~W. (2009).
+\newblock {Convergent evolution of alternative splices at domain boundaries of
+  the BK channel.}
+\newblock {\em Annual review of physiology}, 71:19--36.
+
+\bibitem[Furuichi et~al., 1975]{Furuichi1975}
+Furuichi, Y., Muthukrishnan, S., and Shatkin, A.~J. (1975).
+\newblock {5'-Terminal m-7G(5')ppp(5')G-m-p in vivo: identification in reovirus
+  genome RNA.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 72(2):742--5.
+
+\bibitem[Gan et~al., 2011]{Gan2011}
+Gan, H., Lin, X., Zhang, Z., Zhang, W., Liao, S., Wang, L., and Han, C. (2011).
+\newblock {piRNA profiling during specific stages of mouse spermatogenesis.}
+\newblock {\em RNA (New York, N.Y.)}, 17(7):1191--203.
+
+\bibitem[Gan et~al., 2013]{Gan2013}
+Gan, H., Wen, L., Liao, S., Lin, X., Ma, T., Liu, J., Song, C.-X., Wang, M.,
+  He, C., Han, C., and Tang, F. (2013).
+\newblock {Dynamics of 5-hydroxymethylcytosine during mouse spermatogenesis.}
+\newblock {\em Nature communications}, 4:1995.
+
+\bibitem[Garber et~al., 2011]{Garber2011a}
+Garber, M., Grabherr, M.~G., Guttman, M., and Trapnell, C. (2011).
+\newblock {Computational methods for transcriptome annotation and
+  quantification using RNA-seq.}
+\newblock {\em Nature Methods}, 8(6):469--477.
+
+\bibitem[Ghildiyal et~al., 2008]{Ghildiyal2008}
+Ghildiyal, M., Seitz, H., Horwich, M.~D., Li, C., Du, T., Lee, S., Xu, J.,
+  Kittler, E. L.~W., Zapp, M.~L., Weng, Z., and Zamore, P.~D. (2008).
+\newblock {Endogenous siRNAs Derived from Transposons and mRNAs in Drosophila
+  Somatic Cells}.
+\newblock {\em Science}, 320(5879):1077--1081.
+
+\bibitem[Ghosh and Jacobson, 2010]{Ghosh2010a}
+Ghosh, S. and Jacobson, A. (2010).
+\newblock {RNA decay modulates gene expression and controls its fidelity.}
+\newblock {\em WIREs RNA}, 1:351--361.
+
+\bibitem[Gilbert, 1978]{Gilbert1978a}
+Gilbert, W. (1978).
+\newblock {Why genes in pieces?}
+\newblock {\em Nature}, 271(5645):501.
+
+\bibitem[Girard et~al., 2006]{Girard2006}
+Girard, A., Sachidanandam, R., Hannon, G.~J., and Carmell, M.~A. (2006).
+\newblock {A germline-specific class of small RNAs binds mammalian Piwi
+  proteins}.
+\newblock {\em Nature}, 442(7099):199--202.
+
+\bibitem[Glauser et~al., 2011]{Glauser2011}
+Glauser, D.~A., Johnson, B.~E., Aldrich, R.~W., and Goodman, M.~B. (2011).
+\newblock {Intragenic alternative splicing coordination is essential for
+  Caenorhabditis elegans slo-1 gene function.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(51):20790--5.
+
+\bibitem[Goriaux et~al., 2014]{Goriaux2014}
+Goriaux, C., Desset, S., Renaud, Y., Vaury, C., and Brasset, E. (2014).
+\newblock {Transcriptional properties and splicing of the flamenco piRNA
+  cluster.}
+\newblock {\em EMBO reports}, 15(4):411--8.
+
+\bibitem[Grabherr et~al., 2011]{Grabherr2011}
+Grabherr, M.~G., Haas, B.~J., Yassour, M., Levin, J.~Z., Thompson, D.~A., Amit,
+  I., Adiconis, X., Fan, L., Raychowdhury, R., Zeng, Q., Chen, Z., Mauceli, E.,
+  Hacohen, N., Gnirke, A., Rhind, N., di~Palma, F., Birren, B.~W., Nusbaum, C.,
+  Lindblad-Toh, K., Friedman, N., and Regev, A. (2011).
+\newblock {Full-length transcriptome assembly from RNA-Seq data without a
+  reference genome}.
+\newblock {\em Nature Biotechnology}, 29(7):644--652.
+
+\bibitem[Grant et~al., 2011]{Grant2011}
+Grant, C.~E., Bailey, T.~L., and Noble, W.~S. (2011).
+\newblock {FIMO: scanning for occurrences of a given motif.}
+\newblock {\em Bioinformatics (Oxford, England)}, 27(7):1017--8.
+
+\bibitem[Graur et~al., 2013]{Graur2013}
+Graur, D., Zheng, Y., Price, N., Azevedo, R. B.~R., Zufall, R.~a., and Elhaik,
+  E. (2013).
+\newblock {On the immortality of television sets: "function" in the human
+  genome according to the evolution-free gospel of ENCODE.}
+\newblock {\em Genome biology and evolution}, 5(3):578--590.
+
+\bibitem[Graveley, 2000]{Graveley2000}
+Graveley, B.~R. (2000).
+\newblock {Sorting out the complexity of SR protein functions}.
+\newblock {\em RNA (New York, N.Y.)}, 6(9):1197--211.
+
+\bibitem[Graveley, 2005]{Graveley2005b}
+Graveley, B.~R. (2005).
+\newblock {Mutually exclusive splicing of the insect Dscam pre-mRNA directed by
+  competing intronic RNA secondary structures}.
+\newblock {\em Cell}, 123(1):65--73.
+
+\bibitem[Gregersen et~al., 2014]{Gregersen2014}
+Gregersen, L.~H., Schueler, M., Munschauer, M., Mastrobuoni, G., Chen, W.,
+  Kempa, S., Dieterich, C., and Landthaler, M. (2014).
+\newblock {MOV10 Is a 5' to 3' RNA Helicase Contributing to UPF1 mRNA Target
+  Degradation by Translocation along 3' UTRs.}
+\newblock {\em Molecular cell}, pages 1--13.
+
+\bibitem[Grivna et~al., 2006]{Grivna2006}
+Grivna, S.~T., Beyret, E., Wang, Z., and Lin, H. (2006).
+\newblock {A novel class of small RNAs in mouse spermatogenic cells.}
+\newblock {\em Genes \& development}, 20(13):1709--14.
+
+\bibitem[Gu et~al., 2012]{Gu2012}
+Gu, W., Lee, H.-C., Chaves, D., Youngman, E.~M., Pazour, G.~J., Conte, D., and
+  Mello, C.~C. (2012).
+\newblock {CapSeq and CIP-TAP identify Pol II start sites and reveal capped
+  small RNAs as C. elegans piRNA precursors.}
+\newblock {\em Cell}, 151(7):1488--500.
+
+\bibitem[Guenther et~al., 2007]{Guenther2007}
+Guenther, M.~G., Levine, S.~S., Boyer, L.~A., Jaenisch, R., and Young, R.~A.
+  (2007).
+\newblock {A chromatin landmark and transcription initiation at most promoters
+  in human cells.}
+\newblock {\em Cell}, 130:77--88.
+
+\bibitem[Gunawardane et~al., 2007]{Gunawardane2007}
+Gunawardane, L.~S., Saito, K., Nishida, K.~M., Miyoshi, K., Kawamura, Y.,
+  Nagami, T., Siomi, H., and Siomi, M.~C. (2007).
+\newblock {A slicer-mediated mechanism for repeat-associated siRNA 5' end
+  formation in Drosophila.}
+\newblock {\em Science (New York, N.Y.)}, 315(5818):1587--90.
+
+\bibitem[Gupta et~al., 2007]{Gupta2007}
+Gupta, S., Stamatoyannopoulos, J.~a., Bailey, T.~L., and Noble, W.~S. (2007).
+\newblock {Quantifying similarity between motifs.}
+\newblock {\em Genome biology}, 8(2):R24.
+
+\bibitem[Guttman et~al., 2009]{Guttman2009}
+Guttman, M., Amit, I., Garber, M., French, C., Lin, M.~F., Feldser, D., Huarte,
+  M., Zuk, O., Carey, B.~W., Cassady, J.~P., Cabili, M.~N., Jaenisch, R.,
+  Mikkelsen, T.~S., Jacks, T., Hacohen, N., Bernstein, B.~E., Kellis, M.,
+  Regev, A., Rinn, J.~L., and Lander, E.~S. (2009).
+\newblock {Chromatin signature reveals over a thousand highly conserved large
+  non-coding RNAs in mammals}.
+\newblock {\em Nature}, 458(7235):223--227.
+
+\bibitem[Guttman et~al., 2010]{Guttman2010}
+Guttman, M., Garber, M., Levin, J.~Z., Donaghey, J., Robinson, J., Adiconis,
+  X., Fan, L., Koziol, M.~J., Gnirke, A., Nusbaum, C., Rinn, J.~L., Lander,
+  E.~S., and Regev, A. (2010).
+\newblock {Ab initio reconstruction of cell type-specific transcriptomes in
+  mouse reveals the conserved multi-exonic structure of lincRNAs}.
+\newblock {\em Nature Biotechnology}, 28(5):503--510.
+
+\bibitem[Guttman et~al., 2013]{Guttman2013}
+Guttman, M., Russell, P., Ingolia, N.~T., Weissman, J.~S., and Lander, E.~S.
+  (2013).
+\newblock {Ribosome Profiling Provides Evidence that Large Noncoding RNAs Do
+  Not Encode Proteins}.
+\newblock {\em Cell}, 154(1):1--12.
+
+\bibitem[Haas et~al., 2013]{Haas2013c}
+Haas, B.~J., Papanicolaou, A., Yassour, M., Grabherr, M., Blood, P.~D., Bowden,
+  J., Couger, M.~B., Eccles, D., Li, B., Lieber, M., Macmanes, M.~D., Ott, M.,
+  Orvis, J., Pochet, N., Strozzi, F., Weeks, N., Westerman, R., William, T.,
+  Dewey, C.~N., Henschel, R., LeDuc, R.~D., Friedman, N., and Regev, A. (2013).
+\newblock {De novo transcript sequence reconstruction from RNA-seq using the
+  Trinity platform for reference generation and analysis}.
+\newblock {\em Nature Protocols}, 8(8):1494--1512.
+
+\bibitem[Haase et~al., 2010]{Haase2010}
+Haase, A.~D., Fenoglio, S., Muerdter, F., Guzzardo, P.~M., Czech, B., Pappin,
+  D.~J., Chen, C., Gordon, A., and Hannon, G.~J. (2010).
+\newblock {Probing the initiation and effector phases of the somatic piRNA
+  pathway in Drosophila.}
+\newblock {\em Genes \& development}, 24(22):2499--504.
+
+\bibitem[Hafner et~al., 2008]{Hafner2008a}
+Hafner, M., Landgraf, P., Ludwig, J., Rice, A., Ojo, T., Lin, C., Holoch, D.,
+  Lim, C., and Tuschl, T. (2008).
+\newblock {Identification of microRNAs and other small regulatory RNAs using
+  cDNA library sequencing.}
+\newblock {\em Methods (San Diego, Calif.)}, 44(1):3--12.
+
+\bibitem[Hafner et~al., 2010]{Hafner2010}
+Hafner, M., Landthaler, M., Burger, L., Khorshid, M., Hausser, J., Berninger,
+  P., Rothballer, A., {Ascano Jr.}, M., Jungkamp, A.-C., Munschauer, M.,
+  Ulrich, A., Wardle, G.~S., Dewell, S., Zavolan, M., and Tuschl, T. (2010).
+\newblock {Transcriptome-wide Identification of RNA-Binding Protein and
+  MicroRNA Target Sites by PAR-CLIP}.
+\newblock {\em Cell}, 141(1):129--141.
+
+\bibitem[Handler et~al., 2011]{Handler2011}
+Handler, D., Olivieri, D., Novatchkova, M., Gruber, F.~S., Meixner, K.,
+  Mechtler, K., Stark, A., Sachidanandam, R., and Brennecke, J. (2011).
+\newblock {A systematic analysis of Drosophila TUDOR domain-containing proteins
+  identifies Vreteno and the Tdrd12 family as essential primary piRNA pathway
+  factors.}
+\newblock {\em The EMBO journal}, 30(19):3977--93.
+
+\bibitem[Hartig et~al., 2007]{Hartig2007}
+Hartig, J.~V., Tomari, Y., and F\"{o}rstemann, K. (2007).
+\newblock {piRNAs--the ancient hunters of genome invaders.}
+\newblock {\em Genes \& development}, 21(14):1707--13.
+
+\bibitem[Hattori et~al., 2009]{Hattori2009}
+Hattori, D., Chen, Y., Matthews, B.~J., Salwinski, L., Sabatti, C., Grueber,
+  W.~B., and Zipursky, S.~L. (2009).
+\newblock {Robust discrimination between self and non-self neurites requires
+  thousands of Dscam1 isoforms}.
+\newblock {\em Nature}, 461(7264):644--648.
+
+\bibitem[Hattori et~al., 2007]{Hattori2007}
+Hattori, D., Demir, E., Kim, H.~W., Viragh, E., Zipursky, S.~L., and Dickson,
+  B.~J. (2007).
+\newblock {Dscam diversity is essential for neuronal wiring and
+  self-recognition}.
+\newblock {\em Nature}, 449(7159):223--227.
+
+\bibitem[Hattori et~al., 2008]{Hattori2008}
+Hattori, D., Millard, S.~S., Wojtowicz, W.~M., and Zipursky, S.~L. (2008).
+\newblock {Dscam-Mediated Cell Recognition Regulates Neural Circuit Formation}.
+\newblock {\em Annual Review of Cell and Developmental Biology},
+  24(1):597--620.
+
+\bibitem[Hayden, 2014]{Hayden2014}
+Hayden, E.~C. (2014).
+\newblock {Technology: The \$1,000 genome.}
+\newblock {\em Nature}, 507(7492):294--5.
+
+\bibitem[Helwak and Tollervey, 2014]{Helwak2014}
+Helwak, A. and Tollervey, D. (2014).
+\newblock {Mapping the miRNA interactome by cross-linking ligation and
+  sequencing of hybrids (CLASH).}
+\newblock {\em Nature protocols}, 9(3):711--28.
+
+\bibitem[Hemani and Soller, 2012]{Hemani2012}
+Hemani, Y. and Soller, M. (2012).
+\newblock {Mechanisms of Drosophila Dscam mutually exclusive splicing
+  regulation.}
+\newblock {\em Biochemical Society transactions}, 40(4):804--9.
+
+\bibitem[Hirose et~al., 2014]{Hirose2014}
+Hirose, T., Mishima, Y., and Tomari, Y. (2014).
+\newblock {Elements and machinery of non-coding RNAs: toward their taxonomy.}
+\newblock {\em EMBO reports}, pages 1--19.
+
+\bibitem[Ho et~al., 1997]{Ho1997b}
+Ho, C.~K., Etten, J. L.~V., and Shuman, S. (1997).
+\newblock {Characterization of an ATP-dependent DNA ligase encoded by Chlorella
+  virus PBCV-1}.
+\newblock {\em Journal of virology}, 71(3).
+
+\bibitem[Ho and Shuman, 2002]{Ho2002b}
+Ho, C.~K. and Shuman, S. (2002).
+\newblock {Bacteriophage T4 RNA ligase 2 (gp24.1) exemplifies a family of RNA
+  ligases found in all phylogenetic domains}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  99(20):12709--12714.
+
+\bibitem[Ho et~al., 2004]{Ho2004}
+Ho, C.~K., Wang, L.~K., Lima, C.~D., and Shuman, S. (2004).
+\newblock {Structure and mechanism of RNA ligase}.
+\newblock {\em Structure (London, England: 1993)}, 12(2):327--339.
+
+\bibitem[Hoeffer et~al., 2003]{Hoeffer2003}
+Hoeffer, C.~A., Sanyal, S., and Ramaswami, M. (2003).
+\newblock {Acute induction of conserved synaptic signaling pathways in
+  Drosophila melanogaster.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 23:6362--6372.
+
+\bibitem[Horvath et~al., 2009]{Horvath2009}
+Horvath, G.~C., Kistler, M.~K., and Kistler, W.~S. (2009).
+\newblock {RFX2 is a candidate downstream amplifier of A-MYB regulation in
+  mouse spermatogenesis.}
+\newblock {\em BMC developmental biology}, 9(1):63.
+
+\bibitem[Horwich et~al., 2007]{Horwich2007}
+Horwich, M.~D., Li, C., Matranga, C., Vagin, V., Farley, G., Wang, P., and
+  Zamore, P.~D. (2007).
+\newblock {The Drosophila RNA methyltransferase, DmHen1, modifies germline
+  piRNAs and single-stranded siRNAs in RISC.}
+\newblock {\em Current biology : CB}, 17(14):1265--72.
+
+\bibitem[Hosokawa et~al., 2007]{Hosokawa2007}
+Hosokawa, M., Shoji, M., Kitamura, K., Tanaka, T., Noce, T., Chuma, S., and
+  Nakatsuji, N. (2007).
+\newblock {Tudor-related proteins TDRD1/MTR-1, TDRD6 and TDRD7/TRAP: domain
+  composition, intracellular localization, and function in male germ cells in
+  mice.}
+\newblock {\em Developmental biology}, 301(1):38--52.
+
+\bibitem[House and Lynch, 2008]{House2008}
+House, A.~E. and Lynch, K.~W. (2008).
+\newblock {Regulation of alternative splicing: more than just the ABCs}.
+\newblock {\em The Journal of Biological Chemistry}, 283(3):1217--21.
+
+\bibitem[Houseley and Tollervey, 2010]{Houseley2010a}
+Houseley, J. and Tollervey, D. (2010).
+\newblock {Apparent non-canonical trans-splicing is generated by reverse
+  transcriptase in vitro.}
+\newblock {\em PloS one}, 5(8):e12271.
+
+\bibitem[Houwing et~al., 2007]{Houwing2007}
+Houwing, S., Kamminga, L.~M., Berezikov, E., Cronembold, D., Girard, A.,
+  van~den Elst, H., Filippov, D.~V., Blaser, H., Raz, E., Moens, C.~B.,
+  Plasterk, R.~H., Hannon, G.~J., Draper, B.~W., and Ketting, R.~F. (2007).
+\newblock {A Role for Piwi and piRNAs in Germ Cell Maintenance and Transposon
+  Silencing in Zebrafish}.
+\newblock {\em Cell}, 129(1):69--82.
+
+\bibitem[Huang et~al., 2011]{Huang2011}
+Huang, H., Gao, Q., Peng, X., Choi, S.-Y., Sarma, K., Ren, H., Morris, A.~J.,
+  and Frohman, M.~a. (2011).
+\newblock {piRNA-associated germline nuage formation and spermatogenesis
+  require MitoPLD profusogenic mitochondrial-surface lipid signaling.}
+\newblock {\em Developmental cell}, 20(3):376--87.
+
+\bibitem[Hughes, 2006]{Hughes2006}
+Hughes, T.~A. (2006).
+\newblock {Regulation of gene expression by alternative untranslated regions}.
+\newblock {\em Trends in Genetics: TIG}, 22(3):119--22.
+
+\bibitem[Ingolia et~al., 2009]{Ingolia2009}
+Ingolia, N.~T., Ghaemmaghami, S., Newman, J. R.~S., and Weissman, J.~S. (2009).
+\newblock {Genome-wide analysis in vivo of translation with nucleotide
+  resolution using ribosome profiling.}
+\newblock {\em Science}, 324:218--223.
+
+\bibitem[Ingolia et~al., 2011]{Ingolia2011}
+Ingolia, N.~T., Lareau, L.~F., and Weissman, J.~S. (2011).
+\newblock {Ribosome profiling of mouse embryonic stem cells reveals the
+  complexity and dynamics of mammalian proteomes.}
+\newblock {\em Cell}, 147(4):789--802.
+
+\bibitem[Ipsaro et~al., 2012]{Ipsaro2012}
+Ipsaro, J.~J., Haase, A.~D., Knott, S.~R., Joshua-Tor, L., and Hannon, G.~J.
+  (2012).
+\newblock {The structural biochemistry of Zucchini implicates it as a nuclease
+  in piRNA biogenesis.}
+\newblock {\em Nature}, 491(7423):279--83.
+
+\bibitem[Jin et~al., 2003]{Jin2003}
+Jin, Y., Suzuki, H., Maegawa, S., Endo, H., Sugano, S., Hashimoto, K., Yasuda,
+  K., and Inoue, K. (2003).
+\newblock {A vertebrate RNA-binding protein Fox-1 regulates tissue-specific
+  splicing via the pentanucleotide GCAUG}.
+\newblock {\em The EMBO Journal}, 22(4):905--12.
+
+\bibitem[Johnson et~al., 2011]{Johnson2011}
+Johnson, B.~E., Glauser, D.~A., Dan-Glauser, E.~S., Halling, D.~B., Aldrich,
+  R.~W., and Goodman, M.~B. (2011).
+\newblock {Alternatively Spliced Domains Interact to Regulate BK Potassium
+  Channel Gating}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(51):20784--20789.
+
+\bibitem[Johnson et~al., 2003]{Johnson2003}
+Johnson, J.~M., Castle, J., Garrett-Engele, P., Kan, Z., Loerch, P.~M., Armour,
+  C.~D., Santos, R., Schadt, E.~E., Stoughton, R., and Shoemaker, D.~D. (2003).
+\newblock {Genome-Wide Survey of Human Alternative Pre-mRNA Splicing with Exon
+  Junction Microarrays}.
+\newblock {\em Science}, 302(5653):2141--2144.
+
+\bibitem[Jones, 1999]{Jones1999}
+Jones, R.~C. (1999).
+\newblock {To store or mature spermatozoa? The primary role of the epididymis}.
+\newblock {\em International Journal of Andrology}, 22(2):57--67.
+
+\bibitem[Judo et~al., 1998]{Judo1998}
+Judo, M.~S., Wedel, a.~B., and Wilson, C. (1998).
+\newblock {Stimulation and suppression of PCR-mediated recombination.}
+\newblock {\em Nucleic acids research}, 26(7):1819--25.
+
+\bibitem[Kawaoka et~al., 2013]{Kawaoka2012}
+Kawaoka, S., Hara, K., Shoji, K., Kobayashi, M., Shimada, T., Sugano, S.,
+  Tomari, Y., Suzuki, Y., and Katsuma, S. (2013).
+\newblock {The comprehensive epigenome map of piRNA clusters.}
+\newblock {\em Nucleic acids research}, 41(3):1581--90.
+
+\bibitem[Kawaoka et~al., 2009]{Kawaoka2009}
+Kawaoka, S., Hayashi, N., Suzuki, Y., Abe, H., Sugano, S., Tomari, Y., Shimada,
+  T., and Katsuma, S. (2009).
+\newblock {The Bombyx ovary-derived cell line endogenously expresses
+  PIWI/PIWI-interacting RNA complexes.}
+\newblock {\em RNA (New York, N.Y.)}, 15(7):1258--64.
+
+\bibitem[Kawaoka et~al., 2011]{Kawaoka2011}
+Kawaoka, S., Izumi, N., Katsuma, S., and Tomari, Y. (2011).
+\newblock {3' end formation of PIWI-interacting RNAs in vitro.}
+\newblock {\em Molecular cell}, 43(6):1015--22.
+
+\bibitem[Ke et~al., 2013]{Ke2013}
+Ke, R., Mignardi, M., Pacureanu, A., Svedlund, J., Botling, J., W\"{a}hlby, C.,
+  and Nilsson, M. (2013).
+\newblock {In situ sequencing for RNA analysis in preserved tissue and cells.}
+\newblock {\em Nature methods}, 10(July):857--60.
+
+\bibitem[Kennard, 1927]{Kennard1927}
+Kennard, E.~H. (1927).
+\newblock {Zur Quantenmechanik einfacher Bewegungstypen}.
+\newblock {\em Zeitschrift for Physik}, 44(4-5):326--352.
+
+\bibitem[Kent, 2002]{Kent2002}
+Kent, W.~J. (2002).
+\newblock {BLAT---The BLAST-Like Alignment Tool}.
+\newblock {\em Genome Research}, 12(4):656--664.
+
+\bibitem[Khalil et~al., 2009]{Khalil2009}
+Khalil, A.~M., Guttman, M., Huarte, M., Garber, M., Raj, A., {Rivea Morales},
+  D., Thomas, K., Presser, A., Bernstein, B.~E., van Oudenaarden, A., Regev,
+  A., Lander, E.~S., and Rinn, J.~L. (2009).
+\newblock {Many human large intergenic noncoding RNAs associate with
+  chromatin-modifying complexes and affect gene expression}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 106(28):11667
+  --11672.
+
+\bibitem[Kim et~al., 2009]{Kim2009}
+Kim, V.~N., Han, J., and Siomi, M.~C. (2009).
+\newblock {Biogenesis of small RNAs in animals.}
+\newblock {\em Nature reviews. Molecular cell biology}, 10(2):126--39.
+
+\bibitem[Kirino and Mourelatos, 2007]{Kirino2007}
+Kirino, Y. and Mourelatos, Z. (2007).
+\newblock {The mouse homolog of HEN1 is a potential methylase for
+  Piwi-interacting RNAs.}
+\newblock {\em RNA (New York, N.Y.)}, 13(9):1397--401.
+
+\bibitem[Klattenhoff et~al., 2009]{Klattenhoff2009}
+Klattenhoff, C., Xi, H., Li, C., Lee, S., Xu, J., Khurana, J.~S., Zhang, F.,
+  Schultz, N., Koppetsch, B.~S., Nowosielska, A., Seitz, H., Zamore, P.~D.,
+  Weng, Z., and Theurkauf, W.~E. (2009).
+\newblock {The Drosophila HP1 Homolog Rhino Is Required for Transposon
+  Silencing and piRNA Production by Dual-Strand Clusters}.
+\newblock {\em Cell}, 138(6):1137--1149.
+
+\bibitem[Kleppe et~al., 1970]{Kleppe1970b}
+Kleppe, K., {Van de Sande}, J.~H., and Khorana, H.~G. (1970).
+\newblock {Polynucleotide ligase-catalyzed joining of
+  deoxyribo-oligonucleotides on ribopolynucleotide templates and of
+  ribo-oligonucleotides on deoxyribopolynucleotide templates.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 67(1):68--73.
+
+\bibitem[Kojima et~al., 2009]{Kojima2009}
+Kojima, K., Kuramochi-Miyagawa, S., Chuma, S., Tanaka, T., Nakatsuji, N.,
+  Kimura, T., and Nakano, T. (2009).
+\newblock {Associations between PIWI proteins and TDRD1/MTR-1 are critical for
+  integrated subcellular localization in murine male germ cells.}
+\newblock {\em Genes to cells : devoted to molecular \& cellular mechanisms},
+  14(10):1155--65.
+
+\bibitem[Kolasinska-Zwierz et~al., 2009]{Kolasinska-Zwierz2009}
+Kolasinska-Zwierz, P., Down, T., Latorre, I., Liu, T., Liu, X.~S., and
+  Ahringer, J. (2009).
+\newblock {Differential chromatin marking of introns and expressed exons by
+  H3K36me3}.
+\newblock {\em Nat Genet}, 41(3):376--381.
+
+\bibitem[K\"{o}nig et~al., 2011]{Konig2011}
+K\"{o}nig, J., Zarnack, K., Luscombe, N.~M., and Ule, J. (2011).
+\newblock {Protein-RNA interactions: new genomic technologies and
+  perspectives.}
+\newblock {\em Nature reviews. Genetics}, 13(2):77--83.
+
+\bibitem[K\"{o}nig et~al., 2010]{Konig2010}
+K\"{o}nig, J., Zarnack, K., Rot, G., Curk, T., Kayikci, M., Zupan, B., Turner,
+  D.~J., Luscombe, N.~M., and Ule, J. (2010).
+\newblock {iCLIP reveals the function of hnRNP particles in splicing at
+  individual nucleotide resolution.}
+\newblock {\em Nature structural \& molecular biology}, 17(7):909--15.
+
+\bibitem[Koren et~al., 2012]{Koren2012a}
+Koren, S., Schatz, M.~C., Walenz, B.~P., Martin, J., Howard, J.~T., Ganapathy,
+  G., Wang, Z., Rasko, D.~a., McCombie, W.~R., Jarvis, E.~D., and {Adam M
+  Phillippy} (2012).
+\newblock {Hybrid error correction and de novo assembly of single-molecule
+  sequencing reads.}
+\newblock {\em Nature biotechnology}, 30(7):693--700.
+
+\bibitem[Kornblihtt et~al., 2013]{Kornblihtt2013}
+Kornblihtt, A.~R., Schor, I.~E., All\'{o}, M., Dujardin, G., Petrillo, E., and
+  Mu\~{n}oz, M.~J. (2013).
+\newblock {Alternative splicing: a pivotal step between eukaryotic
+  transcription and translation.}
+\newblock {\em Nature reviews. Molecular cell biology}, 14(3):153--65.
+
+\bibitem[Kreahling and Graveley, 2005]{Kreahling2005}
+Kreahling, J.~M. and Graveley, B.~R. (2005).
+\newblock {The iStem, a long-range RNA secondary structure element required for
+  efficient exon inclusion in the Drosophila Dscam pre-mRNA}.
+\newblock {\em Molecular and Cellular Biology}, 25(23):10251--60.
+
+\bibitem[Kruesi et~al., 2013]{Kruesi2013}
+Kruesi, W.~S., Core, L.~J., Waters, C.~T., Lis, J.~T., and Meyer, B.~J. (2013).
+\newblock {Condensin controls recruitment of RNA polymerase II to achieve
+  nematode X-chromosome dosage compensation.}
+\newblock {\em eLife}, 2(Pol II):e00808.
+
+\bibitem[Kuhn and Frank-Kamenetskii, 2005]{Kuhn2005}
+Kuhn, H. and Frank-Kamenetskii, M.~D. (2005).
+\newblock {Template-independent ligation of single-stranded DNA by T4 DNA
+  ligase.}
+\newblock {\em The FEBS journal}, 272(23):5991--6000.
+
+\bibitem[Kumar and Carmichael, 1998]{Kumar1998}
+Kumar, M. and Carmichael, G.~G. (1998).
+\newblock {Antisense RNA: function and fate of duplex RNA in cells of higher
+  eukaryotes.}
+\newblock {\em Microbiology and molecular biology reviews : MMBR},
+  62(4):1415--34.
+
+\bibitem[Kuramochi-Miyagawa et~al., 2004]{Kuramochi-Miyagawa2004}
+Kuramochi-Miyagawa, S., Kimura, T., Ijiri, T.~W., Isobe, T., Asada, N., Fujita,
+  Y., Ikawa, M., Iwai, N., Okabe, M., Deng, W., Lin, H., Matsuda, Y., and
+  Nakano, T. (2004).
+\newblock {Mili, a Mammalian Member of Piwi Family Gene, Is Essential for
+  Spermatogenesis}.
+\newblock {\em Development}, 131(4):839--849.
+
+\bibitem[Kuramochi-Miyagawa et~al., 2008]{Kuramochi2008}
+Kuramochi-Miyagawa, S., Watanabe, T., Gotoh, K., Totoki, Y., Toyoda, A., Ikawa,
+  M., Asada, N., Kojima, K., Yamaguchi, Y., Ijiri, T.~W., Hata, K., Li, E.,
+  Matsuda, Y., Kimura, T., Okabe, M., Sakaki, Y., Sasaki, H., and Nakano, T.
+  (2008).
+\newblock {DNA Methylation of Retrotransposon Genes Is Regulated by Piwi Family
+  Members MILI and MIWI2 in Murine Fetal Testes}.
+\newblock {\em Genes \& Development}, 22(7):908--917.
+
+\bibitem[Kutter et~al., 2011]{Kutter2011}
+Kutter, C., Brown, G.~D., Gon\c{c}alves, A., Wilson, M.~D., Watt, S., Brazma,
+  A., White, R.~J., and Odom, D.~T. (2011).
+\newblock {Pol III binding in six mammals shows conservation among amino acid
+  isotypes despite divergence among tRNA genes.}
+\newblock {\em Nature genetics}, 43(10):948--55.
+
+\bibitem[Ladd and Cooper, 2002]{Ladd2002}
+Ladd, A.~N. and Cooper, T.~A. (2002).
+\newblock {Finding signals that regulate alternative splicing in the
+  post-genomic era.}
+\newblock {\em Genome biology}, 3(11):reviews0008.
+
+\bibitem[Laiho et~al., 2013]{Laiho2013a}
+Laiho, A., Kotaja, N., Gyenesei, A., and Sironen, A. (2013).
+\newblock {Transcriptome profiling of the murine testis during the first wave
+  of spermatogenesis.}
+\newblock {\em PloS one}, 8(4):e61558.
+
+\bibitem[Lander, 2011]{Lander2011a}
+Lander, E.~S. (2011).
+\newblock {Initial impact of the sequencing of the human genome.}
+\newblock {\em Nature}, 470(7333):187--97.
+
+\bibitem[Langmead and Salzberg, 2012]{Langmead2012}
+Langmead, B. and Salzberg, S.~L. (2012).
+\newblock {Fast gapped-read alignment with Bowtie 2.}
+\newblock {\em Nature methods}, 9(4):357--9.
+
+\bibitem[Langmead et~al., 2009]{Langmead2009}
+Langmead, B., Trapnell, C., Pop, M., and Salzberg, S.~L. (2009).
+\newblock {Ultrafast and memory-efficient alignment of short DNA sequences to
+  the human genome}.
+\newblock {\em Genome Biology}, 10(3):R25.
+
+\bibitem[Lasko, 2013]{Lasko2013}
+Lasko, P. (2013).
+\newblock {The DEAD-box helicase Vasa: evidence for a multiplicity of functions
+  in RNA processes and developmental biology.}
+\newblock {\em Biochimica et biophysica acta}, 1829(8):810--6.
+
+\bibitem[Latham et~al., 1996]{Latham1996}
+Latham, K.~E., Litvin, J., Orth, J.~M., Patel, B., Mettus, R., and Reddy, E.~P.
+  (1996).
+\newblock {Temporal patterns of A-myb and B-myb gene expression during testis
+  development.}
+\newblock {\em Oncogene}, 13:1161--1168.
+
+\bibitem[Lau et~al., 2006]{Lau2006}
+Lau, N.~C., Seto, A.~G., Kim, J., Kuramochi-Miyagawa, S., Nakano, T., Bartel,
+  D.~P., and Kingston, R.~E. (2006).
+\newblock {Characterization of the piRNA complex from rat testes}.
+\newblock {\em Science (New York, N.Y.)}, 313(5785):363--367.
+
+\bibitem[L\'{e}cuyer et~al., 2007]{Lecuyer2007}
+L\'{e}cuyer, E., Yoshida, H., Parthasarathy, N., Alm, C., Babak, T., Cerovina,
+  T., Hughes, T.~R., Tomancak, P., and Krause, H.~M. (2007).
+\newblock {Global analysis of mRNA localization reveals a prominent role in
+  organizing cellular architecture and function.}
+\newblock {\em Cell}, 131(1):174--87.
+
+\bibitem[Lee et~al., 2010]{Lee2010b}
+Lee, C., Kim, N., Roy, M., and Graveley, B.~R. (2010).
+\newblock {Massive expansions of Dscam splicing diversity via staggered
+  homologous recombination during arthropod evolution.}
+\newblock {\em RNA (New York, N.Y.)}, 16(1):91--105.
+
+\bibitem[Lee et~al., 2012]{Lee2012}
+Lee, H.-C., Gu, W., Shirayama, M., Youngman, E., Conte, D., and Mello, C.~C.
+  (2012).
+\newblock {C. elegans piRNAs mediate the genome-wide surveillance of germline
+  transcripts.}
+\newblock {\em Cell}, 150(1):78--87.
+
+\bibitem[Lee et~al., 2014a]{Lee2014a}
+Lee, J.~H., Daugharthy, E.~R., Scheiman, J., Kalhor, R., Yang, J.~L., Ferrante,
+  T.~C., Terry, R., Jeanty, S. S.~F., Li, C., Amamoto, R., Peters, D.~T.,
+  Turczyk, B.~M., Marblestone, A.~H., Inverso, S.~A., Bernard, A., Mali, P.,
+  Rios, X., Aach, J., and Church, G.~M. (2014a).
+\newblock {Highly Multiplexed Subcellular RNA Sequencing in Situ.}
+\newblock {\em Science (New York, N.Y.)}, 309:1728--32.
+
+\bibitem[Lee et~al., 2014b]{Lee2014}
+Lee, K., Cui, Y., Lee, L.~P., and Irudayaraj, J. (2014b).
+\newblock {Quantitative imaging of single mRNA splice variants in living
+  cells.}
+\newblock {\em Nature nanotechnology}, (April):1--7.
+
+\bibitem[LeGault and Dewey, 2013]{LeGault2013}
+LeGault, L.~H. and Dewey, C.~N. (2013).
+\newblock {Inference of alternative splicing from RNA-Seq data with
+  probabilistic splice graphs.}
+\newblock {\em Bioinformatics (Oxford, England)}, 29(18):2300--10.
+
+\bibitem[Lenasi et~al., 2006]{Lenasi2006}
+Lenasi, T., Peterlin, B.~M., and Dovc, P. (2006).
+\newblock {Distal regulation of alternative splicing by splicing enhancer in
+  equine $\beta$-casein intron 1}.
+\newblock {\em RNA}, 12(3):498 --507.
+
+\bibitem[Li et~al., 2009a]{Li2009d}
+Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth,
+  G., Abecasis, G., and Durbin, R. (2009a).
+\newblock {The Sequence Alignment/Map format and SAMtools}.
+\newblock {\em Bioinformatics}, 25:2078--2079.
+
+\bibitem[Li et~al., 2012a]{Li2012c}
+Li, H., Qiu, J., and Fu, X.-D. (2012a).
+\newblock {RASL-seq for massively parallel and quantitative analysis of gene
+  expression.}
+\newblock {\em Current protocols in molecular biology / edited by Frederick M.
+  Ausubel ... [et al.]}, Chapter 4(April):Unit 4.13.1--9.
+
+\bibitem[Li et~al., 2011]{Li2011}
+Li, M., Wang, I.~X., Li, Y., Bruzel, A., Richards, A.~L., Toung, J.~M., and
+  Cheung, V.~G. (2011).
+\newblock {Widespread RNA and DNA sequence differences in the human
+  transcriptome.}
+\newblock {\em Science (New York, N.Y.)}, 333(6038):53--8.
+
+\bibitem[Li et~al., 2009b]{Li2009a}
+Li, X.~C., Barringer, B.~C., and Barbash, D.~a. (2009b).
+\newblock {The pachytene checkpoint and its relationship to evolutionary
+  patterns of polyploidization and hybrid sterility.}
+\newblock {\em Heredity}, 102(1):24--30.
+
+\bibitem[Li and Schimenti, 2007]{Li2007}
+Li, X.~C. and Schimenti, J.~C. (2007).
+\newblock {Mouse pachytene checkpoint 2 (trip13) is required for completing
+  meiotic recombination but not synapsis.}
+\newblock {\em PLoS genetics}, 3(8):e130.
+
+\bibitem[Li et~al., 2013a]{Li2013h}
+Li, X.~Z., Roy, C.~K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B.~W., Xu,
+  J., Moore, M.~J., Schimenti, J.~C., Weng, Z., and Zamore, P.~D. (2013a).
+\newblock {An ancient transcription factor initiates the burst of piRNA
+  production during early meiosis in mouse testes.}
+\newblock {\em Molecular cell}, 50(1):67--81.
+
+\bibitem[Li et~al., 2013b]{Li2013e}
+Li, X.~Z., Roy, C.~K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B.~W., Xu,
+  J., Moore, M.~J., Schimenti, J.~C., Weng, Z., and Zamore, P.~D. (2013b).
+\newblock {An Ancient Transcription Factor Initiates the Burst of piRNA
+  Production during Early Meiosis in Mouse Testes}.
+\newblock {\em Molecular Cell}, pages 1--15.
+
+\bibitem[Li et~al., 2013c]{Li2013}
+Li, X.~Z., Roy, C.~K., Moore, M.~J., and Zamore, P.~D. (2013c).
+\newblock {Defining piRNA primary transcripts.}
+\newblock {\em Cell cycle (Georgetown, Tex.)}, 12(11):1657--8.
+
+\bibitem[Li et~al., 2012b]{Li2012a}
+Li, Y., Wang, H.-Y., Wan, F.-C., Liu, F.-J., Liu, J., Zhang, N., Jin, S.-H.,
+  and Li, J.-Y. (2012b).
+\newblock {Deep sequencing analysis of small non-coding RNAs reveals the
+  diversity of microRNAs and piRNAs in the human epididymis.}
+\newblock {\em Gene}, 497(2):330--5.
+
+\bibitem[Licatalosi and Darnell, 2006]{Licatalosi2006}
+Licatalosi, D.~D. and Darnell, R.~B. (2006).
+\newblock {Splicing Regulation in Neurologic Disease}.
+\newblock {\em Neuron}, 52(1):93--101.
+
+\bibitem[Licatalosi et~al., 2008]{Licatalosi2008}
+Licatalosi, D.~D., Mele, A., Fak, J.~J., Ule, J., Kayikci, M., Chi, S.~W.,
+  Clark, T.~A., Schweitzer, A.~C., Blume, J.~E., Wang, X., Darnell, J.~C., and
+  Darnell, R.~B. (2008).
+\newblock {HITS-CLIP yields genome-wide insights into brain alternative RNA
+  processing}.
+\newblock {\em Nature}, 456(7221):464--469.
+
+\bibitem[Lim and Kai, 2007]{Lim2007}
+Lim, A.~K. and Kai, T. (2007).
+\newblock {Unique germ-line organelle, nuage, functions to repress selfish
+  genetic elements in Drosophila melanogaster.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 104(16):6714--9.
+
+\bibitem[Lister et~al., 2008]{Lister2008}
+Lister, R., O'Malley, R.~C., Tonti-Filippini, J., Gregory, B.~D., Berry, C.~C.,
+  Millar, A.~H., and Ecker, J.~R. (2008).
+\newblock {Highly integrated single-base resolution maps of the epigenome in
+  Arabidopsis.}
+\newblock {\em Cell}, 133(3):523--36.
+
+\bibitem[Liu et~al., 2014]{Liu2014}
+Liu, Y., Zhou, J., and White, K.~P. (2014).
+\newblock {RNA-seq differential expression studies: more sequence or more
+  replication?}
+\newblock {\em Bioinformatics (Oxford, England)}, 30:301--4.
+
+\bibitem[Lohman et~al., 2014]{Lohman2013c}
+Lohman, G. J.~S., Zhang, Y., Zhelkovsky, A.~M., Cantor, E.~J., and Evans, T.~C.
+  (2014).
+\newblock {Efficient DNA ligation in DNA-RNA hybrid helices by Chlorella virus
+  DNA ligase.}
+\newblock {\em Nucleic acids research}, 42(3):1831--44.
+
+\bibitem[Long and Caceres, 2009]{Long2009}
+Long, J.~C. and Caceres, J.~F. (2009).
+\newblock {The SR protein family of splicing factors: master regulators of gene
+  expression.}
+\newblock {\em The Biochemical journal}, 417(1):15--27.
+
+\bibitem[Luco et~al., 2011]{Luco2011a}
+Luco, R.~F., Allo, M., Schor, I.~E., Kornblihtt, A.~R., and Misteli, T. (2011).
+\newblock {Epigenetics in alternative pre-mRNA splicing.}
+\newblock {\em Cell}, 144(1):16--26.
+
+\bibitem[Luteijn and Ketting, 2013]{Luteijn2013}
+Luteijn, M.~J. and Ketting, R.~F. (2013).
+\newblock {PIWI-interacting RNAs: from generation to transgenerational
+  epigenetics.}
+\newblock {\em Nature reviews. Genetics}, 14(8):523--34.
+
+\bibitem[Lynch, 2004]{Lynch2004}
+Lynch, K.~W. (2004).
+\newblock {Consequences of regulated pre-mRNA splicing in the immune system}.
+\newblock {\em Nat Rev Immunol}, 4(12):931--940.
+
+\bibitem[Macilwain, 2010]{Macilwain2010}
+Macilwain, C. (2010).
+\newblock {Scientists vs engineers: this time it's financial.}
+\newblock {\em Nature}, 467(7318):885.
+
+\bibitem[Malone and Hannon, 2009]{Malone2009}
+Malone, C.~D. and Hannon, G.~J. (2009).
+\newblock {Small RNAs as guardians of the genome}.
+\newblock {\em Cell}, 136(4):656--668.
+
+\bibitem[Mangan and Alon, 2003]{Mangan2003}
+Mangan, S. and Alon, U. (2003).
+\newblock {Structure and function of the feed-forward loop network motif}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 100(21):11980
+  --11985.
+
+\bibitem[Marinov et~al., 2013]{Marinov2013}
+Marinov, G.~K., Williams, B.~a., McCue, K., Schroth, G.~P., Gertz, J., Myers,
+  R.~M., and Wold, B.~J. (2013).
+\newblock {From single-cell to cell-pool transcriptomes: stochasticity in gene
+  expression and RNA splicing.}
+\newblock {\em Genome research}, pages 496--510.
+
+\bibitem[Marioni et~al., 2008]{Marioni2008}
+Marioni, J.~C., Mason, C.~E., Mane, S.~M., Stephens, M., and Gilad, Y. (2008).
+\newblock {RNA-seq: an assessment of technical reproducibility and comparison
+  with gene expression arrays}.
+\newblock {\em Genome Research}, 18(9):1509--17.
+
+\bibitem[Martinez-Contreras et~al., 2007]{Martinez-Contreras2007}
+Martinez-Contreras, R., Cloutier, P., Shkreta, L., Fisette, J.-F., Revil, T.,
+  and Chabot, B. (2007).
+\newblock {hnRNP proteins and splicing control.}
+\newblock {\em Advances in experimental medicine and biology}, 623:123--147.
+
+\bibitem[Maxam and Gilbert, 1992]{Maxam1977a}
+Maxam, A.~M. and Gilbert, W. (1992).
+\newblock {A new method for sequencing DNA. 1977.}
+\newblock {\em Biotechnology (Reading, Mass.)}, 24(2):99--103.
+
+\bibitem[Meikar et~al., 2011]{Meikar2011}
+Meikar, O., {Da Ros}, M., Korhonen, H., and Kotaja, N. (2011).
+\newblock {Chromatoid body and small RNAs in male germ cells.}
+\newblock {\em Reproduction (Cambridge, England)}, 142(2):195--209.
+
+\bibitem[Meikar et~al., 2014]{Meikar2014}
+Meikar, O., Vagin, V.~V., Chalmel, F., S\~{o}star, K., Lardenois, A., Hammell,
+  M., Jin, Y., {Da Ros}, M., Wasik, K.~a., Toppari, J., Hannon, G.~J., and
+  Kotaja, N. (2014).
+\newblock {An atlas of chromatoid body components.}
+\newblock {\em RNA (New York, N.Y.)}, 20(4):483--95.
+
+\bibitem[Meister, 2013]{Meister2013}
+Meister, G. (2013).
+\newblock {Argonaute proteins: functional insights and emerging roles.}
+\newblock {\em Nature reviews. Genetics}, 14(7):447--59.
+
+\bibitem[Mercer et~al., 2014]{Mercer2014}
+Mercer, T.~R., Clark, M.~B., Crawford, J., Brunck, M.~E., Gerhardt, D.~J.,
+  Taft, R.~J., Nielsen, L.~K., Dinger, M.~E., and Mattick, J.~S. (2014).
+\newblock {Targeted sequencing for gene discovery and quantification using RNA
+  CaptureSeq}.
+\newblock {\em Nature Protocols}, 9(5):989--1009.
+
+\bibitem[Merkhofer et~al., 2014]{Merkhofer2014}
+Merkhofer, E.~C., Hu, P., and Johnson, T.~L. (2014).
+\newblock {Introduction to cotranscriptional RNA splicing.}
+\newblock {\em Methods in molecular biology (Clifton, N.J.)}, 1126:83--96.
+
+\bibitem[Merkin et~al., 2012]{Merkin2012}
+Merkin, J., Russell, C., Chen, P., and Burge, C.~B. (2012).
+\newblock {Evolutionary Dynamics of Gene and Isoform Regulation in Mammalian
+  Tissues}.
+\newblock {\em Science}, 338(6114):1593--1599.
+
+\bibitem[Mettus et~al., 1994]{Mettus1994}
+Mettus, R.~V., Litvin, J., Wali, A., Toscani, A., Latham, K., Hatton, K., and
+  Reddy, E.~P. (1994).
+\newblock {Murine A-myb: evidence for differential splicing and tissue-specific
+  expression.}
+\newblock {\em Oncogene}, 9(10):3077--86.
+
+\bibitem[Meyerhans et~al., 1990]{Meyerhans1990a}
+Meyerhans, A., Vartanian, J.-P., and Wain-Hobson, S. (1990).
+\newblock {DNA recombination during PCR}.
+\newblock {\em Nucleic Acids Research}, 18(7):1687--1691.
+
+\bibitem[Miller et~al., 2014]{Miller2014}
+Miller, J.~a., Ding, S.-L., Sunkin, S.~M., Smith, K.~A., Ng, L., Szafer, A.,
+  Ebbert, A., Riley, Z.~L., Royall, J.~J., Aiona, K., Arnold, J.~M., Bennet,
+  C., Bertagnolli, D., Brouner, K., Butler, S., Caldejon, S., Carey, A.,
+  Cuhaciyan, C., Dalley, R.~a., Dee, N., Dolbeare, T.~a., Facer, B. a.~C.,
+  Feng, D., Fliss, T.~P., Gee, G., Goldy, J., Gourley, L., Gregor, B.~W., Gu,
+  G., Howard, R.~E., Jochim, J.~M., Kuan, C.~L., Lau, C., Lee, C.-K., Lee, F.,
+  Lemon, T.~a., Lesnar, P., McMurray, B., Mastan, N., Mosqueda, N.,
+  Naluai-Cecchini, T., Ngo, N.-K., Nyhus, J., Oldre, A., Olson, E., Parente,
+  J., Parker, P.~D., Parry, S.~E., Stevens, A., Pletikos, M., Reding, M., Roll,
+  K., Sandman, D., Sarreal, M., Shapouri, S., Shapovalova, N.~V., Shen, E.~H.,
+  Sjoquist, N., Slaughterbeck, C.~R., Smith, M., Sodt, A.~J., Williams, D.,
+  Z\"{o}llei, L., Fischl, B., Gerstein, M.~B., Geschwind, D.~H., Glass, I.~a.,
+  Hawrylycz, M.~J., Hevner, R.~F., Huang, H., Jones, A.~R., Knowles, J.~a.,
+  Levitt, P., Phillips, J.~W., Sestan, N., Wohnoutka, P., Dang, C., Bernard,
+  A., Hohmann, J.~G., and Lein, E.~S. (2014).
+\newblock {Transcriptional landscape of the prenatal human brain.}
+\newblock {\em Nature}, 508(7495):199--206.
+
+\bibitem[Miura et~al., 2013]{Miura2013b}
+Miura, S.~K., Martins, A., Zhang, K.~X., Graveley, B.~R., and Zipursky, S.~L.
+  (2013).
+\newblock {Probabilistic splicing of Dscam1 establishes identity at the level
+  of single neurons.}
+\newblock {\em Cell}, 155(5):1166--77.
+
+\bibitem[Modrek and Lee, 2002]{Modrek2002}
+Modrek, B. and Lee, C. (2002).
+\newblock {A genomic view of alternative splicing.}
+\newblock {\em Nature genetics}, 30(1):13--9.
+
+\bibitem[Modrich et~al., 1973]{Modrich1973a}
+Modrich, P., Anraku, Y., and Lehman, I.~R. (1973).
+\newblock {Deoxyribonucleic acid ligase. Isolation and physical
+  characterization of the homogeneous enzyme from Escherichia coli.}
+\newblock {\em The Journal of biological chemistry}, 248(21):7495--501.
+
+\bibitem[Modzelewski et~al., 2012]{Modzelewski2012}
+Modzelewski, A.~J., Holmes, R.~J., Hilz, S., Grimson, A., and Cohen, P.~E.
+  (2012).
+\newblock {AGO4 regulates entry into meiosis and influences silencing of sex
+  chromosomes in the male mouse germline.}
+\newblock {\em Developmental cell}, 23(2):251--64.
+
+\bibitem[Montgomery et~al., 1998]{Montgomery1998}
+Montgomery, M.~K., Xu, S., and Fire, a. (1998).
+\newblock {RNA as a target of double-stranded RNA-mediated genetic interference
+  in Caenorhabditis elegans.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 95(26):15502--7.
+
+\bibitem[Mortazavi et~al., 2008]{Mortazavi2008}
+Mortazavi, A., Williams, B.~A., McCue, K., Schaeffer, L., and Wold, B. (2008).
+\newblock {Mapping and quantifying mammalian transcriptomes by RNA-Seq}.
+\newblock {\em Nat Meth}, 5(7):621--628.
+
+\bibitem[Mutz et~al., 2013]{Mutz2013}
+Mutz, K.-O., Heilkenbrinker, A., L\"{o}nne, M., Walter, J.-G., and Stahl, F.
+  (2013).
+\newblock {Transcriptome analysis using next-generation sequencing.}
+\newblock {\em Current opinion in biotechnology}, 24(1):22--30.
+
+\bibitem[Nagalakshmi et~al., 2008]{Nagalakshmi2008}
+Nagalakshmi, U., Wang, Z., Waern, K., Shou, C., Raha, D., Gerstein, M., and
+  Snyder, M. (2008).
+\newblock {The transcriptional landscape of the yeast genome defined by RNA
+  sequencing.}
+\newblock {\em Science (New York, N.Y.)}, 320(5881):1344--9.
+
+\bibitem[Nakano et~al., 2003]{Nakano2003a}
+Nakano, M., Komatsu, J., Matsuura, S.-i., Takashima, K., Katsura, S., and
+  Mizuno, A. (2003).
+\newblock {Single-molecule PCR using water-in-oil emulsion}.
+\newblock {\em Journal of Biotechnology}, 102(2):117--124.
+
+\bibitem[Namekawa and Lee, 2009]{Namekawa2009}
+Namekawa, S.~H. and Lee, J.~T. (2009).
+\newblock {XY and ZW: is meiotic sex chromosome inactivation the rule in
+  evolution?}
+\newblock {\em PLoS genetics}, 5(5):e1000493.
+
+\bibitem[Nandakumar et~al., 2004]{Nandakumar2004a}
+Nandakumar, J., Ho, C.~K., Lima, C.~D., and Shuman, S. (2004).
+\newblock {RNA substrate specificity and structure-guided mutational analysis
+  of bacteriophage T4 RNA ligase 2.}
+\newblock {\em The Journal of biological chemistry}, 279(30):31337--47.
+
+\bibitem[Nandakumar et~al., 2006]{Nandakumar2006}
+Nandakumar, J., Shuman, S., and Lima, C.~D. (2006).
+\newblock {RNA ligase structures reveal the basis for RNA specificity and
+  conformational changes that drive ligation forward}.
+\newblock {\em Cell}, 127(1):71--84.
+
+\bibitem[Nebel et~al., 1961]{NEBEL1961}
+Nebel, B.~R., Amarose, A.~P., and Hacket, E.~M. (1961).
+\newblock {Calendar of gametogenic development in the prepuberal male mouse.}
+\newblock {\em Science (New York, N.Y.)}, 134(3482):832--3.
+
+\bibitem[Nell\aa~ker et~al., 2012]{Nellaker2012}
+Nell\aa~ker, C., Keane, T.~M., Yalcin, B., Wong, K., Agam, A., Belgard, T.~G.,
+  Flint, J., Adams, D.~J., Frankel, W.~N., and Ponting, C.~P. (2012).
+\newblock {The genomic landscape shaped by selection on transposable elements
+  across 18 mouse strains.}
+\newblock {\em Genome biology}, 13(6):R45.
+
+\bibitem[Neves et~al., 2004]{Neves2004}
+Neves, G., Zucker, J., Daly, M., and Chess, A. (2004).
+\newblock {Stochastic yet biased expression of multiple Dscam splice variants
+  by individual cells.}
+\newblock {\em Nature genetics}, 36(3):240--6.
+
+\bibitem[Newburger and Bulyk, 2009]{Newburger2009}
+Newburger, D.~E. and Bulyk, M.~L. (2009).
+\newblock {UniPROBE: an online database of protein binding microarray data on
+  protein-DNA interactions.}
+\newblock {\em Nucleic acids research}, 37(Database issue):D77--82.
+
+\bibitem[Nilsen and Graveley, 2010]{Nilsen2010}
+Nilsen, T.~W. and Graveley, B.~R. (2010).
+\newblock {Expansion of the eukaryotic proteome by alternative splicing}.
+\newblock {\em Nature}, 463(7280):457--463.
+
+\bibitem[Nilsson et~al., 2001]{Nilsson2001}
+Nilsson, M., Antson, D.-O., Barbany, G., and Landegren, U. (2001).
+\newblock {RNA-templated DNA ligation for transcript analysis}.
+\newblock {\em Nucleic Acids Research}, 29(2):578--581.
+
+\bibitem[Nilsson et~al., 2000]{Nilsson2000}
+Nilsson, M., Barbany, G., Antson, D.~O., Gertow, K., and Landegren, U. (2000).
+\newblock {Enhanced detection and distinction of RNA by enzymatic probe
+  ligation.}
+\newblock {\em Nature biotechnology}, 18(7):791--3.
+
+\bibitem[Nishimasu et~al., 2012]{Nishimasu2012}
+Nishimasu, H., Ishizu, H., Saito, K., Fukuhara, S., Kamatani, M.~K., Bonnefond,
+  L., Matsumoto, N., Nishizawa, T., Nakanaga, K., Aoki, J., Ishitani, R.,
+  Siomi, H., Siomi, M.~C., and Nureki, O. (2012).
+\newblock {Structure and function of Zucchini endoribonuclease in piRNA
+  biogenesis.}
+\newblock {\em Nature}, 491(7423):284--7.
+
+\bibitem[North, 2006]{North2006}
+North, A.~J. (2006).
+\newblock {Seeing is believing? A beginners' guide to practical pitfalls in
+  image acquisition.}
+\newblock {\em The Journal of cell biology}, 172(1):9--18.
+
+\bibitem[Notredame et~al., 2000]{Notredame2000}
+Notredame, C., Higgins, D.~G., and Heringa, J. (2000).
+\newblock {T-Coffee: A novel method for fast and accurate multiple sequence
+  alignment.}
+\newblock {\em Journal of molecular biology}, 302(1):205--17.
+
+\bibitem[Oakberg and Oakberq, 1956]{Oakberg1956b}
+Oakberg, E. and Oakberq, F. (1956).
+\newblock {A Description of Spermiogenesis in the mouse and its use in analysis
+  of the cycle of the seminiferous epithelium and germ cell renewal}.
+\newblock {\em The American journal of anatomy}, 99(3):391--419.
+
+\bibitem[Oh and Reddy, 1999]{Oh1999}
+Oh, I.~H. and Reddy, E.~P. (1999).
+\newblock {The myb gene family in cell growth, differentiation and apoptosis.}
+\newblock {\em Oncogene}, 18(19):3017--33.
+
+\bibitem[Ohara et~al., 2007]{Ohara2007}
+Ohara, T., Sakaguchi, Y., Suzuki, T., Ueda, H., Miyauchi, K., and Suzuki, T.
+  (2007).
+\newblock {The 3' termini of mouse Piwi-interacting RNAs are 2'-O-methylated.}
+\newblock {\em Nature structural \& molecular biology}, 14(4):349--50.
+
+\bibitem[Olivera and Lehman, 1967]{Olivera1967b}
+Olivera, B.~M. and Lehman, I.~R. (1967).
+\newblock {Linkage of polynucleotides through phosphodiester bonds by an enzyme
+  from Escherichia coli.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 57(5):1426--33.
+
+\bibitem[Olson et~al., 2007]{Olson2007}
+Olson, S., Blanchette, M., Park, J., Savva, Y., Yeo, G.~W., Yeakley, J.~M.,
+  Rio, D.~C., and Graveley, B.~R. (2007).
+\newblock {A regulator of Dscam mutually exclusive splicing fidelity}.
+\newblock {\em Nat Struct Mol Biol}, 14(12):1134--1140.
+
+\bibitem[Osella et~al., 2011]{Osella2011}
+Osella, M., Bosia, C., Cor\'{a}, D., and Caselle, M. (2011).
+\newblock {The role of incoherent microRNA-mediated feedforward loops in noise
+  buffering.}
+\newblock {\em PLoS computational biology}, 7(3):e1001101.
+
+\bibitem[Osheim et~al., 1985]{Osheim1985}
+Osheim, Y.~N., Miller, O.~L., and Beyer, a.~L. (1985).
+\newblock {RNP particles at splice junction sequences on Drosophila chorion
+  transcripts.}
+\newblock {\em Cell}, 43(1):143--51.
+
+\bibitem[Ozsolak and Milos, 2010]{Ozsolak2010}
+Ozsolak, F. and Milos, P.~M. (2010).
+\newblock {RNA sequencing: advances, challenges and opportunities}.
+\newblock {\em Nature Reviews Genetics}, 12(2):87--98.
+
+\bibitem[Pan et~al., 2008]{Pan2008}
+Pan, Q., Shai, O., Lee, L.~J., Frey, B.~J., and Blencowe, B.~J. (2008).
+\newblock {Deep surveying of alternative splicing complexity in the human
+  transcriptome by high-throughput sequencing}.
+\newblock {\em Nature Genetics}, 40(12):1413--5.
+
+\bibitem[Pan, 2013]{Pan2013}
+Pan, T. (2013).
+\newblock {N6-methyl-adenosine modification in messenger and long non-coding
+  RNA.}
+\newblock {\em Trends in biochemical sciences}, 38(4):204--9.
+
+\bibitem[Pane et~al., 2007]{Pane2007}
+Pane, A., Wehr, K., and Sch\"{u}pbach, T. (2007).
+\newblock {zucchini and squash encode two putative nucleases required for
+  rasiRNA production in the Drosophila germline.}
+\newblock {\em Developmental cell}, 12(6):851--62.
+
+\bibitem[Park et~al., 2014]{Park2014}
+Park, H.~Y., Lim, H., Yoon, Y.~J., Follenzi, A., Nwokafor, C., Meng, X.,
+  Singer, R.~H., Yoon, H., and Lopez-Jones, M. (2014).
+\newblock {Visualization of dynamics of single endogenous mRNA labeled in live
+  mouse.}
+\newblock {\em Science (New York, N.Y.)}, 343(6169):422--4.
+
+\bibitem[Park and Graveley, 2007]{Park2007}
+Park, J.~W. and Graveley, B.~R. (2007).
+\newblock {Complex alternative splicing}.
+\newblock {\em Advances in Experimental Medicine and Biology}, 623:50--63.
+
+\bibitem[Parra et~al., 2012]{Parra2012}
+Parra, M.~K., Gallagher, T.~L., Amacher, S.~L., Mohandas, N., and Conboy, J.~G.
+  (2012).
+\newblock {Deep intron elements mediate nested splicing events at consecutive
+  AG dinucleotides to regulate alternative 3' splice site choice in vertebrate
+  4.1 genes.}
+\newblock {\em Molecular and cellular biology}, 32(11):2044--53.
+
+\bibitem[Parra et~al., 2008]{Parra2008}
+Parra, M.~K., Tan, J.~S., Mohandas, N., and Conboy, J.~G. (2008).
+\newblock {Intrasplicing coordinates alternative first exons with alternative
+  splicing in the protein 4.1R gene}.
+\newblock {\em EMBO J}, 27(1):122--131.
+
+\bibitem[Pauli et~al., 2011]{Pauli2011}
+Pauli, A., Rinn, J.~L., and Schier, A.~F. (2011).
+\newblock {Non-coding RNAs as regulators of embryogenesis.}
+\newblock {\em Nature reviews. Genetics}, 12(2):136--49.
+
+\bibitem[Peirson et~al., 2003]{Peirson2003}
+Peirson, S.~N., Butler, J.~N., and Foster, R.~G. (2003).
+\newblock {Experimental validation of novel and conventional approaches to
+  quantitative real-time PCR data analysis.}
+\newblock {\em Nucleic acids research}, 31(14):e73.
+
+\bibitem[P\'{e}lisson et~al., 1994]{Pelisson1994}
+P\'{e}lisson, a., Song, S.~U., Prud'homme, N., Smith, P.~a., Bucheton, a., and
+  Corces, V.~G. (1994).
+\newblock {Gypsy transposition correlates with the production of a retroviral
+  envelope-like protein under the tissue-specific control of the Drosophila
+  flamenco gene.}
+\newblock {\em The EMBO journal}, 13(18):4401--11.
+
+\bibitem[Peng et~al., 2008]{Peng2008}
+Peng, T., Xue, C., Bi, J., Li, T., Wang, X., Zhang, X., and Li, Y. (2008).
+\newblock {Functional importance of different patterns of correlation between
+  adjacent cassette exons in human and mouse.}
+\newblock {\em BMC genomics}, 9(1):191.
+
+\bibitem[Plocik and Graveley, 2013]{Plocik2013}
+Plocik, A. M.~A. and Graveley, B.~R. (2013).
+\newblock {New insights from existing sequence data: generating breakthroughs
+  without a pipette.}
+\newblock {\em Molecular cell}, 49(4):605--17.
+
+\bibitem[Ponta et~al., 2003]{Ponta2003}
+Ponta, H., Sherman, L., and Herrlich, P.~a. (2003).
+\newblock {CD44: from adhesion molecules to signalling regulators.}
+\newblock {\em Nature reviews. Molecular cell biology}, 4(1):33--45.
+
+\bibitem[Purandare et~al., 2014]{Purandare2014b}
+Purandare, S.~R., Tenhumberg, B., and Brisson, J.~a. (2014).
+\newblock {Comparison of the wing polyphenic response of pea aphids (
+  Acyrthosiphon pisum ) to crowding and predator cues}.
+\newblock {\em Ecological Entomology}, 39(2):263--266.
+
+\bibitem[Quinlan and Hall, 2010]{Quinlan2010}
+Quinlan, A.~R. and Hall, I.~M. (2010).
+\newblock {BEDTools: a flexible suite of utilities for comparing genomic
+  features}.
+\newblock {\em Bioinformatics (Oxford, England)}, 26(6):841--842.
+
+\bibitem[{R Development Core Team}, 2008]{RDevelopmentCoreTeam2011}
+{R Development Core Team}, R. (2008).
+\newblock {\em {Computational Many-Particle Physics}}, volume 739 of {\em
+  Lecture Notes in Physics}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[Raney et~al., 2014]{Raney2013}
+Raney, B.~J., Dreszer, T.~R., Barber, G.~P., Clawson, H., Fujita, P.~a., Wang,
+  T., Nguyen, N., Paten, B., Zweig, A.~S., Karolchik, D., and Kent, W.~J.
+  (2014).
+\newblock {Track data hubs enable visualization of user-defined genome-wide
+  annotations on the UCSC Genome Browser.}
+\newblock {\em Bioinformatics (Oxford, England)}, 30(7):1003--5.
+
+\bibitem[Rebagliati et~al., 1985]{Rebagliati1985}
+Rebagliati, M., Weeks, D., Harvey, R., and Melton, D. (1985).
+\newblock {Identification and cloning of localized maternal RNAs from xenopus
+  eggs}.
+\newblock {\em Cell}, 42(3):769--777.
+
+\bibitem[Rehrauer et~al., 2013]{Rehrauer2013}
+Rehrauer, H., Opitz, L., Tan, G., Sieverling, L., and Schlapbach, R. (2013).
+\newblock {Blind spots of quantitative RNA-seq: the limits for assessing
+  abundance, differential expression, and isoform switching.}
+\newblock {\em BMC bioinformatics}, 14:370.
+
+\bibitem[Reuter and Mathews, 2010]{Reuter2010}
+Reuter, J.~S. and Mathews, D.~H. (2010).
+\newblock {RNAstructure: software for RNA secondary structure prediction and
+  analysis.}
+\newblock {\em BMC bioinformatics}, 11:129.
+
+\bibitem[Reuter et~al., 2011]{Reuter2011}
+Reuter, M., Berninger, P., Chuma, S., Shah, H., Hosokawa, M., Funaya, C.,
+  Antony, C., Sachidanandam, R., and Pillai, R.~S. (2011).
+\newblock {Miwi catalysis is required for piRNA amplification-independent LINE1
+  transposon silencing.}
+\newblock {\em Nature}, 480(7376):264--7.
+
+\bibitem[Reuter et~al., 2009]{Reuter2009}
+Reuter, M., Chuma, S., Tanaka, T., Franz, T., Stark, A., and Pillai, R.~S.
+  (2009).
+\newblock {Loss of the Mili-interacting Tudor domain-containing protein-1
+  activates transposons and alters the Mili-associated small RNA profile.}
+\newblock {\em Nature structural \& molecular biology}, 16(6):639--46.
+
+\bibitem[Richardson, 1965]{Richardson1965a}
+Richardson, C.~C. (1965).
+\newblock {Phosphorylation of nucleic acid by an enzyme from T4
+  bacteriophage-infected Escherichia coli.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 54(1):158--65.
+
+\bibitem[Riley and Steitz, 2013]{Riley2013}
+Riley, K.~J. and Steitz, J.~A. (2013).
+\newblock {The "Observer Effect" in genome-wide surveys of protein-RNA
+  interactions.}
+\newblock {\em Molecular cell}, 49(4):601--4.
+
+\bibitem[Ro et~al., 2007]{Ro2007}
+Ro, S., Park, C., Song, R., Nguyen, D., Jin, J., Sanders, K.~M., McCarrey,
+  J.~R., and Yan, W. (2007).
+\newblock {Cloning and Expression Profiling of Testis-Expressed piRNA-Like
+  RNAs}.
+\newblock {\em RNA}, 13(10):1693--1702.
+
+\bibitem[Roach et~al., 1995]{Roach1995}
+Roach, J. J.~C., Boysen, C., Wang, K., Hood, L., and Wang, I. K. A.~I. (1995).
+\newblock {Pairwise End Sequencing: A unified approach to genomic mapping and
+  sequencing}.
+\newblock {\em Genomics}, 353:345--353.
+
+\bibitem[Robine et~al., 2009]{Robine2009}
+Robine, N., Lau, N.~C., Balla, S., Jin, Z., Okamura, K., Kuramochi-Miyagawa,
+  S., Blower, M.~D., and Lai, E.~C. (2009).
+\newblock {A Broadly Conserved Pathway Generates 3' UTR-Directed Primary
+  piRNAs}.
+\newblock {\em Current Biology}, 19(24):2066--2076.
+
+\bibitem[Robinson et~al., 2011]{Robinson2011}
+Robinson, J.~T., Thorvaldsd\'{o}ttir, H., Winckler, W., Guttman, M., Lander,
+  E.~S., Getz, G., and Mesirov, J.~P. (2011).
+\newblock {Integrative genomics viewer.}
+\newblock {\em Nature biotechnology}, 29(1):24--6.
+
+\bibitem[Romanienko and Camerini-Otero, 2000]{Romanienko2000}
+Romanienko, P.~J. and Camerini-Otero, R.~D. (2000).
+\newblock {The mouse Spo11 gene is required for meiotic chromosome synapsis.}
+\newblock {\em Molecular cell}, 6(5):975--87.
+
+\bibitem[Romero and Arnold, 2009]{Romero2009a}
+Romero, P.~a. and Arnold, F.~H. (2009).
+\newblock {Exploring protein fitness landscapes by directed evolution.}
+\newblock {\em Nature reviews. Molecular cell biology}, 10(12):866--76.
+
+\bibitem[Ronaghi et~al., 1998]{Ronaghi1998a}
+Ronaghi, M., Uhl\'{e}n, M., and Nyr\'{e}n, P. (1998).
+\newblock {A sequencing method based on real-time pyrophosphate.}
+\newblock {\em Science}, 281:363, 365.
+
+\bibitem[Rumsfeld, 2011]{Rumsfeld2011}
+Rumsfeld, D. (2011).
+\newblock {Known and unknown: a memoir}.
+
+\bibitem[Saito et~al., 2009]{Saito2009}
+Saito, K., Inagaki, S., Mituyama, T., Kawamura, Y., Ono, Y., Sakota, E.,
+  Kotani, H., Asai, K., Siomi, H., and Siomi, M.~C. (2009).
+\newblock {A regulatory circuit for piwi by the large Maf gene traffic jam in
+  Drosophila.}
+\newblock {\em Nature}, 461(7268):1296--9.
+
+\bibitem[Saito et~al., 2010]{Saito2010}
+Saito, K., Ishizu, H., Komai, M., Kotani, H., Kawamura, Y., Nishida, K.~M.,
+  Siomi, H., and Siomi, M.~C. (2010).
+\newblock {Roles for the Yb body components Armitage and Yb in primary piRNA
+  biogenesis in Drosophila.}
+\newblock {\em Genes \& development}, 24(22):2493--8.
+
+\bibitem[Salehi-Ashtiani et~al., 2008]{Salehi-Ashtiani2008}
+Salehi-Ashtiani, K., Yang, X., Derti, A., Tian, W., Hao, T., Lin, C., Makowski,
+  K., Shen, L., Murray, R.~R., Szeto, D., Tusneem, N., Smith, D.~R., Cusick,
+  M.~E., Hill, D.~E., Roth, F.~P., and Vidal, M. (2008).
+\newblock {Isoform discovery by targeted cloning, 'deep-well' pooling and
+  parallel sequencing}.
+\newblock {\em Nature Methods}, 5(7):597--600.
+
+\bibitem[Sander and Joung, 2014]{Sander2014}
+Sander, J.~D. and Joung, J.~K. (2014).
+\newblock {CRISPR-Cas systems for editing, regulating and targeting genomes.}
+\newblock {\em Nature biotechnology}, 32(4):347--355.
+
+\bibitem[Sanger and Coulson, 1975]{Sanger1975a}
+Sanger, F. and Coulson, A.~R. (1975).
+\newblock {A rapid method for determining sequences in DNA by primed synthesis
+  with DNA polymerase.}
+\newblock {\em Journal of molecular biology}, 94(3):441--8.
+
+\bibitem[Sanger et~al., 1978]{Sanger1978a}
+Sanger, F., Coulson, A.~R., Friedmann, T., Air, G.~M., Barrell, B.~G., Brown,
+  N.~L., Fiddes, J.~C., Hutchison, C.~A., Slocombe, P.~M., and Smith, M.
+  (1978).
+\newblock {The nucleotide sequence of bacteriophage phiX174.}
+\newblock {\em Journal of molecular biology}, 125(2):225--46.
+
+\bibitem[Sanger et~al., 1977]{Sanger1977b}
+Sanger, F., Nicklen, S., and Coulson, A.~R. (1977).
+\newblock {DNA sequencing with chain-terminating inhibitors.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 74(12):5463--7.
+
+\bibitem[Schena et~al., 1995]{Schena1995a}
+Schena, M., Shalon, D., Davis, R.~W., and Brown, P.~O. (1995).
+\newblock {Quantitative monitoring of gene expression patterns with a
+  complementary DNA microarray.}
+\newblock {\em Science (New York, N.Y.)}, 270(5235):467--70.
+
+\bibitem[Schmucker et~al., 2000]{Schmucker2000}
+Schmucker, D., Clemens, J.~C., Shu, H., Worby, C.~A., Xiao, J., Muda, M.,
+  Dixon, J.~E., and Zipursky, S. (2000).
+\newblock {Drosophila Dscam Is an Axon Guidance Receptor Exhibiting
+  Extraordinary Molecular Diversity}.
+\newblock {\em Cell}, 101(6):671--684.
+
+\bibitem[Schneider, 1972]{Schneider1972}
+Schneider, I. (1972).
+\newblock {Cell lines derived from late embryonic stages of Drosophila
+  melanogaster.}
+\newblock {\em Journal of embryology and experimental morphology},
+  27(2):353--65.
+
+\bibitem[Schoenmakers et~al., 2009]{Schoenmakers2009}
+Schoenmakers, S., Wassenaar, E., Hoogerbrugge, J.~W., Laven, J. S.~E.,
+  Grootegoed, J.~A., and Baarends, W.~M. (2009).
+\newblock {Female meiotic sex chromosome inactivation in chicken.}
+\newblock {\em PLoS genetics}, 5(5):e1000466.
+
+\bibitem[Schulz et~al., 2012]{Schulz2012}
+Schulz, M.~H., Zerbino, D.~R., Vingron, M., and Birney, E. (2012).
+\newblock {Oases: robust de novo RNA-seq assembly across the dynamic range of
+  expression levels.}
+\newblock {\em Bioinformatics (Oxford, England)}, 28:1086--92.
+
+\bibitem[Schwartz and Ast, 2010]{Schwartz2010}
+Schwartz, S. and Ast, G. (2010).
+\newblock {Chromatin density and splicing destiny: on the cross-talk between
+  chromatin structure and splicing.}
+\newblock {\em The EMBO journal}, 29(10):1629--36.
+
+\bibitem[Schwarzbauer and Tamkun, 1983]{Schwarzbauer1983}
+Schwarzbauer, J. and Tamkun, J. (1983).
+\newblock {Three different fibronectin mRNAs arise by alternative splicing
+  within the coding region}.
+\newblock {\em Cell}, 35(2 Pt 1):421--31.
+
+\bibitem[Seitz et~al., 2008]{Seitz2008}
+Seitz, H., Ghildiyal, M., and Zamore, P.~D. (2008).
+\newblock {Argonaute loading improves the 5' precision of both MicroRNAs and
+  their miRNA* strands in flies.}
+\newblock {\em Current biology : CB}, 18(2):147--51.
+
+\bibitem[Serqui\~{n}a et~al., 2013]{Serquina2013}
+Serqui\~{n}a, A. K.~P., Das, S.~R., Popova, E., Ojelabi, O.~A., Roy, C.~K., and
+  G\"{o}ttlinger, H.~G. (2013).
+\newblock {UPF1 is crucial for the infectivity of human immunodeficiency virus
+  type 1 progeny virions.}
+\newblock {\em Journal of virology}, 87(16):8853--61.
+
+\bibitem[Service, 2006]{Service2006}
+Service, R.~F. (2006).
+\newblock {Gene sequencing. The race for the \$1000 genome.}
+
+\bibitem[Shalek et~al., 2013]{Shalek2013b}
+Shalek, A.~K., Satija, R., Adiconis, X., Gertner, R.~S., Gaublomme, J.~T.,
+  Raychowdhury, R., Schwartz, S., Yosef, N., Malboeuf, C., Lu, D., Trombetta,
+  J.~J., Gennert, D., Gnirke, A., Goren, A., Hacohen, N., Levin, J.~Z., Park,
+  H., and Regev, A. (2013).
+\newblock {Single-cell transcriptomics reveals bimodality in expression and
+  splicing in immune cells.}
+\newblock {\em Nature}, 498(7453):236--40.
+
+\bibitem[Shapiro et~al., 2013]{Shapiro2013b}
+Shapiro, E., Biezuner, T., and Linnarsson, S. (2013).
+\newblock {Single-cell sequencing-based technologies will revolutionize
+  whole-organism science.}
+\newblock {\em Nature reviews. Genetics}, 14(9):618--630.
+
+\bibitem[Sharon et~al., 2013]{Sharon2013}
+Sharon, D., Tilgner, H., Grubert, F., and Snyder, M. (2013).
+\newblock {A single-molecule long-read survey of the human transcriptome.}
+\newblock {\em Nature biotechnology}, 31(11):1009--1014.
+
+\bibitem[Sharp, 2014]{Sharp2014}
+Sharp, P.~A. (2014).
+\newblock {Nobel Lectures in Physiology or Medicine 1991-1995}.
+
+\bibitem[Shen-Orr et~al., 2002]{Shen-Orr2002}
+Shen-Orr, S.~S., Milo, R., Mangan, S., and Alon, U. (2002).
+\newblock {Network motifs in the transcriptional regulation network of
+  Escherichia coli.}
+\newblock {\em Nature genetics}, 31(1):64--8.
+
+\bibitem[Shendure and Aiden, 2012]{Shendure2012}
+Shendure, J. and Aiden, E.~L. (2012).
+\newblock {The expanding scope of DNA sequencing}.
+\newblock {\em Nature Biotechnology}, 30(11):1084--1094.
+
+\bibitem[Shendure and Ji, 2008]{Shendure2008}
+Shendure, J. and Ji, H. (2008).
+\newblock {Next-generation DNA sequencing.}
+\newblock {\em Nature Biotechnology}, 26(10):1135--1145.
+
+\bibitem[Shendure et~al., 2004]{Shendure2004}
+Shendure, J., Mitra, R.~D., Varma, C., and Church, G.~M. (2004).
+\newblock {Advanced sequencing technologies: methods and goals}.
+\newblock {\em Nature Reviews. Genetics}, 5(5):335--44.
+
+\bibitem[Shendure et~al., 2005]{Shendure2005}
+Shendure, J., Porreca, G.~J., Reppas, N.~B., Lin, X., McCutcheon, J.~P.,
+  Rosenbaum, A.~M., Wang, M.~D., Zhang, K., Mitra, R.~D., and Church, G.~M.
+  (2005).
+\newblock {Accurate Multiplex Polony Sequencing of an Evolved Bacterial
+  Genome}.
+\newblock {\em Science}, 309(5741):1728--1732.
+
+\bibitem[Shepard et~al., 2011]{Shepard2011}
+Shepard, P.~J., Choi, E.-A., Lu, J., Flanagan, L.~A., Hertel, K.~J., and Shi,
+  Y. (2011).
+\newblock {Complex and dynamic landscape of RNA polyadenylation revealed by
+  PAS-Seq}.
+\newblock {\em RNA}, 17(4):761 --772.
+
+\bibitem[Shi and Lee, 2012]{Shi2012a}
+Shi, L. and Lee, T. (2012).
+\newblock {Molecular diversity of Dscam and self-recognition.}
+\newblock {\em Advances in experimental medicine and biology}, 739:262--75.
+
+\bibitem[Shingleton et~al., 2003]{Shingleton2003}
+Shingleton, A.~W., Sisk, G.~C., and Stern, D.~L. (2003).
+\newblock {Diapause in the pea aphid (Acyrthosiphon pisum) is a slowing but not
+  a cessation of development.}
+\newblock {\em BMC developmental biology}, 3:7.
+
+\bibitem[Shiraki et~al., 2003]{Shiraki2003a}
+Shiraki, T., Kondo, S., Katayama, S., Waki, K., Kasukawa, T., Kawaji, H.,
+  Kodzius, R., Watahiki, A., Nakamura, M., Arakawa, T., Fukuda, S., Sasaki, D.,
+  Podhajska, A., Harbers, M., Kawai, J., Carninci, P., and Hayashizaki, Y.
+  (2003).
+\newblock {Cap analysis gene expression for high-throughput analysis of
+  transcriptional starting point and identification of promoter usage}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 100:15776--15781.
+
+\bibitem[Shirayama et~al., 2012]{Shirayama2012}
+Shirayama, M., Seth, M., Lee, H.-C., Gu, W., Ishidate, T., Conte, D., and
+  Mello, C.~C. (2012).
+\newblock {piRNAs initiate an epigenetic memory of nonself RNA in the C.
+  elegans germline.}
+\newblock {\em Cell}, 150(1):65--77.
+
+\bibitem[Shiroguchi et~al., 2012]{Shiroguchi2012a}
+Shiroguchi, K., Jia, T.~Z., Sims, P.~a., and Xie, X.~S. (2012).
+\newblock {Digital RNA sequencing minimizes sequence-dependent bias and
+  amplification noise with optimized single-molecule barcodes.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 109(4):1347--52.
+
+\bibitem[Shoji et~al., 2009]{Shoji2009}
+Shoji, M., Tanaka, T., Hosokawa, M., Reuter, M., Stark, A., Kato, Y., Kondoh,
+  G., Okawa, K., Chujo, T., Suzuki, T., Hata, K., Martin, S.~L., Noce, T.,
+  Kuramochi-Miyagawa, S., Nakano, T., Sasaki, H., Pillai, R.~S., Nakatsuji, N.,
+  and Chuma, S. (2009).
+\newblock {The TDRD9-MIWI2 complex is essential for piRNA-mediated
+  retrotransposon silencing in the mouse male germline.}
+\newblock {\em Developmental cell}, 17(6):775--87.
+
+\bibitem[Singh et~al., 2014]{Singh2013}
+Singh, G., Ricci, E.~P., and Moore, M.~J. (2014).
+\newblock {RIPiT-Seq: a high-throughput approach for footprinting RNA:protein
+  complexes.}
+\newblock {\em Methods (San Diego, Calif.)}, 65(3):320--32.
+
+\bibitem[Siomi et~al., 2011]{Siomi2011}
+Siomi, M.~C., Sato, K., Pezic, D., and Aravin, A.~A. (2011).
+\newblock {PIWI-interacting small RNAs: the vanguard of genome defence}.
+\newblock {\em Nat Rev Mol Cell Biol}, 12(4):246--258.
+
+\bibitem[Smith et~al., 2004]{Smith2004}
+Smith, J.~M., Bowles, J., Wilson, M., Teasdale, R.~D., and Koopman, P. (2004).
+\newblock {Expression of the tudor-related gene Tdrd5 during development of the
+  male germline in mice.}
+\newblock {\em Gene expression patterns : GEP}, 4(6):701--5.
+
+\bibitem[Southern, 2001]{Southern2001}
+Southern, E.~M. (2001).
+\newblock {DNA microarrays. History and overview}.
+\newblock {\em Methods in Molecular Biology (Clifton, N.J.)}, 170:1--15.
+
+\bibitem[Sriskanda and Shuman, 1998]{Sriskanda1998c}
+Sriskanda, V. and Shuman, S. (1998).
+\newblock {Specificity and fidelity of strand joining by Chlorella virus DNA
+  ligase.}
+\newblock {\em Nucleic acids research}, 26(15):3536--41.
+
+\bibitem[Staden, 1979]{Staden1979}
+Staden, R. (1979).
+\newblock {A strategy of DNA sequencing employing computer programs}.
+\newblock {\em Nucleic Acids Research}, 6(7):2601--2610.
+
+\bibitem[Steijger et~al., 2013]{Steijger2013}
+Steijger, T., Abril, J.~F., Engstr\"{o}m, P.~G., Kokocinski, F., Akerman, M.,
+  Alioto, T., Ambrosini, G., Antonarakis, S.~E., Behr, J., Bertone, P.,
+  Bohnert, R., Bucher, P., Cloonan, N., Derrien, T., Djebali, S., Du, J.,
+  Dudoit, S., Gerstein, M., Gingeras, T.~R., Gonzalez, D., Grimmond, S.~M.,
+  Guig\'{o}, R., Habegger, L., Harrow, J., Hubbard, T.~J., Iseli, C., Jean, G.,
+  Kahles, A., Lagarde, J., Leng, J., Lefebvre, G., Lewis, S., Mortazavi, A.,
+  Niermann, P., R\"{a}tsch, G., Reymond, A., Ribeca, P., Richard, H.,
+  Rougemont, J., Rozowsky, J., Sammeth, M., Sboner, A., Schulz, M.~H., Searle,
+  S. M.~J., Solorzano, N.~D., Solovyev, V., Stanke, M., Stevenson, B.~J.,
+  Stockinger, H., Valsesia, A., Weese, D., White, S., Wold, B.~J., Wu, J., Wu,
+  T.~D., Zeller, G., Zerbino, D., and Zhang, M.~Q. (2013).
+\newblock {Assessment of transcript reconstruction methods for RNA-seq.}
+\newblock {\em Nature methods}, 10(12):1177--84.
+
+\bibitem[Stemmer, 1994]{Stemmer1994}
+Stemmer, W.~P. (1994).
+\newblock {Rapid evolution of a protein in vitro by DNA shuffling.}
+\newblock {\em Nature}, 370(6488):389--91.
+
+\bibitem[Subtelny et~al., 2014]{Subtelny2014}
+Subtelny, A.~O., Eichhorn, S.~W., Chen, G.~R., Sive, H., and Bartel, D.~P.
+  (2014).
+\newblock {Poly(A)-tail profiling reveals an embryonic switch in translational
+  control.}
+\newblock {\em Nature}, 508(7494):66--71.
+
+\bibitem[Sultan et~al., 2008]{Sultan2008}
+Sultan, M., Schulz, M.~H., Richard, H., Magen, A., Klingenhoff, A., Scherf, M.,
+  Seifert, M., Borodina, T., Soldatov, A., Parkhomchuk, D., Schmidt, D.,
+  O'Keeffe, S., Haas, S., Vingron, M., Lehrach, H., and Yaspo, M.-L. (2008).
+\newblock {A Global View of Gene Activity and Alternative Splicing by Deep
+  Sequencing of the Human Transcriptome}.
+\newblock {\em Science}, 321(5891):956--960.
+
+\bibitem[Summers and Siegel, 1970]{Summers1970b}
+Summers, W. and Siegel, R. (1970).
+\newblock {Transcription of Late Phage RNA by T7 RNA Polymerase}.
+\newblock {\em Nature}, 228:1160--1162.
+
+\bibitem[Sun et~al., 2013]{Sun2013}
+Sun, W., You, X., Gogol-D\"{o}ring, A., He, H., Kise, Y., Sohn, M., Chen, T.,
+  Klebes, A., Schmucker, D., and Chen, W. (2013).
+\newblock {Ultra-deep profiling of alternatively spliced Drosophila Dscam
+  isoforms by circularization-assisted multi-segment sequencing.}
+\newblock {\em The EMBO journal}, 32(14):2029--38.
+
+\bibitem[Tabor, 1987]{Tabor1987a}
+Tabor, S. (1987).
+\newblock {DNA Ligases}.
+\newblock {\em Current Protocols in Molecular Biology}, pages 3.14.1--3.14.4.
+
+\bibitem[Tani et~al., 2012]{Tani2012}
+Tani, H., Mizutani, R., Salam, K.~A., Tano, K., Ijiri, K., Wakamatsu, A.,
+  Isogai, T., Suzuki, Y., and Akimitsu, N. (2012).
+\newblock {Genome-wide determination of RNA stability reveals hundreds of
+  short-lived noncoding transcripts in mammals.}
+\newblock {\em Genome research}, 22(5):947--56.
+
+\bibitem[Tazi et~al., 2009]{Tazi2009}
+Tazi, J., Bakkour, N., and Stamm, S. (2009).
+\newblock {Alternative splicing and disease.}
+\newblock {\em Biochimica et biophysica acta}, 1792(1):14--26.
+
+\bibitem[Thierry-Mieg and Thierry-Mieg, 2006]{Thierry-Mieg2006}
+Thierry-Mieg, D. and Thierry-Mieg, J. (2006).
+\newblock {AceView: a comprehensive cDNA-supported gene and transcripts
+  annotation.}
+\newblock {\em Genome biology}, 7 Suppl 1(Suppl 1):S12.1--14.
+
+\bibitem[Thomson and Lin, 2009]{Thomson2009}
+Thomson, T. and Lin, H. (2009).
+\newblock {The biogenesis and function of PIWI proteins and piRNAs: progress
+  and prospect.}
+\newblock {\em Annual review of cell and developmental biology}, 25:355--76.
+
+\bibitem[Toscani et~al., 1997]{Toscani1997}
+Toscani, A., Mettus, R.~V., Coupland, R., Simpkins, H., Litvin, J., Orth, J.,
+  Hatton, K.~S., and Reddy, E.~P. (1997).
+\newblock {Arrest of spermatogenesis and defective breast development in mice
+  lacking A-myb}.
+\newblock {\em Nature}, 386(6626):713--717.
+
+\bibitem[Trapnell et~al., 2009]{Trapnell2009}
+Trapnell, C., Pachter, L., and Salzberg, S.~L. (2009).
+\newblock {TopHat: discovering splice junctions with RNA-Seq}.
+\newblock {\em Bioinformatics}, 25(9):1105 --1111.
+
+\bibitem[Trapnell et~al., 2012]{Trapnell2012a}
+Trapnell, C., Roberts, A., Goff, L., Pertea, G., Kim, D., Kelley, D.~R.,
+  Pimentel, H., Salzberg, S.~L., Rinn, J.~L., and Pachter, L. (2012).
+\newblock {Differential gene and transcript expression analysis of RNA-seq
+  experiments with TopHat and Cufflinks}.
+\newblock {\em Nature Protocols}, 7(3):562--578.
+
+\bibitem[Trapnell et~al., 2010]{Trapnell2010}
+Trapnell, C., Williams, B.~A., Pertea, G., Mortazavi, A., Kwan, G., van Baren,
+  M.~J., Salzberg, S.~L., Wold, B.~J., and Pachter, L. (2010).
+\newblock {Transcript assembly and quantification by RNA-Seq reveals
+  unannotated transcripts and isoform switching during cell differentiation}.
+\newblock {\em Nat Biotech}, 28(5):511--515.
+
+\bibitem[Trauth et~al., 1994]{Trauth1994}
+Trauth, K., Mutschler, B., Jenkins, N.~A., Gilbert, D.~J., Copeland, N.~G., and
+  Klempnauer, K.-h. (1994).
+\newblock {Mouse A-myb encodes a trans-activator and is expressed in
+  mitotically active cells of the developing central nervous system, adult
+  testis and B lymphocytes}.
+\newblock {\em EMBO}, 13(24):5994--6005.
+
+\bibitem[Treutlein et~al., 2014]{Treutlein2014}
+Treutlein, B., Gokce, O., Quake, S.~R., and S\"{u}dhof, T.~C. (2014).
+\newblock {Cartography of neurexin alternative splicing mapped by
+  single-molecule long-read mRNA sequencing.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 111(13):E1291--9.
+
+\bibitem[Ule et~al., 2005]{Ule2005}
+Ule, J., Jensen, K., Mele, A., and Darnell, R.~B. (2005).
+\newblock {CLIP: A method for identifying protein-RNA interaction sites in
+  living cells}.
+\newblock {\em Methods}, 37(4):376--386.
+
+\bibitem[Ushkaryov et~al., 1992]{Ushkaryov1992}
+Ushkaryov, Y.~a., Petrenko, a.~G., Geppert, M., and S\"{u}dhof, T.~C. (1992).
+\newblock {Neurexins: synaptic cell surface proteins related to the
+  alpha-latrotoxin receptor and laminin.}
+\newblock {\em Science (New York, N.Y.)}, 257(5066):50--6.
+
+\bibitem[Vagin et~al., 2004]{Vagin2004}
+Vagin, V.~V., Klenov, M.~S., Stolyarenko, A.~D., and Kotelnikov, R.~N. (2004).
+\newblock {The RNA Interference Proteins and Vasa Locus are Involved in the
+  Silencing of Retrotransposons in the Female Germline of Drosophila
+  melanogaster}.
+\newblock {\em RNA Biology}, (June):54--58.
+
+\bibitem[Vagin et~al., 2006]{Vagin2006}
+Vagin, V.~V., Sigova, A., Li, C., Seitz, H., Gvozdev, V., and Zamore, P.~D.
+  (2006).
+\newblock {A Distinct Small RNA Pathway Silences Selfish Genetic Elements in
+  the Germline}.
+\newblock {\em Science}, 313(5785):320 --324.
+
+\bibitem[Vagin et~al., 2009]{Vagin2009}
+Vagin, V.~V., Wohlschlegel, J., Qu, J., Jonsson, Z., Huang, X., Chuma, S.,
+  Girard, A., Sachidanandam, R., Hannon, G.~J., and Aravin, A.~a. (2009).
+\newblock {Proteomic analysis of murine Piwi proteins reveals a role for
+  arginine methylation in specifying interaction with Tudor family members.}
+\newblock {\em Genes \& development}, 23(15):1749--62.
+
+\bibitem[Vasileva et~al., 2009]{Vasileva2009}
+Vasileva, A., Tiedau, D., Firooznia, A., M\"{u}ller-Reichert, T., and
+  Jessberger, R. (2009).
+\newblock {Tdrd6 is required for spermiogenesis, chromatoid body architecture,
+  and regulation of miRNA expression.}
+\newblock {\em Current biology : CB}, 19(8):630--9.
+
+\bibitem[Velculescu et~al., 1995]{Velculescu1995a}
+Velculescu, V.~E., Zhang, L., Vogelstein, B., and Kinzler, K.~W. (1995).
+\newblock {Serial analysis of gene expression.}
+\newblock {\em Science (New York, N.Y.)}, 270(5235):484--7.
+
+\bibitem[Venter, 2007]{Venter2008a}
+Venter, J. (2007).
+\newblock {\em {A life decoded: my genome, my life}}.
+\newblock Penguin (Non-Classics).
+
+\bibitem[Venter et~al., 2001]{Venter2001}
+Venter, J.~C., Adams, M.~D., Myers, E.~W., Li, P.~W., Mural, R.~J., Sutton,
+  G.~G., Smith, H.~O., Yandell, M., Evans, C.~a., Holt, R.~a., Gocayne, J.~D.,
+  Amanatides, P., Ballew, R.~M., Huson, D.~H., Wortman, J.~R., Zhang, Q.,
+  Kodira, C.~D., Zheng, X.~H., Chen, L., Skupski, M., Subramanian, G., Thomas,
+  P.~D., Zhang, J., {Gabor Miklos}, G.~L., Nelson, C., Broder, S., Clark,
+  a.~G., Nadeau, J., McKusick, V.~a., Zinder, N., Levine, a.~J., Roberts,
+  R.~J., Simon, M., Slayman, C., Hunkapiller, M., Bolanos, R., Delcher, A.,
+  Dew, I., Fasulo, D., Flanigan, M., Florea, L., Halpern, A., Hannenhalli, S.,
+  Kravitz, S., Levy, S., Mobarry, C., Reinert, K., Remington, K., Abu-Threideh,
+  J., Beasley, E., Biddick, K., Bonazzi, V., Brandon, R., Cargill, M.,
+  Chandramouliswaran, I., Charlab, R., Chaturvedi, K., Deng, Z., {Di
+  Francesco}, V., Dunn, P., Eilbeck, K., Evangelista, C., Gabrielian, a.~E.,
+  Gan, W., Ge, W., Gong, F., Gu, Z., Guan, P., Heiman, T.~J., Higgins, M.~E.,
+  Ji, R.~R., Ke, Z., Ketchum, K.~a., Lai, Z., Lei, Y., Li, Z., Li, J., Liang,
+  Y., Lin, X., Lu, F., Merkulov, G.~V., Milshina, N., Moore, H.~M., Naik,
+  a.~K., Narayan, V.~a., Neelam, B., Nusskern, D., Rusch, D.~B., Salzberg, S.,
+  Shao, W., Shue, B., Sun, J., Wang, Z., Wang, A., Wang, X., Wang, J., Wei, M.,
+  Wides, R., Xiao, C., Yan, C., Yao, A., Ye, J., Zhan, M., Zhang, W., Zhang,
+  H., Zhao, Q., Zheng, L., Zhong, F., Zhong, W., Zhu, S., Zhao, S., Gilbert,
+  D., Baumhueter, S., Spier, G., Carter, C., Cravchik, A., Woodage, T., Ali,
+  F., An, H., Awe, A., Baldwin, D., Baden, H., Barnstead, M., Barrow, I.,
+  Beeson, K., Busam, D., Carver, A., Center, A., Cheng, M.~L., Curry, L.,
+  Danaher, S., Davenport, L., Desilets, R., Dietz, S., Dodson, K., Doup, L.,
+  Ferriera, S., Garg, N., Gluecksmann, A., Hart, B., Haynes, J., Haynes, C.,
+  Heiner, C., Hladun, S., Hostin, D., Houck, J., Howland, T., Ibegwam, C.,
+  Johnson, J., Kalush, F., Kline, L., Koduru, S., Love, A., Mann, F., May, D.,
+  McCawley, S., McIntosh, T., McMullen, I., Moy, M., Moy, L., Murphy, B.,
+  Nelson, K., Pfannkoch, C., Pratts, E., Puri, V., Qureshi, H., Reardon, M.,
+  Rodriguez, R., Rogers, Y.~H., Romblad, D., Ruhfel, B., Scott, R., Sitter, C.,
+  Smallwood, M., Stewart, E., Strong, R., Suh, E., Thomas, R., Tint, N.~N.,
+  Tse, S., Vech, C., Wang, G., Wetter, J., Williams, S., Williams, M., Windsor,
+  S., Winn-Deen, E., Wolfe, K., Zaveri, J., Zaveri, K., Abril, J.~F.,
+  Guig\'{o}, R., Campbell, M.~J., Sjolander, K.~V., Karlak, B., Kejariwal, A.,
+  Mi, H., Lazareva, B., Hatton, T., Narechania, A., Diemer, K., Muruganujan,
+  A., Guo, N., Sato, S., Bafna, V., Istrail, S., Lippert, R., Schwartz, R.,
+  Walenz, B., Yooseph, S., Allen, D., Basu, A., Baxendale, J., Blick, L.,
+  Caminha, M., Carnes-Stine, J., Caulk, P., Chiang, Y.~H., Coyne, M., Dahlke,
+  C., Mays, A., Dombroski, M., Donnelly, M., Ely, D., Esparham, S., Fosler, C.,
+  Gire, H., Glanowski, S., Glasser, K., Glodek, A., Gorokhov, M., Graham, K.,
+  Gropman, B., Harris, M., Heil, J., Henderson, S., Hoover, J., Jennings, D.,
+  Jordan, C., Jordan, J., Kasha, J., Kagan, L., Kraft, C., Levitsky, A., Lewis,
+  M., Liu, X., Lopez, J., Ma, D., Majoros, W., McDaniel, J., Murphy, S.,
+  Newman, M., Nguyen, T., Nguyen, N., Nodell, M., Pan, S., Peck, J., Peterson,
+  M., Rowe, W., Sanders, R., Scott, J., Simpson, M., Smith, T., Sprague, A.,
+  Stockwell, T., Turner, R., Venter, E., Wang, M., Wen, M., Wu, D., Wu, M.,
+  Xia, A., Zandieh, A., and Zhu, X. (2001).
+\newblock {The sequence of the human genome.}
+\newblock {\em Science (New York, N.Y.)}, 291(5507):1304--51.
+
+\bibitem[Viollet et~al., 2011]{Viollet2011}
+Viollet, S., Fuchs, R.~T., Munafo, D.~B., Zhuang, F., and Robb, G.~B. (2011).
+\newblock {T4 RNA Ligase 2 truncated active site mutants: improved tools for
+  RNA analysis}.
+\newblock {\em BMC Biotechnology}, 11(1):72.
+
+\bibitem[Vourekas et~al., 2012]{Vourekas2012}
+Vourekas, A., Zheng, Q., Alexiou, P., Maragkakis, M., Kirino, Y., Gregory,
+  B.~D., and Mourelatos, Z. (2012).
+\newblock {Mili and Miwi target RNA repertoire reveals piRNA biogenesis and
+  function of Miwi in spermiogenesis}.
+\newblock {\em Nature Structural \& Molecular Biology}, 19(8):773--781.
+
+\bibitem[Wan et~al., 2014]{Wan2014}
+Wan, Y., Qu, K., Zhang, Q.~C., Flynn, R.~a., Manor, O., Ouyang, Z., Zhang, J.,
+  Spitale, R.~C., Snyder, M.~P., Segal, E., and Chang, H.~Y. (2014).
+\newblock {Landscape and variation of RNA secondary structure across the human
+  transcriptome.}
+\newblock {\em Nature}, 505(7485):706--9.
+
+\bibitem[Wang et~al., 2008]{Wang2008}
+Wang, E.~T., Sandberg, R., Luo, S., Khrebtukova, I., Zhang, L., Mayr, C.,
+  Kingsmore, S.~F., Schroth, G.~P., and Burge, C.~B. (2008).
+\newblock {Alternative isoform regulation in human tissue transcriptomes}.
+\newblock {\em Nature}, 456(7221):470--6.
+
+\bibitem[Wang and Yi, 2013]{Wang2013b}
+Wang, L. and Yi, R. (2013).
+\newblock {3' UTRs take a long shot in the brain}.
+\newblock {\em BioEssays}, pages 1--7.
+
+\bibitem[Wang et~al., 2002]{Wang2002b}
+Wang, L.~K., Lima, C.~D., and Shuman, S. (2002).
+\newblock {Structure and mechanism of T4 polynucleotide kinase: an RNA repair
+  enzyme.}
+\newblock {\em The EMBO journal}, 21(14):3873--80.
+
+\bibitem[Washietl et~al., 2014]{Washietl2014}
+Washietl, S., Kellis, M., and Garber, M. (2014).
+\newblock {Evolutionary dynamics and tissue specificity of human long noncoding
+  RNAs in six mammals.}
+\newblock {\em Genome research}, pages 616--628.
+
+\bibitem[Watanabe et~al., 2011a]{Watanabe2011a}
+Watanabe, T., Chuma, S., Yamamoto, Y., Kuramochi-Miyagawa, S., Totoki, Y.,
+  Toyoda, A., Hoki, Y., Fujiyama, A., Shibata, T., Sado, T., Noce, T., Nakano,
+  T., Nakatsuji, N., Lin, H., and Sasaki, H. (2011a).
+\newblock {MITOPLD Is a Mitochondrial Protein Essential for Nuage Formation and
+  piRNA Biogenesis in the Mouse Germline}.
+\newblock {\em Developmental Cell}, 20(3):364--375.
+
+\bibitem[Watanabe et~al., 2011b]{Watanabe2011}
+Watanabe, T., Tomizawa, S.-i., Mitsuya, K., Totoki, Y., Yamamoto, Y.,
+  Kuramochi-Miyagawa, S., Iida, N., Hoki, Y., Murphy, P.~J., Toyoda, A., Gotoh,
+  K., Hiura, H., Arima, T., Fujiyama, A., Sado, T., Shibata, T., Nakano, T.,
+  Lin, H., Ichiyanagi, K., Soloway, P.~D., and Sasaki, H. (2011b).
+\newblock {Role for piRNAs and Noncoding RNA in de Novo DNA Methylation of the
+  Imprinted Mouse Rasgrf1 Locus}.
+\newblock {\em Science}, 332(6031):848 --852.
+
+\bibitem[Waterhouse et~al., 2009]{Waterhouse2009}
+Waterhouse, A.~M., Procter, J.~B., Martin, D. M.~A., Clamp, M., and Barton,
+  G.~J. (2009).
+\newblock {Jalview Version 2--a multiple sequence alignment editor and analysis
+  workbench.}
+\newblock {\em Bioinformatics (Oxford, England)}, 25(9):1189--91.
+
+\bibitem[Watson et~al., 2005]{Watson2005}
+Watson, F.~L., P\"{u}ttmann-Holgado, R., Thomas, F., Lamar, D.~L., Hughes, M.,
+  Kondo, M., Rebel, V.~I., and Schmucker, D. (2005).
+\newblock {Extensive diversity of Ig-superfamily proteins in the immune system
+  of insects.}
+\newblock {\em Science (New York, N.Y.)}, 309(5742):1874--8.
+
+\bibitem[Watson et~al., 2012]{Watson2012a}
+Watson, J.~D., Gann, A., and Witkowski, J. (2012).
+\newblock {\em {The Annotated and Illustrated Double Helix}}.
+\newblock Simon \& Schuster.
+
+\bibitem[Watson and Crick, 1953]{Watson1953a}
+Watson, J. D.~J. and Crick, F. (1953).
+\newblock {Molecular structure of nucleic acids}.
+\newblock {\em Nature}, 4356(171):737--738.
+
+\bibitem[Wei et~al., 1975]{Wei1975}
+Wei, C.~M., Gershowitz, a., and Moss, B. (1975).
+\newblock {Methylated nucleotides block 5' terminus of HeLa cell messenger
+  RNA.}
+\newblock {\em Cell}, 4(4):379--86.
+
+\bibitem[Weiss and Leinwand, 1996]{Weiss1996}
+Weiss, a. and Leinwand, L.~a. (1996).
+\newblock {The mammalian myosin heavy chain gene family.}
+\newblock {\em Annual review of cell and developmental biology}, 12:417--39.
+
+\bibitem[Weiss and Richardson, 1967]{Weiss1967a}
+Weiss, B. and Richardson, C.~C. (1967).
+\newblock {Enzymatic breakage and joining of deoxyribonucleic acid, I. Repair
+  of single-strand breaks in DNA by an enzyme system from Escherichia coli
+  infected with T4 bacteriophage.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 57(4):1021--8.
+
+\bibitem[Weston, 1992]{Weston1992}
+Weston, K. (1992).
+\newblock {Extension of the DNA binding consensus of the chicken c-Myb and
+  v-Myb proteins}.
+\newblock {\em Nucleic Acids Research}, 20(12):3043--3049.
+
+\bibitem[White and Muro, 2011]{White2011a}
+White, E.~S. and Muro, A.~F. (2011).
+\newblock {Fibronectin splice variants: understanding their multiple roles in
+  health and disease using engineered mouse models.}
+\newblock {\em IUBMB life}, 63(7):538--46.
+
+\bibitem[Wills et~al., 2013]{Wills2013}
+Wills, Q.~F., Livak, K.~J., Tipping, A.~J., Enver, T., Goldson, A.~J., Sexton,
+  D.~W., and Holmes, C. (2013).
+\newblock {Single-cell gene expression analysis reveals genetic associations
+  masked in whole-tissue experiments.}
+\newblock {\em Nature biotechnology}, 31(8):748--752.
+
+\bibitem[Wojtowicz et~al., 2004]{Wojtowicz2004}
+Wojtowicz, W.~M., Flanagan, J.~J., Millard, S.~S., Zipursky, S.~L., and
+  Clemens, J.~C. (2004).
+\newblock {Alternative Splicing of Drosophila Dscam Generates Axon Guidance
+  Receptors that Exhibit Isoform-Specific Homophilic Binding}.
+\newblock {\em Cell}, 118(5):619--633.
+
+\bibitem[Wu and Maniatis, 1999]{Wu1999}
+Wu, Q. and Maniatis, T. (1999).
+\newblock {A striking organization of a large family of human neural
+  cadherin-like cell adhesion genes.}
+\newblock {\em Cell}, 97(6):779--90.
+
+\bibitem[Xia et~al., 1998]{Xia1998}
+Xia, T., SantaLucia, J., Burkard, M.~E., Kierzek, R., Schroeder, S.~J., Jiao,
+  X., Cox, C., and Turner, D.~H. (1998).
+\newblock {Thermodynamic parameters for an expanded nearest-neighbor model for
+  formation of RNA duplexes with Watson-Crick base pairs.}
+\newblock {\em Biochemistry}, 37(42):14719--35.
+
+\bibitem[Yabuta et~al., 2011]{Yabuta2011}
+Yabuta, Y., Ohta, H., Abe, T., Kurimoto, K., Chuma, S., and Saitou, M. (2011).
+\newblock {TDRD5 is required for retrotransposon silencing, chromatoid body
+  assembly, and spermiogenesis in mice.}
+\newblock {\em The Journal of cell biology}, 192(5):781--95.
+
+\bibitem[Yamakawa et~al., 1998]{Yamakawa1998a}
+Yamakawa, K., Huot, Y.~K., Haendelt, M.~a., Hubert, R., Chen, X.~N., Lyons,
+  G.~E., and Korenberg, J.~R. (1998).
+\newblock {DSCAM: a novel member of the immunoglobulin superfamily maps in a
+  Down syndrome region and is involved in the development of the nervous
+  system.}
+\newblock {\em Human molecular genetics}, 7(2):227--37.
+
+\bibitem[Yang et~al., 2011]{Yang2011}
+Yang, Y., Zhan, L., Zhang, W., Sun, F., Wang, W., Tian, N., Bi, J., Wang, H.,
+  Shi, D., Jiang, Y., Zhang, Y., and Jin, Y. (2011).
+\newblock {RNA secondary structure in mutually exclusive splicing}.
+\newblock {\em Nat Struct Mol Biol}, 18(2):159--168.
+
+\bibitem[Yeakley et~al., 2002]{Yeakley2002}
+Yeakley, J.~M., Fan, J.-B., Doucet, D., Luo, L., Wickham, E., Ye, Z., Chee,
+  M.~S., and Fu, X.-D. (2002).
+\newblock {Profiling alternative splicing on fiber-optic arrays}.
+\newblock {\em Nature Biotechnology}, 20(4):353--358.
+
+\bibitem[Yin et~al., 2003]{Yin2003d}
+Yin, S., Ho, C.~K., and Shuman, S. (2003).
+\newblock {Structure-function analysis of T4 RNA ligase 2.}
+\newblock {\em The Journal of biological chemistry}, 278(20):17601--8.
+
+\bibitem[You et~al., 2006]{You2006}
+You, Y., Moreira, B.~G., Behlke, M.~a., and Owczarzy, R. (2006).
+\newblock {Design of LNA probes that improve mismatch discrimination.}
+\newblock {\em Nucleic acids research}, 34(8):e60.
+
+\bibitem[Zerbino and Birney, 2008]{Zerbino2008}
+Zerbino, D.~R. and Birney, E. (2008).
+\newblock {Velvet: algorithms for de novo short read assembly using de Bruijn
+  graphs.}
+\newblock {\em Genome research}, 18:821--829.
+
+\bibitem[Zhan et~al., 2004]{Zhan2004}
+Zhan, X.-L., Clemens, J.~C., Neves, G., Hattori, D., Flanagan, J.~J., Hummel,
+  T., Vasconcelos, M.~L., Chess, A., and Zipursky, S.~L. (2004).
+\newblock {Analysis of Dscam Diversity in Regulating Axon Guidance in
+  Drosophila Mushroom Bodies}.
+\newblock {\em Neuron}, 43(5):673--686.
+
+\bibitem[Zhang et~al., 2012a]{Zhang2012}
+Zhang, F., Wang, J., Xu, J., Zhang, Z., Koppetsch, B.~S., Schultz, N., Vreven,
+  T., Meignin, C., Davis, I., Zamore, P.~D., Weng, Z., and Theurkauf, W.~E.
+  (2012a).
+\newblock {UAP56 Couples piRNA Clusters to the Perinuclear Transposon Silencing
+  Machinery}.
+\newblock {\em Cell}, 151(4):871--884.
+
+\bibitem[Zhang et~al., 2008]{Zhang2008}
+Zhang, Y., Liu, T., Meyer, C.~a., Eeckhoute, J., Johnson, D.~S., Bernstein,
+  B.~E., Nusbaum, C., Myers, R.~M., Brown, M., Li, W., and Liu, X.~S. (2008).
+\newblock {Model-based analysis of ChIP-Seq (MACS).}
+\newblock {\em Genome biology}, 9(9):R137.
+
+\bibitem[Zhang et~al., 2012b]{Zhang2012a}
+Zhang, Z., Theurkauf, W.~E., Weng, Z., and Zamore, P.~D. (2012b).
+\newblock {Strand-specific libraries for high throughput RNA sequencing (
+  RNA-Seq ) prepared without poly ( A ) selection}.
+\newblock {\em Silence}, 3(1):9.
+
+\bibitem[Zhu et~al., 2003]{Zhu2003}
+Zhu, J., Shendure, J., Mitra, R.~D., and Church, G.~M. (2003).
+\newblock {Single molecule profiling of alternative pre-mRNA splicing}.
+\newblock {\em Science (New York, N.Y.)}, 301(5634):836--8.
+
+\bibitem[Zikherman and Weiss, 2008]{Zikherman2008}
+Zikherman, J. and Weiss, A. (2008).
+\newblock {Alternative Splicing of CD45: The Tip of the Iceberg}.
+\newblock {\em Immunity}, 29(6):839--841.
+
+\bibitem[Zipursky and Grueber, 2013]{LawrenceZipursky2013}
+Zipursky, S.~L. and Grueber, W.~B. (2013).
+\newblock {The molecular basis of self-avoidance.}
+\newblock {\em Annual review of neuroscience}, 36(1):547--68.
+
+\bibitem[Zweig et~al., 2008]{Zweig2008}
+Zweig, A.~S., Karolchik, D., Kuhn, R.~M., Haussler, D., and Kent, W.~J. (2008).
+\newblock {UCSC genome browser tutorial.}
+\newblock {\em Genomics}, 92(2):75--84.
+
+\end{thebibliography}

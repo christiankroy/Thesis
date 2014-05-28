@@ -6,15 +6,17 @@
 
 ### Getting Setup ###
 
-1. Obtain a good text editor. I used Sublime Text 2 with some packages installed:
+1. On a Mac, Download [Mactex](http://tug.org/mactex/)
+
+2. Obtain a good text editor. I used Sublime Text 2 with some packages installed:
     * `Monokai Extended` | Color Scheme for coding editing
     * LaTeXTools | Adds some LaTeX functionality
       * Change the cite panel format to `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
     * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
     + Table Cleaner | Useful to make the `LaTeX` tables look clean by pressing `alt + ;` that's ALT and SemiColon.
     * Markdown Extended | Allows for Syntax Markdown Highlighting in Sublime Text
-2. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
-3. Fill out the folder structure.
+3. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
+4. Fill out the folder structure.
 
 ### File and Folder Structure ###
 

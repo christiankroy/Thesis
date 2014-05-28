@@ -2,6 +2,7 @@
 \LoadClass[12pt, letterpaper, oneside]{book}
 
 %%%% FIGURES
+%\usepackage[pdftex]{graphicx}
 \usepackage{graphicx}
 \usepackage{epstopdf}
 \usepackage[centerlast,font={footnotesize},sc]{caption}

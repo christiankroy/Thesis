@@ -57,7 +57,7 @@ Contents of each directory are explained here:
 * Forms: the necessary GSBS forms for graduating
 * Front Matter: Signature pages, abbreviations, etc... All the individual elements (in `*.tex`) form that make up the FrontMatter.
 * LaTeXConfig: Contains two very important files. 1) `Thesis.cls` is the `\documentclass{}` file used by the master `Thesis.tex` file. Contains important formating information for the LaTeX engine. See here for Margin and macro information. Also contains the `shortcuts.tex` file, where you can keep all the gene name macros used in the thesis.
-* Tables: Contains, in LaTeX form, all the tables inserted into the document. 
+* Tables: Contains, in LaTeX form, all the tables inserted into the document.
   *Tables/ExcelDocuments: Working with table data in LaTeX sucks - be sure to keep the original Excel sheet, and use a site like [TableGenerator](http://www.tablesgenerator.com/latex_tables#) to convert them to LaTeX.
 * Writing_fragments: For all those snippets of writing that you end up not using, or may use later.
 
@@ -66,6 +66,16 @@ Contents of each directory are explained here:
 Because you're going to break up the TeX into multiple files and folders, it is important to add a *shabang* line to the top of every `*.tex` file, mostly so Sublime Text::LaTeXTools knows where to look for the Bibliography and References.  Add the following code to the top of EVERY `*.tex` file
 
 `% !TEX root = $ROOT/Thesis/Thesis.tex` Where `$ROOT` = the directory off your root where you thesis files are stored, and `Thesis.tex` is the name of your control thesis `*.tex` file.
+
+### Compiling the PDF File
+
+To do this, you need to execute the following command:
+
+```bash
+pdflatex RoyC_Umass_Thesis.tex
+```
+
+But the way I usually did this was to use the built-in build command in Sublime text's LaTeXTools package.
 
 ### Font sizes beyond `documentclass()`
 
@@ -138,7 +148,7 @@ Options for `\textendash` and `\textemdash` limit line breaks near the dash.
     + Pick a structure and stick to it!
       + Example would be :
       1. `\label{Intro:sec:piRNAs}`
-      2. `\label{Intro:subsec:piRNA precurors are long}`      
+      2. `\label{Intro:subsec:piRNA precurors are long}`
 2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
 3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
 4. Insert a bare, but click able url = `\url{http://www.place.com}`
@@ -182,7 +192,7 @@ Then, in the main text where you want the table inserted, use the following synt
 
 ```TeX
 \begin{table} % TABLE NOTE
-  \caption[TOC TITLE] 
+  \caption[TOC TITLE]
     {
      TEXT TITLE: CAPTION
      }
@@ -208,7 +218,7 @@ Once this is done, open HTML in Word.
 Refer to [here](http://public.wsu.edu/~brians/errors/errors.html) for information.
 
 + watch for Compl{e/i}mentarity. You want the `e`
-+ `\textit{in vivo}` and `\textit{in vitro}` 
++ `\textit{in vivo}` and `\textit{in vitro}`
 + PIWI-piRISC
 + `5\textprime~7meG CAP`
 + poly(A)+

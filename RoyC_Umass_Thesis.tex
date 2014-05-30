@@ -1,14 +1,14 @@
 \documentclass{LaTeXConfig/Thesis}
 \input{LaTeXConfig/shortcuts} % Load macro/shortcuts for organism and gene names
 \begin{document}
-\frontmatter 
-  \pagestyle{fancy} 
+\frontmatter
+  \pagestyle{fancy}
   \setstretch{1}
-  \input{FrontMatter/titlePage} 
+  \input{FrontMatter/titlePage}
   \input{FrontMatter/signaturePage}
   \input{FrontMatter/acknowledgements}
   \input{FrontMatter/dedication}
-  \input{FrontMatter/abstract}  
+  \input{FrontMatter/abstract}
   \input{FrontMatter/tablesOfContent}
   \input{FrontMatter/abbreviationsAndSymbols}
   \input{FrontMatter/definitions}
@@ -20,14 +20,14 @@
   \input{Chapters/Chapter2-Roy2014}
   \input{Chapters/Chapter3-Li2013}
   \input{Chapters/Chapter4-SeqZip}
-  \input{Chapters/Chapter5-Disc} 
+  \input{Chapters/Chapter5-Disc}
 \appendix \label{hd:Appendicies}
   \setstretch{1}
   \input{Appendices/AppendixA}
   \input{Appendices/AppendixB}
 \backmatter \label{hd:Bibliography}
-  \setstretch{1} 
+  \setstretch{1}
   \lhead{\emph{Bibliography}}
-  \bibliographystyle{Bibliography/apalike}
+  \bibliographystyle{Bibliography/apalike_etalOver10} % Truncate many authors
   \bibliography{Bibliography/library.bib}
 \end{document}

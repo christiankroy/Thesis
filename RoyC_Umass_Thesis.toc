@@ -50,7 +50,7 @@
 \contentsline {section}{\numberline {3.3}Results}{106}{section.79}
 \contentsline {subsection}{\numberline {3.3.1}Defining piRNA-Producing Transcripts in the Mouse Testis}{106}{subsection.80}
 \contentsline {subsubsection}{\numberline {3.3.1.1}Caption for Figure \ref {MolCel:fig:MolCelS1}}{110}{subsubsection.83}
-\contentsline {subsection}{\numberline {3.3.2}piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}{111}{subsection.84}
+\contentsline {subsection}{\numberline {3.3.2}piRNA Precursor RNAs are Canonical RNA Pol II Transcripts}{110}{subsection.84}
 \contentsline {subsection}{\numberline {3.3.3}A Transcript-based Set of piRNA Loci}{111}{subsection.85}
 \contentsline {subsection}{\numberline {3.3.4}Three Classes of piRNAs During Post-Natal Spermatogenesis}{112}{subsection.86}
 \contentsline {subsubsection}{\numberline {3.3.4.1}Caption for Figure \ref {MolCel:fig:MolCelF2}}{120}{subsubsection.91}

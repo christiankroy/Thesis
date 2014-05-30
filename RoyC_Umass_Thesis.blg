@@ -1,28 +1,27 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RoyC_Umass_Thesis.aux
-The style file: Bibliography/apalike.bst
+The style file: Bibliography/apalike_etalOver10.bst
 Reallocated field_info (elt_size=4) to 13404 items from 5000.
 Database file #1: Bibliography/library.bib.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty publisher in Calarco2007
 Warning--there's a number but no volume in Chu2012
-Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Warning--there's a number but no volume in Lee2014
 Warning--can't use both author and editor fields in RDevelopmentCoreTeam2011
 Warning--empty journal in Rumsfeld2011
 Warning--there's a number but no volume in Vagin2004
 You've used 382 entries,
-            1935 wiz_defined-function locations,
-            2782 strings with 119956 characters,
-and the built_in function-call counts, 238674 in all, are:
-= -- 21076
-> -- 19280
+            1958 wiz_defined-function locations,
+            2783 strings with 119971 characters,
+and the built_in function-call counts, 221471 in all, are:
+= -- 22329
+> -- 14539
 < -- 111
-+ -- 7276
-- -- 7266
-* -- 25064
-:= -- 42907
++ -- 6531
+- -- 5268
+* -- 21015
+:= -- 37019
 add.period$ -- 1143
 call.type$ -- 382
 change.case$ -- 5540
@@ -30,18 +29,18 @@ chr.to.int$ -- 372
 cite$ -- 388
 duplicate$ -- 5406
 empty$ -- 11174
-format.name$ -- 7786
-if$ -- 43397
+format.name$ -- 5788
+if$ -- 41907
 int.to.chr$ -- 11
 int.to.str$ -- 0
 missing$ -- 383
 newline$ -- 1910
 num.names$ -- 1146
-pop$ -- 4721
+pop$ -- 5815
 preamble$ -- 1
 purify$ -- 5543
 quote$ -- 0
-skip$ -- 3986
+skip$ -- 5345
 stack$ -- 0
 substring$ -- 13209
 swap$ -- 448

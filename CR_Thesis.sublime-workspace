@@ -52,6 +52,30 @@
 	"buffers":
 	[
 		{
+			"file": "RoyC_Umass_Thesis.tex",
+			"settings":
+			{
+				"buffer_size": 1045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chapters/Chapter1-Intro.tex",
+			"settings":
+			{
+				"buffer_size": 85675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chapters/Chapter2-Roy2014.tex",
+			"settings":
+			{
+				"buffer_size": 58174,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "README.md",
 			"settings":
 			{
@@ -60,10 +84,10 @@
 			}
 		},
 		{
-			"file": "FrontMatter/signaturePage.tex",
+			"file": "/Users/royc/Google_Drive/CV/In Markdown/ChristianKRoyCV20140227Untitled.md",
 			"settings":
 			{
-				"buffer_size": 1594,
+				"buffer_size": 4267,
 				"line_ending": "Unix"
 			}
 		}
@@ -200,25 +224,28 @@
 	},
 	"file_history":
 	[
-		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex",
+		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/Thesis.cls",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.synctex.gz(busy)",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.out",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-Roy2014.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-SeqZip.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Li2013.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/acknowledgements.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/signaturePage.tex",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter5-Disc.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/tablesOfContent.tex",
 		"/Users/royc/Google_Drive/Thesis/Tables/BigSpanGenes.tex",
-		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/Thesis.cls",
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/shortcuts.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
 		"/Users/royc/Google_Drive/Thesis/Tables/compToolsForMolBiogly.tex",
 		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixB.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/preface.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/abstract.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/signaturePage.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/abbreviationsANDSymbols.tex",
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/htlatexConfig",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-Roy2014.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/definitions.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Li2013.tex",
 		"/Users/royc/Google_Drive/Thesis/README.md",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/titlePage.tex",
 		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixA.tex",
@@ -237,7 +264,6 @@
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/Chapters/ChapterTemplate.tex",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.toc",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/dedication.tex",
 		"/Users/royc/Google_Drive/Thesis/test.sh",
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/symbols.tex",
@@ -250,7 +276,6 @@
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/royc/Google_Drive/Thesis/Tables/FlyGenesWith1000sofTx.tex",
 		"/Users/royc/Google_Drive/Thesis/Tables/exampleLigamerAssemblerInput.tex",
-		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.out",
 		"/Users/royc/Google_Drive/Thesis/Bibliography/library.bib",
 		"/Users/royc/Google_Drive/Thesis/Appendices/ligamerAssembler.pl",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/abreviations.tex",
@@ -326,8 +351,7 @@
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.bbl",
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/main.tex",
-		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography.bib",
-		"/Users/royc/Desktop/thesis.v0.13.tex"
+		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography.bib"
 	],
 	"find":
 	{
@@ -346,6 +370,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"SeqZipPaper:fig:Roy2014 S4",
+			"coli",
+			"E.Coli",
 			"cry",
 			"the",
 			"Comment",
@@ -470,10 +497,7 @@
 			"\\figure",
 			"Li2013",
 			"PNAS",
-			"rattus\\_norvegicus",
-			"\\textlessGria",
-			"Li2013",
-			".pdf}"
+			"rattus\\_norvegicus"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -586,20 +610,124 @@
 			"\\textprime",
 			"\\t\\\\item "
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RoyC_Umass_Thesis.tex",
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"enable_checkbounce_grammar": false,
+							"enable_checkbounce_spelling": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Chapters/Chapter1-Intro.tex",
+					"settings":
+					{
+						"buffer_size": 85675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53848,
+								53848
+							]
+						],
+						"settings":
+						{
+							"enable_checkbounce_grammar": false,
+							"enable_checkbounce_spelling": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Chapters/Chapter2-Roy2014.tex",
+					"settings":
+					{
+						"buffer_size": 58174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25776,
+								25776
+							]
+						],
+						"settings":
+						{
+							"enable_checkbounce_grammar": false,
+							"enable_checkbounce_spelling": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
 		{
 			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 0,
+					"buffer": 3,
 					"file": "README.md",
 					"settings":
 					{
@@ -626,25 +754,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4382.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "FrontMatter/signaturePage.tex",
+					"buffer": 4,
+					"file": "/Users/royc/Google_Drive/CV/In Markdown/ChristianKRoyCV20140227Untitled.md",
 					"settings":
 					{
-						"buffer_size": 1594,
+						"buffer_size": 4267,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								922,
-								922
+								0,
+								0
 							]
 						],
 						"settings":
@@ -654,8 +782,7 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -683,11 +810,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.59855914303,
 			1.0
 		],
 		"rows":
@@ -699,7 +833,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 243.0
+		"height": 371.0
 	},
 	"output.git":
 	{

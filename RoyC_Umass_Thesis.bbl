@@ -24,10 +24,7 @@ Anstey, M.~L., Rogers, S.~M., Ott, S.~R., Burrows, M., and Simpson, S.~J.
 \newblock {\em Science (New York, N.Y.)}, 323(5914):627--30.
 
 \bibitem[Aravin et~al., 2006]{Aravin2006}
-Aravin, A., Gaidatzis, D., Pfeffer, S., Lagos-Quintana, M., Landgraf, P.,
-  Iovino, N., Morris, P., Brownstein, M.~J., Kuramochi-Miyagawa, S., Nakano,
-  T., Chien, M., Russo, J.~J., Ju, J., Sheridan, R., Sander, C., Zavolan, M.,
-  and Tuschl, T. (2006).
+Aravin, A., Gaidatzis, D., Pfeffer, S., et~al. (2006).
 \newblock {A novel class of small RNAs bind to MILI protein in mouse testes}.
 \newblock {\em Nature}, 442(7099):203--207.
 
@@ -65,10 +62,7 @@ Aravin, A.~A., Sachidanandam, R., Girard, A., Fejes-Toth, K., and Hannon, G.~J.
 \newblock {\em Science (New York, N.Y.)}, 316(5825):744--7.
 
 \bibitem[Ashe et~al., 2012]{Ashe2012}
-Ashe, A., Sapetschnig, A., Weick, E.-M., Mitchell, J., Bagijn, M.~P., Cording,
-  A.~C., Doebley, A.-L., Goldstein, L.~D., Lehrbach, N.~J., {Le Pen}, J.,
-  Pintacuda, G., Sakaguchi, A., Sarkies, P., Ahmed, S., and Miska, E.~a.
-  (2012).
+Ashe, A., Sapetschnig, A., Weick, E.-M., et~al. (2012).
 \newblock {piRNAs can trigger a multigenerational epigenetic memory in the
   germline of C. elegans.}
 \newblock {\em Cell}, 150(1):88--99.
@@ -101,10 +95,7 @@ Barash, Y., Calarco, J.~A., Gao, W., Pan, Q., Wang, X., Shai, O., Blencowe,
 \newblock {\em Nature}, 465(7294):53--59.
 
 \bibitem[Barbosa-Morais et~al., 2012]{Barbosa-Morais2012}
-Barbosa-Morais, N.~L., Irimia, M., Pan, Q., Xiong, H.~Y., Gueroussov, S., Lee,
-  L.~J., Slobodeniuc, V., Kutter, C., Watt, S., Colak, R., Kim, T.,
-  Misquitta-Ali, C.~M., Wilson, M.~D., Kim, P.~M., Odom, D.~T., Frey, B.~J.,
-  and Blencowe, B.~J. (2012).
+Barbosa-Morais, N.~L., Irimia, M., Pan, Q., et~al. (2012).
 \newblock {The evolutionary landscape of alternative splicing in vertebrate
   species.}
 \newblock {\em Science (New York, N.Y.)}, 338(6114):1587--93.
@@ -116,10 +107,7 @@ Barrangou, R., Fremaux, C., Deveau, H., Richards, M., Boyaval, P., Moineau, S.,
 \newblock {\em Science (New York, N.Y.)}, 315(5819):1709--12.
 
 \bibitem[Barrett et~al., 2013]{Barrett2013}
-Barrett, T., Wilhite, S.~E., Ledoux, P., Evangelista, C., Kim, I.~F.,
-  Tomashevsky, M., Marshall, K.~a., Phillippy, K.~H., Sherman, P.~M., Holko,
-  M., Yefanov, A., Lee, H., Zhang, N., Robertson, C.~L., Serova, N., Davis, S.,
-  and Soboleva, A. (2013).
+Barrett, T., Wilhite, S.~E., Ledoux, P., et~al. (2013).
 \newblock {NCBI GEO: archive for functional genomics data sets--update.}
 \newblock {\em Nucleic acids research}, 41(Database issue):D991--5.
 
@@ -142,46 +130,7 @@ Benson, D.~a., Karsch-Mizrachi, I., Lipman, D.~J., Ostell, J., and Sayers,
 \newblock {\em Nucleic acids research}, 39(Database issue):D32--7.
 
 \bibitem[Bentley et~al., 2008]{Bentley2008}
-Bentley, D.~R., Balasubramanian, S., Swerdlow, H.~P., Smith, G.~P., Milton, J.,
-  Brown, C.~G., Hall, K.~P., Evers, D.~J., Barnes, C.~L., Bignell, H.~R.,
-  Boutell, J.~M., Bryant, J., Carter, R.~J., {Keira Cheetham}, R., Cox, A.~J.,
-  Ellis, D.~J., Flatbush, M.~R., Gormley, N.~a., Humphray, S.~J., Irving,
-  L.~J., Karbelashvili, M.~S., Kirk, S.~M., Li, H., Liu, X., Maisinger, K.~S.,
-  Murray, L.~J., Obradovic, B., Ost, T., Parkinson, M.~L., Pratt, M.~R.,
-  Rasolonjatovo, I. M.~J., Reed, M.~T., Rigatti, R., Rodighiero, C., Ross,
-  M.~T., Sabot, A., Sankar, S.~V., Scally, A., Schroth, G.~P., Smith, M.~E.,
-  Smith, V.~P., Spiridou, A., Torrance, P.~E., Tzonev, S.~S., Vermaas, E.~H.,
-  Walter, K., Wu, X., Zhang, L., Alam, M.~D., Anastasi, C., Aniebo, I.~C.,
-  Bailey, D. M.~D., Bancarz, I.~R., Banerjee, S., Barbour, S.~G., Baybayan,
-  P.~a., Benoit, V.~a., Benson, K.~F., Bevis, C., Black, P.~J., Boodhun, A.,
-  Brennan, J.~S., Bridgham, J.~a., Brown, R.~C., Brown, A.~a., Buermann, D.~H.,
-  Bundu, A.~a., Burrows, J.~C., Carter, N.~P., Castillo, N., {Chiara E
-  Catenazzi}, M., Chang, S., {Neil Cooley}, R., Crake, N.~R., Dada, O.~O.,
-  Diakoumakos, K.~D., Dominguez-Fernandez, B., Earnshaw, D.~J., Egbujor, U.~C.,
-  Elmore, D.~W., Etchin, S.~S., Ewan, M.~R., Fedurco, M., Fraser, L.~J.,
-  {Fuentes Fajardo}, K.~V., {Scott Furey}, W., George, D., Gietzen, K.~J.,
-  Goddard, C.~P., Golda, G.~S., Granieri, P.~a., Green, D.~E., Gustafson,
-  D.~L., Hansen, N.~F., Harnish, K., Haudenschild, C.~D., Heyer, N.~I., Hims,
-  M.~M., Ho, J.~T., Horgan, A.~M., Hoschler, K., Hurwitz, S., Ivanov, D.~V.,
-  Johnson, M.~Q., James, T., {Huw Jones}, T.~a., Kang, G.-D., Kerelska, T.~H.,
-  Kersey, A.~D., Khrebtukova, I., Kindwall, A.~P., Kingsbury, Z.,
-  Kokko-Gonzales, P.~I., Kumar, A., Laurent, M.~a., Lawley, C.~T., Lee, S.~E.,
-  Lee, X., Liao, A.~K., Loch, J.~a., Lok, M., Luo, S., Mammen, R.~M., Martin,
-  J.~W., McCauley, P.~G., McNitt, P., Mehta, P., Moon, K.~W., Mullens, J.~W.,
-  Newington, T., Ning, Z., {Ling Ng}, B., Novo, S.~M., O'Neill, M.~J., Osborne,
-  M.~a., Osnowski, A., Ostadan, O., Paraschos, L.~L., Pickering, L., Pike,
-  A.~C., Pike, A.~C., {Chris Pinkard}, D., Pliskin, D.~P., Podhasky, J.,
-  Quijano, V.~J., Raczy, C., Rae, V.~H., Rawlings, S.~R., {Chiva Rodriguez},
-  A., Roe, P.~M., Rogers, J., {Rogert Bacigalupo}, M.~C., Romanov, N., Romieu,
-  A., Roth, R.~K., Rourke, N.~J., Ruediger, S.~T., Rusman, E., Sanches-Kuiper,
-  R.~M., Schenker, M.~R., Seoane, J.~M., Shaw, R.~J., Shiver, M.~K., Short,
-  S.~W., Sizto, N.~L., Sluis, J.~P., Smith, M.~a., {Ernest Sohna Sohna}, J.,
-  Spence, E.~J., Stevens, K., Sutton, N., Szajkowski, L., Tregidgo, C.~L.,
-  Turcatti, G., Vandevondele, S., Verhovsky, Y., Virk, S.~M., Wakelin, S.,
-  Walcott, G.~C., Wang, J., Worsley, G.~J., Yan, J., Yau, L., Zuerlein, M.,
-  Rogers, J., Mullikin, J.~C., Hurles, M.~E., McCooke, N.~J., West, J.~S.,
-  Oaks, F.~L., Lundberg, P.~L., Klenerman, D., Durbin, R., and Smith, A.~J.
-  (2008).
+Bentley, D.~R., Balasubramanian, S., Swerdlow, H.~P., et~al. (2008).
 \newblock {Accurate whole human genome sequencing using reversible terminator
   chemistry.}
 \newblock {\em Nature}, 456(7218):53--9.
@@ -192,8 +141,7 @@ Benton, M.~J. and Donoghue, P. C.~J. (2007).
 \newblock {\em Molecular biology and evolution}, 24(1):26--53.
 
 \bibitem[Berg et~al., 2012]{Berg2012}
-Berg, M.~G., Singh, L.~N., Younis, I., Liu, Q., Pinto, A.~M., Kaida, D., Zhang,
-  Z., Cho, S., Sherrill-Mix, S., Wan, L., and Dreyfuss, G. (2012).
+Berg, M.~G., Singh, L.~N., Younis, I., et~al. (2012).
 \newblock {U1 snRNP determines mRNA length and regulates isoform expression.}
 \newblock {\em Cell}, 150(1):53--64.
 
@@ -242,64 +190,7 @@ Bingham, J.~L., Carrigan, P.~E., Miller, L.~J., and Srinivasan, S. (2008).
 \newblock {\em Omics: A Journal of Integrative Biology}, 12(1):83--92.
 
 \bibitem[Birney et~al., 2007]{Birney2007}
-Birney, E., Stamatoyannopoulos, J.~A., Dutta, A., Guig|[oacute]|, R., Gingeras,
-  T.~R., Margulies, E.~H., Weng, Z., Snyder, M., Dermitzakis, E.~T., Thurman,
-  R.~E., Kuehn, M.~S., Taylor, C.~M., Neph, S., Koch, C.~M., Asthana, S.,
-  Malhotra, A., Adzhubei, I., Greenbaum, J.~A., Andrews, R.~M., Flicek, P.,
-  Boyle, P.~J., Cao, H., Carter, N.~P., Clelland, G.~K., Davis, S., Day, N.,
-  Dhami, P., Dillon, S.~C., Dorschner, M.~O., Fiegler, H., Giresi, P.~G.,
-  Goldy, J., Hawrylycz, M., Haydock, A., Humbert, R., James, K.~D., Johnson,
-  B.~E., Johnson, E.~M., Frum, T.~T., Rosenzweig, E.~R., Karnani, N., Lee, K.,
-  Lefebvre, G.~C., Navas, P.~A., Neri, F., Parker, S. C.~J., Sabo, P.~J.,
-  Sandstrom, R., Shafer, A., Vetrie, D., Weaver, M., Wilcox, S., Yu1, M.,
-  Collins, F.~S., Dekker, J., Lieb, J.~D., Tullius, T.~D., Crawford, G.~E.,
-  Sunyaev, S., Noble, W.~S., Dunham, I., Denoeud, F., Reymond, A., Kapranov,
-  P., Rozowsky, J., Zheng, D., Castelo, R., Frankish, A., Harrow, J., Ghosh,
-  S., Sandelin, A., Hofacker, I.~L., Baertsch, R., Keefe, D., Dike, S., Cheng,
-  J., Hirsch, H.~A., Sekinger, E.~A., Lagarde, J., Abril, J.~F., Shahab, A.,
-  Flamm, C., Fried, C., Hackerm|[uuml]|ller, J., Hertel, J., Lindemeyer, M.,
-  Missal, K., Tanzer, A., Washietl, S., Korbel, J., Emanuelsson, O., Pedersen,
-  J.~S., Holroyd, N., Taylor, R., Swarbreck, D., Matthews, N., Dickson, M.~C.,
-  Thomas, D.~J., Weirauch, M.~T., Gilbert, J., Drenkow, J., Bell, I., Zhao, X.,
-  Srinivasan, K., Sung, W.-K., Ooi, H.~S., Chiu, K.~P., Foissac, S., Alioto,
-  T., Brent, M., Pachter, L., Tress, M.~L., Valencia, A., Choo, S.~W., Choo,
-  C.~Y., Ucla, C., Manzano, C., Wyss, C., Cheung, E., Clark, T.~G., Brown,
-  J.~B., Ganesh, M., Patel, S., Tammana, H., Chrast, J., Henrichsen, C.~N.,
-  Kai, C., Kawai, J., Nagalakshmi, U., Wu, J., Lian, Z., Lian, J., Newburger,
-  P., Zhang, X., Bickel, P., Mattick, J.~S., Carninci, P., Hayashizaki, Y.,
-  Weissman, S., Hubbard, T., Myers, R.~M., Rogers, J., Stadler, P.~F., Lowe,
-  T.~M., Wei, C.-L., Ruan, Y., Struhl, K., Gerstein, M., Antonarakis, S.~E.,
-  Fu, Y., Green, E.~D., Kara|[ouml]|z, U., Siepel, A., Taylor, J., Liefer,
-  L.~A., Wetterstrand, K.~A., Good, P.~J., Feingold, E.~A., Guyer, M.~S.,
-  Cooper, G.~M., Asimenos, G., Dewey, C.~N., Hou, M., Nikolaev, S.,
-  Montoya-Burgos, J.~I., L|[ouml]|ytynoja, A., Whelan, S., Pardi, F.,
-  Massingham, T., Huang, H., Zhang, N.~R., Holmes, I., Mullikin, J.~C.,
-  Ureta-Vidal, A., Paten, B., Seringhaus, M., Church, D., Rosenbloom, K., Kent,
-  W.~J., Stone, E.~A., Batzoglou, S., Goldman, N., Hardison, R.~C., Haussler,
-  D., Miller, W., Sidow, A., Trinklein, N.~D., Zhang, Z.~D., Barrera, L.,
-  Stuart, R., King, D.~C., Ameur, A., Enroth, S., Bieda, M.~C., Kim, J.,
-  Bhinge, A.~A., Jiang, N., Liu, J., Yao, F., Vega, V.~B., Lee, C.~W., Ng, P.,
-  Yang, A., Moqtaderi, Z., Zhu, Z., Xu, X., Squazzo, S., Oberley, M.~J., Inman,
-  D., Singer, M.~A., Richmond, T.~A., Munn, K.~J., Rada-Iglesias, A.,
-  Wallerman, O., Komorowski, J., Fowler, J.~C., Couttet, P., Bruce, A.~W.,
-  Dovey, O.~M., Ellis, P.~D., Langford, C.~F., Nix, D.~A., Euskirchen, G.,
-  Hartman, S., Urban, A.~E., Kraus, P., Calcar, S.~V., Heintzman, N., Kim,
-  T.~H., Wang, K., Qu, C., Hon, G., Luna, R., Glass, C.~K., Rosenfeld, M.~G.,
-  Aldred, S.~F., Cooper, S.~J., Halees, A., Lin, J.~M., Shulha, H.~P., Zhang,
-  X., Xu, M., Haidar, J. N.~S., Yu, Y., Birney*, E., Iyer, V.~R., Green, R.~D.,
-  Wadelius, C., Farnham, P.~J., Ren, B., Harte, R.~A., Hinrichs, A.~S.,
-  Trumbower, H., Clawson, H., Hillman-Jackson, J., Zweig, A.~S., Smith, K.,
-  Thakkapallayil, A., Barber, G., Kuhn, R.~M., Karolchik, D., Armengol, L.,
-  Bird, C.~P., de~Bakker, P. I.~W., Kern, A.~D., Lopez-Bigas, N., Martin,
-  J.~D., Stranger, B.~E., Woodroffe, A., Davydov, E., Dimas, A., Eyras, E.,
-  Hallgr|[iacute]|msd|[oacute]|ttir, I.~B., Huppert, J., Zody, M.~C., Abecasis,
-  G.~R., Estivill, X., Bouffard, G.~G., Guan, X., Hansen, N.~F., Idol, J.~R.,
-  Maduro, V.~V., Maskeri, B., McDowell, J.~C., Park, M., Thomas, P.~J., Young,
-  A.~C., Blakesley, R.~W., Muzny, D.~M., Sodergren, E., Wheeler, D.~A., Worley,
-  K.~C., Jiang, H., Weinstock, G.~M., Gibbs, R.~A., Graves, T., Fulton, R.,
-  Mardis, E.~R., Wilson, R.~K., Clamp, M., Cuff, J., Gnerre, S., Jaffe, D.~B.,
-  Chang, J.~L., Lindblad-Toh, K., Lander, E.~S., Koriabine, M., Nefedov, M.,
-  Osoegawa, K., Yoshinaga, Y., Zhu, B., and de~Jong, P.~J. (2007).
+Birney, E., Stamatoyannopoulos, J.~A., Dutta, A., et~al. (2007).
 \newblock {Identification and analysis of functional elements in 1\% of the
   human genome by the ENCODE pilot project}.
 \newblock {\em Nature}, 447(7146):799--816.
@@ -351,24 +242,13 @@ Brennecke, J. and Malone, C. (2008).
 \newblock {\em Science (New York, \ldots}, 322(November):1387--1392.
 
 \bibitem[Brenner et~al., 2000]{Brenner2000a}
-Brenner, S., Johnson, M., Bridgham, J., Golda, G., Lloyd, D.~H., Johnson, D.,
-  Luo, S., McCurdy, S., Foy, M., Ewan, M., Roth, R., George, D., Eletr, S.,
-  Albrecht, G., Vermaas, E., Williams, S.~R., Moon, K., Burcham, T., Pallas,
-  M., DuBridge, R.~B., Kirchner, J., Fearon, K., Mao, J., and Corcoran, K.
-  (2000).
+Brenner, S., Johnson, M., Bridgham, J., et~al. (2000).
 \newblock {Gene expression analysis by massively parallel signature sequencing
   (MPSS) on microbead arrays.}
 \newblock {\em Nature biotechnology}, 18(6):630--4.
 
 \bibitem[Brown et~al., 2014]{Brown2014}
-Brown, J.~B., Boley, N., Eisman, R., May, G.~E., Stoiber, M.~H., Duff, M.~O.,
-  Booth, B.~W., Wen, J., Park, S., Suzuki, A.~M., Wan, K.~H., Yu, C., Zhang,
-  D., Carlson, J.~W., Cherbas, L., Eads, B.~D., Miller, D., Mockaitis, K.,
-  Roberts, J., Davis, C.~a., Frise, E., Hammonds, A.~S., Olson, S., Shenker,
-  S., Sturgill, D., Samsonova, A.~a., Weiszmann, R., Robinson, G., Hernandez,
-  J., Andrews, J., Bickel, P.~J., Carninci, P., Cherbas, P., Gingeras, T.~R.,
-  Hoskins, R.~a., Kaufman, T.~C., Lai, E.~C., Oliver, B., Perrimon, N.,
-  Graveley, B.~R., and Celniker, S.~E. (2014).
+Brown, J.~B., Boley, N., Eisman, R., et~al. (2014).
 \newblock {Diversity and dynamics of the Drosophila transcriptome.}
 \newblock {\em Nature}, pages 1--7.
 
@@ -384,8 +264,7 @@ Bullard, D. and Bowater, R. (2006).
 \newblock {\em Biochemical Journal}, 398(Pt 1):135--144.
 
 \bibitem[Burnside et~al., 2008]{Burnside2008}
-Burnside, J., Ouyang, M., Anderson, A., Bernberg, E., Lu, C., Meyers, B.~C.,
-  Green, P.~J., Markis, M., Isaacs, G., Huang, E., and Morgan, R.~W. (2008).
+Burnside, J., Ouyang, M., Anderson, A., et~al. (2008).
 \newblock {Deep sequencing of chicken microRNAs.}
 \newblock {\em BMC genomics}, 9:185.
 
@@ -447,8 +326,7 @@ Chauleau, M. and Shuman, S. (2013).
 \newblock {\em RNA (New York, N.Y.)}, 19(12):1840--1847.
 
 \bibitem[Chen et~al., 2009]{Chen2009a}
-Chen, C., Jin, J., James, D.~A., Adams-cioaba, M.~A., Gyoon, J., Guo, Y.,
-  Tenaglia, E., Xu, C., Gish, G., Min, J., and Pawson, T. (2009).
+Chen, C., Jin, J., James, D.~A., et~al. (2009).
 \newblock {Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor
   domain to arginine methylated Miwi}.
 \newblock {\em Proceedings of the National Academy of Sciences},
@@ -460,10 +338,7 @@ Chen, C., Nott, T.~J., Jin, J., and Pawson, T. (2011).
 \newblock {\em Nature reviews. Molecular cell biology}, 12(10):629--42.
 
 \bibitem[Chen et~al., 2008]{Chen2008}
-Chen, X., Xu, H., Yuan, P., Fang, F., Huss, M., Vega, V.~B., Wong, E., Orlov,
-  Y.~L., Zhang, W., Jiang, J., Loh, Y.-H., Yeo, H.~C., Yeo, Z.~X., Narang, V.,
-  Govindarajan, K.~R., Leong, B., Shahab, A., Ruan, Y., Bourque, G., Sung,
-  W.-K., Clarke, N.~D., Wei, C.-L., and Ng, H.-H. (2008).
+Chen, X., Xu, H., Yuan, P., et~al. (2008).
 \newblock {Integration of external signaling pathways with the core
   transcriptional network in embryonic stem cells.}
 \newblock {\em Cell}, 133(6):1106--17.
@@ -569,11 +444,7 @@ Deng, W. and Lin, H. (2002).
 \newblock {\em Developmental cell}, 2(6):819--830.
 
 \bibitem[Derrien et~al., 2012]{Derrien2012}
-Derrien, T., Johnson, R., Bussotti, G., Tanzer, A., Djebali, S., Tilgner, H.,
-  Guernec, G., Martin, D., Merkel, A., Knowles, D.~G., Lagarde, J., Veeravalli,
-  L., Ruan, X., Ruan, Y., Lassmann, T., Carninci, P., Brown, J.~B., Lipovich,
-  L., Gonzalez, J.~M., Thomas, M., Davis, C.~a., Shiekhattar, R., Gingeras,
-  T.~R., Hubbard, T.~J., Notredame, C., Harrow, J., and Guig\'{o}, R. (2012).
+Derrien, T., Johnson, R., Bussotti, G., et~al. (2012).
 \newblock {The GENCODE v7 catalog of human long noncoding RNAs: analysis of
   their gene structure, evolution, and expression.}
 \newblock {\em Genome research}, 22(9):1775--89.
@@ -587,30 +458,12 @@ Derrien, T., Johnson, R., Bussotti, G., Tanzer, A., Djebali, S., Tilgner, H.,
 \newblock {\em Molecular cell}, 50(4):601--8.
 
 \bibitem[Djebali et~al., 2012]{Djebali2012}
-Djebali, S., Davis, C.~a., Merkel, A., Dobin, A., Lassmann, T., Mortazavi, A.,
-  Tanzer, A., Lagarde, J., Lin, W., Schlesinger, F., Xue, C., Marinov, G.~K.,
-  Khatun, J., Williams, B.~a., Zaleski, C., Rozowsky, J., R\"{o}der, M.,
-  Kokocinski, F., Abdelhamid, R.~F., Alioto, T., Antoshechkin, I., Baer, M.~T.,
-  Bar, N.~S., Batut, P., Bell, K., Bell, I., Chakrabortty, S., Chen, X.,
-  Chrast, J., Curado, J., Derrien, T., Drenkow, J., Dumais, E., Dumais, J.,
-  Duttagupta, R., Falconnet, E., Fastuca, M., Fejes-Toth, K., Ferreira, P.,
-  Foissac, S., Fullwood, M.~J., Gao, H., Gonzalez, D., Gordon, A., Gunawardena,
-  H., Howald, C., Jha, S., Johnson, R., Kapranov, P., King, B., Kingswood, C.,
-  Luo, O.~J., Park, E., Persaud, K., Preall, J.~B., Ribeca, P., Risk, B.,
-  Robyr, D., Sammeth, M., Schaffer, L., See, L.-H., Shahab, A., Skancke, J.,
-  Suzuki, A.~M., Takahashi, H., Tilgner, H., Trout, D., Walters, N., Wang, H.,
-  Wrobel, J., Yu, Y., Ruan, X., Hayashizaki, Y., Harrow, J., Gerstein, M.,
-  Hubbard, T., Reymond, A., Antonarakis, S.~E., Hannon, G., Giddings, M.~C.,
-  Ruan, Y., Wold, B., Carninci, P., Guig\'{o}, R., and Gingeras, T.~R. (2012).
+Djebali, S., Davis, C.~a., Merkel, A., et~al. (2012).
 \newblock {Landscape of transcription in human cells.}
 \newblock {\em Nature}, 489(7414):101--8.
 
 \bibitem[Djebali et~al., 2008]{Djebali2008}
-Djebali, S., Kapranov, P., Foissac, S., Lagarde, J., Reymond, A., Ucla, C.,
-  Wyss, C., Drenkow, J., Dumais, E., Murray, R.~R., Lin, C., Szeto, D.,
-  Denoeud, F., Calvo, M., Frankish, A., Harrow, J., Makrythanasis, P., Vidal,
-  M., Salehi-Ashtiani, K., Antonarakis, S.~E., Gingeras, T.~R., and Guigo, R.
-  (2008).
+Djebali, S., Kapranov, P., Foissac, S., et~al. (2008).
 \newblock {Efficient targeted transcript discovery via array-based
   normalization of RACE libraries}.
 \newblock {\em Nat Meth}, 5(7):629--635.
@@ -622,89 +475,7 @@ Dong, Y., Taylor, H.~E., and Dimopoulos, G. (2006).
 \newblock {\em PLoS Biology}, 4:1137--1146.
 
 \bibitem[Dunham et~al., 2012]{Dunham2012}
-Dunham, I., Kundaje, A., Aldred, S.~F., Collins, P.~J., Davis, C.~a., Doyle,
-  F., Epstein, C.~B., Frietze, S., Harrow, J., Kaul, R., Khatun, J., Lajoie,
-  B.~R., Landt, S.~G., Lee, B.-K., Pauli, F., Rosenbloom, K.~R., Sabo, P.,
-  Safi, A., Sanyal, A., Shoresh, N., Simon, J.~M., Song, L., Trinklein, N.~D.,
-  Altshuler, R.~C., Birney, E., Brown, J.~B., Cheng, C., Djebali, S., Dong, X.,
-  Ernst, J., Furey, T.~S., Gerstein, M., Giardine, B., Greven, M., Hardison,
-  R.~C., Harris, R.~S., Herrero, J., Hoffman, M.~M., Iyer, S., Kelllis, M.,
-  Kheradpour, P., Lassman, T., Li, Q., Lin, X., Marinov, G.~K., Merkel, A.,
-  Mortazavi, A., Parker, S. C.~J., Reddy, T.~E., Rozowsky, J., Schlesinger, F.,
-  Thurman, R.~E., Wang, J., Ward, L.~D., Whitfield, T.~W., Wilder, S.~P., Wu,
-  W., Xi, H.~S., Yip, K.~Y., Zhuang, J., Bernstein, B.~E., Green, E.~D.,
-  Gunter, C., Snyder, M., Pazin, M.~J., Lowdon, R.~F., Dillon, L. a.~L., Adams,
-  L.~B., Kelly, C.~J., Zhang, J., Wexler, J.~R., Good, P.~J., Feingold, E.~a.,
-  Crawford, G.~E., Dekker, J., Elinitski, L., Farnham, P.~J., Giddings, M.~C.,
-  Gingeras, T.~R., Guig\'{o}, R., Hubbard, T.~J., Kellis, M., Kent, W.~J.,
-  Lieb, J.~D., Margulies, E.~H., Myers, R.~M., Starnatoyannopoulos, J.~a.,
-  Tennebaum, S.~a., Weng, Z., White, K.~P., Wold, B., Yu, Y., Wrobel, J., Risk,
-  B.~a., Gunawardena, H.~P., Kuiper, H.~C., Maier, C.~W., Xie, L., Chen, X.,
-  Mikkelsen, T.~S., Gillespie, S., Goren, A., Ram, O., Zhang, X., Wang, L.,
-  Issner, R., Coyne, M.~J., Durham, T., Ku, M., Truong, T., Eaton, M.~L.,
-  Dobin, A., Lassmann, T., Tanzer, A., Lagarde, J., Lin, W., Xue, C., Williams,
-  B.~a., Zaleski, C., R\"{o}der, M., Kokocinski, F., Abdelhamid, R.~F., Alioto,
-  T., Antoshechkin, I., Baer, M.~T., Batut, P., Bell, I., Bell, K.,
-  Chakrabortty, S., Chrast, J., Curado, J., Derrien, T., Drenkow, J., Dumais,
-  E., Dumais, J., Duttagupta, R., Fastuca, M., Fejes-Toth, K., Ferreira, P.,
-  Foissac, S., Fullwood, M.~J., Gao, H., Gonzalez, D., Gordon, A., Howald, C.,
-  Jha, S., Johnson, R., Kapranov, P., King, B., Kingswood, C., Li, G., Luo,
-  O.~J., Park, E., Preall, J.~B., Presaud, K., Ribeca, P., Robyr, D., Ruan, X.,
-  Sammeth, M., Sandu, K.~S., Schaeffer, L., See, L.-H., Shahab, A., Skancke,
-  J., Suzuki, A.~M., Takahashi, H., Tilgner, H., Trout, D., Walters, N., Wang,
-  H., Hayashizaki, Y., Hubbard, T.~J., Reymond, A., Antonarakis, S.~E., Hannon,
-  G.~J., Ruan, Y., Carninci, P., Sloan, C.~a., Learned, K., Malladi, V.~S.,
-  Wong, M.~C., Barber, G.~P., Cline, M.~S., Dreszer, T.~R., Heitner, S.~G.,
-  Karolchik, D., Kirkup, V.~M., Meyer, L.~R., Long, J.~C., Maddren, M., Raney,
-  B.~J., Grasfeder, L.~L., Giresi, P.~G., Lee, B.-K., Battenhouse, A.,
-  Sheffield, N.~C., Showers, K.~a., London, D., Bhinge, A.~a., Shestak, C.,
-  Schaner, M.~R., Kim, S.~K., Zhang, Z.~Z., Mieczkowski, P.~a., Mieczkowska,
-  J.~O., Liu, Z., McDaniell, R.~M., Ni, Y., Rashid, N.~U., Kim, M.~J., Adar,
-  S., Zhang, Z., Wang, T., Winter, D., Keefe, D., Iyer, V.~R., Sandhu, K.~S.,
-  Zheng, M., Wang, P., Gertz, J., Vielmetter, J., Partridge, E.~C., Varley,
-  K.~E., Gasper, C., Bansal, A., Pepke, S., Jain, P., Amrhein, H., Bowling,
-  K.~M., Anaya, M., Cross, M.~K., Muratet, M.~a., Newberry, K.~M., McCue, K.,
-  Nesmith, A.~S., Fisher-Aylor, K.~I., Pusey, B., DeSalvo, G., Parker, S.~L.,
-  Balasubramanian, S., Davis, N.~S., Meadows, S.~K., Eggleston, T., Newberry,
-  J.~S., Levy, S.~E., Absher, D.~M., Wong, W.~H., Blow, M.~J., Visel, A.,
-  Pennachio, L.~a., Elnitski, L., Petrykowska, H.~M., Abyzov, A., Aken, B.,
-  Barrell, D., Barson, G., Berry, A., Bignell, A., Boychenko, V., Bussotti, G.,
-  Davidson, C., Despacio-Reyes, G., Diekhans, M., Ezkurdia, I., Frankish, A.,
-  Gilbert, J., Gonzalez, J.~M., Griffiths, E., Harte, R., Hendrix, D.~a., Hunt,
-  T., Jungreis, I., Kay, M., Khurana, E., Leng, J., Lin, M.~F., Loveland, J.,
-  Lu, Z., Manthravadi, D., Mariotti, M., Mudge, J., Mukherjee, G., Notredame,
-  C., Pei, B., Rodriguez, J.~M., Saunders, G., Sboner, A., Searle, S., Sisu,
-  C., Snow, C., Steward, C., Tapanari, E., Tress, M.~L., van Baren, M.~J.,
-  Washieti, S., Wilming, L., Zadissa, A., Zhengdong, Z., Brent, M., Haussler,
-  D., Valencia, A., Raymond, A., Addleman, N., Alexander, R.~P., Auerbach,
-  R.~K., Balasubramanian, S., Bettinger, K., Bhardwaj, N., Boyle, A.~P., Cao,
-  A.~R., Cayting, P., Charos, A., Cheng, Y., Eastman, C., Euskirchen, G.,
-  Fleming, J.~D., Grubert, F., Habegger, L., Hariharan, M., Harmanci, A.,
-  Iyenger, S., Jin, V.~X., Karczewski, K.~J., Kasowski, M., Lacroute, P., Lam,
-  H., Larnarre-Vincent, N., Lian, J., Lindahl-Allen, M., Min, R., Miotto, B.,
-  Monahan, H., Moqtaderi, Z., Mu, X.~J., O'Geen, H., Ouyang, Z., Patacsil, D.,
-  Raha, D., Ramirez, L., Reed, B., Shi, M., Slifer, T., Witt, H., Wu, L., Xu,
-  X., Yan, K.-K., Yang, X., Zhang, Z., Struhl, K., Weissman, S.~M., Tenebaum,
-  S.~a., Penalva, L.~O., Karmakar, S., Bhanvadia, R.~R., Choudhury, A.,
-  Domanus, M., Ma, L., Moran, J., Victorsen, A., Auer, T., Centarin, L.,
-  Eichenlaub, M., Gruhl, F., Heerman, S., Hoeckendorf, B., Inoue, D., Kellner,
-  T., Kirchmaier, S., Mueller, C., Reinhardt, R., Schertel, L., Schneider, S.,
-  Sinn, R., Wittbrodt, B., Wittbrodt, J., Jain, G., Balasundaram, G., Bates,
-  D.~L., Byron, R., Canfield, T.~K., Diegel, M.~J., Dunn, D., Ebersol, A.~K.,
-  Frum, T., Garg, K., Gist, E., Hansen, R.~S., Boatman, L., Haugen, E.,
-  Humbert, R., Johnson, A.~K., Johnson, E.~M., Kutyavin, T.~M., Lee, K.,
-  Lotakis, D., Maurano, M.~T., Neph, S.~J., Neri, F.~V., Nguyen, E.~D., Qu, H.,
-  Reynolds, A.~P., Roach, V., Rynes, E., Sanchez, M.~E., Sandstrom, R.~S.,
-  Shafer, A.~O., Stergachis, A.~B., Thomas, S., Vernot, B., Vierstra, J., Vong,
-  S., Wang, H., Weaver, M.~a., Yan, Y., Zhang, M., Akey, J.~a., Bender, M.,
-  Dorschner, M.~O., Groudine, M., MacCoss, M.~J., Navas, P.,
-  Stamatoyannopoulos, G., Stamatoyannopoulos, J.~a., Beal, K., Brazma, A.,
-  Flicek, P., Johnson, N., Lukk, M., Luscombe, N.~M., Sobral, D., Vaquerizas,
-  J.~M., Batzoglou, S., Sidow, A., Hussami, N., Kyriazopoulou-Panagiotopoulou,
-  S., Libbrecht, M.~W., Schaub, M.~a., Miller, W., Bickel, P.~J., Banfai, B.,
-  Boley, N.~P., Huang, H., Li, J.~J., Noble, W.~S., Bilmes, J.~a., Buske,
-  O.~J., Sahu, A.~O., Kharchenko, P.~V., Park, P.~J., Baker, D., Taylor, J.,
-  and Lochovsky, L. (2012).
+Dunham, I., Kundaje, A., Aldred, S.~F., et~al. (2012).
 \newblock {An integrated encyclopedia of DNA elements in the human genome.}
 \newblock {\em Nature}, 489(7414):57--74.
 
@@ -715,30 +486,19 @@ Emerick, M., Parmigiani, G., and Agnew, W. (2007).
 \newblock {\em BMC Bioinformatics}, 8(1):16.
 
 \bibitem[Engreitz et~al., 2013]{Engreitz2013}
-Engreitz, J.~M., Pandya-Jones, A., McDonel, P., Shishkin, A., Sirokman, K.,
-  Surka, C., Kadri, S., Xing, J., Goren, A., Lander, E.~S., Plath, K., and
-  Guttman, M. (2013).
+Engreitz, J.~M., Pandya-Jones, A., McDonel, P., et~al. (2013).
 \newblock {The Xist lncRNA exploits three-dimensional genome architecture to
   spread across the X chromosome.}
 \newblock {\em Science (New York, N.Y.)}, 341(6147):1237973.
 
 \bibitem[Engstr\"{o}m et~al., 2013]{Engstrom2013}
-Engstr\"{o}m, P.~G., Steijger, T., Sipos, B., Grant, G.~R., Kahles, A., Alioto,
-  T., Behr, J., Bertone, P., Bohnert, R., Campagna, D., Davis, C.~A., Dobin,
-  A., Gingeras, T.~R., Goldman, N., Guig\'{o}, R., Harrow, J., Hubbard, T.~J.,
-  Jean, G., Kosarev, P., Li, S., Liu, J., Mason, C.~E., Molodtsov, V., Ning,
-  Z., Ponstingl, H., Prins, J.~F., R\"{a}tsch, G., Ribeca, P., Seledtsov, I.,
-  Solovyev, V., Valle, G., Vitulo, N., Wang, K., Wu, T.~D., and Zeller, G.
-  (2013).
+Engstr\"{o}m, P.~G., Steijger, T., Sipos, B., et~al. (2013).
 \newblock {Systematic evaluation of spliced alignment programs for RNA-seq
   data.}
 \newblock {\em Nature methods}, 10(12):1185--91.
 
 \bibitem[Fagnani et~al., 2007]{Fagnani2007}
-Fagnani, M., Barash, Y., Ip, J.~Y., Misquitta, C., Pan, Q., Saltzman, A.~L.,
-  Shai, O., Lee, L., Rozenhek, A., Mohammad, N., Willaime-Morawek, S., Babak,
-  T., Zhang, W., Hughes, T.~R., van~der Kooy, D., Frey, B.~J., and Blencowe,
-  B.~J. (2007).
+Fagnani, M., Barash, Y., Ip, J.~Y., et~al. (2007).
 \newblock {Functional coordination of alternative splicing in the mammalian
   central nervous system.}
 \newblock {\em Genome biology}, 8(6):R108.
@@ -788,8 +548,7 @@ Gan, H., Lin, X., Zhang, Z., Zhang, W., Liao, S., Wang, L., and Han, C. (2011).
 \newblock {\em RNA (New York, N.Y.)}, 17(7):1191--203.
 
 \bibitem[Gan et~al., 2013]{Gan2013}
-Gan, H., Wen, L., Liao, S., Lin, X., Ma, T., Liu, J., Song, C.-X., Wang, M.,
-  He, C., Han, C., and Tang, F. (2013).
+Gan, H., Wen, L., Liao, S., et~al. (2013).
 \newblock {Dynamics of 5-hydroxymethylcytosine during mouse spermatogenesis.}
 \newblock {\em Nature communications}, 4:1995.
 
@@ -800,8 +559,7 @@ Garber, M., Grabherr, M.~G., Guttman, M., and Trapnell, C. (2011).
 \newblock {\em Nature Methods}, 8(6):469--477.
 
 \bibitem[Ghildiyal et~al., 2008]{Ghildiyal2008}
-Ghildiyal, M., Seitz, H., Horwich, M.~D., Li, C., Du, T., Lee, S., Xu, J.,
-  Kittler, E. L.~W., Zapp, M.~L., Weng, Z., and Zamore, P.~D. (2008).
+Ghildiyal, M., Seitz, H., Horwich, M.~D., et~al. (2008).
 \newblock {Endogenous siRNAs Derived from Transposons and mRNAs in Drosophila
   Somatic Cells}.
 \newblock {\em Science}, 320(5879):1077--1081.
@@ -836,10 +594,7 @@ Goriaux, C., Desset, S., Renaud, Y., Vaury, C., and Brasset, E. (2014).
 \newblock {\em EMBO reports}, 15(4):411--8.
 
 \bibitem[Grabherr et~al., 2011]{Grabherr2011}
-Grabherr, M.~G., Haas, B.~J., Yassour, M., Levin, J.~Z., Thompson, D.~A., Amit,
-  I., Adiconis, X., Fan, L., Raychowdhury, R., Zeng, Q., Chen, Z., Mauceli, E.,
-  Hacohen, N., Gnirke, A., Rhind, N., di~Palma, F., Birren, B.~W., Nusbaum, C.,
-  Lindblad-Toh, K., Friedman, N., and Regev, A. (2011).
+Grabherr, M.~G., Haas, B.~J., Yassour, M., et~al. (2011).
 \newblock {Full-length transcriptome assembly from RNA-Seq data without a
   reference genome}.
 \newblock {\em Nature Biotechnology}, 29(7):644--652.
@@ -906,18 +661,13 @@ Gupta, S., Stamatoyannopoulos, J.~a., Bailey, T.~L., and Noble, W.~S. (2007).
 \newblock {\em Genome biology}, 8(2):R24.
 
 \bibitem[Guttman et~al., 2009]{Guttman2009}
-Guttman, M., Amit, I., Garber, M., French, C., Lin, M.~F., Feldser, D., Huarte,
-  M., Zuk, O., Carey, B.~W., Cassady, J.~P., Cabili, M.~N., Jaenisch, R.,
-  Mikkelsen, T.~S., Jacks, T., Hacohen, N., Bernstein, B.~E., Kellis, M.,
-  Regev, A., Rinn, J.~L., and Lander, E.~S. (2009).
+Guttman, M., Amit, I., Garber, M., et~al. (2009).
 \newblock {Chromatin signature reveals over a thousand highly conserved large
   non-coding RNAs in mammals}.
 \newblock {\em Nature}, 458(7235):223--227.
 
 \bibitem[Guttman et~al., 2010]{Guttman2010}
-Guttman, M., Garber, M., Levin, J.~Z., Donaghey, J., Robinson, J., Adiconis,
-  X., Fan, L., Koziol, M.~J., Gnirke, A., Nusbaum, C., Rinn, J.~L., Lander,
-  E.~S., and Regev, A. (2010).
+Guttman, M., Garber, M., Levin, J.~Z., et~al. (2010).
 \newblock {Ab initio reconstruction of cell type-specific transcriptomes in
   mouse reveals the conserved multi-exonic structure of lincRNAs}.
 \newblock {\em Nature Biotechnology}, 28(5):503--510.
@@ -930,10 +680,7 @@ Guttman, M., Russell, P., Ingolia, N.~T., Weissman, J.~S., and Lander, E.~S.
 \newblock {\em Cell}, 154(1):1--12.
 
 \bibitem[Haas et~al., 2013]{Haas2013c}
-Haas, B.~J., Papanicolaou, A., Yassour, M., Grabherr, M., Blood, P.~D., Bowden,
-  J., Couger, M.~B., Eccles, D., Li, B., Lieber, M., Macmanes, M.~D., Ott, M.,
-  Orvis, J., Pochet, N., Strozzi, F., Weeks, N., Westerman, R., William, T.,
-  Dewey, C.~N., Henschel, R., LeDuc, R.~D., Friedman, N., and Regev, A. (2013).
+Haas, B.~J., Papanicolaou, A., Yassour, M., et~al. (2013).
 \newblock {De novo transcript sequence reconstruction from RNA-seq using the
   Trinity platform for reference generation and analysis}.
 \newblock {\em Nature Protocols}, 8(8):1494--1512.
@@ -953,9 +700,7 @@ Hafner, M., Landgraf, P., Ludwig, J., Rice, A., Ojo, T., Lin, C., Holoch, D.,
 \newblock {\em Methods (San Diego, Calif.)}, 44(1):3--12.
 
 \bibitem[Hafner et~al., 2010]{Hafner2010}
-Hafner, M., Landthaler, M., Burger, L., Khorshid, M., Hausser, J., Berninger,
-  P., Rothballer, A., {Ascano Jr.}, M., Jungkamp, A.-C., Munschauer, M.,
-  Ulrich, A., Wardle, G.~S., Dewell, S., Zavolan, M., and Tuschl, T. (2010).
+Hafner, M., Landthaler, M., Burger, L., et~al. (2010).
 \newblock {Transcriptome-wide Identification of RNA-Binding Protein and
   MicroRNA Target Sites by PAR-CLIP}.
 \newblock {\em Cell}, 141(1):129--141.
@@ -1073,9 +818,7 @@ Houseley, J. and Tollervey, D. (2010).
 \newblock {\em PloS one}, 5(8):e12271.
 
 \bibitem[Houwing et~al., 2007]{Houwing2007}
-Houwing, S., Kamminga, L.~M., Berezikov, E., Cronembold, D., Girard, A.,
-  van~den Elst, H., Filippov, D.~V., Blaser, H., Raz, E., Moens, C.~B.,
-  Plasterk, R.~H., Hannon, G.~J., Draper, B.~W., and Ketting, R.~F. (2007).
+Houwing, S., Kamminga, L.~M., Berezikov, E., et~al. (2007).
 \newblock {A Role for Piwi and piRNAs in Germ Cell Maintenance and Transposon
   Silencing in Zebrafish}.
 \newblock {\em Cell}, 129(1):69--82.
@@ -1178,9 +921,7 @@ Kent, W.~J. (2002).
 \newblock {\em Genome Research}, 12(4):656--664.
 
 \bibitem[Khalil et~al., 2009]{Khalil2009}
-Khalil, A.~M., Guttman, M., Huarte, M., Garber, M., Raj, A., {Rivea Morales},
-  D., Thomas, K., Presser, A., Bernstein, B.~E., van Oudenaarden, A., Regev,
-  A., Lander, E.~S., and Rinn, J.~L. (2009).
+Khalil, A.~M., Guttman, M., Huarte, M., et~al. (2009).
 \newblock {Many human large intergenic noncoding RNAs associate with
   chromatin-modifying complexes and affect gene expression}.
 \newblock {\em Proceedings of the National Academy of Sciences}, 106(28):11667
@@ -1198,9 +939,7 @@ Kirino, Y. and Mourelatos, Z. (2007).
 \newblock {\em RNA (New York, N.Y.)}, 13(9):1397--401.
 
 \bibitem[Klattenhoff et~al., 2009]{Klattenhoff2009}
-Klattenhoff, C., Xi, H., Li, C., Lee, S., Xu, J., Khurana, J.~S., Zhang, F.,
-  Schultz, N., Koppetsch, B.~S., Nowosielska, A., Seitz, H., Zamore, P.~D.,
-  Weng, Z., and Theurkauf, W.~E. (2009).
+Klattenhoff, C., Xi, H., Li, C., et~al. (2009).
 \newblock {The Drosophila HP1 Homolog Rhino Is Required for Transposon
   Silencing and piRNA Production by Dual-Strand Clusters}.
 \newblock {\em Cell}, 138(6):1137--1149.
@@ -1242,9 +981,7 @@ K\"{o}nig, J., Zarnack, K., Rot, G., Curk, T., Kayikci, M., Zupan, B., Turner,
 \newblock {\em Nature structural \& molecular biology}, 17(7):909--15.
 
 \bibitem[Koren et~al., 2012]{Koren2012a}
-Koren, S., Schatz, M.~C., Walenz, B.~P., Martin, J., Howard, J.~T., Ganapathy,
-  G., Wang, Z., Rasko, D.~a., McCombie, W.~R., Jarvis, E.~D., and {Adam M
-  Phillippy} (2012).
+Koren, S., Schatz, M.~C., Walenz, B.~P., et~al. (2012).
 \newblock {Hybrid error correction and de novo assembly of single-molecule
   sequencing reads.}
 \newblock {\em Nature biotechnology}, 30(7):693--700.
@@ -1282,18 +1019,13 @@ Kumar, M. and Carmichael, G.~G. (1998).
   62(4):1415--34.
 
 \bibitem[Kuramochi-Miyagawa et~al., 2004]{Kuramochi-Miyagawa2004}
-Kuramochi-Miyagawa, S., Kimura, T., Ijiri, T.~W., Isobe, T., Asada, N., Fujita,
-  Y., Ikawa, M., Iwai, N., Okabe, M., Deng, W., Lin, H., Matsuda, Y., and
-  Nakano, T. (2004).
+Kuramochi-Miyagawa, S., Kimura, T., Ijiri, T.~W., et~al. (2004).
 \newblock {Mili, a Mammalian Member of Piwi Family Gene, Is Essential for
   Spermatogenesis}.
 \newblock {\em Development}, 131(4):839--849.
 
 \bibitem[Kuramochi-Miyagawa et~al., 2008]{Kuramochi2008}
-Kuramochi-Miyagawa, S., Watanabe, T., Gotoh, K., Totoki, Y., Toyoda, A., Ikawa,
-  M., Asada, N., Kojima, K., Yamaguchi, Y., Ijiri, T.~W., Hata, K., Li, E.,
-  Matsuda, Y., Kimura, T., Okabe, M., Sakaki, Y., Sasaki, H., and Nakano, T.
-  (2008).
+Kuramochi-Miyagawa, S., Watanabe, T., Gotoh, K., et~al. (2008).
 \newblock {DNA Methylation of Retrotransposon Genes Is Regulated by Piwi Family
   Members MILI and MIWI2 in Murine Fetal Testes}.
 \newblock {\em Genes \& Development}, 22(7):908--917.
@@ -1373,10 +1105,7 @@ Lee, H.-C., Gu, W., Shirayama, M., Youngman, E., Conte, D., and Mello, C.~C.
 \newblock {\em Cell}, 150(1):78--87.
 
 \bibitem[Lee et~al., 2014a]{Lee2014a}
-Lee, J.~H., Daugharthy, E.~R., Scheiman, J., Kalhor, R., Yang, J.~L., Ferrante,
-  T.~C., Terry, R., Jeanty, S. S.~F., Li, C., Amamoto, R., Peters, D.~T.,
-  Turczyk, B.~M., Marblestone, A.~H., Inverso, S.~A., Bernard, A., Mali, P.,
-  Rios, X., Aach, J., and Church, G.~M. (2014a).
+Lee, J.~H., Daugharthy, E.~R., Scheiman, J., et~al. (2014a).
 \newblock {Highly Multiplexed Subcellular RNA Sequencing in Situ.}
 \newblock {\em Science (New York, N.Y.)}, 309:1728--32.
 
@@ -1431,15 +1160,13 @@ Li, X.~C. and Schimenti, J.~C. (2007).
 \newblock {\em PLoS genetics}, 3(8):e130.
 
 \bibitem[Li et~al., 2013a]{Li2013h}
-Li, X.~Z., Roy, C.~K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B.~W., Xu,
-  J., Moore, M.~J., Schimenti, J.~C., Weng, Z., and Zamore, P.~D. (2013a).
+Li, X.~Z., Roy, C.~K., Dong, X., et~al. (2013a).
 \newblock {An ancient transcription factor initiates the burst of piRNA
   production during early meiosis in mouse testes.}
 \newblock {\em Molecular cell}, 50(1):67--81.
 
 \bibitem[Li et~al., 2013b]{Li2013e}
-Li, X.~Z., Roy, C.~K., Dong, X., Bolcun-Filas, E., Wang, J., Han, B.~W., Xu,
-  J., Moore, M.~J., Schimenti, J.~C., Weng, Z., and Zamore, P.~D. (2013b).
+Li, X.~Z., Roy, C.~K., Dong, X., et~al. (2013b).
 \newblock {An Ancient Transcription Factor Initiates the Burst of piRNA
   Production during Early Meiosis in Mouse Testes}.
 \newblock {\em Molecular Cell}, pages 1--15.
@@ -1462,9 +1189,7 @@ Licatalosi, D.~D. and Darnell, R.~B. (2006).
 \newblock {\em Neuron}, 52(1):93--101.
 
 \bibitem[Licatalosi et~al., 2008]{Licatalosi2008}
-Licatalosi, D.~D., Mele, A., Fak, J.~J., Ule, J., Kayikci, M., Chi, S.~W.,
-  Clark, T.~A., Schweitzer, A.~C., Blume, J.~E., Wang, X., Darnell, J.~C., and
-  Darnell, R.~B. (2008).
+Licatalosi, D.~D., Mele, A., Fak, J.~J., et~al. (2008).
 \newblock {HITS-CLIP yields genome-wide insights into brain alternative RNA
   processing}.
 \newblock {\em Nature}, 456(7221):464--469.
@@ -1564,9 +1289,7 @@ Meikar, O., {Da Ros}, M., Korhonen, H., and Kotaja, N. (2011).
 \newblock {\em Reproduction (Cambridge, England)}, 142(2):195--209.
 
 \bibitem[Meikar et~al., 2014]{Meikar2014}
-Meikar, O., Vagin, V.~V., Chalmel, F., S\~{o}star, K., Lardenois, A., Hammell,
-  M., Jin, Y., {Da Ros}, M., Wasik, K.~a., Toppari, J., Hannon, G.~J., and
-  Kotaja, N. (2014).
+Meikar, O., Vagin, V.~V., Chalmel, F., et~al. (2014).
 \newblock {An atlas of chromatoid body components.}
 \newblock {\em RNA (New York, N.Y.)}, 20(4):483--95.
 
@@ -1606,21 +1329,7 @@ Meyerhans, A., Vartanian, J.-P., and Wain-Hobson, S. (1990).
 \newblock {\em Nucleic Acids Research}, 18(7):1687--1691.
 
 \bibitem[Miller et~al., 2014]{Miller2014}
-Miller, J.~a., Ding, S.-L., Sunkin, S.~M., Smith, K.~A., Ng, L., Szafer, A.,
-  Ebbert, A., Riley, Z.~L., Royall, J.~J., Aiona, K., Arnold, J.~M., Bennet,
-  C., Bertagnolli, D., Brouner, K., Butler, S., Caldejon, S., Carey, A.,
-  Cuhaciyan, C., Dalley, R.~a., Dee, N., Dolbeare, T.~a., Facer, B. a.~C.,
-  Feng, D., Fliss, T.~P., Gee, G., Goldy, J., Gourley, L., Gregor, B.~W., Gu,
-  G., Howard, R.~E., Jochim, J.~M., Kuan, C.~L., Lau, C., Lee, C.-K., Lee, F.,
-  Lemon, T.~a., Lesnar, P., McMurray, B., Mastan, N., Mosqueda, N.,
-  Naluai-Cecchini, T., Ngo, N.-K., Nyhus, J., Oldre, A., Olson, E., Parente,
-  J., Parker, P.~D., Parry, S.~E., Stevens, A., Pletikos, M., Reding, M., Roll,
-  K., Sandman, D., Sarreal, M., Shapouri, S., Shapovalova, N.~V., Shen, E.~H.,
-  Sjoquist, N., Slaughterbeck, C.~R., Smith, M., Sodt, A.~J., Williams, D.,
-  Z\"{o}llei, L., Fischl, B., Gerstein, M.~B., Geschwind, D.~H., Glass, I.~a.,
-  Hawrylycz, M.~J., Hevner, R.~F., Huang, H., Jones, A.~R., Knowles, J.~a.,
-  Levitt, P., Phillips, J.~W., Sestan, N., Wohnoutka, P., Dang, C., Bernard,
-  A., Hohmann, J.~G., and Lein, E.~S. (2014).
+Miller, J.~a., Ding, S.-L., Sunkin, S.~M., et~al. (2014).
 \newblock {Transcriptional landscape of the prenatal human brain.}
 \newblock {\em Nature}, 508(7495):199--206.
 
@@ -1739,9 +1448,7 @@ Nilsson, M., Barbany, G., Antson, D.~O., Gertow, K., and Landegren, U. (2000).
 \newblock {\em Nature biotechnology}, 18(7):791--3.
 
 \bibitem[Nishimasu et~al., 2012]{Nishimasu2012}
-Nishimasu, H., Ishizu, H., Saito, K., Fukuhara, S., Kamatani, M.~K., Bonnefond,
-  L., Matsumoto, N., Nishizawa, T., Nakanaga, K., Aoki, J., Ishitani, R.,
-  Siomi, H., Siomi, M.~C., and Nureki, O. (2012).
+Nishimasu, H., Ishizu, H., Saito, K., et~al. (2012).
 \newblock {Structure and function of Zucchini endoribonuclease in piRNA
   biogenesis.}
 \newblock {\em Nature}, 491(7423):284--7.
@@ -1904,9 +1611,7 @@ Quinlan, A.~R. and Hall, I.~M. (2010).
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
 
 \bibitem[Raney et~al., 2014]{Raney2013}
-Raney, B.~J., Dreszer, T.~R., Barber, G.~P., Clawson, H., Fujita, P.~a., Wang,
-  T., Nguyen, N., Paten, B., Zweig, A.~S., Karolchik, D., and Kent, W.~J.
-  (2014).
+Raney, B.~J., Dreszer, T.~R., Barber, G.~P., et~al. (2014).
 \newblock {Track data hubs enable visualization of user-defined genome-wide
   annotations on the UCSC Genome Browser.}
 \newblock {\em Bioinformatics (Oxford, England)}, 30(7):1003--5.
@@ -2016,9 +1721,7 @@ Saito, K., Ishizu, H., Komai, M., Kotani, H., Kawamura, Y., Nishida, K.~M.,
 \newblock {\em Genes \& development}, 24(22):2493--8.
 
 \bibitem[Salehi-Ashtiani et~al., 2008]{Salehi-Ashtiani2008}
-Salehi-Ashtiani, K., Yang, X., Derti, A., Tian, W., Hao, T., Lin, C., Makowski,
-  K., Shen, L., Murray, R.~R., Szeto, D., Tusneem, N., Smith, D.~R., Cusick,
-  M.~E., Hill, D.~E., Roth, F.~P., and Vidal, M. (2008).
+Salehi-Ashtiani, K., Yang, X., Derti, A., et~al. (2008).
 \newblock {Isoform discovery by targeted cloning, 'deep-well' pooling and
   parallel sequencing}.
 \newblock {\em Nature Methods}, 5(7):597--600.
@@ -2109,10 +1812,7 @@ Service, R.~F. (2006).
 \newblock {Gene sequencing. The race for the \$1000 genome.}
 
 \bibitem[Shalek et~al., 2013]{Shalek2013b}
-Shalek, A.~K., Satija, R., Adiconis, X., Gertner, R.~S., Gaublomme, J.~T.,
-  Raychowdhury, R., Schwartz, S., Yosef, N., Malboeuf, C., Lu, D., Trombetta,
-  J.~J., Gennert, D., Gnirke, A., Goren, A., Hacohen, N., Levin, J.~Z., Park,
-  H., and Regev, A. (2013).
+Shalek, A.~K., Satija, R., Adiconis, X., et~al. (2013).
 \newblock {Single-cell transcriptomics reveals bimodality in expression and
   splicing in immune cells.}
 \newblock {\em Nature}, 498(7453):236--40.
@@ -2180,10 +1880,7 @@ Shingleton, A.~W., Sisk, G.~C., and Stern, D.~L. (2003).
 \newblock {\em BMC developmental biology}, 3:7.
 
 \bibitem[Shiraki et~al., 2003]{Shiraki2003a}
-Shiraki, T., Kondo, S., Katayama, S., Waki, K., Kasukawa, T., Kawaji, H.,
-  Kodzius, R., Watahiki, A., Nakamura, M., Arakawa, T., Fukuda, S., Sasaki, D.,
-  Podhajska, A., Harbers, M., Kawai, J., Carninci, P., and Hayashizaki, Y.
-  (2003).
+Shiraki, T., Kondo, S., Katayama, S., et~al. (2003).
 \newblock {Cap analysis gene expression for high-throughput analysis of
   transcriptional starting point and identification of promoter usage}.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
@@ -2204,10 +1901,7 @@ Shiroguchi, K., Jia, T.~Z., Sims, P.~a., and Xie, X.~S. (2012).
   States of America}, 109(4):1347--52.
 
 \bibitem[Shoji et~al., 2009]{Shoji2009}
-Shoji, M., Tanaka, T., Hosokawa, M., Reuter, M., Stark, A., Kato, Y., Kondoh,
-  G., Okawa, K., Chujo, T., Suzuki, T., Hata, K., Martin, S.~L., Noce, T.,
-  Kuramochi-Miyagawa, S., Nakano, T., Sasaki, H., Pillai, R.~S., Nakatsuji, N.,
-  and Chuma, S. (2009).
+Shoji, M., Tanaka, T., Hosokawa, M., et~al. (2009).
 \newblock {The TDRD9-MIWI2 complex is essential for piRNA-mediated
   retrotransposon silencing in the mouse male germline.}
 \newblock {\em Developmental cell}, 17(6):775--87.
@@ -2246,17 +1940,7 @@ Staden, R. (1979).
 \newblock {\em Nucleic Acids Research}, 6(7):2601--2610.
 
 \bibitem[Steijger et~al., 2013]{Steijger2013}
-Steijger, T., Abril, J.~F., Engstr\"{o}m, P.~G., Kokocinski, F., Akerman, M.,
-  Alioto, T., Ambrosini, G., Antonarakis, S.~E., Behr, J., Bertone, P.,
-  Bohnert, R., Bucher, P., Cloonan, N., Derrien, T., Djebali, S., Du, J.,
-  Dudoit, S., Gerstein, M., Gingeras, T.~R., Gonzalez, D., Grimmond, S.~M.,
-  Guig\'{o}, R., Habegger, L., Harrow, J., Hubbard, T.~J., Iseli, C., Jean, G.,
-  Kahles, A., Lagarde, J., Leng, J., Lefebvre, G., Lewis, S., Mortazavi, A.,
-  Niermann, P., R\"{a}tsch, G., Reymond, A., Ribeca, P., Richard, H.,
-  Rougemont, J., Rozowsky, J., Sammeth, M., Sboner, A., Schulz, M.~H., Searle,
-  S. M.~J., Solorzano, N.~D., Solovyev, V., Stanke, M., Stevenson, B.~J.,
-  Stockinger, H., Valsesia, A., Weese, D., White, S., Wold, B.~J., Wu, J., Wu,
-  T.~D., Zeller, G., Zerbino, D., and Zhang, M.~Q. (2013).
+Steijger, T., Abril, J.~F., Engstr\"{o}m, P.~G., et~al. (2013).
 \newblock {Assessment of transcript reconstruction methods for RNA-seq.}
 \newblock {\em Nature methods}, 10(12):1177--84.
 
@@ -2273,9 +1957,7 @@ Subtelny, A.~O., Eichhorn, S.~W., Chen, G.~R., Sive, H., and Bartel, D.~P.
 \newblock {\em Nature}, 508(7494):66--71.
 
 \bibitem[Sultan et~al., 2008]{Sultan2008}
-Sultan, M., Schulz, M.~H., Richard, H., Magen, A., Klingenhoff, A., Scherf, M.,
-  Seifert, M., Borodina, T., Soldatov, A., Parkhomchuk, D., Schmidt, D.,
-  O'Keeffe, S., Haas, S., Vingron, M., Lehrach, H., and Yaspo, M.-L. (2008).
+Sultan, M., Schulz, M.~H., Richard, H., et~al. (2008).
 \newblock {A Global View of Gene Activity and Alternative Splicing by Deep
   Sequencing of the Human Transcriptome}.
 \newblock {\em Science}, 321(5891):956--960.
@@ -2413,52 +2095,7 @@ Venter, J. (2007).
 \newblock Penguin (Non-Classics).
 
 \bibitem[Venter et~al., 2001]{Venter2001}
-Venter, J.~C., Adams, M.~D., Myers, E.~W., Li, P.~W., Mural, R.~J., Sutton,
-  G.~G., Smith, H.~O., Yandell, M., Evans, C.~a., Holt, R.~a., Gocayne, J.~D.,
-  Amanatides, P., Ballew, R.~M., Huson, D.~H., Wortman, J.~R., Zhang, Q.,
-  Kodira, C.~D., Zheng, X.~H., Chen, L., Skupski, M., Subramanian, G., Thomas,
-  P.~D., Zhang, J., {Gabor Miklos}, G.~L., Nelson, C., Broder, S., Clark,
-  a.~G., Nadeau, J., McKusick, V.~a., Zinder, N., Levine, a.~J., Roberts,
-  R.~J., Simon, M., Slayman, C., Hunkapiller, M., Bolanos, R., Delcher, A.,
-  Dew, I., Fasulo, D., Flanigan, M., Florea, L., Halpern, A., Hannenhalli, S.,
-  Kravitz, S., Levy, S., Mobarry, C., Reinert, K., Remington, K., Abu-Threideh,
-  J., Beasley, E., Biddick, K., Bonazzi, V., Brandon, R., Cargill, M.,
-  Chandramouliswaran, I., Charlab, R., Chaturvedi, K., Deng, Z., {Di
-  Francesco}, V., Dunn, P., Eilbeck, K., Evangelista, C., Gabrielian, a.~E.,
-  Gan, W., Ge, W., Gong, F., Gu, Z., Guan, P., Heiman, T.~J., Higgins, M.~E.,
-  Ji, R.~R., Ke, Z., Ketchum, K.~a., Lai, Z., Lei, Y., Li, Z., Li, J., Liang,
-  Y., Lin, X., Lu, F., Merkulov, G.~V., Milshina, N., Moore, H.~M., Naik,
-  a.~K., Narayan, V.~a., Neelam, B., Nusskern, D., Rusch, D.~B., Salzberg, S.,
-  Shao, W., Shue, B., Sun, J., Wang, Z., Wang, A., Wang, X., Wang, J., Wei, M.,
-  Wides, R., Xiao, C., Yan, C., Yao, A., Ye, J., Zhan, M., Zhang, W., Zhang,
-  H., Zhao, Q., Zheng, L., Zhong, F., Zhong, W., Zhu, S., Zhao, S., Gilbert,
-  D., Baumhueter, S., Spier, G., Carter, C., Cravchik, A., Woodage, T., Ali,
-  F., An, H., Awe, A., Baldwin, D., Baden, H., Barnstead, M., Barrow, I.,
-  Beeson, K., Busam, D., Carver, A., Center, A., Cheng, M.~L., Curry, L.,
-  Danaher, S., Davenport, L., Desilets, R., Dietz, S., Dodson, K., Doup, L.,
-  Ferriera, S., Garg, N., Gluecksmann, A., Hart, B., Haynes, J., Haynes, C.,
-  Heiner, C., Hladun, S., Hostin, D., Houck, J., Howland, T., Ibegwam, C.,
-  Johnson, J., Kalush, F., Kline, L., Koduru, S., Love, A., Mann, F., May, D.,
-  McCawley, S., McIntosh, T., McMullen, I., Moy, M., Moy, L., Murphy, B.,
-  Nelson, K., Pfannkoch, C., Pratts, E., Puri, V., Qureshi, H., Reardon, M.,
-  Rodriguez, R., Rogers, Y.~H., Romblad, D., Ruhfel, B., Scott, R., Sitter, C.,
-  Smallwood, M., Stewart, E., Strong, R., Suh, E., Thomas, R., Tint, N.~N.,
-  Tse, S., Vech, C., Wang, G., Wetter, J., Williams, S., Williams, M., Windsor,
-  S., Winn-Deen, E., Wolfe, K., Zaveri, J., Zaveri, K., Abril, J.~F.,
-  Guig\'{o}, R., Campbell, M.~J., Sjolander, K.~V., Karlak, B., Kejariwal, A.,
-  Mi, H., Lazareva, B., Hatton, T., Narechania, A., Diemer, K., Muruganujan,
-  A., Guo, N., Sato, S., Bafna, V., Istrail, S., Lippert, R., Schwartz, R.,
-  Walenz, B., Yooseph, S., Allen, D., Basu, A., Baxendale, J., Blick, L.,
-  Caminha, M., Carnes-Stine, J., Caulk, P., Chiang, Y.~H., Coyne, M., Dahlke,
-  C., Mays, A., Dombroski, M., Donnelly, M., Ely, D., Esparham, S., Fosler, C.,
-  Gire, H., Glanowski, S., Glasser, K., Glodek, A., Gorokhov, M., Graham, K.,
-  Gropman, B., Harris, M., Heil, J., Henderson, S., Hoover, J., Jennings, D.,
-  Jordan, C., Jordan, J., Kasha, J., Kagan, L., Kraft, C., Levitsky, A., Lewis,
-  M., Liu, X., Lopez, J., Ma, D., Majoros, W., McDaniel, J., Murphy, S.,
-  Newman, M., Nguyen, T., Nguyen, N., Nodell, M., Pan, S., Peck, J., Peterson,
-  M., Rowe, W., Sanders, R., Scott, J., Simpson, M., Smith, T., Sprague, A.,
-  Stockwell, T., Turner, R., Venter, E., Wang, M., Wen, M., Wu, D., Wu, M.,
-  Xia, A., Zandieh, A., and Zhu, X. (2001).
+Venter, J.~C., Adams, M.~D., Myers, E.~W., et~al. (2001).
 \newblock {The sequence of the human genome.}
 \newblock {\em Science (New York, N.Y.)}, 291(5507):1304--51.
 
@@ -2476,8 +2113,7 @@ Vourekas, A., Zheng, Q., Alexiou, P., Maragkakis, M., Kirino, Y., Gregory,
 \newblock {\em Nature Structural \& Molecular Biology}, 19(8):773--781.
 
 \bibitem[Wan et~al., 2014]{Wan2014}
-Wan, Y., Qu, K., Zhang, Q.~C., Flynn, R.~a., Manor, O., Ouyang, Z., Zhang, J.,
-  Spitale, R.~C., Snyder, M.~P., Segal, E., and Chang, H.~Y. (2014).
+Wan, Y., Qu, K., Zhang, Q.~C., et~al. (2014).
 \newblock {Landscape and variation of RNA secondary structure across the human
   transcriptome.}
 \newblock {\em Nature}, 505(7485):706--9.
@@ -2506,18 +2142,13 @@ Washietl, S., Kellis, M., and Garber, M. (2014).
 \newblock {\em Genome research}, pages 616--628.
 
 \bibitem[Watanabe et~al., 2011a]{Watanabe2011a}
-Watanabe, T., Chuma, S., Yamamoto, Y., Kuramochi-Miyagawa, S., Totoki, Y.,
-  Toyoda, A., Hoki, Y., Fujiyama, A., Shibata, T., Sado, T., Noce, T., Nakano,
-  T., Nakatsuji, N., Lin, H., and Sasaki, H. (2011a).
+Watanabe, T., Chuma, S., Yamamoto, Y., et~al. (2011a).
 \newblock {MITOPLD Is a Mitochondrial Protein Essential for Nuage Formation and
   piRNA Biogenesis in the Mouse Germline}.
 \newblock {\em Developmental Cell}, 20(3):364--375.
 
 \bibitem[Watanabe et~al., 2011b]{Watanabe2011}
-Watanabe, T., Tomizawa, S.-i., Mitsuya, K., Totoki, Y., Yamamoto, Y.,
-  Kuramochi-Miyagawa, S., Iida, N., Hoki, Y., Murphy, P.~J., Toyoda, A., Gotoh,
-  K., Hiura, H., Arima, T., Fujiyama, A., Sado, T., Shibata, T., Nakano, T.,
-  Lin, H., Ichiyanagi, K., Soloway, P.~D., and Sasaki, H. (2011b).
+Watanabe, T., Tomizawa, S.-i., Mitsuya, K., et~al. (2011b).
 \newblock {Role for piRNAs and Noncoding RNA in de Novo DNA Methylation of the
   Imprinted Mouse Rasgrf1 Locus}.
 \newblock {\em Science}, 332(6031):848 --852.
@@ -2619,8 +2250,7 @@ Yamakawa, K., Huot, Y.~K., Haendelt, M.~a., Hubert, R., Chen, X.~N., Lyons,
 \newblock {\em Human molecular genetics}, 7(2):227--37.
 
 \bibitem[Yang et~al., 2011]{Yang2011}
-Yang, Y., Zhan, L., Zhang, W., Sun, F., Wang, W., Tian, N., Bi, J., Wang, H.,
-  Shi, D., Jiang, Y., Zhang, Y., and Jin, Y. (2011).
+Yang, Y., Zhan, L., Zhang, W., et~al. (2011).
 \newblock {RNA secondary structure in mutually exclusive splicing}.
 \newblock {\em Nat Struct Mol Biol}, 18(2):159--168.
 
@@ -2654,16 +2284,13 @@ Zhan, X.-L., Clemens, J.~C., Neves, G., Hattori, D., Flanagan, J.~J., Hummel,
 \newblock {\em Neuron}, 43(5):673--686.
 
 \bibitem[Zhang et~al., 2012a]{Zhang2012}
-Zhang, F., Wang, J., Xu, J., Zhang, Z., Koppetsch, B.~S., Schultz, N., Vreven,
-  T., Meignin, C., Davis, I., Zamore, P.~D., Weng, Z., and Theurkauf, W.~E.
-  (2012a).
+Zhang, F., Wang, J., Xu, J., et~al. (2012a).
 \newblock {UAP56 Couples piRNA Clusters to the Perinuclear Transposon Silencing
   Machinery}.
 \newblock {\em Cell}, 151(4):871--884.
 
 \bibitem[Zhang et~al., 2008]{Zhang2008}
-Zhang, Y., Liu, T., Meyer, C.~a., Eeckhoute, J., Johnson, D.~S., Bernstein,
-  B.~E., Nusbaum, C., Myers, R.~M., Brown, M., Li, W., and Liu, X.~S. (2008).
+Zhang, Y., Liu, T., Meyer, C.~a., et~al. (2008).
 \newblock {Model-based analysis of ChIP-Seq (MACS).}
 \newblock {\em Genome biology}, 9(9):R137.
 

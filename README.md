@@ -1,50 +1,64 @@
-# Umass Thesis in LaTeX
+# Writing UMASS Med Thesis in LaTeX
 
 ### [Christian K Roy](christiankroy@gmail.com) ###
 ### 2014-04-21 ###
 
+## Introduction
+
+I started to write my Umass Medical school thesis in Word. After getting a few rather large figures in there, and many internal references (including Mendeley-linked references), Word started to be really slow. After just a few short days of working like this, Word would not open my ~35 mb file! Therefore I decided to use a language designed to write books with many figures and internal references—LaTeX. Below is some of the information on how this was done. My thesis itself is available on my [GitHub Repository](https://github.com/christiankroy/Thesis.git).
+
 
 ### Getting Setup ###
 
-1. On a Mac, Download [Mactex](http://tug.org/mactex/)
+The following software options are what I used. There are many other options. For example any text editor will do in place of Sublime Text (eg. Atom, TexMate, TextWrangler). I just found Sublime text had good LaTeX integration. Also any reference manager will use, I just like Mendeley, it's free.
 
-2. Obtain a good text editor. I used Sublime Text 2 with some packages installed:
-    * `Monokai Extended` | Color Scheme for coding editing
-    * LaTeXTools | Adds some LaTeX functionality
-      * Change the cite panel format to `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
-    * CheckBounce | For spell checking `http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692`
-    + Table Cleaner | Useful to make the `LaTeX` tables look clean by pressing `alt + ;` that's ALT and SemiColon.
-    * Markdown Extended | Allows for Syntax Markdown Highlighting in Sublime Text
-3. Use a Reference manage that keeps a `*.bib` file of your entire library synced.
-4. Fill out the folder structure.
+1. Obtain LaTeX
+  * On a Mac, Download [Mactex](http://tug.org/mactex/)
+2. Download [Sublime Text 2](http://www.sublimetext.com/2)
+3. Download [Mendeley](http://www.mendeley.com/)
+
+### Setting up Sublime Text 2 ###
+
+* Install packages w/ `CMD+Shift+P`; type `Install Packages`; wait for window to come up; type in name of package
+* `Monokai Extended` | Color Scheme for coding editing
+* `LaTeXTools` | Adds some LaTeX functionality
+* Change the cite panel format to: `"cite_panel_format": ["({keyword}) {title} - {journal}"],`
+* `CheckBounce` | For spell checking. See note [here](http://www.sublimetext.com/forum/viewtopic.php?f=5&t=11692)
++ `Table Cleaner` | Useful to make the `LaTeX` tables look clean by pressing `alt + ;` that's ALT and SemiColon.
+* `Markdown Extended` | Allows for Syntax Markdown Highlighting in Sublime Text
+
+### Setting up Mendeley
+
+1. Configure Mendeley to keep a `*.bib` your entire library synced.
+2. Keep the `*bib` file of my entire library in my GitHub repro location
+3. Once you bring in a reference, be sure to search with the PMID or doi in order to correct fill out the fields from the interwebs
 
 ### File and Folder Structure ###
 
 For purposes of organization, use the following folder setup:
 
-```
-Thesis
-├── Appendices
-├── Bibliography
-├── Chapters
-├── Figures
-│   ├── Chapter1
-│   │   └── IllustratorFiles
-│   ├── Chapter2
-│   │   └── IllustratorFiles
-│   ├── Chapter3
-│   │   └── IllustratorFiles
-│   ├── Chapter4
-│   │   └── IllustratorFiles
-│   └── Chapter5
-│       └── IllustratorFiles
-├── Forms
-├── FrontMatter
-├── LaTeXConfig
-├── Tables
-│   └── ExcelDocuments
-└── Writing_Fragments
-```
+    Thesis
+    ├── Appendices
+    ├── Bibliography
+    ├── Chapters
+    ├── Figures
+    │   ├── Chapter1
+    │   │   └── IllustratorFiles
+    │   ├── Chapter2
+    │   │   └── IllustratorFiles
+    │   ├── Chapter3
+    │   │   └── IllustratorFiles
+    │   ├── Chapter4
+    │   │   └── IllustratorFiles
+    │   └── Chapter5
+    │       └── IllustratorFiles
+    ├── Forms
+    ├── FrontMatter
+    ├── LaTeXConfig
+    ├── Tables
+    │       └── ExcelDocuments
+    └── Writing_Fragments
+
 Contents of each directory are explained here:
 
 * Thesis: Contains the `Thesis.tex` file, which is the master assembly document.
@@ -61,7 +75,7 @@ Contents of each directory are explained here:
   *Tables/ExcelDocuments: Working with table data in LaTeX sucks - be sure to keep the original Excel sheet, and use a site like [TableGenerator](http://www.tablesgenerator.com/latex_tables#) to convert them to LaTeX.
 * Writing_fragments: For all those snippets of writing that you end up not using, or may use later.
 
-### Setting up Sublime Text 2 ###
+### Configuring the `*tex` files
 
 Because you're going to break up the TeX into multiple files and folders, it is important to add a *shabang* line to the top of every `*.tex` file, mostly so Sublime Text::LaTeXTools knows where to look for the Bibliography and References.  Add the following code to the top of EVERY `*.tex` file
 
@@ -71,9 +85,7 @@ Because you're going to break up the TeX into multiple files and folders, it is 
 
 To do this, you need to execute the following command:
 
-```bash
-pdflatex RoyC_Umass_Thesis.tex
-```
+    pdflatex RoyC_Umass_Thesis.tex
 
 But the way I usually did this was to use the built-in build command in Sublime text's LaTeXTools package.
 
@@ -148,7 +160,7 @@ Options for `\textendash` and `\textemdash` limit line breaks near the dash.
     + Pick a structure and stick to it!
       + Example would be :
       1. `\label{Intro:sec:piRNAs}`
-      2. `\label{Intro:subsec:piRNA precurors are long}`
+      2. `\label{Intro:subsec:piRNA precursors are long}`
 2. Internal tied to text = `\hyperref[labelName]{TEXT}` **NB:square brackets!**
 3. External (eg. to website) = `\href{http://www.fao.index.html}{Text}`
 4. Insert a bare, but click able url = `\url{http://www.place.com}`
@@ -203,12 +215,13 @@ Then, in the main text where you want the table inserted, use the following synt
 
 ### Make a webpage/Word Doc from thesis LaTex ###
 
+**This does not work very well!** It generates many errors during compiling.
+
 Drop to terminal and type:
 
-```bash
-htlatex RoyC_Umass_Thesis.tex "-dHTML" "--interaction=nonstopmode"
-```
-You will have to enter through *numerous* errors.
+    htlatex RoyC_Umass_Thesis.tex "-dHTML" "--interaction=nonstopmode"
+
+Again, you will have to `enter` through *numerous* errors.
 
 Once this is done, open HTML in Word.
 

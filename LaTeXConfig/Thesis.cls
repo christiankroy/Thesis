@@ -142,12 +142,12 @@
 
 \newcommand*{\keywords}[1]{\def\keywordnames{#1}}
   \keywords{Alternative Splicing, piRNA, Mammalian piRNA, SeqZip, 
-            Ligation, Transcriptome, High-throughput Sequencing}  
+            Ligation, Transcriptome, High throughput Sequencing}  
 
 %%%$ PDF Meta-data assignment.
 \hypersetup{
-  pdftitle=\ttitle,
-  pdfauthor=\authornames,
+  pdftitle="Putting the Pieces Together: Exons and pIRNAs",
+  pdfauthor="Christian K. Roy",
   pdfkeywords=\keywordnames
 }
 

@@ -6,7 +6,7 @@
 \section{Overview}
   \label{SeqZipMethod:sec:SeqZip Overview}
 
-  Development of SeqZip began with an attempt to circumvent an obvious shortcoming in second generation HTS---short read lengths. Until second generation HTS (i.e. reads <100nt on either the Illumina or SOLiD platforms), most sequencing was done using cloned fragments, stored in a bacteria, and analyzed using dideoxy ``Sanger Sequencing'' (see \ref{Intro:subsec:DNA Sequencing History}). Indeed, this is how most \hyperref[hd:abrevs]{EST}s where analyzed. An extremely powerful feature of these ESTs is that as they represented the sequence of a single original molecule of RNA. Connectivity between sequences that were far apart (>1,000 nt) in the original sequence was maintained. It is this very feature, the continuity of sequence, that allowed whole genome shotgun sequencing to be used, and ESTs to be assembled into complete genomes, despite sometimes lengthly, repetitive, stretches of DNA (see section \ref{Intro:subsec:DNA Sequencing History}). Once research transitioned over to heavy use of the second generation HTS, all of that connectivity was lost, and all the inherent information with it.
+  Development of SeqZip began with an attempt to circumvent an obvious shortcoming in second generation HTS---short read lengths. Until second generation HTS (i.e. reads <100nt on either the Illumina or SOLiD platforms), most sequencing was done using cloned fragments, stored in bacteria, and analyzed using dideoxy ``Sanger Sequencing'' (see \ref{Intro:subsec:DNA Sequencing History}). Indeed, this is how most \hyperref[hd:abrevs]{EST}s where analyzed. An extremely powerful feature of these ESTs is that as they represent the sequence of a single original molecule of RNA. Connectivity between sequences that were far apart (>1,000 nt) in the original sequence was maintained. It is this very feature, the continuity of sequence, that allowed whole genome shotgun sequencing to be used, and ESTs to be assembled into complete genomes, despite sometimes lengthly, repetitive, stretches of DNA (see section \ref{Intro:subsec:DNA Sequencing History}). Once research transitioned over to heavy use of the second generation HTS, all of that connectivity was lost, and all the inherent information with it.
 
   Second generation HTS can be supplemented with other technologies. This has been demonstrated perhaps most successfully with long-read assisted genome assembly \citep{Koren2012a}. Why not supplement the disconnected nature of short reads with another technology? To that end, Phillip D. Zamore proposed an RNA-templated DNA-DNA ligation approach as drawn in Figure \ref{SeqZipMethod:fig:Original SeqZip Diagram} (see US Patent application \href{http://1.usa.gov/PTG9BB}{12/906,678}). Using this approach, two or more distant sequences of RNA are investigated using short DNA oligonucleotides that force the intervening sequences to loop out. Incorporation of the hybridized DNA via ligation with those of DNAs adjacently hybridized generates a positive readout of sequence presence.
 
@@ -30,7 +30,7 @@
     \item Section \ref{SeqZipMethod:sec:Multiplex Gene Study}: 
       Simultaneous investigation of 10 genes ("Multiplex") for coordinated alternative splicing.
     \item Section \ref{SeqZipMethod:sec:RNA Integrity via SeqZip}: 
-      Investigate of RNA integrity using SeqZip.
+      Investigation of RNA integrity using SeqZip.
     \item Section \ref{SeqZipMethod:sec:piRNA precursor by SeqZip}: 
       Demonstrating the presence of long, continuous piRNA precusors by SeqZip
 	  \end{itemize}
@@ -59,20 +59,9 @@
 
   I hand-designed ligamers for each of these genes. Ligamers were ordered from IDT in a 96-well plate format, pooled according to gene, and used to develop a multiplex approach to applying SeqZip. I used total RNA from mouse brains as the input material.
 
-  \begin{figure} % 11 Gene Set Schematic
-    \centering 
-    \includegraphics{Figures/SeqZipMethod/10GeneSetSchematic.eps}
-    \caption[10 Gene Set study schematic]
-    {
-      11 Gene Set study schematic\\[0.25cm]
-      A) Two pools of ligamers, ``Combination'' and ``Individual,'' were used to investigate splicing of cassette exons individually or while maintaining connectivity. Ligation products were sequenced on the Illumina platform using a paired-end approach. B) A hypothetical example of showing how individual splicing rates can confound true isoform identity when observing regions independently.
-	    }
-    \label{SeqZipMethod:fig:Multiplex Study Design}
-  	\end{figure}
-
   After attempts to perform SeqZip on all 11 genes in one ligation failed, I reverted back to \textit{per-gene} ligation reactions in order to trouble shoot and optimize the assay. Once I had obtained ligation products from per-gene ligation reactions for both the individual and combination ligamers pools, I pooled all the ligation products and amplified them. Amplified products were sent for paired-end 100 sequencing on the Illumina GEIIx platform. 
 
-  After considerable delay and optimization from the Umass Sequencing Core due to low library sequence diversity, the analyzed data demonstrated little alternative splicing in the genes examined. Put another way---most of the transcripts observed via SeqZip were uniform in exon inclusion and showed little variation for cassette exon inclusion (Figure \ref{SeqZipMethod:fig:Apbb1 Results}). These results forced us to rethink applying SeqZip to multiple genes or complex alternative splicing (i.e. \dscam{}). For most genes, there was too few reads aligning to combination products, arguing for more careful mixing of the more efficient individual products with lower-efficiency combination products prior to sequencing. For a discussion of different type of multiplex study, see section \ref{Disc:subsec: Ideal SeqZip exp. to look for Coordination}.
+  After considerable delay and optimization from the Umass Sequencing Core due to low library sequence diversity, the analyzed data demonstrated little alternative splicing in the genes examined. Put another way---most of the transcripts observed via SeqZip were uniform in exon inclusion and showed little variation for cassette exon inclusion (Figure \ref{SeqZipMethod:fig:Apbb1 Results}). These results forced us to rethink applying SeqZip to multiple genes or complex alternative splicing (i.e. \dscam{}). For most genes, there were too few reads aligning to combination products, arguing for more careful mixing of the more efficient individual products with lower-efficiency combination products prior to sequencing. For a discussion of different type of multiplex study, see section \ref{Disc:subsec: Ideal SeqZip exp. to look for Coordination}.
 
   \begin{figure} % Appb1 Multplex example
     \centering 
@@ -109,7 +98,7 @@
 
     Figure \ref{SeqZipMethod:fig:Ligation product and RNA integrity} shows promising results toward the ability of SeqZip to report on RNA integrity. The apparent intensity of the bands shown in (middle) was tied to the amount of intact RNA seen in (bottom). However, the lane where the RNA was degraded for two minutes with 10 mM ZnCl$_{2}$ compared to 30 seconds with 100 mM ZnCl$_{2}$ were not in good agreement, with clearly less intact RNA in the two minute lane, but just as much ligation product. We hypothesized that this was due to inherent secondary structure in the template we used (a section of the HIV genome, discussed in section \ref{SeqZipMethod:sec:RNA Integrity via SeqZip}). 
 
-    At what concentration of template do ``long'' ligamers generate ligation products from template fragments? Using pools of ligamers targeting fragments and the complete template (the same template used in Figure \ref{SeqZipMethod:fig:Ligation product and RNA integrity}). SeqZip was performed using a 1:1 ratio of RNA fragments. Results (Figure \ref{SeqZipMethod:fig: trans Tx for degradation}) show that SeqZip accurately reports on the presence of fragments, and not full length transcripts at $\le$1 nM template. This is in good agreement with results presented in Chapter \ref{SeqZipPaper}.
+    At what concentration of template do ``long'' ligamers generate ligation products from template fragments? We sought to address this question using pools of ligamers targeting either 1) a complete template or 2) \textasciitilde 1 kb 5\textprime~ and 3\textprime~ transcript fragments. The same template used in Figure \ref{SeqZipMethod:fig:Ligation product and RNA integrity} was used for these experiments. SeqZip was performed using a 1:1 ratio of RNA fragments. Results (Figure \ref{SeqZipMethod:fig: trans Tx for degradation}) show that SeqZip accurately reports on the presence of fragments, and not full length transcripts at $\le$1 nM template. This is in good agreement with results presented in Chapter \ref{SeqZipPaper}.
 
   	\begin{figure} % Trans RNA with SeqZip
     	\centering 
@@ -127,7 +116,7 @@
   \subsection{HIV Genome Integrity}
     \label{SeqZipMethod:subsec: Why use SeqZip to look at HIV genomes}
 
-    In late 2010--early 2011, a graduate student in the \href{http://profiles.umassmed.edu/profiles/display/133484}{Gottlinger} lab, Anna Kristina Serquiña observed that a cell line expressing ATPase-defective forms of the SF1 helicase UPF1 \citep{Bhattacharya2000} did not infect reporter cell lines the same as control. Previous mass-spec results had reported MOV10 (a SF1 family helicase \citep{Gregersen2014}) was packaged into extracellular viral particles. Anna hypothesized that the decrease in infectivity was due to a problem with RT when the genetic material is introduced into target cells. The results of this study were recently published \citep{Serquina2013}.
+    In late 2010--early 2011, a graduate student in the \href{http://profiles.umassmed.edu/profiles/display/133484}{Gottlinger} lab, Anna Kristina Serquiña observed that HIV produced from a cell line expressing ATPase-defective forms of the SF1 helicase UPF1 \citep{Bhattacharya2000} did not infect reporter cell lines the same as control. Previous mass-spec results had reported MOV10 (a SF1 family helicase \citep{Gregersen2014}) was packaged into extracellular viral particles. Anna hypothesized that the decrease in infectivity was due to a problem with RT when the genetic material is introduced into target cells. The results of this study were recently published \citep{Serquina2013}.
 
     Anna was interested in using SeqZip to quantify intact HIV virus in virus-producing cells and extracellular virions. The first step in applying SeqZip to HIV was to design ligamers.
 
@@ -228,11 +217,12 @@
       \caption[SeqZip on a very long mRNA (\dst{})]
       {
         SeqZip on a very long mRNA (\dst{})\\[0.25cm]
-        A) A model of the \dst{} gene. Arrows show direction of transcription (5\textprime~to 3\textprime~). Exons are tall lines, intronic regions join the exons. A scale bar is shown for size in kb. B) A schematic showing how SeqZip was used to investigate 5 different regions of \dst{} transcripts (called A-E). Indicated are the nt of each loop in kb. C) End-point PCR of SeqZip ligation products from each of the ligamer sets shown in (B).
+        A) A model of the \dst{} gene. Arrows show direction of transcription (5\textprime~to 3\textprime~). Exons are tall lines, intronic regions join the exons. A scale bar is shown for size in kb. B) A schematic showing how SeqZip was used to investigate 5 different regions of \dst{} transcripts (called A-E). Indicated are the nt of each loop in kb. C) End-point PCR of SeqZip ligation products from each of the ligamer sets shown in (B). 
+        Unmarked lanes show failed A:B; A:B:C; A:B:C:D; and A:B:C:D:E multi-loop combinations. For the ligations that did work, looping ligamers were ligated to non-looping ``control'' ligamers immediately adjacent, in order to show that just a three-ligation reaction could work. Reaction A:E used a single ligamer to span all the RNA of the individual loops and was ligamer to adjacently-hybridized ligamers.
         }
       \label{SeqZipMethod:fig:SeqZip on dst1}
       \end{figure}
-
+        
     As seen in Figure \ref{SeqZipMethod:fig:SeqZip on dst1}C, ligation products were obtained from every ligamer combination, including the critical set (``AE'') where >22 kb of the message was looped out. In the control experiment, no ligation products were observed. This experiment represents the longest successful ``looping'' in a SeqZip experiment targeting an endogenously expressed RNA.
 
     An additional demonstration of SeqZip's application to profile long RNAs at multiple sites are experiments involving \fn{}. As described previously (see section \ref{SeqZipPaper:subsec: Method Development and Validation}) \fn{} contains three main sites of alternative splicing: EDB, EDA, and the V-region. Using the proper mix of ligamers, SeqZip examines and maintains connectivity at all three of these sites, correctly reporting on their usage in the RNA template (Figure \ref{SeqZipMethod:fig:Three Site FN1 by SeqZip}). With these results in hand, we felt confident that SeqZip could be used to analyze piRNA precursor transcripts.
@@ -253,15 +243,15 @@
 
     Applying the same logic as that used to examine multiple distant sequences in \dst{} and \fn{}, ligamers were designed against a highly-expressed piRNA-producing loci, \textit{7-qD2-11976} (aka - ``M11''). Five unique sites were picked, again named A-E. Sites were picked to (1) avoid repetitive regions; (2) overlap with expression evidence from small RNA and RNA-Seq data; (3) contain loops of \textasciitilde5 kb in length; and 4) be unique in the genome. A schematic of the approach is shown in Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}A.
 
-    Using total RNA obtained from adult mouse testes, analyzed by SeqZip and the ligamers shown in Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}A, signal from ligation products could routinely be observed from loops of \textasciitilde5 kb (Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}B-left and Figure \ref{SeqZipMethod:fig:M1 analysis by SeqZip}B). Also the signal is dependent on source RNA (Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}B-right) and RNA from mouse spleen did not produce ligation products. The M1 and M11 clusters are both long and have reasonably high expression compared to the other precursors. Yet, no ligation products were ever obtained for either cluster when loops >\textasciitilde5 kb were used (data not shown). What was the cause of this negative signal?
+    Using total RNA obtained from adult mouse testes, analyzed by SeqZip and the ligamers shown in Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}A, signal from ligation products could routinely be observed from loops of \textasciitilde5 kb (Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}B-left and Figure \ref{SeqZipMethod:fig:M1 analysis by SeqZip}B). Also the signal is dependent on source RNA (Figure \ref{SeqZipMethod:fig:Precursors are testes-specific}B-right) and RNA from HEK293 (Human Embryonic Kidney) cells did not produce ligation products. The M1 and M11 clusters are both long and have reasonably high expression compared to the other precursors. Yet, no ligation products were ever obtained for either cluster when loops >\textasciitilde5 kb were used (data not shown). What was the cause of this negative signal?
 
     \begin{figure} % Precursors Transcripts are Testes Specific
         \centering 
         \includegraphics{Figures/SeqZipMethod/testesSpecificRnaseqPrecursors.eps}
-        \caption[Testes-specific ligation product signal from piRNA precursor]
+        \caption[piRNA precursor Ligation products from Mouse Testes RNA and not HEK293 Cell RNA]
         {
-          Testes-specific ligation product signal from piRNA precursor\\[0.25cm]
-          A) Schematic of the piRNA-producing loci (``gene'') \textit{7-qD2-11976} (aka ``M11'') shown with scale bar, and relative looping ligamer locations.  Loops are labeled A-E, and the length of the loop in kb is shown.  Also shown in green is small RNA expression along this locus. B Left) Ligation products obtained from each set shown in (A) using mouse testes RNA, or B Right) mouse spleen RNA.
+          piRNA precursor Ligation products from Mouse Testes RNA and not HEK293 Cell RNA\\[0.25cm]
+          A) Schematic of the piRNA-producing loci (``gene'') \textit{7-qD2-11976} (aka ``M11'') shown with scale bar, and relative looping ligamer locations.  Loops are labeled A-E, and the length of the loop in kb is shown.  Also shown in green is small RNA expression along this locus. B Left) Ligation products obtained from each set shown in (A) using mouse testes RNA, or B Right) HEK293-cell RNA was used to test for ligation products resulting from non-specific RNA. Similar to Figure \ref{SeqZipMethod:fig:SeqZip on dst1}, unmarked lanes contain failed A:B; A:B:C; A:B:C:D; and A:B:C:D:E multi-loop combinations.
         	}
         \label{SeqZipMethod:fig:Precursors are testes-specific}
       	\end{figure}
@@ -276,7 +266,7 @@
         	}
         \label{SeqZipMethod:fig:M1 analysis by SeqZip}
       	\end{figure}
-
+          
     As first alluded to in Chapter \ref{SeqZipPaper} and discussed in section \ref{SeqZipMethod:sec:Multiplex Gene Study}, ligation efficiency should decrease with loop length and additional required ligations. All of the ligation products used to profile precursors only required two ligation events. Numerous other genes had been investigated with SeqZip that contained >2 sites of ligation (sections \ref{SeqZipPaper:sec:Discussion} and \ref{SeqZipMethod:subsec:SeqZip on long RNAs at multiple locations}). This suggested that the length of the loops was the limiting factor in obtaining ligation products templated off piRNA precursors.
 
     We investigated this potential explanation by designing a series of ligamer sets with increasing 1 kb increment loop lengths from 5--10 kb. Figure \ref{SeqZipMethod:fig:piRNA precusors and loop length} shows results typical of this series of experiments. The amount of ligation product when using ligamers of increasing loop size decreases with the length of the loop. The signal, after 35 cycles of end-point PCR, is barely visible when the loop is 9 kb, and extremely faint when 10 kb. Ten kilo-bases represents just a fraction of the length of some pachytene piRNA precursor transcripts. 
@@ -292,7 +282,7 @@
       \label{SeqZipMethod:fig:piRNA precusors and loop length}
       \end{figure}
 
-    Even after numerous attempts, ligation products could not be obtained for loop sizes >10 kb, no matter what the target transcript. At this point in the study, we decided to abandon the demonstration of piRNA precursor transcripts as continuous transcripts via SeqZip, and instead turned our attention to splicing within the transcripts (discussed in the next section, \ref{SeqZipMethod:sec:piRNA precursors are spliced}) which eventually lead to the study presented in Chapter \ref{MolCel}.
+    Even after numerous attempts, ligation products could not be obtained for loop sizes >10 kb, no matter what the target transcript. At this point in the study, we decided to abandon the demonstration of piRNA precursor transcripts as continuous transcripts via SeqZip, and instead turned our attention to splicing within the transcripts (discussed in the next section, \ref{SeqZipMethod:sec:piRNA precursors are spliced}) which eventually lead to the study presented in Chapter \ref{SeqZipPaper}.
 
     What could be the cause of our inability to create ligation products? The method worked so well, without any optimization, for mRNAs of similar length and expression (e.g. \dst{}). Our current hypothesis is that at steady-state levels, the amount of full-length piRNA precursors that exist---in continuous polymers of length >10kb---is extremely low. Low to the point of being below the SeqZip limit of detection. Indeed, many nucleases appear to act on piRNA precursors along their journey from Pol II transcript to mature piRNA (see section \ref{Intro:subsec:Processing of piRNAs in mice}). The piRNA machinery is perhaps too fast and efficient for us to capture these extremely long RNAs. Future experiments that somehow perturb the pathway, such as \textit{Pld6} (aka \textit{MmZuc, MitoPLD} and \textit{Zucchini} in flies) could accumulate precursors before cleavage occurs.
 
@@ -307,12 +297,12 @@
     \caption[Example small RNA and RNA-Seq data aligned to a piRNA-generating loci]
     {
       Example small RNA and RNA-Seq data aligned to a piRNA-generating loci (\textit{17-qA3.3-26735})\\[0.25cm]
-      Show in the context of the genome and surrounding genes (blue) is a piRNA-generating loci, with signal in green. Bottom) zoomed view of the small RNA signal (green) along with poly(A)+-unstranded RNA-Seq (black).
+      Shown in the context of the genome and surrounding genes (blue) is a piRNA-generating loci, with signal in green. Bottom) zoomed view of the small RNA signal (green) along with poly(A)+-unstranded RNA-Seq (black).
       }
     \label{SeqZipMethod:fig:evidence for precusor splicing}
     \end{figure}
 
-  One of the most illustrative piRNA-generating loci is that containing the genes \textit{17-qA3.3-27363.1 and 17-qA3.3-26735} (Figure \ref{SeqZipMethod:fig:no piRNAs within Precursor Introns}). These two genes are expressed in pre-pachytene testes and increase expression once mice hit 14.5 dpp. These two genes along account for 27\% of all the piRNAs sequenced at 14.5 dpp (see Chapter \ref{MolCel} and Table \ref{SeqZipMethod:tab:matchedClusterValues}). A extremely informative feature, detected early from initial poly(A)+-unstranded RNA-Seq libraries, was the absence of signal near the apparent 3\textprime~end of the loci. There were many reads that could be aligned across this gap, as if it was a traditional mRNA intron. There were no repeat element that would have depleted this region of the message for reads, as with other sections of the locus. The most obvious explanation was that the precursor contained an intron, which was spliced out prior to poly(A) tailing..
+  One of the most illustrative piRNA-generating loci is that containing the genes \textit{17-qA3.3-27363.1 and 17-qA3.3-26735} (Figure \ref{SeqZipMethod:fig:no piRNAs within Precursor Introns}). These two genes are expressed in pre-pachytene testes and increase expression once mice hit 14.5 dpp. These two genes alone account for 27\% of all the piRNAs sequenced at 14.5 dpp (see Chapter \ref{MolCel} and Table \ref{SeqZipMethod:tab:matchedClusterValues}). A extremely informative feature, detected early from initial poly(A)+-unstranded RNA-Seq libraries, was the absence of signal near the apparent 3\textprime~end of the loci. There were many reads that could be aligned across this gap, as if it was a traditional mRNA intron. There were no repeat element that would have depleted this region of the message for reads, as with other sections of the locus. The most obvious explanation was that the precursor contained an intron, which was spliced out prior to poly(A) tailing.
 
   \begin{figure} % No piRNAs in introns
     \centering 

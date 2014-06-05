@@ -51,46 +51,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "RoyC_Umass_Thesis.tex",
-			"settings":
-			{
-				"buffer_size": 1045,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter1-Intro.tex",
-			"settings":
-			{
-				"buffer_size": 85675,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapters/Chapter2-Roy2014.tex",
-			"settings":
-			{
-				"buffer_size": 58174,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 8225,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/royc/Google_Drive/CV/In Markdown/ChristianKRoyCV20140227Untitled.md",
-			"settings":
-			{
-				"buffer_size": 4267,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
@@ -99,16 +59,20 @@
 		"selected_items":
 		[
 			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Markdown ",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
 				"Remove P",
 				"Package Control: Remove Package"
-			],
-			[
-				"Install",
-				"Package Control: Install Package"
 			],
 			[
 				"Instac",
@@ -207,7 +171,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 458.0
+		"width": 647.0
 	},
 	"console":
 	{
@@ -225,18 +189,25 @@
 	"file_history":
 	[
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/Thesis.cls",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-Roy2014.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-SeqZip.tex",
+		"/Users/royc/Google_Drive/Thesis/FrontMatter/tablesOfContent.tex",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/var/folders/q0/9qhq_27n2cz60pf7bspz29th0000gp/T/sublime-sftp-browse-1401733186/ghpcc/home/cr90w/.bash_profile",
+		"/Users/royc/Google_Drive/CV/In Markdown/Christian_K_Roy_CV_2014-06-02.md",
+		"/Users/royc/Google_Drive/CV/In Markdown/CR_Research_Summary_2014-06-02.md",
+		"/Users/royc/Google_Drive/Thesis/README.md",
+		"/Users/royc/Google_Drive/CV/In Markdown/ChristianKRoyCV20140227Untitled.md",
+		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex",
+		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.synctex.gz(busy)",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.out",
 		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter1-Intro.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter2-Roy2014.tex",
-		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter4-SeqZip.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter3-Li2013.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/acknowledgements.tex",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/signaturePage.tex",
-		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.tex",
 		"/Users/royc/Google_Drive/Thesis/Chapters/Chapter5-Disc.tex",
-		"/Users/royc/Google_Drive/Thesis/FrontMatter/tablesOfContent.tex",
 		"/Users/royc/Google_Drive/Thesis/Tables/BigSpanGenes.tex",
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/shortcuts.tex",
 		"/Users/royc/Google_Drive/Thesis/Tables/compToolsForMolBiogly.tex",
@@ -246,7 +217,6 @@
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/abbreviationsANDSymbols.tex",
 		"/Users/royc/Google_Drive/Thesis/LaTeXConfig/htlatexConfig",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/definitions.tex",
-		"/Users/royc/Google_Drive/Thesis/README.md",
 		"/Users/royc/Google_Drive/Thesis/FrontMatter/titlePage.tex",
 		"/Users/royc/Google_Drive/Thesis/Appendices/AppendixA.tex",
 		"/Users/royc/Google_Drive/Thesis/RoyC_Umass_Thesis.bbl",
@@ -345,13 +315,7 @@
 		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1-Introduction.tex",
 		"/Users/royc/Dropbox/Thesis/LaTex/Thesis.cls",
-		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography_2.bib",
-		"/Users/royc/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.toc",
-		"/Users/royc/Dropbox/Thesis/LaTex/thesis.v0.14.bbl",
-		"/Users/royc/Dropbox/Thesis/LaTex/Chapters/Chapter1.tex",
-		"/Users/royc/Dropbox/Thesis/LaTex/main.tex",
-		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography.bib"
+		"/Users/royc/Dropbox/Thesis/LaTex/Bibliography_2.bib"
 	],
 	"find":
 	{
@@ -370,6 +334,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\todo",
+			"\\todo[inline]{} % **************************",
+			"[fancy]",
+			"these two genes alone",
+			"which eventuall",
 			"SeqZipPaper:fig:Roy2014 S4",
 			"coli",
 			"E.Coli",
@@ -492,14 +461,9 @@
 			"\\mainmatter",
 			"\\listDefinitions",
 			"prefaceSection",
-			"UNIVNAME",
-			"\\begin{figure}[*]",
-			"\\figure",
-			"Li2013",
-			"PNAS",
-			"rattus\\_norvegicus"
+			"UNIVNAME"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
@@ -619,183 +583,19 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "RoyC_Umass_Thesis.tex",
-					"settings":
-					{
-						"buffer_size": 1045,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								749,
-								749
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Chapters/Chapter1-Intro.tex",
-					"settings":
-					{
-						"buffer_size": 85675,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53848,
-								53848
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Chapters/Chapter2-Roy2014.tex",
-					"settings":
-					{
-						"buffer_size": 58174,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25776,
-								25776
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 3,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 8225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								826,
-								826
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4382.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/royc/Google_Drive/CV/In Markdown/ChristianKRoyCV20140227Untitled.md",
-					"settings":
-					{
-						"buffer_size": 4267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"enable_checkbounce_grammar": false,
-							"enable_checkbounce_spelling": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -821,7 +621,7 @@
 		"cols":
 		[
 			0.0,
-			0.59855914303,
+			0.783186109598,
 			1.0
 		],
 		"rows":
@@ -833,7 +633,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 371.0
+		"height": 367.0
 	},
 	"output.git":
 	{
